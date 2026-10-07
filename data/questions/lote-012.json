@@ -1,0 +1,914 @@
+[
+ {
+  "n": 12001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a1",
+  "pregunta": "La Ley Orgánica 3/2007 tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres en desarrollo de los artículos de la Constitución:",
+  "opciones": [
+   "14 y 35",
+   "1.1 y 10",
+   "9.3 y 103",
+   "9.2 y 14"
+  ],
+  "correcta": 3,
+  "cita": "vida y, singularmente, en las esferas política, civil, laboral, económica, social y cultural para, en el desarrollo de los artículos 9.2 y 14 de la Constitución, alcanzar una sociedad más democrática, más justa y más solidaria."
+ },
+ {
+  "n": 12002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a2",
+  "pregunta": "Las obligaciones de la Ley Orgánica 3/2007 son de aplicación a:",
+  "opciones": [
+   "Solo a las empresas de cincuenta o más trabajadores",
+   "Solo a los ciudadanos españoles",
+   "Toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia",
+   "Solo a las Administraciones Públicas"
+  ],
+  "correcta": 2,
+  "cita": "Las obligaciones establecidas en esta Ley serán de aplicación a toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia."
+ },
+ {
+  "n": 12003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a3",
+  "pregunta": "El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y especialmente las derivadas de:",
+  "opciones": [
+   "La maternidad, la asunción de obligaciones familiares y el estado civil",
+   "El nivel de estudios y la renta",
+   "La edad, la nacionalidad y la religión",
+   "La ideología y la afiliación sindical"
+  ],
+  "correcta": 0,
+  "cita": "El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil."
+ },
+ {
+  "n": 12004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a4",
+  "pregunta": "Según el artículo 4, la igualdad de trato y de oportunidades entre mujeres y hombres es:",
+  "opciones": [
+   "Un derecho que solo puede invocarse ante el Tribunal Constitucional",
+   "Una mera recomendación dirigida a los poderes públicos",
+   "Un principio informador del ordenamiento jurídico, que se integrará en la interpretación y aplicación de las normas",
+   "Un principio aplicable solo en el ámbito laboral"
+  ],
+  "correcta": 2,
+  "cita": "La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas."
+ },
+ {
+  "n": 12005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a5",
+  "pregunta": "Una diferencia de trato en el acceso al empleo basada en una característica relacionada con el sexo NO constituye discriminación cuando:",
+  "opciones": [
+   "Esa característica constituya un requisito profesional esencial y determinante, el objetivo sea legítimo y el requisito proporcionado",
+   "Se trate de empleo privado",
+   "Lo prevea un convenio colectivo en cualquier caso",
+   "Lo acuerde la empresa por razones organizativas"
+  ],
+  "correcta": 0,
+  "cita": "la naturaleza de las actividades profesionales concretas o al contexto en el que se lleven a cabo, dicha característica constituya un requisito profesional esencial y determinante, siempre y cuando el objetivo sea legítimo y el requisito proporcionado."
+ },
+ {
+  "n": 12006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a6",
+  "pregunta": "La situación en que una persona es, ha sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable es:",
+  "opciones": [
+   "Acoso por razón de sexo",
+   "Discriminación indirecta por razón de sexo",
+   "Acción positiva",
+   "Discriminación directa por razón de sexo"
+  ],
+  "correcta": 3,
+  "cita": "Se considera discriminación directa por razón de sexo la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable."
+ },
+ {
+  "n": 12007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a6",
+  "pregunta": "Cuando una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular respecto de las del otro, sin justificación objetiva, se produce:",
+  "opciones": [
+   "Discriminación directa por razón de sexo",
+   "Una acción positiva lícita",
+   "Discriminación indirecta por razón de sexo",
+   "Acoso sexual"
+  ],
+  "correcta": 2,
+  "cita": "Se considera discriminación indirecta por razón de sexo la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que"
+ },
+ {
+  "n": 12008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a6",
+  "pregunta": "Según el artículo 6.3, toda orden de discriminar, directa o indirectamente, por razón de sexo:",
+  "opciones": [
+   "Es una infracción leve",
+   "No es discriminatoria si procede de un superior jerárquico",
+   "Se considera en cualquier caso discriminatoria",
+   "Solo es discriminatoria si llega a ejecutarse"
+  ],
+  "correcta": 2,
+  "cita": "En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo."
+ },
+ {
+  "n": 12009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a7",
+  "pregunta": "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona constituye:",
+  "opciones": [
+   "Acoso sexual",
+   "Acoso laboral",
+   "Acoso por razón de sexo",
+   "Discriminación indirecta"
+  ],
+  "correcta": 0,
+  "cita": "Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en"
+ },
+ {
+  "n": 12010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a7",
+  "pregunta": "Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo, constituye:",
+  "opciones": [
+   "Acoso por razón de sexo",
+   "Acoso sexual",
+   "Represalia",
+   "Discriminación indirecta"
+  ],
+  "correcta": 0,
+  "cita": "Constituye acoso por razón de sexo cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo."
+ },
+ {
+  "n": 12011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a8",
+  "pregunta": "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad constituye:",
+  "opciones": [
+   "Una infracción administrativa leve",
+   "Discriminación indirecta por razón de sexo",
+   "Discriminación directa por razón de sexo",
+   "Acoso por razón de sexo"
+  ],
+  "correcta": 2,
+  "cita": "Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad."
+ },
+ {
+  "n": 12012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a9",
+  "pregunta": "Cualquier trato adverso que sufra una persona como consecuencia de haber presentado una queja o denuncia destinada a impedir su discriminación se considera:",
+  "opciones": [
+   "Discriminación por razón de sexo",
+   "Acoso sexual",
+   "Una medida de acción positiva",
+   "Una consecuencia lícita del ejercicio del poder de dirección"
+  ],
+  "correcta": 0,
+  "cita": "También se considerará discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de queja,"
+ },
+ {
+  "n": 12013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a10",
+  "pregunta": "Los actos y cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se consideran:",
+  "opciones": [
+   "Anulables a instancia de parte",
+   "Válidos si se indemniza a la persona perjudicada",
+   "Nulos y sin efecto",
+   "Válidos pero sancionables"
+  ],
+  "correcta": 2,
+  "cita": "las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean"
+ },
+ {
+  "n": 12014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a11",
+  "pregunta": "Las acciones positivas que adopten los Poderes Públicos en favor de las mujeres serán aplicables:",
+  "opciones": [
+   "De forma indefinida",
+   "Durante un máximo de cinco años",
+   "En tanto subsistan las situaciones patentes de desigualdad de hecho, y habrán de ser razonables y proporcionadas",
+   "Solo en el empleo público"
+  ],
+  "correcta": 2,
+  "cita": "Tales medidas, que serán aplicables en tanto subsistan dichas situaciones, habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso."
+ },
+ {
+  "n": 12015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a11",
+  "pregunta": "¿Pueden las personas físicas y jurídicas privadas adoptar medidas de acción positiva?",
+  "opciones": [
+   "Sí, en los términos establecidos en la Ley",
+   "Solo con autorización administrativa previa",
+   "No, solo los Poderes Públicos",
+   "Solo las empresas de más de 250 trabajadores"
+  ],
+  "correcta": 0,
+  "cita": "También las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley."
+ },
+ {
+  "n": 12016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a12",
+  "pregunta": "En los litigios sobre acoso sexual y acoso por razón de sexo, la única legitimada es:",
+  "opciones": [
+   "El Ministerio Fiscal",
+   "Los sindicatos más representativos",
+   "Cualquier persona con interés legítimo",
+   "La persona acosada"
+  ],
+  "correcta": 3,
+  "cita": "La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo."
+ },
+ {
+  "n": 12017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a12",
+  "pregunta": "La tutela judicial del derecho a la igualdad entre mujeres y hombres puede recabarse:",
+  "opciones": [
+   "Solo mientras dure la relación",
+   "Incluso tras la terminación de la relación en la que supuestamente se produjo la discriminación",
+   "Solo ante la jurisdicción social",
+   "Solo en el plazo de un año desde la discriminación"
+  ],
+  "correcta": 1,
+  "cita": "Cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, de acuerdo con lo establecido en el artículo 53.2 de la Constitución, incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación."
+ },
+ {
+  "n": 12018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a13",
+  "pregunta": "En los procedimientos (no penales) en que la parte actora alegue actuaciones discriminatorias por razón de sexo, corresponde probar la ausencia de discriminación y su proporcionalidad a:",
+  "opciones": [
+   "La persona demandante",
+   "El Ministerio Fiscal",
+   "El órgano judicial de oficio",
+   "La persona demandada"
+  ],
+  "correcta": 3,
+  "cita": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad."
+ },
+ {
+  "n": 12019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a13",
+  "pregunta": "La inversión de la carga de la prueba prevista en el artículo 13.1 de la LO 3/2007:",
+  "opciones": [
+   "Solo se aplica en vía administrativa",
+   "Se aplica a todos los procesos, incluidos los penales",
+   "Solo se aplica a los procesos penales",
+   "No se aplica a los procesos penales"
+  ],
+  "correcta": 3,
+  "cita": "Lo establecido en el apartado anterior no será de aplicación a los procesos penales."
+ },
+ {
+  "n": 12020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a14",
+  "pregunta": "¿Cuál de los siguientes es un criterio general de actuación de los Poderes Públicos según el artículo 14?",
+  "opciones": [
+   "La supresión de los permisos de paternidad",
+   "La prohibición de las acciones positivas",
+   "La reserva del 50 % de los puestos de trabajo públicos a mujeres",
+   "La implantación de un lenguaje no sexista en el ámbito administrativo"
+  ],
+  "correcta": 3,
+  "cita": "11. La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, culturales y artísticas."
+ },
+ {
+  "n": 12021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a14",
+  "pregunta": "Según el artículo 14, entre los criterios de actuación de los Poderes Públicos figura la participación equilibrada de mujeres y hombres en:",
+  "opciones": [
+   "Los consejos escolares exclusivamente",
+   "Las asociaciones privadas",
+   "Los órganos judiciales exclusivamente",
+   "Las candidaturas electorales y en la toma de decisiones"
+  ],
+  "correcta": 3,
+  "cita": "4. La participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones."
+ },
+ {
+  "n": 12022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a15",
+  "pregunta": "El principio de igualdad de trato y oportunidades entre mujeres y hombres informará la actuación de todos los Poderes Públicos con carácter:",
+  "opciones": [
+   "Transversal",
+   "Facultativo",
+   "Subsidiario",
+   "Excepcional"
+  ],
+  "correcta": 0,
+  "cita": "El principio de igualdad de trato y oportunidades entre mujeres y hombres informará, con carácter transversal, la actuación de todos los Poderes Públicos."
+ },
+ {
+  "n": 12023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a16",
+  "pregunta": "En los nombramientos y designaciones de cargos de responsabilidad, los Poderes Públicos procurarán atender al principio de:",
+  "opciones": [
+   "Preferencia de las mujeres en todo caso",
+   "Paridad absoluta",
+   "Antigüedad",
+   "Presencia equilibrada de mujeres y hombres"
+  ],
+  "correcta": 3,
+  "cita": "Los Poderes Públicos procurarán atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan."
+ },
+ {
+  "n": 12024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a17",
+  "pregunta": "El Plan Estratégico de Igualdad de Oportunidades, en las materias de competencia del Estado, lo aprueba periódicamente:",
+  "opciones": [
+   "La Conferencia Sectorial de Igualdad",
+   "Las Cortes Generales",
+   "El Gobierno",
+   "El Instituto de las Mujeres"
+  ],
+  "correcta": 2,
+  "cita": "El Gobierno, en las materias que sean de la competencia del Estado, aprobará periódicamente un Plan Estratégico de Igualdad de Oportunidades, que incluirá medidas para alcanzar el objetivo de igualdad entre mujeres y hombres y eliminar la discriminación por razón de sexo."
+ },
+ {
+  "n": 12025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a18",
+  "pregunta": "Del informe periódico que elabora el Gobierno sobre sus actuaciones en relación con la efectividad del principio de igualdad se da cuenta a:",
+  "opciones": [
+   "El Defensor del Pueblo",
+   "El Tribunal Constitucional",
+   "La Comisión Europea",
+   "Las Cortes Generales"
+  ],
+  "correcta": 3,
+  "cita": "De este informe se dará cuenta a las Cortes Generales."
+ },
+ {
+  "n": 12026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a19",
+  "pregunta": "Deben incorporar un informe sobre su impacto por razón de género:",
+  "opciones": [
+   "Solo los contratos públicos",
+   "Los proyectos de disposiciones de carácter general y los planes de especial relevancia que se sometan a la aprobación del Consejo de Ministros",
+   "Solo las leyes orgánicas",
+   "Solo las convocatorias de subvenciones"
+  ],
+  "correcta": 1,
+  "cita": "Los proyectos de disposiciones de carácter general y los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros deberán incorporar un informe sobre su impacto por razón de género."
+ },
+ {
+  "n": 12027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a20",
+  "pregunta": "En la elaboración de sus estudios y estadísticas, los poderes públicos deberán, entre otras obligaciones:",
+  "opciones": [
+   "Excluir la variable de sexo para evitar discriminaciones",
+   "Publicar los datos personales desagregados",
+   "Incluir la variable de sexo solo en las estadísticas laborales",
+   "Incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y recogida de datos"
+  ],
+  "correcta": 3,
+  "cita": "ordinaria, los poderes públicos, en la elaboración de sus estudios y estadísticas, deberán: a) Incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y recogida de datos que lleven a cabo."
+ },
+ {
+  "n": 12028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a21",
+  "pregunta": "Según el artículo 21, la AGE y las CCAA pueden adoptar planes y programas conjuntos de actuación en materia de igualdad en el seno de:",
+  "opciones": [
+   "La Conferencia Sectorial de la Mujer",
+   "El Consejo de Política Fiscal y Financiera",
+   "La Comisión General de Comunidades Autónomas del Senado",
+   "El Consejo de Participación de la Mujer"
+  ],
+  "correcta": 0,
+  "cita": "En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación con esta finalidad."
+ },
+ {
+  "n": 12029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a22",
+  "pregunta": "Con el fin de avanzar hacia un reparto equitativo de los tiempos, las corporaciones locales podrán establecer:",
+  "opciones": [
+   "Planes Municipales de organización del tiempo de la ciudad",
+   "Consejos municipales de la mujer con potestad sancionadora",
+   "Ordenanzas de horario comercial único",
+   "Planes de igualdad obligatorios para todas las empresas del municipio"
+  ],
+  "correcta": 0,
+  "cita": "Con el fin de avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres, las corporaciones locales podrán establecer Planes Municipales de organización del tiempo de la ciudad."
+ },
+ {
+  "n": 12030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a43",
+  "pregunta": "Mediante la negociación colectiva se podrán establecer:",
+  "opciones": [
+   "Medidas de acción positiva para favorecer el acceso de las mujeres al empleo",
+   "Exclusiones del permiso de paternidad",
+   "Sanciones por embarazo",
+   "Diferencias retributivas por razón de sexo"
+  ],
+  "correcta": 0,
+  "cita": "De acuerdo con lo establecido legalmente, mediante la negociación colectiva se podrán establecer medidas de acción positiva para favorecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres."
+ },
+ {
+  "n": 12031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a45",
+  "pregunta": "Están obligadas a elaborar y aplicar un plan de igualdad las empresas de:",
+  "opciones": [
+   "Cualquier tamaño",
+   "Cincuenta o más trabajadores",
+   "Doscientos cincuenta o más trabajadores",
+   "Cien o más trabajadores"
+  ],
+  "correcta": 1,
+  "cita": "En el caso de las empresas de cincuenta o más trabajadores, las medidas de igualdad a que se refiere el apartado anterior deberán dirigirse a la elaboración"
+ },
+ {
+  "n": 12032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a46",
+  "pregunta": "Los planes de igualdad de las empresas son un conjunto ordenado de medidas adoptadas:",
+  "opciones": [
+   "Sin necesidad de diagnóstico previo",
+   "Después de realizar un diagnóstico de situación",
+   "Después de una inspección de trabajo",
+   "Por imposición de la autoridad laboral"
+  ],
+  "correcta": 1,
+  "cita": "Los planes de igualdad de las empresas son un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo."
+ },
+ {
+  "n": 12033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a46",
+  "pregunta": "¿Cuál de las siguientes materias debe contener, al menos, el diagnóstico previo del plan de igualdad según el artículo 46.2?",
+  "opciones": [
+   "Retribuciones",
+   "Estrategia de inversión",
+   "Política comercial",
+   "Relaciones con proveedores"
+  ],
+  "correcta": 0,
+  "cita": "un diagnóstico negociado, en su caso, con la representación legal de las personas trabajadoras, que contendrá al menos las siguientes materias: a) Proceso de selección y contratación. b) Clasificación profesional. c) Formación. d) Promoción profesional. e) Condiciones de trabajo, incluida la auditoría salarial entre mujeres y hombres. f) Ejercicio corresponsable de los derechos de la vida personal, familiar y laboral. g) Infrarrepresentación femenina. h) Retribuciones."
+ },
+ {
+  "n": 12034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a47",
+  "pregunta": "Se garantiza el acceso a la información sobre el contenido de los planes de igualdad y la consecución de sus objetivos a:",
+  "opciones": [
+   "La representación legal de los trabajadores o, en su defecto, a los propios trabajadores",
+   "Solo a la dirección de la empresa",
+   "A cualquier ciudadano que lo solicite",
+   "Solo a la Inspección de Trabajo"
+  ],
+  "correcta": 0,
+  "cita": "Se garantiza el acceso de la representación legal de los trabajadores y trabajadoras o, en su defecto, de los propios trabajadores y trabajadoras, a la información sobre el contenido de los Planes de igualdad y la consecución de sus objetivos."
+ },
+ {
+  "n": 12035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a49",
+  "pregunta": "Las medidas de fomento del Gobierno para impulsar la adopción voluntaria de planes de igualdad se dirigen especialmente a:",
+  "opciones": [
+   "Las pequeñas y las medianas empresas",
+   "Las cooperativas",
+   "Las empresas públicas",
+   "Las grandes empresas cotizadas"
+  ],
+  "correcta": 0,
+  "cita": "Para impulsar la adopción voluntaria de planes de igualdad, el Gobierno establecerá medidas de fomento, especialmente dirigidas a las pequeñas y las medianas empresas, que incluirán el apoyo técnico necesario."
+ },
+ {
+  "n": 12036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a50",
+  "pregunta": "El distintivo para empresas en materia de igualdad:",
+  "opciones": [
+   "No puede utilizarse con fines publicitarios",
+   "Es obligatorio para contratar con la Administración",
+   "Puede utilizarse en el tráfico comercial de la empresa y con fines publicitarios",
+   "Solo pueden obtenerlo las empresas privadas"
+  ],
+  "correcta": 2,
+  "cita": "El Ministerio de Trabajo y Asuntos Sociales creará un distintivo para reconocer a aquellas empresas que destaquen por la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadores y trabajadoras, que podrá ser utilizado en el tráfico comercial de la empresa y con fines publicitarios."
+ },
+ {
+  "n": 12037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a50",
+  "pregunta": "Pueden solicitar el distintivo de igualdad:",
+  "opciones": [
+   "Solo las empresas de capital privado",
+   "Cualquier empresa, sea de capital público o privado",
+   "Solo las empresas de más de 250 trabajadores",
+   "Solo las empresas con plan de igualdad obligatorio"
+  ],
+  "correcta": 1,
+  "cita": "Con el fin de obtener este distintivo, cualquier empresa, sea de capital público o privado, podrá presentar al Ministerio de Trabajo y Asuntos Sociales un balance sobre los parámetros de igualdad implantados respecto de las relaciones de trabajo y la publicidad de los productos y servicios prestados."
+ },
+ {
+  "n": 12038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a51",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los criterios de actuación de las Administraciones públicas del artículo 51 de la LOI?",
+  "opciones": [
+   "Reservar a mujeres la mitad de las plazas de cada oferta de empleo público",
+   "Promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración",
+   "Evaluar periódicamente la efectividad del principio de igualdad",
+   "Establecer medidas efectivas de protección frente al acoso sexual y al acoso por razón de sexo"
+  ],
+  "correcta": 0,
+  "cita": "de sus respectivas competencias y en aplicación del principio de igualdad entre mujeres y hombres, deberán: a) Remover los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación con el fin de ofrecer condiciones de igualdad efectiva entre mujeres y hombres en el acceso al empleo público y en el desarrollo de la carrera profesional. b) Facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional. c) Fomentar la formación en igualdad, tanto en el acceso al empleo público como a lo largo de la carrera profesional. d) Promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración. e) Establecer medidas efectivas de protección frente al acoso sexual y al acoso por razón de sexo. f) Establecer medidas efectivas para eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo. g) Evaluar periódicamente la efectividad del principio de igualdad en sus respectivos ámbitos de actuación."
+ },
+ {
+  "n": 12039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a53",
+  "pregunta": "Los tribunales y órganos de selección del personal de la AGE y sus organismos públicos responderán al principio de presencia equilibrada de mujeres y hombres:",
+  "opciones": [
+   "Solo en los procesos de promoción interna",
+   "Sin excepción alguna",
+   "Solo cuando haya más de cinco miembros",
+   "Salvo por razones fundadas y objetivas, debidamente motivadas"
+  ],
+  "correcta": 3,
+  "cita": "Todos los tribunales y órganos de selección del personal de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella responderán al principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas."
+ },
+ {
+  "n": 12040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a54",
+  "pregunta": "La AGE observará el principio de presencia equilibrada en los nombramientos que le corresponda efectuar en:",
+  "opciones": [
+   "Los consejos de administración de cualquier empresa privada",
+   "Los consejos de administración de las empresas en cuyo capital participe",
+   "Los órganos de gobierno de las Comunidades Autónomas",
+   "Las juntas directivas de los partidos políticos"
+  ],
+  "correcta": 1,
+  "cita": "Asimismo, la Administración General del Estado y los organismos públicos vinculados o dependientes de ella observarán el principio de presencia equilibrada en los nombramientos que le corresponda efectuar en los consejos de administración de las empresas en cuyo capital participe."
+ },
+ {
+  "n": 12041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a55",
+  "pregunta": "La aprobación de convocatorias de pruebas selectivas para el acceso al empleo público debe acompañarse, salvo urgencia, de:",
+  "opciones": [
+   "Un informe de la Inspección de Trabajo",
+   "Un dictamen del Consejo de Estado",
+   "Un plan de igualdad específico",
+   "Un informe de impacto de género"
+  ],
+  "correcta": 3,
+  "cita": "La aprobación de convocatorias de pruebas selectivas para el acceso al empleo público deberá acompañarse de un informe de impacto de género, salvo en casos de urgencia y siempre sin perjuicio de la prohibición de discriminación por razón de sexo."
+ },
+ {
+  "n": 12042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a57",
+  "pregunta": "En las bases de los concursos de provisión de puestos, el tiempo que las personas candidatas hayan permanecido en situaciones de protección de la maternidad y conciliación:",
+  "opciones": [
+   "Se computará solo si lo prevé el convenio colectivo",
+   "Se computará solo al 50 %",
+   "Se computará a efectos de valoración del trabajo desarrollado y de los méritos",
+   "No se computará en ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "En las bases de los concursos para la provisión de puestos de trabajo se computará, a los efectos de valoración del trabajo desarrollado y de los correspondientes méritos, el tiempo que las personas candidatas hayan permanecido en las situaciones a que se refiere el artículo anterior."
+ },
+ {
+  "n": 12043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a58",
+  "pregunta": "Durante la licencia por riesgo durante el embarazo de una funcionaria incluida en el mutualismo administrativo:",
+  "opciones": [
+   "Percibe el 75 % de sus retribuciones",
+   "No percibe retribuciones",
+   "Se garantiza la plenitud de sus derechos económicos",
+   "Percibe solo las retribuciones básicas"
+  ],
+  "correcta": 2,
+  "cita": "En estos casos, se garantizará la plenitud de los derechos económicos de la funcionaria durante toda la duración de la licencia, de acuerdo con lo establecido en la legislación específica."
+ },
+ {
+  "n": 12044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a59",
+  "pregunta": "Cuando el periodo de vacaciones coincida con una incapacidad temporal derivada del embarazo, parto o lactancia natural, la empleada pública:",
+  "opciones": [
+   "Solo puede disfrutarlas dentro del mismo año natural",
+   "Tiene derecho a disfrutar las vacaciones en fecha distinta, aunque haya terminado el año natural",
+   "Pierde las vacaciones coincidentes",
+   "Recibe una compensación económica en lugar de las vacaciones"
+  ],
+  "correcta": 1,
+  "cita": "parto o lactancia natural, o con el permiso de maternidad, o con su ampliación por lactancia, la empleada pública tendrá derecho a disfrutar las vacaciones en fecha distinta, aunque haya terminado el año natural al que correspondan."
+ },
+ {
+  "n": 12045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a60",
+  "pregunta": "Quienes se reincorporan al servicio activo desde el permiso de maternidad o paternidad tienen preferencia en la adjudicación de plazas de cursos de formación durante:",
+  "opciones": [
+   "Seis meses",
+   "Tres meses",
+   "Un año",
+   "Dos años"
+  ],
+  "correcta": 2,
+  "cita": "Con el objeto de actualizar los conocimientos de los empleados y empleadas públicas, se otorgará preferencia, durante un año, en la adjudicación de plazas para participar en los cursos de formación a quienes se hayan incorporado al servicio activo"
+ },
+ {
+  "n": 12046,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a60",
+  "pregunta": "En las convocatorias de cursos de formación para facilitar el acceso de las empleadas públicas a puestos directivos en la AGE se reservará para ellas al menos:",
+  "opciones": [
+   "Un 25 % de las plazas",
+   "Un 30 % de las plazas",
+   "Un 40 % de las plazas",
+   "Un 50 % de las plazas"
+  ],
+  "correcta": 2,
+  "cita": "o dependientes de ella, en las convocatorias de los correspondientes cursos de formación se reservará al menos un 40% de las plazas para su adjudicación a aquéllas que reúnan los requisitos establecidos."
+ },
+ {
+  "n": 12047,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a61",
+  "pregunta": "Todas las pruebas de acceso al empleo público de la AGE y sus organismos contemplarán:",
+  "opciones": [
+   "Un cupo de plazas reservado a mujeres",
+   "La acreditación de un curso de igualdad previo",
+   "Una entrevista sobre igualdad con carácter eliminatorio",
+   "El estudio y la aplicación del principio de igualdad entre mujeres y hombres en los diversos ámbitos de la función pública"
+  ],
+  "correcta": 3,
+  "cita": "Todas las pruebas de acceso al empleo público de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella contemplarán el estudio y la aplicación del principio de igualdad entre mujeres y hombres en los diversos ámbitos de la función pública."
+ },
+ {
+  "n": 12048,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a62",
+  "pregunta": "El protocolo de actuación frente al acoso sexual y al acoso por razón de sexo en las Administraciones públicas:",
+  "opciones": [
+   "Lo aprueba unilateralmente el Ministro",
+   "Se negocia con la representación legal de los trabajadores y trabajadoras",
+   "Lo elabora el Instituto de las Mujeres",
+   "Lo impone la Inspección de Trabajo"
+  ],
+  "correcta": 1,
+  "cita": "Para la prevención del acoso sexual y del acoso por razón de sexo, las Administraciones públicas negociarán con la representación legal de las trabajadoras y trabajadores, un protocolo de actuación que comprenderá, al menos, los siguientes principios: a) El compromiso de la Administración"
+ },
+ {
+  "n": 12049,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a62",
+  "pregunta": "¿Cuál de los siguientes principios debe comprender, al menos, el protocolo frente al acoso sexual y por razón de sexo?",
+  "opciones": [
+   "La mediación obligatoria entre las partes",
+   "La publicación de las denuncias en el tablón de anuncios",
+   "El tratamiento reservado de las denuncias",
+   "La suspensión automática de la persona denunciante"
+  ],
+  "correcta": 2,
+  "cita": "c) El tratamiento reservado de las denuncias de hechos que pudieran ser constitutivos de acoso sexual o de acoso por razón de sexo, sin perjuicio de lo establecido en la normativa de régimen disciplinario."
+ },
+ {
+  "n": 12050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a63",
+  "pregunta": "Los Departamentos Ministeriales y Organismos Públicos remiten información sobre la aplicación efectiva del principio de igualdad, con datos desagregados por sexo, con periodicidad:",
+  "opciones": [
+   "Al menos semestral",
+   "Cada cuatro años",
+   "Al menos anual",
+   "Al menos trimestral"
+  ],
+  "correcta": 2,
+  "cita": "Todos los Departamentos Ministeriales y Organismos Públicos remitirán, al menos anualmente, a los Ministerios de Trabajo y Asuntos Sociales y de Administraciones Públicas, información"
+ },
+ {
+  "n": 12051,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a64",
+  "pregunta": "El Plan para la Igualdad entre mujeres y hombres en la AGE y sus organismos públicos lo aprueba el Gobierno:",
+  "opciones": [
+   "Cada año",
+   "Cada dos años",
+   "Al inicio de cada legislatura",
+   "Al final de cada legislatura"
+  ],
+  "correcta": 2,
+  "cita": "El Gobierno aprobará, al inicio de cada legislatura, un Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella."
+ },
+ {
+  "n": 12052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a64",
+  "pregunta": "El cumplimiento del Plan para la Igualdad en la AGE es evaluado:",
+  "opciones": [
+   "Anualmente por el Defensor del Pueblo",
+   "Semestralmente por el Instituto de las Mujeres",
+   "Anualmente por el Consejo de Ministros",
+   "Cada legislatura por las Cortes Generales"
+  ],
+  "correcta": 2,
+  "cita": "El Plan será objeto de negociación, y en su caso acuerdo, con la representación legal de los empleados públicos en la forma que se determine en la legislación sobre negociación colectiva en la Administración Pública y su cumplimiento será evaluado anualmente por el Consejo de Ministros."
+ },
+ {
+  "n": 12053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a66",
+  "pregunta": "Las normas sobre personal de las Administraciones públicas en materia de igualdad, protección contra la violencia de género y conciliación se aplican en las Fuerzas Armadas:",
+  "opciones": [
+   "Sin ninguna adaptación",
+   "Con las adaptaciones necesarias y en los términos de su normativa específica",
+   "Solo al personal civil",
+   "No se aplican"
+  ],
+  "correcta": 1,
+  "cita": "de género y la violencia sexual, y la conciliación de la vida personal, familiar y profesional serán de aplicación en las Fuerzas Armadas, con las adaptaciones que resulten necesarias y en los términos establecidos en su normativa específica."
+ },
+ {
+  "n": 12054,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a76",
+  "pregunta": "El órgano colegiado responsable de la coordinación de las políticas de igualdad de los departamentos ministeriales es:",
+  "opciones": [
+   "La Comisión de Políticas de Gasto",
+   "La Comisión Interministerial de Igualdad entre mujeres y hombres",
+   "La Conferencia Sectorial de la Mujer",
+   "El Consejo de Participación de la Mujer"
+  ],
+  "correcta": 1,
+  "cita": "La Comisión Interministerial de Igualdad entre mujeres y hombres es el órgano colegiado responsable de la coordinación de las políticas y medidas adoptadas por los departamentos ministeriales con la finalidad de garantizar el derecho a la igualdad entre mujeres y hombres y promover su efectividad."
+ },
+ {
+  "n": 12055,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a77",
+  "pregunta": "En todos los Ministerios, el desarrollo de las funciones relacionadas con el principio de igualdad (Unidades de Igualdad) se encomienda a:",
+  "opciones": [
+   "Uno de sus órganos directivos",
+   "Una entidad externa contratada",
+   "Una comisión de empleados elegidos",
+   "El Gabinete del Ministro"
+  ],
+  "correcta": 0,
+  "cita": "En todos los Ministerios se encomendará a uno de sus órganos directivos el desarrollo de las funciones relacionadas con el principio de igualdad entre mujeres y hombres en el ámbito de las materias de su competencia y, en particular, las"
+ },
+ {
+  "n": 12056,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a77",
+  "pregunta": "¿Cuál de las siguientes es una función de las Unidades de Igualdad de los Ministerios?",
+  "opciones": [
+   "Aprobar el Plan Estratégico de Igualdad",
+   "Asesorar a los órganos del Departamento en la elaboración del informe sobre impacto por razón de género",
+   "Imponer sanciones por discriminación",
+   "Resolver los recursos en materia de igualdad"
+  ],
+  "correcta": 1,
+  "cita": "c) Asesorar a los órganos competentes del Departamento en la elaboración del informe sobre impacto por razón de género."
+ },
+ {
+  "n": 12057,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOI",
+  "articulo": "a78",
+  "pregunta": "El Consejo de Participación de la Mujer es:",
+  "opciones": [
+   "Un organismo autónomo",
+   "Un órgano con potestad sancionadora",
+   "Una autoridad administrativa independiente",
+   "Un órgano colegiado de consulta y asesoramiento"
+  ],
+  "correcta": 3,
+  "cita": "Se crea el Consejo de Participación de la Mujer, como órgano colegiado de consulta y asesoramiento, con el fin esencial de servir de cauce para la participación de las mujeres en la consecución"
+ }
+]

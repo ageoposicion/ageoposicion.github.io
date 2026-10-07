@@ -36,6 +36,12 @@ Pendiente de copiar literalmente del Anexo III (45 temas en total).
 | TREBEP | Empleo público | IV | Criterio ya seguido en lote-001 |
 | LGP | Ley General Presupuestaria | V | Gestión financiera |
 
+| LOI | Igualdad efectiva de mujeres y hombres (arts. 1-22, 43-68, 76-78) | I (PROVISIONAL) | Políticas de igualdad; está en el plan de trabajo. Se reasignará si el Anexo III la sitúa en otro bloque |
+| LOVG | Protección integral contra la violencia de género (Títulos preliminar, I, II y III) | I (PROVISIONAL) | Políticas contra la violencia de género; mismo criterio que LOI |
+| LOPDGDD | Protección de datos personales | II (PROVISIONAL) | Protección de datos en la gestión de oficinas públicas; se reasignará si el Anexo III indica otro bloque |
+
+Las asignaciones marcadas PROVISIONAL se revisarán en cuanto se disponga del texto del Anexo III
+(basta con cambiar el campo «bloque» de esas preguntas; el contenido no cambia).
+
 Partes cuyo bloque depende del texto literal de los temas y que **no se usan** hasta confirmarlo:
-L40 (funcionamiento electrónico del sector público, relaciones interadministrativas),
-LOPDGDD, LOI y LOVG.
+L40 (funcionamiento electrónico del sector público, relaciones interadministrativas).
