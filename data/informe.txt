@@ -1,3 +1,3 @@
-Preguntas verificadas: 0
-Por bloque: {}
+Preguntas verificadas: 49
+Por bloque: {'III': 32, 'I': 15, 'V': 1, 'IV': 1}
 Rechazadas: 0
