@@ -1,0 +1,128 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>AgeOposicion</title><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#1f4fd8"><link rel="icon" href="icon-192.png">
+<style>
+:root{--bg:#f4f6fb;--c:#fff;--t:#1b2030;--m:#6a7185;--p:#1f4fd8;--ok:#188a47;--ko:#c93232;--b:#dce1ec;--w:#fff3cd;--v:#dff5e7;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10131c;--c:#1a1f2d;--t:#e8ebf5;--m:#9aa2b8;--p:#7a9cff;--b:#2b3245;--w:#3a3320;--v:#173a26}}
+:root[data-theme="dark"]{--bg:#10131c;--c:#1a1f2d;--t:#e8ebf5;--m:#9aa2b8;--p:#7a9cff;--b:#2b3245;--w:#3a3320;--v:#173a26}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;padding-bottom:70px}
+#app{max-width:640px;margin:0 auto;padding:16px}h2{margin:.2em 0}h3{margin:.6em 0;font-size:1.05rem}.m{color:var(--m);font-size:.88rem}
+.card{background:var(--c);border:1px solid var(--b);border-radius:14px;padding:14px;margin:10px 0}
+.blk{display:block;width:100%;text-align:left;background:var(--c);color:var(--t);border:2px solid var(--b);border-radius:12px;padding:10px 12px;margin:7px 0}.blk.on{border-color:var(--p)}.blk[disabled]{opacity:.55}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}.chip{border:1px solid var(--b);background:var(--c);color:var(--t);border-radius:99px;padding:8px 14px;font-size:.9rem}.chip.on{background:var(--p);color:#fff;border-color:var(--p)}
+button{font:inherit;cursor:pointer}.go{width:100%;background:var(--p);color:#fff;border:0;border-radius:12px;padding:14px;font-weight:600;margin-top:8px}
+.opt{display:block;width:100%;text-align:left;background:var(--bg);color:var(--t);border:1px solid var(--b);border-radius:10px;padding:12px;margin:8px 0}.opt.ok{background:var(--ok);color:#fff;border-color:var(--ok)}.opt.ko{background:var(--ko);color:#fff;border-color:var(--ko)}
+.tag{display:inline-block;font-size:.75rem;background:var(--bg);border:1px solid var(--b);border-radius:6px;padding:2px 7px;margin:0 6px 4px 0;color:var(--m)}.warn,.vok{border-radius:8px;padding:6px 10px;font-size:.82rem;margin:8px 0}.warn{background:var(--w)}.vok{background:var(--v)}
+.bar{display:flex;justify-content:space-between;color:var(--m)}textarea{width:100%;min-height:60px;border:1px solid var(--b);border-radius:8px;background:var(--bg);color:var(--t);padding:8px;font:inherit}
+a{color:var(--p)}nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--c);border-top:1px solid var(--b);padding-bottom:env(safe-area-inset-bottom,0px)}nav button{flex:1;background:none;border:0;color:var(--m);padding:10px 0;font-size:.8rem}nav button.on{color:var(--p);font-weight:700}
+.row{display:flex;justify-content:space-between;gap:8px;align-items:center}.sm{padding:8px 12px;border:1px solid var(--b);background:var(--c);color:var(--t);border-radius:8px}
+.pb{height:8px;background:var(--bg);border-radius:6px;overflow:hidden}.pb i{display:block;height:100%;background:var(--ok)}
+</style></head><body><div id="app"></div>
+<nav><button data-v="home" onclick="nav('home')">🎯<br>Test</button><button data-v="favs" onclick="nav('favs')">⭐<br>Favoritas</button><button data-v="notes" onclick="nav('notes')">📝<br>Notas</button><button data-v="more" onclick="nav('more')">📊<br>Más</button></nav>
+<script>
+const BN={I:'Organización del Estado y de la Administración pública',II:'Organización de oficinas públicas',III:'Derecho administrativo general',IV:'Gestión de personal',V:'Gestión financiera',VI:'Informática básica y ofimática',C:'Bases de la convocatoria 2025'};
+const BK=Object.keys(BN),bn=b=>b==='C'?BN.C:'Bloque '+b+' · '+BN[b];
+const CV='https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262',B='https://www.boe.es/buscar/act.php?id=';
+const LU={'Convocatoria 2025':CV,'Ley 39/2015':B+'BOE-A-2015-10565','Ley 40/2015':B+'BOE-A-2015-10566','Ley 9/2017':B+'BOE-A-2017-12902','Constitución Española':B+'BOE-A-1978-31229','Ley 19/2013':B+'BOE-A-2013-12887','TREBEP':B+'BOE-A-2015-11719','Windows 11':'https://support.microsoft.com/es-es/windows','Excel':'https://support.microsoft.com/es-es/excel'};
+// [bloque, norma, artículo, pregunta, respuesta, distractores, verificada?]. v=true solo si se contrastó con el texto del BOE.
+const R=[
+['C','Convocatoria 2025','base 4.9','Tasa por derechos de examen en procesos del subgrupo C1, acceso libre','15,57 euros',['11,66 euros','23,33 euros','7,79 euros'],1],
+['C','Convocatoria 2025','base 7.1','Mes declarado inhábil a efectos de plazos en las pruebas selectivas (salvo inscripción y subsanación)','Agosto',['Julio','Septiembre','Diciembre'],1],
+['C','Convocatoria 2025','Anexo III, 1','Plazas convocadas por ingreso libre en el Cuerpo General Administrativo','2.512',['2.282','2.500','1.700'],1],
+['C','Convocatoria 2025','Anexo III, 2.1','De las 70 preguntas de la primera parte del ejercicio, cuántas son de los bloques I a V','40',['30','50','70'],1],
+['I','Constitución Española','68.1','Número de diputados que componen el Congreso','Entre 300 y 400',['Entre 250 y 350','Exactamente 350','Entre 350 y 450']],
+['I','Constitución Española','159.1','Número de miembros del Tribunal Constitucional','12',['10','15','9']],
+['I','Constitución Española','167.1','Mayoría exigida en cada Cámara para aprobar un proyecto de reforma constitucional por el procedimiento ordinario','Tres quintos',['Mayoría simple','Mayoría absoluta','Dos tercios']],
+['III','Ley 39/2015','30.2','Cuando un plazo se señala por días, ¿cómo se computa salvo disposición en contrario?','Días hábiles (sin sábados, domingos ni festivos)',['Días naturales','Días hábiles contando los sábados','Días laborables según convenio']],
+['III','Ley 9/2017','118.1','Valor estimado máximo de un contrato menor de obras','Inferior a 40.000 €',['Inferior a 15.000 €','Inferior a 50.000 €','Inferior a 100.000 €']],
+['III','Ley 9/2017','118.1','Valor estimado máximo de un contrato menor de suministros o servicios','Inferior a 15.000 €',['Inferior a 40.000 €','Inferior a 6.000 €','Inferior a 30.000 €']],
+['IV','TREBEP','76','Grupos de clasificación profesional de los cuerpos y escalas funcionariales (los grupos A y C se dividen en subgrupos)','A, B y C',['A, B, C y D','A y B','A, B, C y E']],
+['VI','Windows 11','—','Atajo de teclado para abrir el Explorador de archivos','Windows + E',['Windows + D','Windows + R','Ctrl + E']],
+['VI','Windows 11','—','Atajo de teclado para bloquear el equipo','Windows + L',['Windows + B','Ctrl + L','Windows + K']],
+['VI','Excel','—','Tecla que alterna entre referencia relativa y absoluta al editar una fórmula','F4',['F2','F5','F9']],
+['VI','Excel','—','Símbolo que fija la columna o la fila en una referencia de celda','$',['#','&','@']]
+];
+// Modo PLAZOS: [bloque, norma, artículo, "¿Plazo de…?", respuesta, 3 distractores (todos plazos), verificada?]
+const P=[
+['C','Convocatoria 2025','base 4.6','Presentación de solicitudes (Cuerpo General Administrativo, acceso libre)','20 días hábiles',['20 días naturales','15 días hábiles','1 mes'],1],
+['C','Convocatoria 2025','base 5.2','Subsanación de defectos tras la resolución de admitidos y excluidos','10 días hábiles',['5 días hábiles','10 días naturales','20 días hábiles'],1],
+['C','Convocatoria 2025','base 8.8','Publicación de las plantillas correctoras tras finalizar la prueba de respuestas alternativas (máximo)','2 días hábiles',['5 días hábiles','10 días hábiles','48 horas naturales'],1],
+['C','Convocatoria 2025','base 8.4','Máximo entre la conclusión de un ejercicio y el comienzo del siguiente','45 días naturales',['45 días hábiles','30 días naturales','60 días naturales'],1],
+['C','Convocatoria 2025','base 10.2','Presentación de la documentación acreditativa por los aprobados propuestos','20 días hábiles',['10 días hábiles','20 días naturales','1 mes'],1],
+['I','Constitución Española','68.4','Mandato del Congreso de los Diputados','4 años',['5 años','3 años','6 años']],
+['I','Constitución Española','68.6','Celebración de elecciones desde la terminación del mandato','Entre 30 y 60 días',['Entre 15 y 30 días','Entre 60 y 90 días','Entre 30 y 90 días']],
+['I','Constitución Española','86.2','Convalidación de un decreto-ley por el Congreso, desde su promulgación','30 días',['15 días','60 días','10 días']],
+['I','Constitución Española','90.2','Veto o enmiendas del Senado a un texto aprobado por el Congreso (procedimiento ordinario)','2 meses',['1 mes','20 días','3 meses']],
+['I','Constitución Española','91','Sanción por el Rey de las leyes aprobadas por las Cortes Generales','15 días',['10 días','30 días','1 mes']],
+['I','Constitución Española','99.5','Desde la primera votación de investidura, sin confianza del Congreso, hasta la disolución de las Cámaras','2 meses',['1 mes','3 meses','15 días']],
+['I','Constitución Española','159.3','Mandato de los magistrados del Tribunal Constitucional','9 años',['5 años','6 años','12 años']],
+['I','Ley 19/2013','20.1','Resolver y notificar una solicitud de acceso a la información pública (máximo)','1 mes',['3 meses','15 días hábiles','20 días hábiles']],
+['I','Ley 19/2013','24.2','Reclamación ante el Consejo de Transparencia y Buen Gobierno','1 mes',['3 meses','15 días hábiles','20 días hábiles']],
+['III','Ley 39/2015','21.2','Máximo del plazo de resolución de un procedimiento, salvo norma con rango de ley o Derecho de la UE','6 meses',['3 meses','1 año','9 meses']],
+['III','Ley 39/2015','21.3','Resolver y notificar cuando la norma reguladora no fija plazo','3 meses',['1 mes','6 meses','2 meses']],
+['III','Ley 39/2015','40.2','Cursar la notificación desde que el acto fue dictado','10 días',['5 días','15 días','1 mes']],
+['III','Ley 39/2015','43.2','Notificación electrónica sin acceso al contenido, desde la puesta a disposición, hasta entenderse rechazada','10 días naturales',['10 días hábiles','5 días naturales','15 días naturales']],
+['III','Ley 39/2015','68.1','Subsanar una solicitud defectuosa tras el requerimiento','10 días',['5 días','15 días','1 mes']],
+['III','Ley 39/2015','73.1','Cumplimentar un trámite, desde el día siguiente a la notificación del acto','10 días',['5 días','15 días','20 días']],
+['III','Ley 39/2015','77.2','Período de prueba','Entre 10 y 30 días',['Entre 5 y 15 días','Entre 15 y 45 días','Entre 10 y 60 días']],
+['III','Ley 39/2015','80.2','Emisión de informes, salvo que una norma establezca otro','10 días',['5 días','15 días','1 mes']],
+['III','Ley 39/2015','82.2','Trámite de audiencia','Entre 10 y 15 días',['Entre 5 y 10 días','Entre 15 y 30 días','Entre 10 y 20 días']],
+['III','Ley 39/2015','83.2','Período de información pública','No inferior a 20 días',['No inferior a 10 días','No inferior a 30 días','No superior a 20 días']],
+['III','Ley 39/2015','95.1','Paralización por causa imputable al interesado tras la cual se advierte la caducidad','3 meses',['1 mes','6 meses','2 meses']],
+['III','Ley 39/2015','96.6','Resolución en la tramitación simplificada','30 días',['10 días','15 días','3 meses']],
+['III','Ley 39/2015','106.5','Caducidad de la revisión de oficio iniciada de oficio, desde su inicio sin resolución','6 meses',['3 meses','1 año','2 meses']],
+['III','Ley 39/2015','107.2','Declaración de lesividad, desde que se dictó el acto','4 años',['2 años','1 año','6 meses']],
+['III','Ley 39/2015','117.3','Suspensión del acto por silencio si, desde la solicitud, no hay resolución expresa','1 mes',['15 días','3 meses','10 días']],
+['III','Ley 39/2015','122.1','Recurso de alzada contra un acto expreso','1 mes',['15 días hábiles','3 meses','2 meses']],
+['III','Ley 39/2015','122.2','Resolver y notificar el recurso de alzada (máximo)','3 meses',['1 mes','6 meses','2 meses']],
+['III','Ley 39/2015','124.1','Recurso potestativo de reposición contra un acto expreso','1 mes',['15 días hábiles','2 meses','3 meses']],
+['III','Ley 39/2015','124.2','Resolver y notificar el recurso de reposición (máximo)','1 mes',['3 meses','2 meses','15 días']],
+['III','Ley 39/2015','125.2','Recurso extraordinario de revisión por error de hecho (circunstancia 1.ª del art. 125.1)','4 años',['2 años','5 años','1 año']],
+['III','Ley 39/2015','125.2','Recurso extraordinario de revisión en las demás circunstancias (desde conocer los documentos o la sentencia firme)','3 meses',['1 mes','6 meses','1 año']],
+['III','Ley 40/2015','49.h','Duración máxima inicial de un convenio, prorrogable hasta otros tantos','4 años',['2 años','5 años','1 año']],
+['III','Ley 9/2017','29.8','Duración máxima de un contrato menor','1 año, sin prórroga',['2 años, prorrogable','6 meses, sin prórroga','1 año, prorrogable']],
+['III','Ley 9/2017','50.1','Recurso especial en materia de contratación','15 días hábiles',['15 días naturales','10 días hábiles','1 mes']],
+['III','Ley 9/2017','150.2','Aportar la documentación requerida al licitador con la mejor oferta','10 días hábiles',['5 días hábiles','15 días hábiles','10 días naturales']],
+['III','Ley 9/2017','153.3','Requerimiento al adjudicatario para formalizar el contrato','No superior a 5 días',['No superior a 10 días','No superior a 15 días','No superior a 3 días']],
+['III','Ley 9/2017','198.4','Abono del precio desde la aprobación de las certificaciones o documentos de conformidad','30 días',['15 días','60 días','10 días']],
+['V','Constitución Española','134.3','Presentación de los Presupuestos Generales del Estado al Congreso, antes de la expiración de los del año anterior','3 meses',['1 mes','2 meses','6 meses']]
+];
+const D=R.map((x,i)=>({id:i,p:0,b:x[0],l:x[1],a:x[2],q:x[3],r:x[4],d:x[5],v:!!x[6]})).concat(P.map((x,i)=>({id:R.length+i,p:1,b:x[0],l:x[1],a:x[2],q:'Plazo de: '+x[3],r:x[4],d:x[5],v:!!x[6]})));
+const ref=it=>it.a==='—'?'documentación oficial de Microsoft':(/^\d/.test(it.a)?'art. ':'')+it.a;
+let S={fav:{},note:{},st:{}};try{Object.assign(S,JSON.parse(localStorage.getItem('ageop')||'{}'))}catch(e){}
+const save=()=>{try{localStorage.setItem('ageop',JSON.stringify(S))}catch(e){}};
+const $a=document.getElementById('app'),sh=a=>a.map(x=>[Math.random(),x]).sort((p,q)=>p[0]-q[0]).map(x=>x[1]);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const url=it=>it.u||LU[it.l];
+let V='home',Q=null,F={b:'Todos',m:'test',pb:'Todos'};
+function nav(v){V=v;if(Q&&Q.T)clearInterval(Q.T);render()}
+function render(){document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===V));({home,quiz:()=>{},favs,notes,more}[V])();scrollTo(0,0)}
+function home(){const t=Object.values(S.st).reduce((a,x)=>[a[0]+x[0],a[1]+x[1]],[0,0]),cnt=b=>D.filter(x=>x.b===b&&!x.p),pc=b=>D.filter(x=>x.p&&(b==='Todos'||x.b===b)),PB=['Todos',...BK.filter(b=>pc(b).length)],nb=D.filter(x=>!x.p).length;
+$a.innerHTML=`<h2>AgeOposicion</h2><p class="m">Administrativo del Estado (C1, AGE).</p><div class="card"><h3>⏱ Modo PLAZOS</h3><p class="m">Te pregunto un plazo y eliges entre 4. Tienes 20 s por pregunta y cuenta tu racha.</p><div class="chips">${PB.map(b=>`<button class="chip ${F.pb===b?'on':''}" onclick="F.pb='${b}';home()">${b==='Todos'?'Todos':b==='C'?'Convocatoria':'Bloque '+b} (${pc(b).length})</button>`).join('')}</div><button class="go" onclick="start('p')">Jugar a plazos</button></div><h3>Práctica por bloque</h3><button class="blk ${F.b==='Todos'?'on':''}" onclick="F.b='Todos';home()"><b>Todos los bloques</b><br><span class="m">${nb} preguntas</span></button>${BK.map(b=>{const c=cnt(b),v=c.filter(x=>x.v).length;return`<button class="blk ${F.b===b?'on':''}" ${c.length?'':'disabled'} onclick="F.b='${b}';home()"><b>${bn(b)}</b><br><span class="m">${c.length?c.length+' preguntas · '+v+' verificadas con el BOE':'Banco en construcción'}</span></button>`}).join('')}<div class="chips">${[['test','Test (10)'],['rel','Relámpago 60 s']].map(k=>`<button class="chip ${F.m===k[0]?'on':''}" onclick="F.m='${k[0]}';home()">${k[1]}</button>`).join('')}</div><button class="go" onclick="start()">Empezar test</button><p class="m">Acierto global: ${t[1]?Math.round(100*t[0]/t[1])+'% ('+t[0]+'/'+t[1]+')':'aún sin datos'}</p>`}
+function opts(it){return [it.r,...it.d]}
+function start(k){const p=k==='p',m=p?'p':F.m;let l=sh(D.filter(x=>p?x.p&&(F.pb==='Todos'||x.b===F.pb):!x.p&&(F.b==='Todos'||x.b===F.b)));if(!l.length)return;if(m!=='rel')l=l.slice(0,10);Q={L:l,i:0,ok:0,m,left:60,s:0,bs:0};V='quiz';if(m==='rel')Q.T=setInterval(()=>{Q.left--;const e=document.getElementById('tm');if(e)e.textContent=Q.left;if(Q.left<=0)fin()},1000);ask()}
+function ask(){const it=Q.L[Q.i%Q.L.length];Q.it=it;Q.o=sh(opts(it));Q.d=0;const p=Q.m==='p';
+if(p){clearInterval(Q.T);Q.t=20;Q.T=setInterval(()=>{Q.t--;const e=document.getElementById('tm');if(e)e.textContent=Q.t;if(Q.t<=0)pick(-1)},1000)}
+$a.innerHTML=`<div class="bar"><span>${Q.m==='rel'?'⏱ <b id="tm">'+Q.left+'</b> s · ':p?'⏱ <b id="tm">20</b> s · ':''}${Q.i+1}${Q.m==='rel'?'':' / '+Q.L.length}</span><span>${p?'🔥 '+Q.s+' · ':''}✔ ${Q.ok}</span></div><div class="card"><span class="tag">${it.p?'Plazo':'Bloque '+it.b}</span><span class="tag">${it.l} · ${ref(it)}</span><h3>${esc(it.q)}</h3>${Q.o.map((o,j)=>`<button class="opt" onclick="pick(${j})">${esc(o)}</button>`).join('')}<div id="fb"></div></div>`}
+function pick(j){if(Q.d)return;Q.d=1;const it=Q.it,ok=j>=0&&Q.o[j]===it.r;if(ok)Q.ok++;if(Q.m==='p'){clearInterval(Q.T);if(ok){Q.s++;Q.bs=Math.max(Q.bs,Q.s)}else Q.s=0}const k=it.p?'P':it.b,s=S.st[k]||[0,0];s[1]++;if(ok)s[0]++;S.st[k]=s;save();
+document.querySelectorAll('.opt').forEach((b,x)=>{b.disabled=true;if(Q.o[x]===it.r)b.classList.add('ok');else if(x===j)b.classList.add('ko')});
+document.getElementById('fb').innerHTML=`<p><b>${ok?'✔ Correcto':j<0?'⏰ Tiempo agotado':'✘ Incorrecto'}</b> · Respuesta: ${esc(it.r)}</p>${it.cita?'<p class="m">Texto del BOE: «'+esc(it.cita)+'»</p>':''}<p class="m">Fundamento: ${it.l}, ${ref(it)}. <a href="${url(it)}" target="_blank" rel="noopener">Comprobar en la fuente</a></p>${it.v?'<div class="vok">✔ Contrastada con el texto del BOE.</div>':'<div class="warn">⚠ Pendiente de verificar contra el texto consolidado vigente.</div>'}<div class="row"><button class="sm" onclick="tf(${it.id},this)">${S.fav[it.id]?'★ Quitar':'☆ Favorita'}</button><button class="sm" onclick="${Q.m==='rel'&&Q.left<=0?'fin()':'nx()'}">Siguiente →</button></div><textarea placeholder="Nota personal…" oninput="sn(${it.id},this.value)">${esc(S.note[it.id]||'')}</textarea>`}
+function tf(id,b){S.fav[id]?delete S.fav[id]:S.fav[id]=1;save();b.textContent=S.fav[id]?'★ Quitar':'☆ Favorita'}
+function sn(id,v){v.trim()?S.note[id]=v:delete S.note[id];save()}
+function nx(){Q.i++;if(Q.m!=='rel'&&Q.i>=Q.L.length)fin();else ask()}
+function fin(){clearInterval(Q.T);const n=Q.m==='rel'?Q.i:Q.L.length;$a.innerHTML=`<div class="card"><h2>Resultado</h2><p style="font-size:2rem;margin:.2em 0"><b>${Q.ok}</b> aciertos</p><p class="m">${Q.m==='rel'?'en 60 segundos':'de '+n+' preguntas'}${Q.m==='p'?' · mejor racha '+Q.bs:''}</p><button class="go" onclick="start(${Q.m==='p'?"'p'":''})">Repetir</button><button class="go" style="background:var(--c);color:var(--t);border:1px solid var(--b)" onclick="nav('home')">Volver</button></div>`}
+function lst(ids,empty,note){return ids.length?ids.map(id=>{const it=D.find(x=>x.id==id);if(!it)return'';return`<div class="card"><span class="tag">${it.l} · ${ref(it)}</span><b>${esc(it.q)}</b><p>➜ ${esc(it.r)} <a href="${url(it)}" target="_blank" rel="noopener">Fuente</a></p>${note?`<textarea oninput="sn(${id},this.value)">${esc(S.note[id]||'')}</textarea>`:`<button class="sm" onclick="delete S.fav[${id}];save();favs()">Quitar</button>`}</div>`}).join(''):`<p class="m">${empty}</p>`}
+function favs(){$a.innerHTML='<h2>Favoritas</h2>'+lst(Object.keys(S.fav).map(Number),'Marca preguntas con ☆ al responder.',0)}
+function notes(){$a.innerHTML='<h2>Notas</h2>'+lst(Object.keys(S.note).map(Number),'Escribe notas al responder una pregunta.',1)}
+function more(){
+$a.innerHTML=`<h2>Estadísticas</h2>${BK.concat('P').map(b=>{const s=S.st[b]||[0,0],p=s[1]?Math.round(100*s[0]/s[1]):0;return`<div class="card"><div class="row"><b>${b==='P'?'Modo Plazos':b==='C'?'Convocatoria':'Bloque '+b}</b><span class="m">${s[0]}/${s[1]}</span></div><div class="pb"><i style="width:${p}%"></i></div></div>`}).join('')}
+<h3>Examen (Anexo III de la convocatoria, BOE-A-2025-26262)</h3><p class="m">Ejercicio único con dos partes eliminatorias. Primera: cuestionario de hasta 70 preguntas (40 de los bloques I a V y 30 del bloque VI, Windows 11 y Microsoft 365) más 5 de reserva. Segunda: supuesto práctico a elegir entre dos, sobre materias de los bloques II a V. Consulta en el <a href="${CV}" target="_blank" rel="noopener">texto oficial</a> la calificación, el tiempo y la penalización.</p>
+<h3>Programa</h3><p class="m">${BK.filter(b=>b!=='C').map(b=>bn(b)).join('<br>')}<br>(45 temas en total. El texto íntegro de cada tema está en el Anexo III del BOE.)</p>
+<h3>Tus datos</h3><p class="m">Favoritas, notas y estadísticas se guardan solo en este dispositivo.</p><div class="row"><button class="sm" onclick="ex()">Exportar copia</button><button class="sm" onclick="im()">Importar copia</button></div><textarea id="bk" placeholder="Pega aquí tu copia para importar"></textarea>
+<h3>Estado del banco</h3><p class="m">${D.filter(x=>x.v).length} de ${D.length} preguntas contrastadas con el BOE. Las demás llevan aviso hasta su revisión.</p>
+<h3>Información legal</h3><p class="m">AgeOposicion es una herramienta de estudio no oficial; no está afiliada al INAP, a la AGE ni a ninguna plataforma de preparación. Puede contener errores: contrasta siempre con el texto vigente del BOE. No usa cookies ni envía tus datos a ningún servidor.<br>Fuente de los datos: <a href="https://www.boe.es" target="_blank" rel="noopener">Agencia Estatal Boletín Oficial del Estado</a>.<br>Contacto y reporte de errores: <a href="mailto:oposdiego@gmail.com">oposdiego@gmail.com</a></p>`}
+function ex(){const t=document.getElementById('bk');t.value=JSON.stringify(S);t.select()}
+function im(){try{const o=JSON.parse(document.getElementById('bk').value);S={fav:o.fav||{},note:o.note||{},st:o.st||{}};save();more()}catch(e){alert('Copia no válida')}}
+fetch('data/bank.json').then(r=>r.ok?r.json():[]).then(a=>{a.forEach(x=>D.push({id:x.n,p:x.t==='plazo'?1:0,b:x.b,l:x.l,a:x.a,q:(x.t==='plazo'?'Plazo de: ':'')+x.q,r:x.o[x.c],d:x.o.filter((_,i)=>i!==x.c),v:true,cita:x.cita,u:x.u}));if(a.length)render()}).catch(()=>{});
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
+render();
+</script></body></html>

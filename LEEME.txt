@@ -1,0 +1,8 @@
+AgeOposicion - archivos del repositorio
+
+index.html, manifest.webmanifest, sw.js, icon-*.png  -> la app
+norms.json                                          -> normas del BOE que se descargan
+scripts/                                            -> descarga del BOE y validacion
+data/questions/                                     -> aqui se suben los lotes de preguntas
+workflow/boe.yml                                    -> se copia a .github/workflows/boe.yml (ver pasos)
+Fuente de los datos: Agencia Estatal Boletin Oficial del Estado.

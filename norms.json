@@ -1,0 +1,12 @@
+{
+ "CE":      {"id":"BOE-A-1978-31229","nombre":"Constitución Española"},
+ "L39":     {"id":"BOE-A-2015-10565","nombre":"Ley 39/2015"},
+ "L40":     {"id":"BOE-A-2015-10566","nombre":"Ley 40/2015"},
+ "TREBEP":  {"id":"BOE-A-2015-11719","nombre":"TREBEP (RDL 5/2015)"},
+ "LCSP":    {"id":"BOE-A-2017-12902","nombre":"Ley 9/2017"},
+ "L19":     {"id":"BOE-A-2013-12887","nombre":"Ley 19/2013"},
+ "LGP":     {"id":"BOE-A-2003-21614","nombre":"Ley 47/2003 (General Presupuestaria)"},
+ "LOPDGDD": {"id":"BOE-A-2018-16673","nombre":"LO 3/2018 (protección de datos)"},
+ "LOI":     {"id":"BOE-A-2007-6115","nombre":"LO 3/2007 (igualdad)"},
+ "LOVG":    {"id":"BOE-A-2004-21760","nombre":"LO 1/2004 (violencia de género)"}
+}
