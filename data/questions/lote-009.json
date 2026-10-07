@@ -1,0 +1,2274 @@
+[
+ {
+  "n": 9001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-3",
+  "pregunta": "En materia contractual, los órganos de contratación:",
+  "opciones": [
+   "Solo pueden delegar con autorización de las Cortes Generales",
+   "Solo pueden delegar en el Tribunal Administrativo Central de Recursos Contractuales",
+   "Pueden delegar o desconcentrar sus competencias, con cumplimiento de las normas aplicables",
+   "No pueden delegar sus competencias en ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "Los órganos de contratación podrán delegar o desconcentrar sus competencias y facultades en esta materia con cumplimiento de las normas y formalidades aplicables en cada caso"
+ },
+ {
+  "n": 9002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-4",
+  "pregunta": "El responsable del contrato que deben designar los órganos de contratación:",
+  "opciones": [
+   "Debe ser necesariamente un funcionario de carrera",
+   "Podrá ser una persona física o jurídica, vinculada a la entidad contratante o ajena a ella",
+   "Es designado por el contratista",
+   "Solo puede ser una persona física vinculada a la entidad contratante"
+  ],
+  "correcta": 1,
+  "cita": "El responsable del contrato podrá ser una persona física o jurídica, vinculada a la entidad contratante o ajena a él."
+ },
+ {
+  "n": 9003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-4",
+  "pregunta": "En los contratos de obras, las facultades del responsable del contrato son ejercidas por:",
+  "opciones": [
+   "El Director Facultativo",
+   "El coordinador de seguridad y salud",
+   "La mesa de contratación",
+   "El interventor delegado"
+  ],
+  "correcta": 0,
+  "cita": "En los contratos de obras, las facultades del responsable del contrato serán ejercidas por el Director Facultativo conforme con lo dispuesto en los artículos 237 a 246."
+ },
+ {
+  "n": 9004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-5",
+  "pregunta": "Los órganos de contratación difundirán su perfil de contratante:",
+  "opciones": [
+   "Exclusivamente a través del Boletín Oficial del Estado",
+   "A través del diario oficial de la provincia",
+   "En el tablón de anuncios de su sede",
+   "Exclusivamente a través de Internet"
+  ],
+  "correcta": 3,
+  "cita": "Los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante, como elemento que agrupa la información y documentos relativos a su actividad contractual al objeto de asegurar la transparencia y el acceso público a los mismos."
+ },
+ {
+  "n": 9005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-5",
+  "pregunta": "El acceso a la información del perfil de contratante:",
+  "opciones": [
+   "Será libre, sin requerir identificación previa",
+   "Requiere identificación previa con certificado electrónico",
+   "Requiere solicitud previa al órgano de contratación",
+   "Está reservado a los licitadores"
+  ],
+  "correcta": 0,
+  "cita": "El acceso a la información del perfil de contratante será libre, no requiriendo identificación previa."
+ },
+ {
+  "n": 9006,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a6-5",
+  "pregunta": "Período mínimo durante el cual la información de los perfiles de contratante permanecerá accesible al público",
+  "opciones": [
+   "10 años",
+   "4 años",
+   "5 años",
+   "3 años"
+  ],
+  "correcta": 2,
+  "cita": "Toda la información contenida en los perfiles de contratante se publicará en formatos abiertos y reutilizables, y permanecerá accesible al público durante un periodo de tiempo no inferior a 5 años, sin perjuicio de que se permita el acceso a expedientes anteriores ante solicitudes de información."
+ },
+ {
+  "n": 9007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-5",
+  "pregunta": "La información relativa a los contratos menores debe publicarse en el perfil de contratante al menos con periodicidad:",
+  "opciones": [
+   "Anual",
+   "Trimestral",
+   "Mensual",
+   "Semestral"
+  ],
+  "correcta": 1,
+  "cita": "La publicación de la información relativa a los contratos menores deberá realizarse al menos trimestralmente."
+ },
+ {
+  "n": 9008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-5",
+  "pregunta": "Quedan exceptuados de la publicación periódica de contratos menores los de valor estimado inferior a cierta cuantía, si se pagan por anticipo de caja fija u otro sistema similar. Esa cuantía es:",
+  "opciones": [
+   "15.000 euros",
+   "3.000 euros",
+   "1.000 euros",
+   "5.000 euros"
+  ],
+  "correcta": 3,
+  "cita": "Quedan exceptuados de la publicación a la que se refiere el párrafo anterior, aquellos contratos cuyo valor estimado fuera inferior a cinco mil euros, siempre que el sistema de pago utilizado por los poderes adjudicadores fuera el de anticipo de caja fija u otro sistema similar para realizar pagos menores."
+ },
+ {
+  "n": 9009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-5",
+  "pregunta": "La formalización de los encargos a medios propios se publica en el perfil de contratante cuando su importe sea superior a:",
+  "opciones": [
+   "100.000 euros, IVA excluido",
+   "5.000 euros, IVA excluido",
+   "15.000 euros, IVA excluido",
+   "50.000 euros, IVA excluido"
+  ],
+  "correcta": 3,
+  "cita": "La formalización de los encargos a medios propios cuyo importe fuera superior a 50.000 euros, IVA excluido, serán objeto, asimismo, de publicación en el perfil de contratante."
+ },
+ {
+  "n": 9010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-6",
+  "pregunta": "Quienes tengan conocimiento de un posible conflicto de intereses en un procedimiento de licitación deberán:",
+  "opciones": [
+   "Denunciarlo ante el Tribunal Administrativo Central de Recursos Contractuales",
+   "Ponerlo inmediatamente en conocimiento del órgano de contratación",
+   "Ponerlo en conocimiento del Ministerio Fiscal",
+   "Comunicarlo al Tribunal de Cuentas en el plazo de diez días"
+  ],
+  "correcta": 1,
+  "cita": "Aquellas personas o entidades que tengan conocimiento de un posible conflicto de interés deberán ponerlo inmediatamente en conocimiento del órgano de contratación."
+ },
+ {
+  "n": 9011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-7",
+  "pregunta": "¿Cuál de los siguientes NO es un requisito general de aptitud para contratar con el sector público según el artículo 65.1?",
+  "opciones": [
+   "Tener plena capacidad de obrar",
+   "No estar incurso en prohibición de contratar",
+   "Tener la nacionalidad española",
+   "Acreditar la solvencia económica y financiera y técnica o profesional, o estar clasificado cuando se exija"
+  ],
+  "correcta": 2,
+  "cita": "Solo podrán contratar con el sector público las personas naturales o jurídicas, españolas o extranjeras, que tengan plena capacidad de obrar, no estén incursas en alguna"
+ },
+ {
+  "n": 9012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-8",
+  "pregunta": "Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas:",
+  "opciones": [
+   "En el epígrafe del Impuesto de Actividades Económicas en que figuren de alta",
+   "Dentro de su ámbito territorial de actuación",
+   "En cualquier actividad lícita, sin limitación",
+   "Dentro de los fines, objeto o ámbito de actividad que les sean propios según sus estatutos o reglas fundacionales"
+  ],
+  "correcta": 3,
+  "cita": "Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de los fines, objeto o ámbito de actividad que, a tenor de sus estatutos o reglas fundacionales, les sean propios."
+ },
+ {
+  "n": 9013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-10",
+  "pregunta": "El informe de reciprocidad que deben aportar las empresas de Estados no comunitarios es elaborado por:",
+  "opciones": [
+   "La Junta Consultiva de Contratación Pública del Estado",
+   "El órgano de contratación",
+   "El Registro Mercantil",
+   "La Oficina Económica y Comercial de España en el exterior correspondiente"
+  ],
+  "correcta": 3,
+  "cita": "Dicho informe será elaborado por la correspondiente Oficina Económica y Comercial de España en el exterior y se acompañará a la documentación que se presente."
+ },
+ {
+  "n": 9014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-11",
+  "pregunta": "Las uniones temporales de empresarios no necesitan formalizarse en escritura pública:",
+  "opciones": [
+   "Hasta la finalización del plazo de presentación de ofertas",
+   "En ningún momento",
+   "Hasta que se haya efectuado la adjudicación del contrato a su favor",
+   "Hasta la recepción del contrato"
+  ],
+  "correcta": 2,
+  "cita": "Podrán contratar con el sector público las uniones de empresarios que se constituyan temporalmente al efecto, sin que sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado la adjudicación del contrato a su favor."
+ },
+ {
+  "n": 9015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-11",
+  "pregunta": "Los empresarios que concurran agrupados en uniones temporales quedan obligados:",
+  "opciones": [
+   "Subsidiariamente",
+   "Mancomunadamente, en proporción a su participación",
+   "Solidariamente",
+   "Solo el representante de la unión"
+  ],
+  "correcta": 2,
+  "cita": "Los empresarios que concurran agrupados en uniones temporales quedarán obligados solidariamente y deberán nombrar un representante o apoderado único de la unión con poderes bastantes para"
+ },
+ {
+  "n": 9016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a6-11",
+  "pregunta": "Formalizado el contrato con una UTE, para modificar su composición aumentando, disminuyendo o sustituyendo empresas, se requiere autorización del órgano de contratación y que el contrato se haya ejecutado al menos en:",
+  "opciones": [
+   "Un 30 por ciento de su importe",
+   "Un 10 por ciento de su importe",
+   "Un 20 por ciento de su importe",
+   "Un 50 por ciento de su importe"
+  ],
+  "correcta": 2,
+  "cita": "por otra u otras, se necesitará la autorización previa y expresa del órgano de contratación, debiendo haberse ejecutado el contrato al menos en un 20 por ciento de su importe o, cuando se trate de un contrato de concesión de obras o concesión de servicios, que se haya"
+ },
+ {
+  "n": 9017,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-2",
+  "pregunta": "Los contratos que tengan por objeto la vigilancia, supervisión, control y dirección de la ejecución de otros contratos:",
+  "opciones": [
+   "Podrán adjudicarse a las mismas empresas con autorización del órgano de contratación",
+   "Deberán adjudicarse preferentemente a las empresas adjudicatarias de los contratos controlados",
+   "No podrán adjudicarse a las mismas empresas adjudicatarias de los correspondientes contratos ni a empresas vinculadas a estas",
+   "Solo pueden ejecutarse mediante medios propios"
+  ],
+  "correcta": 2,
+  "cita": "la ejecución de cualesquiera contratos, así como la coordinación en materia de seguridad y salud, no podrán adjudicarse a las mismas empresas adjudicatarias de los correspondientes contratos, ni a las empresas a estas vinculadas, en el sentido establecido en el apartado anterior."
+ },
+ {
+  "n": 9018,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-3",
+  "pregunta": "Es causa de prohibición de contratar, en empresas de 50 o más trabajadores, no cumplir el requisito de que sean trabajadores con discapacidad al menos:",
+  "opciones": [
+   "El 5 por ciento de sus empleados",
+   "El 7 por ciento de sus empleados",
+   "El 3 por ciento de sus empleados",
+   "El 2 por ciento de sus empleados"
+  ],
+  "correcta": 3,
+  "cita": "términos que reglamentariamente se determinen; o en el caso de empresas de 50 o más trabajadores, no cumplir el requisito de que al menos el 2 por ciento de sus empleados sean trabajadores con discapacidad, de conformidad con el artículo 42 del Real Decreto legislativo 1/2013, de 29 de noviembre, por el"
+ },
+ {
+  "n": 9019,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-3",
+  "pregunta": "A efectos de prohibición de contratar, ¿cuándo se considera que una empresa se encuentra al corriente en sus obligaciones tributarias o con la Seguridad Social pese a tener deudas?",
+  "opciones": [
+   "Nunca: cualquier deuda impide contratar",
+   "Cuando las deudas estén aplazadas, fraccionadas o suspendidas con ocasión de su impugnación",
+   "Cuando las deudas sean inferiores a 3.000 euros",
+   "Cuando las deudas tengan menos de un año de antigüedad"
+  ],
+  "correcta": 1,
+  "cita": "En relación con el cumplimiento de sus obligaciones tributarias o con la Seguridad Social, se considerará que las empresas se encuentran al corriente en el mismo cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de tales deudas."
+ },
+ {
+  "n": 9020,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a7-3",
+  "pregunta": "Límite máximo de la prohibición de contratar por haber contratado a un ex alto cargo incumpliendo la Ley 3/2015, contado desde su cese como alto cargo",
+  "opciones": [
+   "2 años",
+   "1 año",
+   "3 años",
+   "5 años"
+  ],
+  "correcta": 0,
+  "cita": "La prohibición de contratar se mantendrá durante el tiempo que permanezca dentro de la organización de la empresa la persona contratada con el límite máximo de dos años a contar desde el cese como alto cargo."
+ },
+ {
+  "n": 9021,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-3",
+  "pregunta": "Según el artículo 71.2, es circunstancia que impide contratar con las entidades del sector público:",
+  "opciones": [
+   "Haber interpuesto un recurso especial que fue desestimado",
+   "No haber resultado adjudicatario en una licitación anterior",
+   "Haber presentado una oferta incursa en presunción de anormalidad",
+   "Haber dejado de formalizar en plazo, por causa imputable al adjudicatario, el contrato adjudicado a su favor"
+  ],
+  "correcta": 3,
+  "cita": "b) Haber dejado de formalizar el contrato, que ha sido adjudicado a su favor, en los plazos previstos en el artículo 153 por causa imputable al adjudicatario."
+ },
+ {
+  "n": 9022,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a7-4",
+  "pregunta": "Duración máxima de la prohibición de contratar derivada de condena penal firme cuando la sentencia no haya establecido plazo, desde la fecha de la condena",
+  "opciones": [
+   "2 años",
+   "10 años",
+   "5 años",
+   "3 años"
+  ],
+  "correcta": 2,
+  "cita": "En los casos en los que esta no haya establecido plazo, esa duración no podrá exceder de cinco años desde la fecha de la condena por sentencia firme."
+ },
+ {
+  "n": 9023,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a7-4",
+  "pregunta": "Duración máxima de la prohibición de contratar en los supuestos distintos de la condena penal",
+  "opciones": [
+   "2 años",
+   "5 años",
+   "1 año",
+   "3 años"
+  ],
+  "correcta": 3,
+  "cita": "En el resto de los supuestos, el plazo de duración no podrá exceder de tres años, para cuyo cómputo se estará a lo establecido en el apartado tercero del artículo 73."
+ },
+ {
+  "n": 9024,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a7-5",
+  "pregunta": "Tiempo tras el fin de la duración de la prohibición de contratar en el que caduca su inscripción en el Registro de Licitadores",
+  "opciones": [
+   "3 meses",
+   "1 mes",
+   "12 meses",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "La inscripción de la prohibición de contratar en el Registro de Licitadores correspondiente caducará pasados 3 meses desde que termine su duración, debiendo procederse de oficio a su cancelación en dicho Registro tras el citado plazo."
+ },
+ {
+  "n": 9025,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-6",
+  "pregunta": "El requisito de acreditar las condiciones mínimas de solvencia será sustituido, cuando sea exigible conforme a la Ley, por el de:",
+  "opciones": [
+   "La garantía definitiva",
+   "La clasificación",
+   "La inscripción en el Registro Mercantil",
+   "La declaración responsable"
+  ],
+  "correcta": 1,
+  "cita": "Este requisito será sustituido por el de la clasificación, cuando esta sea exigible conforme a lo dispuesto en esta Ley."
+ },
+ {
+  "n": 9026,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-9",
+  "pregunta": "La clasificación del empresario como contratista de obras es requisito indispensable en los contratos de obras de valor estimado igual o superior a:",
+  "opciones": [
+   "1.000.000 euros",
+   "5.404.000 euros",
+   "500.000 euros",
+   "40.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "efectos para la acreditación de su solvencia para contratar en los siguientes casos y términos: a) Para los contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros será requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de obras de los poderes"
+ },
+ {
+  "n": 9027,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-9",
+  "pregunta": "En los contratos de servicios, la clasificación del empresario:",
+  "opciones": [
+   "No es exigible",
+   "Es exigible a partir de 500.000 euros",
+   "Es exigible siempre",
+   "Es exigible a partir de 140.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "b) Para los contratos de servicios no será exigible la clasificación del empresario."
+ },
+ {
+  "n": 9028,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-10",
+  "pregunta": "A los empresarios no españoles de Estados miembros de la Unión Europea:",
+  "opciones": [
+   "No les es exigible la clasificación, sin perjuicio de la obligación de acreditar su solvencia",
+   "Les es exigible siempre la clasificación",
+   "Necesitan autorización del Consejo de Ministros para contratar",
+   "Están exentos de acreditar su solvencia"
+  ],
+  "correcta": 0,
+  "cita": "No será exigible la clasificación a los empresarios no españoles de Estados miembros de la Unión Europea o de Estados signatarios del Acuerdo sobre el Espacio Económico Europeo, ya concurran al contrato aisladamente o integrados en una unión, sin perjuicio de la obligación de acreditar su solvencia."
+ },
+ {
+  "n": 9029,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-10",
+  "pregunta": "Excepcionalmente, la contratación de la AGE con personas no clasificadas cuando la clasificación sea exigible podrá ser autorizada por:",
+  "opciones": [
+   "El órgano de contratación, motivadamente",
+   "El Tribunal Administrativo Central de Recursos Contractuales",
+   "El Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado",
+   "El Ministro de Hacienda, sin necesidad de informe"
+  ],
+  "correcta": 2,
+  "cita": "y los entes organismos y entidades de ella dependientes con personas que no estén clasificadas podrá ser autorizada por el Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado."
+ },
+ {
+  "n": 9030,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a7-11",
+  "pregunta": "Salvo casos excepcionales, el número de subgrupos de clasificación exigibles en una obra no podrá ser superior a:",
+  "opciones": [
+   "Dos",
+   "Seis",
+   "Cuatro",
+   "Tres"
+  ],
+  "correcta": 2,
+  "cita": "de clasificación se extenderá también a estos subgrupos con las limitaciones siguientes: a) El número de subgrupos exigibles, salvo casos excepcionales, no podrá ser superior a cuatro."
+ },
+ {
+  "n": 9031,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a8-4",
+  "pregunta": "La clasificación de las empresas tiene una vigencia:",
+  "opciones": [
+   "De cinco años, renovable",
+   "De tres años",
+   "De un año",
+   "Indefinida, en tanto se mantengan las condiciones y circunstancias en que se basó su concesión"
+  ],
+  "correcta": 3,
+  "cita": "La clasificación de las empresas tendrá una vigencia indefinida en tanto se mantengan por el empresario las condiciones y circunstancias en que se basó su concesión."
+ },
+ {
+  "n": 9032,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a9-11",
+  "pregunta": "No podrá fraccionarse un contrato con la finalidad de:",
+  "opciones": [
+   "Disminuir su cuantía y eludir así los requisitos de publicidad o de procedimiento de adjudicación",
+   "Permitir la realización independiente de cada una de sus partes",
+   "Facilitar el acceso de las pequeñas y medianas empresas",
+   "Reservar lotes a Centros Especiales de Empleo"
+  ],
+  "correcta": 0,
+  "cita": "No podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan."
+ },
+ {
+  "n": 9033,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a9-11",
+  "pregunta": "Siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse:",
+  "opciones": [
+   "La exigencia de garantía provisional",
+   "La adjudicación del contrato a un único empresario",
+   "La tramitación por procedimiento negociado",
+   "La realización independiente de cada una de sus partes mediante su división en lotes"
+  ],
+  "correcta": 3,
+  "cita": "Siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse la realización independiente de cada una de sus partes mediante su división en lotes, pudiéndose reservar lotes de conformidad con lo dispuesto en la disposición adicional cuarta."
+ },
+ {
+  "n": 9034,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a9-11",
+  "pregunta": "En los contratos adjudicados por lotes, salvo otra previsión en el pliego y salvo ofertas integradoras:",
+  "opciones": [
+   "Los lotes se agrupan en un contrato por cada licitador",
+   "Cada lote constituye un acuerdo marco",
+   "Todos los lotes constituyen un único contrato",
+   "Cada lote constituirá un contrato"
+  ],
+  "correcta": 3,
+  "cita": "En los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato, cada lote constituirá un contrato, salvo en casos en que se presenten ofertas integradoras, en los que todas las ofertas constituirán un contrato."
+ },
+ {
+  "n": 9035,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-12",
+  "pregunta": "Por presupuesto base de licitación se entiende, salvo disposición en contrario:",
+  "opciones": [
+   "El importe total del contrato incluidas sus prórrogas, sin IVA",
+   "El límite máximo de gasto, excluido el IVA",
+   "El importe de adjudicación del contrato",
+   "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el IVA"
+  ],
+  "correcta": 3,
+  "cita": "A los efectos de esta Ley, por presupuesto base de licitación se entenderá el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario."
+ },
+ {
+  "n": 9036,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-13",
+  "pregunta": "En los contratos de obras, suministros y servicios, el valor estimado se determina tomando:",
+  "opciones": [
+   "El importe total, incluido el IVA",
+   "El importe total, sin incluir el IVA, pagadero según las estimaciones del órgano de contratación",
+   "El presupuesto base de licitación",
+   "El precio de adjudicación"
+  ],
+  "correcta": 1,
+  "cita": "A todos los efectos previstos en esta Ley, el valor estimado de los contratos será determinado como sigue: a) En el caso de los contratos de obras, suministros y servicios, el órgano de contratación tomará el importe total, sin incluir el Impuesto sobre el Valor Añadido, pagadero según sus estimaciones."
+ },
+ {
+  "n": 9037,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-13",
+  "pregunta": "En el cálculo del valor estimado deben tenerse en cuenta, entre otros conceptos:",
+  "opciones": [
+   "Solo la duración inicial, sin las prórrogas",
+   "El Impuesto sobre el Valor Añadido",
+   "Solo la prestación principal",
+   "Cualquier forma de opción eventual y las eventuales prórrogas del contrato"
+  ],
+  "correcta": 3,
+  "cita": "Asimismo deberán tenerse en cuenta: a) Cualquier forma de opción eventual y las eventuales prórrogas del contrato."
+ },
+ {
+  "n": 9038,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-13",
+  "pregunta": "En los contratos de servicios sin precio total cuya duración sea superior a cuarenta y ocho meses o no esté fijada, el valor estimado es el valor mensual multiplicado por:",
+  "opciones": [
+   "36",
+   "48",
+   "60",
+   "12"
+  ],
+  "correcta": 1,
+  "cita": "Si la duración es superior a cuarenta y ocho meses o no se encuentra fijada por referencia a un período de tiempo cierto, el valor mensual multiplicado por 48."
+ },
+ {
+  "n": 9039,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-13",
+  "pregunta": "El método de cálculo del valor estimado aplicado por el órgano de contratación deberá figurar en todo caso en:",
+  "opciones": [
+   "La resolución de adjudicación",
+   "El informe de la Intervención",
+   "Los pliegos de cláusulas administrativas particulares",
+   "El anuncio de información previa"
+  ],
+  "correcta": 2,
+  "cita": "El método de cálculo aplicado por el órgano de contratación para calcular el valor estimado en todo caso deberá figurar en los pliegos de cláusulas administrativas particulares."
+ },
+ {
+  "n": 9040,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-14",
+  "pregunta": "Los contratos del sector público tendrán siempre:",
+  "opciones": [
+   "Un precio aplazado",
+   "Un precio provisional",
+   "Un precio revisable",
+   "Un precio cierto"
+  ],
+  "correcta": 3,
+  "cita": "Los contratos del sector público tendrán siempre un precio cierto, que se abonará al contratista en función de la prestación realmente ejecutada y de acuerdo con lo pactado."
+ },
+ {
+  "n": 9041,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-14",
+  "pregunta": "En el precio del contrato se entenderá incluido el IVA, que:",
+  "opciones": [
+   "Se abonará al finalizar el contrato",
+   "No se indicará nunca por separado",
+   "Se indicará solo en los contratos sujetos a regulación armonizada",
+   "En todo caso se indicará como partida independiente"
+  ],
+  "correcta": 3,
+  "cita": "En el precio se entenderá incluido el importe a abonar en concepto de Impuesto sobre el Valor Añadido, que en todo caso se indicará como partida independiente."
+ },
+ {
+  "n": 9042,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-14",
+  "pregunta": "El pago aplazado del precio en los contratos de las Administraciones Públicas:",
+  "opciones": [
+   "Está permitido con un máximo de dos años",
+   "Está permitido siempre que lo prevea el pliego",
+   "Está prohibido, salvo arrendamiento financiero o con opción de compra, o cuando una Ley lo autorice",
+   "Está permitido en los contratos menores"
+  ],
+  "correcta": 2,
+  "cita": "Se prohíbe el pago aplazado del precio en los contratos de las Administraciones Públicas, excepto en los supuestos en que el sistema de pago se establezca mediante la modalidad de arrendamiento financiero o de arrendamiento con opción de compra, así como en los casos en que esta u otra Ley lo autorice expresamente."
+ },
+ {
+  "n": 9043,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-14",
+  "pregunta": "En los contratos celebrados con precios provisionales:",
+  "opciones": [
+   "La revisión de precios es obligatoria",
+   "La revisión de precios procede cuando se haya ejecutado el 20 %",
+   "No cabe la revisión de precios",
+   "La revisión de precios procede tras el primer año"
+  ],
+  "correcta": 2,
+  "cita": "En los contratos celebrados con precios provisionales no cabrá la revisión de precios."
+ },
+ {
+  "n": 9044,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-15",
+  "pregunta": "Período de recuperación de la inversión igual o superior al cual cabe la revisión periódica y predeterminada de precios en contratos distintos de obras, armamento y energía",
+  "opciones": [
+   "3 años",
+   "5 años",
+   "2 años",
+   "10 años"
+  ],
+  "correcta": 1,
+  "cita": "y equipamiento de las Administraciones Públicas, en los contratos de suministro de energía y en aquellos otros contratos en los que el período de recuperación de la inversión sea igual o superior a cinco años."
+ },
+ {
+  "n": 9045,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-15",
+  "pregunta": "¿Cuál de los siguientes NO se considerará revisable en ningún caso?",
+  "opciones": [
+   "Los costes de las materias primas",
+   "Los costes de la energía",
+   "El beneficio industrial",
+   "Los costes de los materiales básicos"
+  ],
+  "correcta": 2,
+  "cita": "No se considerarán revisables en ningún caso los costes asociados a las amortizaciones, los costes financieros, los gastos generales o de estructura ni el beneficio industrial."
+ },
+ {
+  "n": 9046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-15",
+  "pregunta": "Salvo en los suministros de energía, la revisión periódica y predeterminada de precios exige, entre otros requisitos, que el contrato se haya ejecutado al menos en:",
+  "opciones": [
+   "El 25 por ciento de su importe",
+   "El 10 por ciento de su importe",
+   "El 50 por ciento de su importe",
+   "El 20 por ciento de su importe"
+  ],
+  "correcta": 3,
+  "cita": "en los contratos del sector público tendrá lugar en los términos establecidos en este capítulo, cuando el contrato se hubiese ejecutado, al menos, en el 20 por ciento de su importe y hubiese transcurrido un año desde su formalización."
+ },
+ {
+  "n": 9047,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-15",
+  "pregunta": "Tiempo que debe haber transcurrido desde la formalización del contrato (además del porcentaje de ejecución) para que tenga lugar la revisión periódica y predeterminada de precios",
+  "opciones": [
+   "1 año",
+   "2 años",
+   "5 años",
+   "3 años"
+  ],
+  "correcta": 0,
+  "cita": "capítulo, cuando el contrato se hubiese ejecutado, al menos, en el 20 por ciento de su importe y hubiese transcurrido un año desde su formalización."
+ },
+ {
+  "n": 9048,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-18",
+  "pregunta": "Con carácter general, en el procedimiento de contratación la garantía provisional:",
+  "opciones": [
+   "Es obligatoria en todo caso",
+   "No procede, salvo que excepcionalmente el órgano de contratación lo justifique por motivos de interés público",
+   "Es obligatoria en los contratos de obras",
+   "Es obligatoria en los contratos sujetos a regulación armonizada"
+  ],
+  "correcta": 1,
+  "cita": "En el procedimiento de contratación no procederá la exigencia de garantía provisional, salvo cuando de forma excepcional el órgano de contratación, por motivos de interés público, lo considere necesario y lo justifique motivadamente en el expediente."
+ },
+ {
+  "n": 9049,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-18",
+  "pregunta": "Cuando se exija, el importe de la garantía provisional no podrá ser superior a:",
+  "opciones": [
+   "Un 5 por 100 del precio final ofertado, excluido el IVA",
+   "Un 10 por 100 del presupuesto base de licitación, IVA incluido",
+   "Un 2 por 100 del valor estimado",
+   "Un 3 por 100 del presupuesto base de licitación, excluido el IVA"
+  ],
+  "correcta": 3,
+  "cita": "en los pliegos de cláusulas administrativas particulares se determinará el importe de la misma, que no podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido y el régimen de su devolución."
+ },
+ {
+  "n": 9050,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-18",
+  "pregunta": "La garantía provisional se extingue automáticamente y se devuelve a los licitadores:",
+  "opciones": [
+   "Al finalizar el plazo de garantía del contrato",
+   "Al finalizar el plazo de presentación de ofertas",
+   "A los tres meses de la adjudicación",
+   "Inmediatamente después de la perfección del contrato"
+  ],
+  "correcta": 3,
+  "cita": "La garantía provisional se extinguirá automáticamente y será devuelta a los licitadores inmediatamente después de la perfección del contrato."
+ },
+ {
+  "n": 9051,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-19",
+  "pregunta": "La garantía definitiva que deben constituir los licitadores que presenten las mejores ofertas en los contratos de las Administraciones Públicas es, con carácter general, de:",
+  "opciones": [
+   "Un 10 por 100 del precio final ofertado, IVA incluido",
+   "Un 5 por 100 del valor estimado, IVA incluido",
+   "Un 3 por 100 del presupuesto base de licitación, excluido el IVA",
+   "Un 5 por 100 del precio final ofertado, excluido el IVA"
+  ],
+  "correcta": 3,
+  "cita": "con lo dispuesto en el artículo 145, deberán constituir a disposición del órgano de contratación una garantía de un 5 por 100 del precio final ofertado por aquellos, excluido el Impuesto sobre el Valor Añadido."
+ },
+ {
+  "n": 9052,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-19",
+  "pregunta": "Con la garantía complementaria en casos especiales, la garantía definitiva total puede alcanzar:",
+  "opciones": [
+   "Un 8 por 100 del precio final ofertado",
+   "Un 20 por 100 del precio final ofertado",
+   "Un 10 por 100 del precio final ofertado",
+   "Un 15 por 100 del precio final ofertado"
+  ],
+  "correcta": 2,
+  "cita": "de conformidad con lo dispuesto en el artículo 145, excluido el Impuesto sobre el Valor Añadido, pudiendo alcanzar la garantía total un 10 por 100 del citado precio."
+ },
+ {
+  "n": 9053,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-19",
+  "pregunta": "La exención de constituir garantía definitiva NO es posible en:",
+  "opciones": [
+   "Los suministros de bienes consumibles cuya entrega y recepción deba efectuarse antes del pago",
+   "Los contratos de obras y de concesión de obras",
+   "Los contratos privados de la Administración del artículo 25.1.a) 1.º y 2.º",
+   "Los contratos de prestación de servicios sociales"
+  ],
+  "correcta": 1,
+  "cita": "Esta exención no será posible en el caso de contratos de obras, ni de concesión de obras."
+ },
+ {
+  "n": 9054,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-19",
+  "pregunta": "Cuando el precio del contrato se formule en función de precios unitarios, el importe de la garantía definitiva se fija atendiendo:",
+  "opciones": [
+   "Al precio final ofertado, IVA incluido",
+   "Al valor estimado, IVA incluido",
+   "Al importe de la primera anualidad",
+   "Al presupuesto base de licitación, IVA excluido"
+  ],
+  "correcta": 3,
+  "cita": "Cuando el precio del contrato se formule en función de precios unitarios, el importe de la garantía a constituir se fijará atendiendo al presupuesto base de licitación, IVA excluido."
+ },
+ {
+  "n": 9055,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-20",
+  "pregunta": "¿Cuál de las siguientes NO es una forma admisible de prestar la garantía definitiva según el artículo 108.1?",
+  "opciones": [
+   "Mediante aval de entidad autorizada",
+   "Mediante pagaré o cheque emitido por el propio licitador",
+   "Mediante contrato de seguro de caución",
+   "En efectivo o en valores de Deuda Pública"
+  ],
+  "correcta": 1,
+  "cita": "Las garantías definitivas exigidas en los contratos celebrados con las Administraciones Públicas podrán prestarse en alguna o algunas de las siguientes formas: a) En efectivo o en valores, que en todo caso serán de Deuda Pública, con sujeción, en cada caso, a las condiciones establecidas en las normas de desarrollo de esta"
+ },
+ {
+  "n": 9056,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-20",
+  "pregunta": "Cuando así se prevea en los pliegos, la garantía definitiva en los contratos de obras, suministros y servicios podrá constituirse:",
+  "opciones": [
+   "Mediante hipoteca",
+   "Mediante declaración responsable",
+   "Mediante retención en el precio",
+   "Mediante prenda sobre bienes del contratista"
+  ],
+  "correcta": 2,
+  "cita": "Cuando así se prevea en los pliegos de cláusulas administrativas particulares, la garantía definitiva en los contratos de obras, suministros y servicios, así como en los de concesión de servicios cuando las tarifas las abone la administración contratante, podrá constituirse mediante retención en el precio."
+ },
+ {
+  "n": 9057,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-21",
+  "pregunta": "Plazo del contratista para reponer o ampliar la garantía definitiva cuando se hayan hecho efectivas sobre ella penalidades o indemnizaciones, desde la ejecución",
+  "opciones": [
+   "5 días",
+   "30 días",
+   "10 días",
+   "15 días"
+  ],
+  "correcta": 3,
+  "cita": "En caso de que se hagan efectivas sobre la garantía definitiva las penalidades o indemnizaciones exigibles al contratista, este deberá reponer o ampliar aquella, en la cuantía que corresponda, en el plazo de quince días desde la ejecución, incurriendo en caso contrario en causa de resolución."
+ },
+ {
+  "n": 9058,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-21",
+  "pregunta": "Plazo para reajustar la garantía cuando varíe el precio por una modificación del contrato, desde la notificación del acuerdo de modificación",
+  "opciones": [
+   "10 días",
+   "30 días",
+   "20 días",
+   "15 días"
+  ],
+  "correcta": 3,
+  "cita": "Cuando, como consecuencia de una modificación del contrato, experimente variación el precio del mismo, deberá reajustarse la garantía, para que guarde la debida proporción con el nuevo precio modificado, en el plazo de quince días contados desde la fecha en que se notifique al empresario el acuerdo de modificación."
+ },
+ {
+  "n": 9059,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-21",
+  "pregunta": "Antelación mínima al vencimiento del seguro de caución (en contratos de más de cinco años) para prestar nueva garantía o prorrogar el seguro",
+  "opciones": [
+   "2 meses",
+   "3 meses",
+   "1 mes",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "de seguro de caución de plazo inferior al de duración del contrato, estando obligado en este caso, con una antelación mínima de dos meses al vencimiento del contrato de seguro de caución, bien a prestar una nueva garantía, o bien a prorrogar el contrato de seguro de caución y a"
+ },
+ {
+  "n": 9060,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-22",
+  "pregunta": "¿De cuál de los siguientes conceptos NO responde la garantía definitiva según el artículo 110?",
+  "opciones": [
+   "De las penalidades impuestas al contratista",
+   "De las deudas tributarias del contratista con la Hacienda Pública",
+   "De la incautación que puede decretarse en los casos de resolución del contrato",
+   "De la obligación de formalizar el contrato en plazo"
+  ],
+  "correcta": 1,
+  "cita": "La garantía definitiva únicamente responderá de los siguientes conceptos: a) De la obligación de formalizar el contrato en plazo, de conformidad con lo dispuesto en el artículo 153. b) De las penalidades impuestas al contratista conforme al artículo 192 de la presente Ley. c) De la correcta ejecución de las prestaciones contempladas en el contrato incluidas las mejoras que ofertadas por el contratista hayan sido aceptadas por el órgano de contratación, de los gastos originados a la Administración por la demora del contratista en el cumplimiento de sus obligaciones, y de los daños y perjuicios ocasionados a la misma con motivo de la ejecución del contrato o por su incumplimiento, cuando no proceda su resolución. d) De la incautación que puede decretarse en los casos de resolución del contrato, de acuerdo con lo que en él o en esta Ley esté establecido."
+ },
+ {
+  "n": 9061,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-23",
+  "pregunta": "Plazo para adoptar y notificar el acuerdo de devolución de la garantía definitiva, desde la finalización del plazo de garantía",
+  "opciones": [
+   "3 meses",
+   "1 mes",
+   "6 meses",
+   "2 meses"
+  ],
+  "correcta": 3,
+  "cita": "El acuerdo de devolución deberá adoptarse y notificarse al interesado en el plazo de dos meses desde la finalización del plazo de garantía."
+ },
+ {
+  "n": 9062,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-23",
+  "pregunta": "Tiempo desde la terminación del contrato tras el cual, vencido el plazo de garantía y sin recepción formal ni liquidación por causas no imputables al contratista, se devuelve la garantía (regla general)",
+  "opciones": [
+   "2 años",
+   "3 años",
+   "5 años",
+   "1 año"
+  ],
+  "correcta": 3,
+  "cita": "Transcurrido un año desde la fecha de terminación del contrato, y vencido el plazo de garantía, sin que la recepción formal y la liquidación hubiesen tenido"
+ },
+ {
+  "n": 9063,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-23",
+  "pregunta": "Plazo reducido para esa devolución en contratos de obras de valor estimado inferior a 1.000.000 de euros, otros contratos inferiores a 100.000 euros o licitadores pyme",
+  "opciones": [
+   "6 meses",
+   "9 meses",
+   "3 meses",
+   "4 meses"
+  ],
+  "correcta": 0,
+  "cita": "y no estén controladas directa o indirectamente por otra empresa que no cumpla tales requisitos, el plazo se reducirá a seis meses."
+ },
+ {
+  "n": 9064,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-24",
+  "pregunta": "Las personas o entidades distintas del contratista que presten garantías a favor de este:",
+  "opciones": [
+   "No tendrán la consideración de parte interesada en ningún caso",
+   "No podrán utilizar el beneficio de excusión",
+   "Podrán utilizar el beneficio de excusión",
+   "Solo responderán una vez agotado el patrimonio del contratista"
+  ],
+  "correcta": 1,
+  "cita": "Las personas o entidades distintas del contratista que presten garantías a favor de este no podrán utilizar el beneficio de excusión a que se refieren los artículos 1.830 y concordantes del Código Civil."
+ },
+ {
+  "n": 9065,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-24",
+  "pregunta": "En el contrato de seguro de caución que garantiza un contrato público:",
+  "opciones": [
+   "La Administración es la tomadora y el contratista, el asegurado",
+   "El asegurador es el tomador y el contratista, el asegurado",
+   "El contratista es el tomador del seguro y la Administración contratante, la asegurada",
+   "El contratista es a la vez tomador y asegurado"
+  ],
+  "correcta": 2,
+  "cita": "En el contrato de seguro de caución se aplicarán las siguientes normas: a) Tendrá la condición de tomador del seguro el contratista y la de asegurado la Administración contratante."
+ },
+ {
+  "n": 9066,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-25",
+  "pregunta": "Cuando la garantía no sea bastante para cubrir las responsabilidades a las que está afecta, la Administración cobrará la diferencia:",
+  "opciones": [
+   "Mediante el procedimiento administrativo de apremio",
+   "Mediante reclamación al Tribunal de Cuentas",
+   "Mediante demanda ante la jurisdicción civil",
+   "Mediante la incautación de la garantía de otros contratos"
+  ],
+  "correcta": 0,
+  "cita": "Cuando la garantía no sea bastante para cubrir las responsabilidades a las que está afecta, la Administración procederá al cobro de la diferencia mediante el procedimiento administrativo de apremio, con arreglo a lo establecido en las normas de recaudación."
+ },
+ {
+  "n": 9067,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-25",
+  "pregunta": "Para hacer efectivas las garantías, la Administración contratante:",
+  "opciones": [
+   "Tiene preferencia solo sobre los acreedores comunes",
+   "Tiene preferencia sobre cualquier otro acreedor, sea cual fuere la naturaleza de su crédito",
+   "Queda pospuesta a los créditos laborales y tributarios",
+   "Concurre a prorrata con los demás acreedores"
+  ],
+  "correcta": 1,
+  "cita": "Para hacer efectivas las garantías, tanto provisionales como definitivas, la Administración contratante tendrá preferencia sobre cualquier otro acreedor, sea cual fuere la naturaleza del mismo y el título del que derive su crédito."
+ },
+ {
+  "n": 9068,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-26",
+  "pregunta": "En los contratos de entidades del sector público que no tengan la consideración de Administraciones Públicas, las garantías:",
+  "opciones": [
+   "Están prohibidas",
+   "Pueden exigirse, sin que sea necesaria su constitución en la Caja General de Depósitos",
+   "Deben constituirse siempre en la Caja General de Depósitos",
+   "Son obligatorias en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "de la garantía, que podrá presentarse en alguna de las formas previstas en el artículo 108, sin que resulte necesaria su constitución en la Caja General de Depósitos, así como el régimen de su devolución o cancelación serán establecidos por el órgano de"
+ },
+ {
+  "n": 9069,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-27",
+  "pregunta": "La participación de un operador económico en las consultas preliminares del mercado:",
+  "opciones": [
+   "Le otorga preferencia en caso de empate",
+   "No impide su posterior intervención en el procedimiento de contratación",
+   "Le exime de acreditar la solvencia",
+   "Le impide participar en la licitación posterior"
+  ],
+  "correcta": 1,
+  "cita": "La participación en la consulta no impide la posterior intervención en el procedimiento de contratación que en su caso se tramite."
+ },
+ {
+  "n": 9070,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-27",
+  "pregunta": "Durante las consultas preliminares del mercado, el órgano de contratación:",
+  "opciones": [
+   "Debe comunicar las soluciones al Tribunal Administrativo Central de Recursos Contractuales",
+   "Debe publicar las soluciones propuestas por cada participante",
+   "Puede revelar las soluciones a los participantes con su consentimiento tácito",
+   "No podrá en ningún caso revelar a los participantes las soluciones propuestas por los otros participantes"
+  ],
+  "correcta": 3,
+  "cita": "En ningún caso durante el proceso de consultas al que se refiere el presente artículo, el órgano de contratación podrá revelar a los participantes en el mismo las soluciones propuestas por los otros participantes, siendo las mismas solo conocidas íntegramente por aquel."
+ },
+ {
+  "n": 9071,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-28",
+  "pregunta": "En el expediente de contratación de un contrato de servicios debe justificarse, entre otros extremos:",
+  "opciones": [
+   "El informe de la Junta Consultiva de Contratación Pública del Estado",
+   "La autorización del Consejo de Ministros",
+   "El informe del Consejo de Estado",
+   "El informe de insuficiencia de medios"
+  ],
+  "correcta": 3,
+  "cita": "f) En los contratos de servicios, el informe de insuficiencia de medios."
+ },
+ {
+  "n": 9072,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-28",
+  "pregunta": "En el procedimiento de diálogo competitivo, los pliegos de cláusulas administrativas y de prescripciones técnicas se sustituyen por:",
+  "opciones": [
+   "El documento descriptivo",
+   "El anuncio de información previa",
+   "El documento europeo único de contratación",
+   "La memoria justificativa"
+  ],
+  "correcta": 0,
+  "cita": "del Título I, del Libro II, los pliegos de cláusulas administrativas y de prescripciones técnicas serán sustituidos por el documento descriptivo a que hace referencia el apartado 1 del artículo 174."
+ },
+ {
+  "n": 9073,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-29",
+  "pregunta": "La resolución motivada del órgano de contratación que aprueba el expediente y dispone la apertura del procedimiento de adjudicación implica también, como regla general:",
+  "opciones": [
+   "La adjudicación del contrato",
+   "La aprobación del gasto",
+   "La formalización del contrato",
+   "La fiscalización previa de la intervención"
+  ],
+  "correcta": 1,
+  "cita": "Dicha resolución implicará también la aprobación del gasto, salvo en el supuesto excepcional de que el presupuesto no hubiera podido ser establecido"
+ },
+ {
+  "n": 9074,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-30",
+  "pregunta": "En los contratos menores, la tramitación del expediente exige un informe del órgano de contratación que justifique motivadamente:",
+  "opciones": [
+   "La imposibilidad de utilizar el procedimiento abierto",
+   "La conformidad de la Intervención General",
+   "La necesidad del contrato y que no se altera su objeto para evitar los umbrales del contrato menor",
+   "La solvencia del empresario y su clasificación"
+  ],
+  "correcta": 2,
+  "cita": "En los contratos menores la tramitación del expediente exigirá la emisión de un informe del órgano de contratación justificando de manera motivada la necesidad del contrato y que no se está alterando su objeto con el fin de evitar la aplicación de los umbrales descritos en el apartado anterior."
+ },
+ {
+  "n": 9075,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-30",
+  "pregunta": "El informe justificativo del contrato menor no es exigible cuando el pago se verifique mediante anticipos de caja fija u otro sistema similar y el valor estimado no exceda de:",
+  "opciones": [
+   "3.000 euros",
+   "15.000 euros",
+   "5.000 euros",
+   "40.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "Lo dispuesto en el apartado 2.º de este artículo no será de aplicación en aquellos contratos cuyo pago se verifique a través del sistema de anticipos de caja fija u otro similar para realizar pagos menores, siempre y cuando el valor estimado del contrato no exceda de 5.000 euros."
+ },
+ {
+  "n": 9076,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-30",
+  "pregunta": "En el contrato menor de obras, además del informe, la aprobación del gasto y la factura, debe añadirse:",
+  "opciones": [
+   "El informe del Consejo de Estado",
+   "El presupuesto de las obras",
+   "El acta de replanteo",
+   "La garantía definitiva"
+  ],
+  "correcta": 1,
+  "cita": "En el contrato menor de obras, deberá añadirse, además, el presupuesto de las obras, sin perjuicio de que deba existir el correspondiente proyecto cuando sea requerido por las disposiciones vigentes."
+ },
+ {
+  "n": 9077,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-31",
+  "pregunta": "Plazo de los órganos que intervienen en la tramitación de un expediente urgente para emitir sus informes (salvo prórroga justificada)",
+  "opciones": [
+   "10 días",
+   "5 días",
+   "15 días",
+   "3 días"
+  ],
+  "correcta": 1,
+  "cita": "de preferencia para su despacho por los distintos órganos que intervengan en la tramitación, que dispondrán de un plazo de cinco días para emitir los respectivos informes o cumplimentar los trámites correspondientes."
+ },
+ {
+  "n": 9078,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-31",
+  "pregunta": "Prórroga máxima del plazo para emitir informes en la tramitación urgente cuando la complejidad del expediente impida cumplir el plazo ordinario",
+  "opciones": [
+   "20 días",
+   "5 días",
+   "10 días",
+   "15 días"
+  ],
+  "correcta": 2,
+  "cita": "En tal caso el plazo quedará prorrogado hasta diez días."
+ },
+ {
+  "n": 9079,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-31",
+  "pregunta": "En la tramitación urgente, los plazos de licitación, adjudicación y formalización, salvo las excepciones legales:",
+  "opciones": [
+   "Se reducen en cinco días",
+   "Se mantienen, pero el expediente tiene preferencia",
+   "Se reducen a un tercio",
+   "Se reducen a la mitad"
+  ],
+  "correcta": 3,
+  "cita": "b) Acordada la apertura del procedimiento de adjudicación, los plazos establecidos en esta Ley para la licitación, adjudicación y formalización del contrato se reducirán a la mitad, salvo los siguientes: 1.º El plazo de quince días hábiles establecido en el apartado 3 del"
+ },
+ {
+  "n": 9080,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-31",
+  "pregunta": "Plazo máximo de inicio de la ejecución de un contrato tramitado por urgencia, desde la formalización",
+  "opciones": [
+   "15 días",
+   "1 mes",
+   "3 meses",
+   "2 meses"
+  ],
+  "correcta": 1,
+  "cita": "c) El plazo de inicio de la ejecución del contrato no podrá exceder de un mes, contado desde la formalización."
+ },
+ {
+  "n": 9081,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-32",
+  "pregunta": "En la tramitación de emergencia, el órgano de contratación puede ordenar la ejecución de lo necesario o contratar libremente su objeto:",
+  "opciones": [
+   "Sin obligación de tramitar expediente de contratación e incluso sin crédito suficiente",
+   "Previa tramitación de un expediente abreviado",
+   "Previa autorización del Consejo de Ministros",
+   "Solo si existe crédito adecuado y suficiente"
+  ],
+  "correcta": 0,
+  "cita": "a la defensa nacional, se estará al siguiente régimen excepcional: a) El órgano de contratación, sin obligación de tramitar expediente de contratación, podrá ordenar la ejecución de lo necesario para remediar el acontecimiento producido o satisfacer la necesidad sobrevenida, o contratar libremente su objeto, en todo o en parte, sin sujetarse a los requisitos formales establecidos en la presente Ley, incluso el de la existencia de crédito suficiente."
+ },
+ {
+  "n": 9082,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-32",
+  "pregunta": "Plazo máximo para dar cuenta al Consejo de Ministros de los acuerdos de emergencia adoptados en el ámbito de la AGE",
+  "opciones": [
+   "30 días",
+   "15 días",
+   "10 días",
+   "60 días"
+  ],
+  "correcta": 0,
+  "cita": "b) Si el contrato ha sido celebrado por la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social o demás entidades públicas estatales, se dará cuenta de dichos acuerdos al Consejo de Ministros en el plazo máximo de treinta días."
+ },
+ {
+  "n": 9083,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-32",
+  "pregunta": "Plazo máximo de inicio de la ejecución de las prestaciones en la tramitación de emergencia, desde la adopción del acuerdo (si se excede, procede el procedimiento ordinario)",
+  "opciones": [
+   "15 días",
+   "3 meses",
+   "1 mes",
+   "2 meses"
+  ],
+  "correcta": 2,
+  "cita": "c) El plazo de inicio de la ejecución de las prestaciones no podrá ser superior a un mes, contado desde la adopción del acuerdo previsto en la letra a)."
+ },
+ {
+  "n": 9084,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-33",
+  "pregunta": "Los pliegos de cláusulas administrativas generales de la AGE los aprueba:",
+  "opciones": [
+   "La Junta Consultiva de Contratación Pública del Estado",
+   "El Consejo de Ministros, a propuesta del Ministro de Hacienda y Función Pública y previo dictamen del Consejo de Estado",
+   "Las Cortes Generales mediante ley",
+   "El órgano de contratación de cada departamento"
+  ],
+  "correcta": 1,
+  "cita": "de los Ministerios interesados, a propuesta del Ministro de Hacienda y Función Pública, y previo dictamen del Consejo de Estado, podrá aprobar pliegos de cláusulas administrativas generales, que deberán ajustarse en su contenido a los preceptos de esta Ley y de sus disposiciones de"
+ },
+ {
+  "n": 9085,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-34",
+  "pregunta": "Una vez aprobados, los pliegos de cláusulas administrativas particulares solo podrán modificarse con posterioridad:",
+  "opciones": [
+   "Libremente hasta la adjudicación",
+   "Con el consentimiento de los licitadores",
+   "Por acuerdo de la mesa de contratación",
+   "Por error material, de hecho o aritmético; en otro caso, la modificación conllevará la retroacción de actuaciones"
+  ],
+  "correcta": 3,
+  "cita": "y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación, y solo podrán ser modificados con posterioridad por error material, de hecho o aritmético. En otro caso, la modificación del pliego conllevará la retroacción de actuaciones. 2. En los pliegos de cláusulas administrativas particulares se incluirán los criterios de solvencia y adjudicación"
+ },
+ {
+  "n": 9086,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-34",
+  "pregunta": "La aprobación de los pliegos de cláusulas administrativas particulares corresponde:",
+  "opciones": [
+   "Al Servicio Jurídico",
+   "A la Intervención",
+   "A la mesa de contratación",
+   "Al órgano de contratación"
+  ],
+  "correcta": 3,
+  "cita": "La aprobación de los pliegos de cláusulas administrativas particulares corresponderá al órgano de contratación, que podrá, asimismo, aprobar modelos de pliegos particulares para determinadas categorías de contratos de naturaleza análoga."
+ },
+ {
+  "n": 9087,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-34",
+  "pregunta": "¿Quién debe informar previamente los pliegos de cláusulas administrativas particulares que propongan estipulaciones contrarias a los pliegos generales?",
+  "opciones": [
+   "El Consejo de Estado",
+   "La Junta Consultiva de Contratación Pública del Estado",
+   "El Tribunal de Cuentas",
+   "El Tribunal Administrativo Central de Recursos Contractuales"
+  ],
+  "correcta": 1,
+  "cita": "La Junta Consultiva de Contratación Pública del Estado deberá informar con carácter previo todos los pliegos de cláusulas administrativas particulares en que se proponga la inclusión de estipulaciones contrarias a los correspondientes pliegos generales."
+ },
+ {
+  "n": 9088,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-34",
+  "pregunta": "En la AGE y sus organismos, la aprobación de los pliegos de cláusulas administrativas particulares requiere informe previo de:",
+  "opciones": [
+   "El Consejo de Estado",
+   "El Servicio Jurídico respectivo, salvo que el pliego se ajuste a un modelo ya informado",
+   "La Junta Consultiva de Contratación Pública del Estado en todo caso",
+   "La Intervención General de la Administración del Estado"
+  ],
+  "correcta": 1,
+  "cita": "En la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social y demás Administraciones Públicas integrantes del sector público estatal, la aprobación de los pliegos y de los modelos requerirá el informe previo del Servicio Jurídico respectivo."
+ },
+ {
+  "n": 9089,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-38",
+  "pregunta": "Salvo que lo justifique el objeto del contrato, cuando excepcionalmente las prescripciones técnicas hagan referencia a marcas, patentes o tipos, la referencia irá acompañada de la mención:",
+  "opciones": [
+   "«o equivalente»",
+   "«sin perjuicio de otras»",
+   "«o similar»",
+   "«preferentemente»"
+  ],
+  "correcta": 0,
+  "cita": "Tal referencia se autorizará, con carácter excepcional, en el caso en que no sea posible hacer una descripción lo bastante precisa e inteligible del objeto del contrato en aplicación del apartado 5, en cuyo caso irá acompañada de la mención «o equivalente»."
+ },
+ {
+  "n": 9090,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-43",
+  "pregunta": "Ordinariamente, la adjudicación de los contratos de las Administraciones Públicas se realiza utilizando:",
+  "opciones": [
+   "El diálogo competitivo",
+   "El precio como único criterio y el procedimiento negociado",
+   "Una pluralidad de criterios basados en la mejor relación calidad-precio y el procedimiento abierto o el restringido",
+   "El procedimiento negociado sin publicidad"
+  ],
+  "correcta": 2,
+  "cita": "La adjudicación se realizará, ordinariamente utilizando una pluralidad de criterios de adjudicación basados en el principio de mejor relación calidad-precio, y utilizando el procedimiento abierto o"
+ },
+ {
+  "n": 9091,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-43",
+  "pregunta": "Los contratos menores pueden adjudicarse directamente a cualquier empresario:",
+  "opciones": [
+   "Inscrito en el Registro Oficial de Licitadores y clasificado",
+   "Que haya presentado garantía provisional",
+   "Con capacidad de obrar y que cuente con la habilitación profesional necesaria",
+   "Que haya sido seleccionado por la mesa de contratación"
+  ],
+  "correcta": 2,
+  "cita": "Los contratos menores podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria para realizar la prestación, cumpliendo con las normas establecidas en el artículo 118."
+ },
+ {
+  "n": 9092,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-43",
+  "pregunta": "No se aplican las normas de preparación y adjudicación de la LCSP a los contratos de asistencia sanitaria en supuestos de urgencia con valor estimado inferior a:",
+  "opciones": [
+   "50.000 euros",
+   "30.000 euros",
+   "40.000 euros",
+   "15.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "En los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 30.000 euros, no serán de aplicación las disposiciones de esta Ley relativas a la preparación y adjudicación del contrato."
+ },
+ {
+  "n": 9093,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-47",
+  "pregunta": "En los contratos de la Administración General del Estado, el anuncio de licitación se publica en el perfil de contratante y, además:",
+  "opciones": [
+   "En un diario de difusión nacional",
+   "En el boletín oficial de la provincia",
+   "En el «Boletín Oficial del Estado»",
+   "En el tablón de edictos del ministerio"
+  ],
+  "correcta": 2,
+  "cita": "En los contratos celebrados por la Administración General del Estado, o por las entidades vinculadas a la misma que gocen de la naturaleza de Administraciones Públicas, el anuncio de licitación se publicará además en el «Boletín Oficial del Estado»."
+ },
+ {
+  "n": 9094,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-47",
+  "pregunta": "Cuando los contratos estén sujetos a regulación armonizada, la licitación debe publicarse, además, en:",
+  "opciones": [
+   "El «Boletín Oficial de las Cortes Generales»",
+   "El «Diario Oficial de la Unión Europea»",
+   "La sede electrónica de la Comisión Nacional de los Mercados y la Competencia",
+   "El Registro Público de Contratos exclusivamente"
+  ],
+  "correcta": 1,
+  "cita": "Cuando los contratos estén sujetos a regulación armonizada la licitación deberá publicarse, además, en el «Diario Oficial de la Unión Europea», debiendo los poderes adjudicadores poder demostrar la fecha de envío del anuncio de licitación."
+ },
+ {
+  "n": 9095,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-48",
+  "pregunta": "La presentación de proposiciones o la recepción de la documentación en formato electrónico necesaria para presentarlas:",
+  "opciones": [
+   "No podrá suponer la exigencia de cantidad alguna a los licitadores",
+   "Exige el pago de una tasa por derechos de examen",
+   "Es gratuita solo para las pymes",
+   "Se cobra según el valor estimado del contrato"
+  ],
+  "correcta": 0,
+  "cita": "La presentación de proposiciones o la recepción de la documentación en formato electrónico necesaria para la presentación de las mismas en cualquier procedimiento, no podrá suponer la exigencia de cantidad alguna a los licitadores."
+ },
+ {
+  "n": 9096,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-57",
+  "pregunta": "La adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación en base a:",
+  "opciones": [
+   "El menor plazo de ejecución",
+   "La mayor solvencia del licitador",
+   "La mejor relación calidad-precio",
+   "El precio más bajo"
+  ],
+  "correcta": 2,
+  "cita": "La adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio."
+ },
+ {
+  "n": 9097,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-59",
+  "pregunta": "En defecto de previsión en los pliegos, el primer criterio legal para resolver el empate entre ofertas es:",
+  "opciones": [
+   "El mayor porcentaje de mujeres empleadas en la plantilla",
+   "El sorteo",
+   "El mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla",
+   "El menor porcentaje de contratos temporales en la plantilla"
+  ],
+  "correcta": 2,
+  "cita": "criterios sociales, referidos al momento de finalizar el plazo de presentación de ofertas: a) Mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla de cada una de las empresas, primando en caso de igualdad, el mayor número de trabajadores fijos"
+ },
+ {
+  "n": 9098,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-59",
+  "pregunta": "En defecto de previsión en los pliegos, si los criterios sociales legales no deshacen el empate entre ofertas, se acude a:",
+  "opciones": [
+   "El sorteo",
+   "La decisión discrecional del órgano de contratación",
+   "La oferta de menor precio",
+   "La oferta presentada en primer lugar"
+  ],
+  "correcta": 0,
+  "cita": "d) El sorteo, en caso de que la aplicación de los anteriores criterios no hubiera dado lugar a desempate."
+ },
+ {
+  "n": 9099,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-59",
+  "pregunta": "La documentación acreditativa de los criterios de desempate previstos en los pliegos se aporta por los licitadores:",
+  "opciones": [
+   "En el momento en que se produzca el empate, y no con carácter previo",
+   "Con la solicitud de participación",
+   "Tras la formalización del contrato",
+   "Junto con la oferta, en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "La documentación acreditativa de los criterios de desempate a que se refiere el presente apartado será aportada por los licitadores en el momento en que se produzca el empate, y no con carácter previo."
+ },
+ {
+  "n": 9100,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-61",
+  "pregunta": "Cuando el órgano de contratación presuma que una oferta es anormalmente baja:",
+  "opciones": [
+   "Debe remitirla a la Comisión Nacional de los Mercados y la Competencia",
+   "Solo podrá excluirla previa tramitación del procedimiento del artículo 149",
+   "Debe adjudicarle el contrato con garantía complementaria en todo caso",
+   "Debe excluirla automáticamente"
+  ],
+  "correcta": 1,
+  "cita": "En los casos en que el órgano de contratación presuma que una oferta resulta inviable por haber sido formulada en términos que la hacen anormalmente baja, solo podrá excluirla del procedimiento de licitación previa tramitación del procedimiento que establece este artículo."
+ },
+ {
+  "n": 9101,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-61",
+  "pregunta": "Si presentan ofertas varias empresas del mismo grupo, para identificar las ofertas incursas en presunción de anormalidad se toma:",
+  "opciones": [
+   "Todas ellas por separado",
+   "Únicamente la oferta más baja",
+   "La media de sus ofertas",
+   "La oferta más alta"
+  ],
+  "correcta": 1,
+  "cita": "empresas que pertenezcan a un mismo grupo, en el sentido del artículo 42.1 del Código de Comercio, se tomará únicamente, para aplicar el régimen de identificación de las ofertas incursas en presunción de anormalidad, aquella que fuere más baja, y ello con independencia de que presenten su oferta en solitario o conjuntamente con otra empresa"
+ },
+ {
+  "n": 9102,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-63",
+  "pregunta": "Plazo para publicar en el perfil de contratante la resolución de adjudicación",
+  "opciones": [
+   "30 días",
+   "15 días",
+   "10 días",
+   "20 días"
+  ],
+  "correcta": 1,
+  "cita": "La resolución de adjudicación deberá ser motivada y se notificará a los candidatos y licitadores, debiendo ser publicada en el perfil de contratante en el plazo de 15 días."
+ },
+ {
+  "n": 9103,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-63",
+  "pregunta": "La notificación de la adjudicación a candidatos y licitadores se realiza:",
+  "opciones": [
+   "Mediante publicación en el BOE exclusivamente",
+   "Por correo postal certificado",
+   "Por el medio que elija cada licitador",
+   "Por medios electrónicos"
+  ],
+  "correcta": 3,
+  "cita": "La notificación se realizará por medios electrónicos de conformidad con lo establecido en la disposición adicional decimoquinta."
+ },
+ {
+  "n": 9104,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-64",
+  "pregunta": "La decisión de no adjudicar o celebrar el contrato solo podrá adoptarse:",
+  "opciones": [
+   "Por razones de interés público debidamente justificadas en el expediente",
+   "Cuando lo soliciten la mayoría de los licitadores",
+   "Por una infracción no subsanable de las normas de preparación del contrato",
+   "Cuando la mejor oferta supere el valor estimado"
+  ],
+  "correcta": 0,
+  "cita": "Solo podrá adoptarse la decisión de no adjudicar o celebrar el contrato por razones de interés público debidamente justificadas en el expediente."
+ },
+ {
+  "n": 9105,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-64",
+  "pregunta": "El desistimiento del procedimiento de adjudicación debe fundarse en:",
+  "opciones": [
+   "Una infracción no subsanable de las normas de preparación del contrato o de las reguladoras del procedimiento de adjudicación",
+   "La presentación de una sola oferta",
+   "La falta de crédito presupuestario",
+   "Razones de interés público sobrevenidas"
+  ],
+  "correcta": 0,
+  "cita": "El desistimiento del procedimiento deberá estar fundado en una infracción no subsanable de las normas de preparación del contrato o de las reguladoras del procedimiento de adjudicación, debiendo justificarse en el expediente la concurrencia de la causa."
+ },
+ {
+  "n": 9106,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-64",
+  "pregunta": "El desistimiento del procedimiento de adjudicación:",
+  "opciones": [
+   "No impide la iniciación inmediata de un procedimiento de licitación",
+   "Impide licitar de nuevo mientras subsistan sus causas",
+   "Impide licitar de nuevo el mismo objeto durante un año",
+   "Exige autorización del Consejo de Ministros para volver a licitar"
+  ],
+  "correcta": 0,
+  "cita": "El desistimiento no impedirá la iniciación inmediata de un procedimiento de licitación."
+ },
+ {
+  "n": 9107,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-64",
+  "pregunta": "La decisión de no adjudicar o celebrar el contrato o el desistimiento del procedimiento pueden acordarse por el órgano de contratación:",
+  "opciones": [
+   "Antes de la formalización",
+   "En cualquier momento de la ejecución",
+   "Antes de la apertura de las ofertas únicamente",
+   "Solo antes de la publicación del anuncio de licitación"
+  ],
+  "correcta": 0,
+  "cita": "La decisión de no adjudicar o celebrar el contrato o el desistimiento del procedimiento podrán acordarse por el órgano de contratación antes de la formalización."
+ },
+ {
+  "n": 9108,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-68",
+  "pregunta": "En el procedimiento abierto:",
+  "opciones": [
+   "Solo pueden presentar proposiciones los empresarios seleccionados",
+   "Todo empresario interesado puede presentar una proposición, quedando excluida toda negociación",
+   "Se negocian los términos del contrato con los licitadores",
+   "Se invita a un mínimo de tres empresas"
+  ],
+  "correcta": 1,
+  "cita": "En el procedimiento abierto todo empresario interesado podrá presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores."
+ },
+ {
+  "n": 9109,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-68",
+  "pregunta": "Plazo mínimo de presentación de proposiciones en el procedimiento abierto de contratos de obras, suministros y servicios sujetos a regulación armonizada, desde el envío del anuncio a la Oficina de Publicaciones de la UE",
+  "opciones": [
+   "52 días",
+   "35 días",
+   "26 días",
+   "30 días"
+  ],
+  "correcta": 1,
+  "cita": "En procedimientos abiertos de adjudicación de contratos sujetos a regulación armonizada, el plazo de presentación de proposiciones no será inferior a treinta y cinco días, para los contratos de obras, suministros y servicios, y a treinta días para las concesiones de"
+ },
+ {
+  "n": 9110,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-68",
+  "pregunta": "Plazo mínimo de presentación de proposiciones en el procedimiento abierto de contratos de las Administraciones Públicas no sujetos a regulación armonizada (salvo obras y concesiones)",
+  "opciones": [
+   "15 días",
+   "26 días",
+   "10 días",
+   "20 días"
+  ],
+  "correcta": 0,
+  "cita": "En los contratos de las Administraciones Públicas que no estén sujetos a regulación armonizada, el plazo de presentación de proposiciones no será inferior a quince días, contados desde el día siguiente al de la publicación del anuncio de licitación del contrato en el perfil de contratante."
+ },
+ {
+  "n": 9111,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-68",
+  "pregunta": "Plazo mínimo de presentación de proposiciones en el procedimiento abierto de contratos de obras y de concesión no sujetos a regulación armonizada",
+  "opciones": [
+   "15 días",
+   "20 días",
+   "26 días",
+   "35 días"
+  ],
+  "correcta": 2,
+  "cita": "En los contratos de obras y de concesión de obras y concesión de servicios, el plazo será, como mínimo, de veintiséis días."
+ },
+ {
+  "n": 9112,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-71",
+  "pregunta": "El procedimiento abierto simplificado puede utilizarse en contratos de obras de valor estimado igual o inferior a:",
+  "opciones": [
+   "500.000 euros",
+   "2.000.000 de euros",
+   "1.000.000 de euros",
+   "5.404.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "contratos de obras, suministro y servicios cuando se cumplan las dos condiciones siguientes: a) Que su valor estimado sea igual o inferior a 2.000.000 de euros en el caso de contratos de obras, y en el caso de contratos de suministro y de servicios, que su valor estimado sea inferior a las"
+ },
+ {
+  "n": 9113,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-71",
+  "pregunta": "Para usar el procedimiento abierto simplificado, la ponderación de los criterios evaluables mediante juicio de valor (salvo prestaciones intelectuales) no puede superar:",
+  "opciones": [
+   "El veinticinco por ciento del total",
+   "El cincuenta por ciento del total",
+   "El cuarenta y cinco por ciento del total",
+   "El diez por ciento del total"
+  ],
+  "correcta": 0,
+  "cita": "previstos en el pliego no haya ninguno evaluable mediante juicio de valor o, de haberlos, su ponderación no supere el veinticinco por ciento del total, salvo en el caso de que el contrato tenga por objeto prestaciones de carácter intelectual, como"
+ },
+ {
+  "n": 9114,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-71",
+  "pregunta": "Plazo mínimo de presentación de proposiciones en el procedimiento abierto simplificado para contratos de obras",
+  "opciones": [
+   "15 días",
+   "10 días",
+   "26 días",
+   "20 días"
+  ],
+  "correcta": 3,
+  "cita": "En los contratos de obras el plazo será como mínimo de veinte días."
+ },
+ {
+  "n": 9115,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-71",
+  "pregunta": "En el procedimiento abierto simplificado, los licitadores deben estar inscritos (o haberlo solicitado) en:",
+  "opciones": [
+   "El Registro de Contratos del Sector Público",
+   "El Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público o el registro autonómico correspondiente",
+   "El Registro de Entidades Locales",
+   "El Registro Mercantil"
+  ],
+  "correcta": 1,
+  "cita": "licitadores que se presenten a licitaciones realizadas a través de este procedimiento simplificado deberán estar inscritos en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público, o cuando proceda de conformidad con lo establecido en el apartado 2 del artículo 96 en el"
+ },
+ {
+  "n": 9116,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-71",
+  "pregunta": "En el procedimiento abierto simplificado, la garantía provisional:",
+  "opciones": [
+   "Es obligatoria del 5 %",
+   "No procede",
+   "Procede solo en obras",
+   "Es obligatoria del 3 %"
+  ],
+  "correcta": 1,
+  "cita": "b) No procederá la constitución de garantía provisional por parte de los licitadores."
+ },
+ {
+  "n": 9117,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-72",
+  "pregunta": "En el procedimiento restringido solo pueden presentar proposiciones:",
+  "opciones": [
+   "Todos los empresarios interesados",
+   "Los empresarios que hayan participado en las consultas preliminares",
+   "Los empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación",
+   "Los empresarios invitados sin solicitud previa"
+  ],
+  "correcta": 2,
+  "cita": "Solo podrán presentar proposiciones aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación."
+ },
+ {
+  "n": 9118,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-72",
+  "pregunta": "Según el artículo 160.4, el procedimiento restringido es especialmente adecuado para:",
+  "opciones": [
+   "Contratos menores",
+   "Suministros de bienes consumibles",
+   "Servicios intelectuales de especial complejidad, como algunos de consultoría, arquitectura o ingeniería",
+   "Contratos de obras de mera conservación"
+  ],
+  "correcta": 2,
+  "cita": "Este procedimiento es especialmente adecuado cuando se trata de servicios intelectuales de especial complejidad, como es el caso de algunos servicios de consultoría, de arquitectura o de ingeniería."
+ },
+ {
+  "n": 9119,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-73",
+  "pregunta": "Plazo mínimo para presentar solicitudes de participación en el procedimiento restringido de contratos no sujetos a regulación armonizada",
+  "opciones": [
+   "10 días",
+   "20 días",
+   "15 días",
+   "30 días"
+  ],
+  "correcta": 2,
+  "cita": "Si se trata de contratos no sujetos a regulación armonizada, el plazo para la presentación de solicitudes de participación será, como mínimo, de quince días, contados desde la publicación del anuncio de licitación."
+ },
+ {
+  "n": 9120,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-74",
+  "pregunta": "En el procedimiento restringido, el número mínimo de empresarios a los que se invitará a participar no podrá ser inferior a:",
+  "opciones": [
+   "Diez",
+   "Tres",
+   "Seis",
+   "Cinco"
+  ],
+  "correcta": 3,
+  "cita": "El órgano de contratación señalará el número mínimo de empresarios a los que invitará a participar en el procedimiento, que no podrá ser inferior a cinco."
+ },
+ {
+  "n": 9121,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-80",
+  "pregunta": "¿En cuál de estos casos puede utilizarse el procedimiento negociado sin publicidad en contratos de obras, suministros y servicios?",
+  "opciones": [
+   "Cuando así lo prefiera el órgano de contratación por razones de eficacia",
+   "Cuando una imperiosa urgencia por acontecimientos imprevisibles no imputables al órgano de contratación no pueda atenderse con la tramitación urgente",
+   "Cuando el contrato sea de servicios de limpieza",
+   "Siempre que el valor estimado sea inferior a 100.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "b) En los contratos de obras, suministros y servicios, en los casos en que: 1.º Una imperiosa urgencia resultante de acontecimientos imprevisibles para el órgano de contratación y no imputables al mismo, demande una pronta ejecución del contrato que no pueda lograrse mediante la aplicación de la"
+ },
+ {
+  "n": 9122,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-104",
+  "pregunta": "La cuantía de cada penalidad por cumplimiento defectuoso no podrá ser superior al:",
+  "opciones": [
+   "20 por ciento del precio del contrato, IVA incluido",
+   "10 por ciento del precio del contrato, IVA excluido",
+   "5 por ciento del precio del contrato, IVA excluido",
+   "50 por ciento del precio del contrato"
+  ],
+  "correcta": 1,
+  "cita": "Estas penalidades deberán ser proporcionales a la gravedad del incumplimiento y las cuantías de cada una de ellas no podrán ser superiores al 10 por ciento del precio del contrato, IVA excluido, ni el total de las mismas superar el 50 por cien del precio del contrato."
+ },
+ {
+  "n": 9123,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-104",
+  "pregunta": "El total de las penalidades por cumplimiento defectuoso no podrá superar:",
+  "opciones": [
+   "El 20 por cien del precio del contrato",
+   "El 50 por cien del precio del contrato",
+   "El 10 por cien del precio del contrato",
+   "El importe de la garantía definitiva"
+  ],
+  "correcta": 1,
+  "cita": "Estas penalidades deberán ser proporcionales a la gravedad del incumplimiento y las cuantías de cada una de ellas no podrán ser superiores al 10 por ciento del precio del contrato, IVA excluido, ni el total de las mismas superar el 50 por cien del precio del contrato."
+ },
+ {
+  "n": 9124,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-105",
+  "pregunta": "La constitución en mora del contratista:",
+  "opciones": [
+   "Requiere un preaviso de quince días",
+   "No precisa intimación previa por parte de la Administración",
+   "Requiere declaración judicial",
+   "Requiere intimación previa por escrito"
+  ],
+  "correcta": 1,
+  "cita": "La constitución en mora del contratista no precisará intimación previa por parte de la Administración."
+ },
+ {
+  "n": 9125,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-105",
+  "pregunta": "Si el contratista incurre en demora en el plazo total por causas imputables a él, la Administración puede imponer penalidades diarias, salvo previsión distinta en el pliego, de:",
+  "opciones": [
+   "0,20 euros por cada 1.000 euros del precio del contrato",
+   "1 euro por cada 1.000 euros del precio del contrato",
+   "0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido",
+   "6 euros por cada 1.000 euros del precio del contrato"
+  ],
+  "correcta": 2,
+  "cita": "atendidas las circunstancias del caso, por la resolución del contrato o por la imposición de las penalidades diarias en la proporción de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido."
+ },
+ {
+  "n": 9126,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-105",
+  "pregunta": "Cada vez que las penalidades por demora alcancen un múltiplo de cierto porcentaje del precio del contrato, el órgano de contratación puede resolverlo o acordar su continuidad con nuevas penalidades. Ese porcentaje es:",
+  "opciones": [
+   "El 20 por 100",
+   "El 3 por 100",
+   "El 5 por 100",
+   "El 10 por 100"
+  ],
+  "correcta": 2,
+  "cita": "Cada vez que las penalidades por demora alcancen un múltiplo del 5 por 100 del precio del contrato, IVA excluido, el órgano de contratación estará facultado para proceder a la resolución del mismo o acordar la continuidad de su ejecución con imposición de nuevas penalidades."
+ },
+ {
+  "n": 9127,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-107",
+  "pregunta": "Si el retraso no es imputable al contratista y este ofrece cumplir si se le amplía el plazo, se le concederá un plazo:",
+  "opciones": [
+   "Igual a la mitad del tiempo perdido",
+   "Igual al doble del tiempo perdido",
+   "De un mes como máximo",
+   "Por lo menos igual al tiempo perdido, salvo que pida otro menor"
+  ],
+  "correcta": 3,
+  "cita": "Si el retraso fuese producido por motivos no imputables al contratista y este ofreciera cumplir sus compromisos si se le amplía el plazo inicial de ejecución, el órgano de contratación se lo concederá dándosele un plazo que será, por lo menos, igual al tiempo perdido, a no ser que el contratista pidiese otro menor."
+ },
+ {
+  "n": 9128,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-109",
+  "pregunta": "Con carácter general, la ejecución del contrato se realiza:",
+  "opciones": [
+   "A riesgo y ventura del contratista",
+   "Con garantía de beneficio para el contratista",
+   "Con riesgo compartido por mitades",
+   "A riesgo y ventura de la Administración"
+  ],
+  "correcta": 0,
+  "cita": "La ejecución del contrato se realizará a riesgo y ventura del contratista, sin perjuicio de lo establecido para el contrato de obras en el artículo 239."
+ },
+ {
+  "n": 9129,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-15",
+  "pregunta": "Los contratos administrativos solo podrán ser modificados:",
+  "opciones": [
+   "A solicitud del contratista cuando aumenten sus costes",
+   "Por razones de interés público, en los casos y en la forma previstos en la Ley",
+   "Por acuerdo libre de las partes",
+   "Por decisión de la mesa de contratación"
+  ],
+  "correcta": 1,
+  "cita": "del contratista, cesión del contrato, revisión de precios y ampliación del plazo de ejecución, los contratos administrativos solo podrán ser modificados por razones de interés público en los casos y en la forma previstos en esta Subsección, y de acuerdo con el procedimiento"
+ },
+ {
+  "n": 9130,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-16",
+  "pregunta": "Modificación máxima (porcentaje del precio inicial) de los contratos de las AAPP cuando esté prevista expresamente en el pliego de cláusulas administrativas particulares:",
+  "opciones": [
+   "10 %",
+   "50 %",
+   "15 %",
+   "20 %"
+  ],
+  "correcta": 3,
+  "cita": "Los contratos de las Administraciones Públicas podrán modificarse durante su vigencia hasta un máximo del veinte por ciento del precio inicial cuando en los pliegos de cláusulas administrativas particulares se hubiere advertido expresamente"
+ },
+ {
+  "n": 9131,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-16",
+  "pregunta": "Las modificaciones previstas en el pliego de cláusulas administrativas particulares en ningún caso podrán:",
+  "opciones": [
+   "Referirse a unidades de obra puntuales",
+   "Formalizarse por escrito",
+   "Superar el 10 por ciento del precio inicial",
+   "Alterar la naturaleza global del contrato inicial"
+  ],
+  "correcta": 3,
+  "cita": "En ningún caso los órganos de contratación podrán prever en el pliego de cláusulas administrativas particulares modificaciones que puedan alterar la naturaleza global del contrato inicial."
+ },
+ {
+  "n": 9132,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-18",
+  "pregunta": "Las modificaciones no previstas del artículo 205 son obligatorias para el contratista cuando la alteración de la cuantía no exceda del:",
+  "opciones": [
+   "50 por ciento del precio inicial, IVA incluido",
+   "10 por ciento del precio inicial, IVA excluido",
+   "15 por ciento del precio inicial, IVA excluido",
+   "20 por ciento del precio inicial, IVA excluido"
+  ],
+  "correcta": 3,
+  "cita": "contratación serán obligatorias para los contratistas cuando impliquen, aislada o conjuntamente, una alteración en su cuantía que no exceda del 20 por ciento del precio inicial del contrato, IVA excluido."
+ },
+ {
+  "n": 9133,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-20",
+  "pregunta": "Plazo de prescripción del derecho del contratista a reclamar los daños y perjuicios por suspensión del contrato, desde que recibe la orden de reanudar la ejecución",
+  "opciones": [
+   "1 año",
+   "2 años",
+   "5 años",
+   "4 años"
+  ],
+  "correcta": 0,
+  "cita": "c) El derecho a reclamar prescribe en un año contado desde que el contratista reciba la orden de reanudar la ejecución del contrato."
+ },
+ {
+  "n": 9134,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-20",
+  "pregunta": "En la suspensión del contrato, solo se indemnizan los períodos de suspensión:",
+  "opciones": [
+   "Declarados por el contratista en su factura",
+   "Superiores a un mes",
+   "Que reconozca la mesa de contratación",
+   "Que estén documentados en la correspondiente acta"
+  ],
+  "correcta": 3,
+  "cita": "b) Solo se indemnizarán los períodos de suspensión que estuvieran documentados en la correspondiente acta."
+ },
+ {
+  "n": 9135,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-22",
+  "pregunta": "Plazo para el acto formal y positivo de recepción o conformidad, desde la entrega o realización del objeto (salvo otro plazo en el pliego)",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "15 días",
+   "2 meses"
+  ],
+  "correcta": 0,
+  "cita": "En todo caso, su constatación exigirá por parte de la Administración un acto formal y positivo de recepción o conformidad dentro del mes siguiente a la entrega o realización del objeto del contrato, o en el plazo que se determine en el pliego de cláusulas administrativas particulares por razón de sus características."
+ },
+ {
+  "n": 9136,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-22",
+  "pregunta": "Plazo, en contratos distintos de obras, para acordar y notificar la liquidación del contrato y abonar el saldo, desde el acta de recepción o conformidad",
+  "opciones": [
+   "15 días",
+   "60 días",
+   "30 días",
+   "45 días"
+  ],
+  "correcta": 2,
+  "cita": "Excepto en los contratos de obras, que se regirán por lo dispuesto en el artículo 243, dentro del plazo de treinta días a contar desde la fecha del acta de recepción o conformidad, deberá acordarse en su caso y cuando la naturaleza del contrato lo exija, y ser notificada al"
+ },
+ {
+  "n": 9137,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-23",
+  "pregunta": "¿Cuál de las siguientes NO es causa de resolución del contrato según el artículo 211.1?",
+  "opciones": [
+   "El incumplimiento de la obligación principal del contrato",
+   "El mutuo acuerdo entre la Administración y el contratista",
+   "La revisión de precios conforme a la fórmula del pliego",
+   "La declaración de concurso del contratista"
+  ],
+  "correcta": 2,
+  "cita": "Son causas de resolución del contrato: a) La muerte o incapacidad sobrevenida del contratista individual o la extinción de la personalidad jurídica de la sociedad contratista, sin perjuicio de lo previsto en el artículo 98 relativo a la sucesión del contratista. b) La declaración de concurso o la declaración de insolvencia en cualquier otro procedimiento. c) El mutuo acuerdo entre la Administración y el contratista. d) La demora en el cumplimiento de los plazos por parte del contratista. En todo caso el retraso injustificado sobre el plan de trabajos establecido en el pliego o en el contrato, en cualquier actividad, por un plazo superior a un tercio del plazo de duración inicial del contrato, incluidas las posibles prórrogas. e) La demora en el pago por parte de la Administración por plazo superior al establecido en el apartado 6 del artículo 198 o el inferior que se hubiese fijado al amparo de su apartado 8. f) El incumplimiento de la obligación principal del contrato."
+ },
+ {
+  "n": 9138,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-23",
+  "pregunta": "Es causa de resolución el retraso injustificado sobre el plan de trabajos, en cualquier actividad, por un plazo superior a:",
+  "opciones": [
+   "Una cuarta parte del plazo de duración inicial del contrato",
+   "Un mes",
+   "La mitad del plazo de duración inicial del contrato",
+   "Un tercio del plazo de duración inicial del contrato, incluidas las prórrogas"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso el retraso injustificado sobre el plan de trabajos establecido en el pliego o en el contrato, en cualquier actividad, por un plazo superior a un tercio del plazo de duración inicial del contrato, incluidas las posibles prórrogas."
+ },
+ {
+  "n": 9139,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-23",
+  "pregunta": "Cuando concurran diversas causas de resolución con diferentes efectos económicos, se atenderá:",
+  "opciones": [
+   "A la más favorable para la Administración",
+   "A la que haya aparecido con prioridad en el tiempo",
+   "A la más favorable para el contratista",
+   "A la que elija el órgano de contratación"
+  ],
+  "correcta": 1,
+  "cita": "En los casos en que concurran diversas causas de resolución del contrato con diferentes efectos en cuanto a las consecuencias económicas de la extinción, deberá atenderse a la que haya aparecido con prioridad en el tiempo."
+ },
+ {
+  "n": 9140,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-26",
+  "pregunta": "Para ceder el contrato, el cedente debe tener ejecutado (salvo concurso y supuestos legales) al menos:",
+  "opciones": [
+   "Un 30 por 100 del importe del contrato",
+   "Un 50 por 100 del importe del contrato",
+   "Un 20 por 100 del importe del contrato",
+   "Un 10 por 100 del importe del contrato"
+  ],
+  "correcta": 2,
+  "cita": "b) Que el cedente tenga ejecutado al menos un 20 por 100 del importe del contrato o, cuando se trate de un contrato de concesión de obras o concesión de servicios, que haya efectuado su explotación durante al menos una quinta parte del plazo de duración del contrato."
+ },
+ {
+  "n": 9141,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-26",
+  "pregunta": "Plazo para notificar la resolución sobre la solicitud de autorización de cesión del contrato, transcurrido el cual se entiende otorgada",
+  "opciones": [
+   "3 meses",
+   "2 meses",
+   "6 meses",
+   "1 mes"
+  ],
+  "correcta": 1,
+  "cita": "El plazo para la notificación de la resolución sobre la solicitud de autorización será de dos meses, trascurrido el cual deberá entenderse otorgada por silencio administrativo."
+ },
+ {
+  "n": 9142,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-27",
+  "pregunta": "El contratista que vaya a subcontratar debe comunicar por escrito al órgano de contratación la intención de celebrar los subcontratos:",
+  "opciones": [
+   "Antes de presentar su oferta, en todo caso",
+   "Solo si el subcontrato supera el 50 % del precio",
+   "Al finalizar la ejecución del contrato",
+   "Tras la adjudicación y, a más tardar, cuando inicie la ejecución del contrato"
+  ],
+  "correcta": 3,
+  "cita": "b) En todo caso, el contratista deberá comunicar por escrito, tras la adjudicación del contrato y, a más tardar, cuando inicie la ejecución de este, al órgano de contratación la intención de celebrar los subcontratos, señalando la parte de la"
+ }
+]
