@@ -1,0 +1,1538 @@
+[
+ {
+  "n": 8001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1",
+  "pregunta": "¿Cuál de los siguientes NO es uno de los principios a los que, según el artículo 1.1, debe ajustarse la contratación del sector público?",
+  "opciones": [
+   "Libertad de acceso a las licitaciones",
+   "Preferencia de las empresas con domicilio en el territorio del órgano de contratación",
+   "Publicidad y transparencia de los procedimientos",
+   "No discriminación e igualdad de trato entre los licitadores"
+  ],
+  "correcta": 1,
+  "cita": "por objeto regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y"
+ },
+ {
+  "n": 8002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1",
+  "pregunta": "Según el artículo 1.1, la eficiente utilización de los fondos públicos se asegura, entre otros medios, mediante la selección de:",
+  "opciones": [
+   "La oferta presentada en primer lugar",
+   "La oferta de precio más bajo en todo caso",
+   "La oferta de la empresa con mayor volumen de negocios",
+   "La oferta económicamente más ventajosa"
+  ],
+  "correcta": 3,
+  "cita": "de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa."
+ },
+ {
+  "n": 8003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1",
+  "pregunta": "Según el artículo 1.3, en toda contratación pública los criterios sociales y medioambientales se incorporarán:",
+  "opciones": [
+   "Únicamente en los contratos de obras",
+   "De forma potestativa, a criterio del órgano de contratación",
+   "Solo en los contratos sujetos a regulación armonizada",
+   "De manera transversal y preceptiva, siempre que guarden relación con el objeto del contrato"
+  ],
+  "correcta": 3,
+  "cita": "En toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato, en la convicción de que su inclusión"
+ },
+ {
+  "n": 8004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-5",
+  "pregunta": "Por «obra» se entiende el resultado de un conjunto de trabajos de construcción o de ingeniería civil, destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto:",
+  "opciones": [
+   "Un servicio público",
+   "Un bien inmueble",
+   "Un bien mueble",
+   "Cualquier bien, mueble o inmueble"
+  ],
+  "correcta": 1,
+  "cita": "Por «obra» se entenderá el resultado de un conjunto de trabajos de construcción o de ingeniería civil, destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto un bien inmueble."
+ },
+ {
+  "n": 8005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-5",
+  "pregunta": "Con carácter general, los contratos de obras se referirán a:",
+  "opciones": [
+   "Cualquier parte de una obra, aunque no sea susceptible de utilización independiente",
+   "La redacción del proyecto exclusivamente",
+   "Cada una de las unidades de obra por separado",
+   "Una obra completa, susceptible de ser entregada al uso general o al servicio correspondiente"
+  ],
+  "correcta": 3,
+  "cita": "Los contratos de obras se referirán a una obra completa, entendiendo por esta la susceptible de ser entregada al uso general o al servicio"
+ },
+ {
+  "n": 8006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-6",
+  "pregunta": "En el contrato de concesión de obras, la contraprestación a favor del concesionario consiste:",
+  "opciones": [
+   "En la adquisición de la propiedad de la obra",
+   "Exclusivamente en un precio cierto abonado por la Administración",
+   "En una subvención a fondo perdido",
+   "Únicamente en el derecho a explotar la obra, o en dicho derecho acompañado del de percibir un precio"
+  ],
+  "correcta": 3,
+  "cita": "existentes, así como la conservación y mantenimiento de los elementos construidos, y en el que la contraprestación a favor de aquel consiste, o bien únicamente en el derecho a explotar la obra en el sentido del apartado cuarto siguiente, o bien en dicho derecho acompañado del de percibir un"
+ },
+ {
+  "n": 8007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-6",
+  "pregunta": "El derecho de explotación de las obras en la concesión de obras deberá implicar la transferencia al concesionario de:",
+  "opciones": [
+   "Ningún riesgo, que asume la Administración",
+   "Un riesgo operacional",
+   "La propiedad de la obra",
+   "Un riesgo exclusivamente financiero"
+  ],
+  "correcta": 1,
+  "cita": "El derecho de explotación de las obras, a que se refiere el apartado primero de este artículo, deberá implicar la transferencia al concesionario de un riesgo operacional en la explotación de dichas obras abarcando el riesgo de demanda o el de suministro, o ambos."
+ },
+ {
+  "n": 8008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-6",
+  "pregunta": "El riesgo operacional transferido al concesionario abarca:",
+  "opciones": [
+   "Solo el riesgo de tipo de interés",
+   "El riesgo de demanda o el de suministro, o ambos",
+   "Solo el riesgo de construcción",
+   "El riesgo derivado de las decisiones de la Administración concedente"
+  ],
+  "correcta": 1,
+  "cita": "El derecho de explotación de las obras, a que se refiere el apartado primero de este artículo, deberá implicar la transferencia al concesionario de un riesgo operacional en la explotación de dichas obras abarcando el riesgo de demanda o el de suministro, o ambos."
+ },
+ {
+  "n": 8009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-7",
+  "pregunta": "Mediante el contrato de concesión de servicios, uno o varios poderes adjudicadores encomiendan a título oneroso:",
+  "opciones": [
+   "La gestión de un servicio cuya prestación sea de su titularidad o competencia",
+   "La adquisición de productos o bienes muebles",
+   "La ejecución de una obra pública",
+   "El ejercicio de la autoridad inherente a los poderes públicos"
+  ],
+  "correcta": 0,
+  "cita": "poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del"
+ },
+ {
+  "n": 8010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-8",
+  "pregunta": "Son contratos de suministro los que tienen por objeto:",
+  "opciones": [
+   "Prestaciones de hacer consistentes en el desarrollo de una actividad",
+   "La adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles",
+   "La gestión de un servicio público con riesgo operacional",
+   "La adquisición o el arrendamiento de bienes inmuebles"
+  ],
+  "correcta": 1,
+  "cita": "Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles."
+ },
+ {
+  "n": 8011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-8",
+  "pregunta": "Salvo lo previsto para los programas de ordenador, NO tienen la consideración de contrato de suministro los contratos relativos a:",
+  "opciones": [
+   "Propiedades incorporales o valores negociables",
+   "El arrendamiento de equipos para el tratamiento de la información",
+   "La adquisición de energía primaria o transformada",
+   "La fabricación de bienes con características fijadas por la entidad contratante"
+  ],
+  "correcta": 0,
+  "cita": "Sin perjuicio de lo dispuesto en la letra b) del apartado 3 de este artículo respecto de los contratos que tengan por objeto programas de ordenador, no tendrán la consideración de contrato de suministro los contratos relativos a propiedades incorporales o valores negociables."
+ },
+ {
+  "n": 8012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-8",
+  "pregunta": "Los contratos de adquisición de programas de ordenador desarrollados a medida se consideran contratos:",
+  "opciones": [
+   "Mixtos de suministro y servicios",
+   "De servicios",
+   "De obras",
+   "De suministro"
+  ],
+  "correcta": 1,
+  "cita": "del derecho de uso de estos últimos, en cualquiera de sus modalidades de puesta a disposición, a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, que se considerarán contratos de servicios."
+ },
+ {
+  "n": 8013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-8",
+  "pregunta": "Los contratos que tengan por objeto la adquisición de energía primaria o energía transformada se consideran:",
+  "opciones": [
+   "Contratos privados excluidos de la Ley",
+   "Contratos de concesión de servicios",
+   "Contratos de servicios",
+   "Contratos de suministro"
+  ],
+  "correcta": 3,
+  "cita": "d) Los que tengan por objeto la adquisición de energía primaria o energía transformada."
+ },
+ {
+  "n": 8014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-9",
+  "pregunta": "Son contratos de servicios aquellos cuyo objeto son:",
+  "opciones": [
+   "Prestaciones de dar consistentes en la entrega de bienes muebles",
+   "Prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro",
+   "La gestión de un servicio con transferencia del riesgo operacional",
+   "Trabajos de construcción que tengan por objeto un bien inmueble"
+  ],
+  "correcta": 1,
+  "cita": "Son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario."
+ },
+ {
+  "n": 8015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-9",
+  "pregunta": "¿Qué NO puede ser objeto de un contrato de servicios?",
+  "opciones": [
+   "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+   "Los servicios ejecutados de forma sucesiva y por precio unitario",
+   "El desarrollo de una actividad",
+   "Las prestaciones dirigidas a la obtención de un resultado distinto de una obra o suministro"
+  ],
+  "correcta": 0,
+  "cita": "No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos."
+ },
+ {
+  "n": 8016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-10",
+  "pregunta": "Cuando un contrato mixto comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios, para su adjudicación se atenderá:",
+  "opciones": [
+   "Al carácter de la prestación principal",
+   "A la prestación que figure en primer lugar en el pliego",
+   "A la prestación de mayor duración",
+   "A las normas del contrato de servicios en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "prestaciones de varios contratos regulados en esta Ley, se estará a las siguientes reglas: a) Cuando un contrato mixto comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios se atenderá al carácter de la prestación principal."
+ },
+ {
+  "n": 8017,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-10",
+  "pregunta": "En un contrato mixto compuesto en parte por servicios y en parte por suministros, el objeto principal se determina:",
+  "opciones": [
+   "Considerándolo siempre contrato de suministro",
+   "En función de cuál sea el mayor de los valores estimados de los respectivos servicios o suministros",
+   "En función de la duración de cada prestación",
+   "Por decisión discrecional del órgano de contratación"
+  ],
+  "correcta": 1,
+  "cita": "o en el caso de los contratos mixtos compuestos en parte por servicios y en parte por suministros, el objeto principal se determinará en función de cuál sea el mayor de los valores estimados de los respectivos servicios o suministros."
+ },
+ {
+  "n": 8018,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-11",
+  "pregunta": "Para que un contrato de obras, concesión, suministro o servicios esté sujeto a regulación armonizada por razón de su valor estimado, la entidad contratante debe tener el carácter de:",
+  "opciones": [
+   "Entidad local exclusivamente",
+   "Poder adjudicador",
+   "Sociedad concesionaria privada",
+   "Entidad del sector público que no sea poder adjudicador"
+  ],
+  "correcta": 1,
+  "cita": "el artículo 101, sea igual o superior a las cuantías que se indican en los artículos siguientes, siempre que la entidad contratante tenga el carácter de poder adjudicador."
+ },
+ {
+  "n": 8019,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-11",
+  "pregunta": "Cualquiera que sea su valor estimado, NO se consideran sujetos a regulación armonizada:",
+  "opciones": [
+   "Los contratos declarados secretos o reservados",
+   "Los contratos de servicios sociales del anexo IV",
+   "Los contratos de concesión de servicios",
+   "Los contratos subvencionados del artículo 23"
+  ],
+  "correcta": 0,
+  "cita": "c) Los declarados secretos o reservados, o aquellos cuya ejecución deba ir acompañada de medidas de seguridad especiales conforme a la"
+ },
+ {
+  "n": 8020,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-2",
+  "pregunta": "Están sujetos a regulación armonizada los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a:",
+  "opciones": [
+   "5.404.000 euros",
+   "750.000 euros",
+   "1.000.000 euros",
+   "3.000.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "Están sujetos a regulación armonizada los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 5.404.000 euros."
+ },
+ {
+  "n": 8021,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-2",
+  "pregunta": "En los contratos de obras por lotes sujetos a regulación armonizada, el órgano de contratación puede exceptuar de estas normas los lotes cuyo valor estimado sea inferior a (siempre que no sobrepasen en conjunto el 20 % del total):",
+  "opciones": [
+   "80.000 euros",
+   "1.000.000 euros",
+   "140.000 euros",
+   "500.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "No obstante lo dispuesto en el párrafo anterior, los órganos de contratación podrán exceptuar de estas normas a los lotes cuyo valor estimado sea inferior a un millón de euros, siempre que el importe acumulado de los lotes exceptuados no sobrepase el 20 por 100 del valor acumulado de la totalidad de los mismos."
+ },
+ {
+  "n": 8022,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-3",
+  "pregunta": "Umbral de regulación armonizada de los contratos de suministro adjudicados por la Administración General del Estado, sus organismos autónomos o las entidades gestoras y servicios comunes de la Seguridad Social:",
+  "opciones": [
+   "750.000 euros",
+   "140.000 euros",
+   "100.000 euros",
+   "216.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "los contratos de suministro cuyo valor estimado sea igual o superior a las siguientes cantidades: a) 140.000 euros, cuando se trate de contratos adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social."
+ },
+ {
+  "n": 8023,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-3",
+  "pregunta": "En los suministros por lotes sujetos a regulación armonizada pueden exceptuarse de estas normas los lotes cuyo valor estimado sea inferior a (con el límite del 20 % del valor acumulado):",
+  "opciones": [
+   "40.000 euros",
+   "80.000 euros",
+   "15.000 euros",
+   "1.000.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "No obstante, los órganos de contratación podrán exceptuar de estas normas a los lotes cuyo valor estimado sea inferior a 80.000 euros, siempre que el importe acumulado de los lotes exceptuados no sobrepase el 20 por 100 del valor acumulado de la totalidad de los mismos."
+ },
+ {
+  "n": 8024,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-4",
+  "pregunta": "Umbral de regulación armonizada de los contratos de servicios adjudicados por entidades del sector público distintas de la AGE, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social:",
+  "opciones": [
+   "140.000 euros",
+   "5.404.000 euros",
+   "750.000 euros",
+   "216.000 euros"
+  ],
+  "correcta": 3,
+  "cita": "b) 216.000 euros, cuando los contratos hayan de adjudicarse por entidades del sector público distintas a la Administración General del Estado, sus Organismos Autónomos o las Entidades Gestoras y Servicios Comunes de la Seguridad Social."
+ },
+ {
+  "n": 8025,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-4",
+  "pregunta": "Umbral de regulación armonizada de los contratos de servicios sociales y otros servicios específicos del anexo IV:",
+  "opciones": [
+   "140.000 euros",
+   "1.000.000 euros",
+   "216.000 euros",
+   "750.000 euros"
+  ],
+  "correcta": 3,
+  "cita": "c) 750.000 euros, cuando se trate de contratos que tengan por objeto los servicios sociales y otros servicios específicos enumerados en el anexo IV."
+ },
+ {
+  "n": 8026,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-5",
+  "pregunta": "Son contratos subvencionados sujetos a regulación armonizada los de obras y servicios de las categorías legales subvencionados de forma directa por poderes adjudicadores en:",
+  "opciones": [
+   "Más de un 50 por 100 de su importe",
+   "Cualquier porcentaje de su importe",
+   "Más de un 25 por 100 de su importe",
+   "Más de un 80 por 100 de su importe"
+  ],
+  "correcta": 0,
+  "cita": "conforme a lo previsto en los artículos 13 y 17, respectivamente, que sean subvencionados, de forma directa y en más de un 50 por 100 de su importe, por entidades que tengan la consideración de poderes adjudicadores, siempre que pertenezcan a"
+ },
+ {
+  "n": 8027,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-7",
+  "pregunta": "Aunque los celebre una Administración Pública, tienen carácter privado los contratos cuyo objeto sea:",
+  "opciones": [
+   "La suscripción a revistas, publicaciones periódicas y bases de datos",
+   "La adquisición de material de oficina",
+   "La limpieza de edificios administrativos",
+   "La construcción de un edificio administrativo"
+  ],
+  "correcta": 0,
+  "cita": "2.º Aquellos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos."
+ },
+ {
+  "n": 8028,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-7",
+  "pregunta": "Los contratos administrativos se rigen por la LCSP y sus disposiciones de desarrollo y, supletoriamente:",
+  "opciones": [
+   "Exclusivamente por el Código Civil",
+   "Por las normas de derecho privado y, en su defecto, por las de derecho administrativo",
+   "Por los pliegos de prescripciones técnicas",
+   "Por las restantes normas de derecho administrativo y, en su defecto, por las normas de derecho privado"
+  ],
+  "correcta": 3,
+  "cita": "Los contratos administrativos se regirán, en cuanto a su preparación, adjudicación, efectos, modificación y extinción, por esta Ley y sus disposiciones de desarrollo; supletoriamente se aplicarán las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado."
+ },
+ {
+  "n": 8029,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-8",
+  "pregunta": "Los contratos celebrados por entidades del sector público que, siendo poder adjudicador, no reúnan la condición de Administración Pública tienen la consideración de:",
+  "opciones": [
+   "Contratos privados",
+   "Contratos administrativos especiales",
+   "Contratos administrativos",
+   "Encargos a medios propios"
+  ],
+  "correcta": 0,
+  "cita": "b) Los celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administraciones Públicas."
+ },
+ {
+  "n": 8030,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-8",
+  "pregunta": "Los contratos privados que celebren las Administraciones Públicas se rigen, en cuanto a sus efectos, modificación y extinción, por:",
+  "opciones": [
+   "Los pliegos de prescripciones técnicas",
+   "El derecho administrativo",
+   "La LCSP en todo caso",
+   "El derecho privado"
+  ],
+  "correcta": 3,
+  "cita": "En lo que respecta a su efectos, modificación y extinción, estos contratos se regirán por el derecho privado."
+ },
+ {
+  "n": 8031,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-9",
+  "pregunta": "¿Qué orden jurisdiccional es competente para las cuestiones relativas a la preparación y adjudicación de los contratos privados de las Administraciones Públicas?",
+  "opciones": [
+   "El civil",
+   "El social",
+   "El mercantil",
+   "El contencioso-administrativo"
+  ],
+  "correcta": 3,
+  "cita": "b) Las que se susciten en relación con la preparación y adjudicación de los contratos privados de las Administraciones Públicas."
+ },
+ {
+  "n": 8032,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-9",
+  "pregunta": "¿Qué orden jurisdiccional es competente para las controversias entre las partes sobre los efectos y extinción de los contratos privados de los poderes adjudicadores (salvo las modificaciones impugnables por los artículos 204 y 205)?",
+  "opciones": [
+   "El social",
+   "El civil",
+   "El penal",
+   "El contencioso-administrativo"
+  ],
+  "correcta": 1,
+  "cita": "El orden jurisdiccional civil será el competente para resolver: a) Las controversias que se susciten entre las partes en relación con los efectos y extinción de los contratos privados de las entidades que tengan la consideración de poderes adjudicadores, sean o no Administraciones"
+ },
+ {
+  "n": 8033,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-10",
+  "pregunta": "Las entidades del sector público no podrán celebrar otros contratos que aquellos que sean:",
+  "opciones": [
+   "De valor inferior a los umbrales de regulación armonizada",
+   "Autorizados previamente por el Consejo de Ministros",
+   "Incluidos en el Plan Anual Normativo",
+   "Necesarios para el cumplimiento y realización de sus fines institucionales"
+  ],
+  "correcta": 3,
+  "cita": "Las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales."
+ },
+ {
+  "n": 8034,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-10",
+  "pregunta": "Las entidades del sector público darán a conocer anticipadamente su plan de contratación mediante:",
+  "opciones": [
+   "Una orden ministerial publicada en el BOE",
+   "Una comunicación a la Junta Consultiva de Contratación Pública del Estado",
+   "Un anuncio de información previa",
+   "Su inclusión en los Presupuestos Generales del Estado"
+  ],
+  "correcta": 2,
+  "cita": "contratación pública, que desarrollarán en un ejercicio presupuestario o períodos plurianuales y darán a conocer su plan de contratación anticipadamente mediante un anuncio de información previa previsto en el artículo 134 que al menos recoja aquellos contratos que quedarán sujetos a una"
+ },
+ {
+  "n": 8035,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Preaviso mínimo con el que debe comunicarse la prórroga para que sea obligatoria para el empresario (salvo que el pliego establezca uno mayor)",
+  "opciones": [
+   "2 meses",
+   "6 meses",
+   "1 mes",
+   "3 meses"
+  ],
+  "correcta": 0,
+  "cita": "La prórroga se acordará por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con dos meses de antelación a la finalización del plazo de duración del contrato, salvo que en el pliego que rija el contrato se establezca uno mayor."
+ },
+ {
+  "n": 8036,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Duración de los contratos por debajo de la cual quedan exceptuados de la obligación de preaviso de la prórroga",
+  "opciones": [
+   "1 mes",
+   "2 meses",
+   "3 meses",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "Quedan exceptuados de la obligación de preaviso los contratos cuya duración fuera inferior a dos meses."
+ },
+ {
+  "n": 8037,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "¿Puede producirse la prórroga de un contrato del sector público por el consentimiento tácito de las partes?",
+  "opciones": [
+   "Sí, si ninguna de las partes la denuncia con dos meses de antelación",
+   "No, en ningún caso",
+   "Sí, si el pliego lo prevé",
+   "Sí, en los contratos de servicios de prestación sucesiva"
+  ],
+  "correcta": 1,
+  "cita": "En ningún caso podrá producirse la prórroga por el consentimiento tácito de las partes."
+ },
+ {
+  "n": 8038,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Demora de la Administración en el abono del precio que, si se supera, hace que la prórroga no sea obligatoria para el contratista",
+  "opciones": [
+   "6 meses",
+   "8 meses",
+   "4 meses",
+   "3 meses"
+  ],
+  "correcta": 0,
+  "cita": "La prórroga del contrato establecida en este apartado no será obligatoria para el contratista en los casos en que en el contrato se dé la causa de resolución establecida en el artículo 198.6 por haberse demorado la Administración en el abono del precio más de seis meses."
+ },
+ {
+  "n": 8039,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Duración máxima, con carácter general, de los contratos de suministros y de servicios de prestación sucesiva, incluidas las prórrogas",
+  "opciones": [
+   "6 años",
+   "5 años",
+   "10 años",
+   "4 años"
+  ],
+  "correcta": 1,
+  "cita": "Los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas que en aplicación del apartado segundo de este artículo acuerde el órgano de contratación,"
+ },
+ {
+  "n": 8040,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Prórroga máxima del contrato originario cuando, por acontecimientos imprevisibles, no se ha formalizado el nuevo contrato a su vencimiento",
+  "opciones": [
+   "6 meses",
+   "12 meses",
+   "9 meses",
+   "3 meses"
+  ],
+  "correcta": 2,
+  "cita": "se podrá prorrogar el contrato originario hasta que comience la ejecución del nuevo contrato y en todo caso por un periodo máximo de nueve meses, sin modificar las restantes condiciones del contrato, siempre que el anuncio de licitación del"
+ },
+ {
+  "n": 8041,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Antelación mínima con la que debe haberse publicado el anuncio de licitación del nuevo contrato, respecto del fin del originario, para poder prorrogar este excepcionalmente hasta el inicio de aquel",
+  "opciones": [
+   "3 meses",
+   "1 mes",
+   "2 meses",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "las restantes condiciones del contrato, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelación mínima de tres meses respecto de la fecha de finalización del contrato originario o, tratándose de un contrato basado en un acuerdo marco o un contrato específico en el marco un"
+ },
+ {
+  "n": 8042,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Duración máxima de los contratos de arrendamiento de bienes muebles, incluidas las prórrogas",
+  "opciones": [
+   "3 años",
+   "5 años",
+   "10 años",
+   "4 años"
+  ],
+  "correcta": 1,
+  "cita": "La duración de los contratos de arrendamiento de bienes muebles no podrá exceder, incluyendo las posibles prórrogas que en aplicación del apartado segundo de este artículo acuerde el órgano de contratación, de cinco años."
+ },
+ {
+  "n": 8043,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Duración máxima, incluidas las prórrogas, de los contratos de concesión de obras (cuando superan los cinco años)",
+  "opciones": [
+   "25 años",
+   "50 años",
+   "30 años",
+   "40 años"
+  ],
+  "correcta": 3,
+  "cita": "el segundo párrafo del presente apartado, no podrá exceder, incluyendo las posibles prórrogas, de: a) Cuarenta años para los contratos de concesión de obras, y de concesión de servicios que comprendan la ejecución de obras y la explotación de servicio."
+ },
+ {
+  "n": 8044,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Duración máxima, incluidas las prórrogas, de las concesiones de servicios que comprendan la explotación de un servicio no relacionado con la prestación de servicios sanitarios",
+  "opciones": [
+   "20 años",
+   "40 años",
+   "25 años",
+   "10 años"
+  ],
+  "correcta": 2,
+  "cita": "b) Veinticinco años en los contratos de concesión de servicios que comprendan la explotación de un servicio no relacionado con la prestación de servicios sanitarios."
+ },
+ {
+  "n": 8045,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Duración máxima, incluidas las prórrogas, de las concesiones de servicios cuyo objeto consista en la prestación de servicios sanitarios (no comprendidas en la letra a)",
+  "opciones": [
+   "5 años",
+   "10 años",
+   "25 años",
+   "15 años"
+  ],
+  "correcta": 1,
+  "cita": "c) Diez años en los contratos de concesión de servicios que comprendan la explotación de un servicio cuyo objeto consista en la prestación de servicios sanitarios siempre que no estén comprendidos en la letra a)."
+ },
+ {
+  "n": 8046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Para restablecer el equilibrio económico del contrato, los plazos de las concesiones fijados en los pliegos solo podrán ampliarse en:",
+  "opciones": [
+   "Un 25 por ciento de su duración inicial",
+   "Un 20 por ciento de su duración inicial",
+   "Un 15 por ciento de su duración inicial",
+   "Un 10 por ciento de su duración inicial"
+  ],
+  "correcta": 2,
+  "cita": "Los plazos fijados en los pliegos de condiciones solo podrán ser ampliados en un 15 por ciento de su duración inicial para restablecer el equilibrio económico del contrato en las circunstancias previstas en los artículos 270 y 290."
+ },
+ {
+  "n": 8047,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-2",
+  "pregunta": "La ejecución de obras por la propia Administración procede cuando posea elementos auxiliares utilizables cuyo empleo suponga una economía superior al:",
+  "opciones": [
+   "10 por 100 del importe del presupuesto del contrato",
+   "15 por 100 del importe del presupuesto del contrato",
+   "20 por 100 del importe del presupuesto del contrato",
+   "5 por 100 del importe del presupuesto del contrato"
+  ],
+  "correcta": 3,
+  "cita": "b) Que la Administración posea elementos auxiliares utilizables, cuyo empleo suponga una economía superior al 5 por 100 del importe del presupuesto del contrato o una mayor celeridad en su ejecución, justificándose, en este caso, las ventajas que se sigan de la misma."
+ },
+ {
+  "n": 8048,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-2",
+  "pregunta": "La fabricación de bienes muebles por los servicios de la Administración, en el supuesto de elementos auxiliares, requiere que el ahorro sea superior al:",
+  "opciones": [
+   "50 por 100 del presupuesto del suministro",
+   "10 por 100 del presupuesto del suministro",
+   "20 por 100 del presupuesto del suministro",
+   "5 por 100 del presupuesto del suministro"
+  ],
+  "correcta": 2,
+  "cita": "e) del apartado anterior, o cuando, en el supuesto definido en la letra b) de este mismo apartado, el ahorro que pueda obtenerse sea superior al 20 por 100 del presupuesto del suministro o pueda obtenerse una mayor celeridad en su ejecución."
+ },
+ {
+  "n": 8049,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-2",
+  "pregunta": "En la ejecución de obras por la Administración de los supuestos a) y b) del artículo 30.1, la contratación con colaboradores no podrá sobrepasar:",
+  "opciones": [
+   "El 40 por ciento del importe total del proyecto",
+   "El 50 por ciento del importe total del proyecto",
+   "El 80 por ciento del importe total del proyecto",
+   "El 60 por ciento del importe total del proyecto"
+  ],
+  "correcta": 3,
+  "cita": "En los supuestos de obras incluidas en las letras a) y b) del apartado 1 del presente artículo, la contratación con colaboradores no podrá sobrepasar el 60 por ciento del importe total del proyecto."
+ },
+ {
+  "n": 8050,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-2",
+  "pregunta": "Según el artículo 30.3, la prestación de servicios se realizará normalmente:",
+  "opciones": [
+   "Mediante encargo a un medio propio personificado",
+   "Mediante contrato de concesión de servicios",
+   "Por la propia Administración por sus propios medios",
+   "Mediante contrato de servicios en todo caso"
+  ],
+  "correcta": 2,
+  "cita": "La prestación de servicios se realizará normalmente por la propia Administración por sus propios medios."
+ },
+ {
+  "n": 8051,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-4",
+  "pregunta": "El encargo a un medio propio personificado que cumpla los requisitos del artículo 32:",
+  "opciones": [
+   "Tendrá la consideración de contrato de servicios",
+   "Deberá adjudicarse por procedimiento abierto",
+   "Tendrá la consideración de contrato administrativo especial",
+   "No tendrá la consideración de contrato"
+  ],
+  "correcta": 3,
+  "cita": "El encargo que cumpla dichos requisitos no tendrá la consideración de contrato."
+ },
+ {
+  "n": 8052,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-4",
+  "pregunta": "Para ser medio propio personificado, el ente destinatario del encargo debe realizar, en el ejercicio de los cometidos confiados por el poder adjudicador que lo controla o por otras personas jurídicas controladas del mismo modo:",
+  "opciones": [
+   "Más del 60 por ciento de sus actividades",
+   "La totalidad de sus actividades",
+   "Más del 80 por ciento de sus actividades",
+   "Más del 50 por ciento de sus actividades"
+  ],
+  "correcta": 2,
+  "cita": "b) Que más del 80 por ciento de las actividades del ente destinatario del encargo se lleven a cabo en el ejercicio de los cometidos que le han sido confiados por el poder adjudicador que hace el encargo y que lo controla o por otras personas jurídicas controladas del mismo modo por la entidad que hace el encargo."
+ },
+ {
+  "n": 8053,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-4",
+  "pregunta": "Cuando el medio propio personificado sea un ente de personificación jurídico-privada, su capital o patrimonio:",
+  "opciones": [
+   "Deberá ser público al menos en un 51 por ciento",
+   "Tendrá que ser en su totalidad de titularidad o aportación pública",
+   "Deberá ser público al menos en un 80 por ciento",
+   "Podrá tener cualquier participación privada minoritaria"
+  ],
+  "correcta": 1,
+  "cita": "c) Cuando el ente destinatario del encargo sea un ente de personificación jurídico-privada, además, la totalidad de su capital o patrimonio tendrá que ser de titularidad o aportación pública."
+ },
+ {
+  "n": 8054,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-6",
+  "pregunta": "En los contratos del sector público podrán incluirse cualesquiera pactos, cláusulas y condiciones siempre que:",
+  "opciones": [
+   "No incrementen el valor estimado del contrato",
+   "Sean aprobados por la Junta Consultiva de Contratación Pública del Estado",
+   "Figuren en un modelo normalizado de contrato",
+   "No sean contrarios al interés público, al ordenamiento jurídico y a los principios de buena administración"
+  ],
+  "correcta": 3,
+  "cita": "En los contratos del sector público podrán incluirse cualesquiera pactos, cláusulas y condiciones, siempre que no sean contrarios al interés público, al ordenamiento jurídico y a los principios de buena administración."
+ },
+ {
+  "n": 8055,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-7",
+  "pregunta": "¿Cuál de las siguientes NO figura entre las menciones que debe incluir necesariamente el documento de formalización del contrato (salvo que ya estén en los pliegos)?",
+  "opciones": [
+   "Los supuestos en que procede la resolución",
+   "El precio cierto, o el modo de determinarlo",
+   "La composición de la mesa de contratación",
+   "Las condiciones de pago"
+  ],
+  "correcta": 2,
+  "cita": "celebren las entidades del sector público, salvo que ya se encuentren recogidas en los pliegos, deberán incluir, necesariamente, las siguientes menciones: a) La identificación de las partes. b) La acreditación de la capacidad de los firmantes para suscribir el contrato. c) Definición del objeto y tipo del contrato, teniendo en cuenta en la definición del objeto las consideraciones sociales, ambientales y de innovación. d) Referencia a la legislación aplicable al contrato, con expresa mención al sometimiento a la normativa nacional y de la Unión Europea en materia de protección de datos. e) La enumeración de los documentos que integran el contrato. Si así se expresa en el contrato, esta enumeración podrá estar jerarquizada, ordenándose según el orden de prioridad acordado por las partes, en cuyo supuesto, y salvo caso de error manifiesto, el orden pactado se utilizará para determinar la prevalencia respectiva, en caso de que existan contradicciones entre diversos documentos. f) El precio cierto, o el modo de determinarlo. g) La duración del contrato o las fechas estimadas para el comienzo de su ejecución y para su finalización, así como la de la prórroga o prórrogas, si estuviesen previstas. h) Las condiciones de recepción, entrega o admisión de las prestaciones. i) Las condiciones de pago. j) Los supuestos en que procede la modificación, en su caso. k) Los supuestos en que procede la resolución."
+ },
+ {
+  "n": 8056,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-8",
+  "pregunta": "Con carácter general (salvo contratos menores y contratos basados en acuerdo marco o sistema dinámico), los contratos de los poderes adjudicadores se perfeccionan con:",
+  "opciones": [
+   "Su formalización",
+   "La presentación de la oferta",
+   "Su adjudicación",
+   "El inicio de su ejecución"
+  ],
+  "correcta": 0,
+  "cita": "Los contratos que celebren los poderes adjudicadores, a excepción de los contratos menores y de los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición a los que se refiere el apartado 3 de este artículo, se perfeccionan con su formalización."
+ },
+ {
+  "n": 8057,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-8",
+  "pregunta": "Los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición se perfeccionan con:",
+  "opciones": [
+   "Su adjudicación",
+   "La publicación en el perfil de contratante",
+   "La celebración del acuerdo marco",
+   "Su formalización"
+  ],
+  "correcta": 0,
+  "cita": "Los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición, se perfeccionan con su adjudicación."
+ },
+ {
+  "n": 8058,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-8",
+  "pregunta": "Salvo que se indique otra cosa en su clausulado, los contratos del sector público se entenderán celebrados en el lugar:",
+  "opciones": [
+   "Donde se presentó la oferta",
+   "Del domicilio social del contratista",
+   "Donde se encuentre la sede del órgano de contratación",
+   "Donde deba ejecutarse la prestación"
+  ],
+  "correcta": 2,
+  "cita": "Salvo que se indique otra cosa en su clausulado, los contratos del sector público se entenderán celebrados en el lugar donde se encuentre la sede del órgano de contratación."
+ },
+ {
+  "n": 8059,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-9",
+  "pregunta": "Las entidades del sector público pueden contratar verbalmente:",
+  "opciones": [
+   "Cuando el valor estimado sea inferior a 5.000 euros",
+   "Cuando lo autorice el titular del departamento",
+   "Solo cuando el contrato tenga carácter de emergencia",
+   "En los contratos menores"
+  ],
+  "correcta": 2,
+  "cita": "Las entidades del sector público no podrán contratar verbalmente, salvo que el contrato tenga, conforme a lo señalado en el artículo 120.1, carácter de emergencia."
+ },
+ {
+  "n": 8060,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-11",
+  "pregunta": "Según el artículo 39.1, son causas de nulidad de derecho administrativo de los contratos las indicadas en:",
+  "opciones": [
+   "El artículo 35 de la Ley 40/2015",
+   "El artículo 106 de la Ley 39/2015",
+   "El artículo 48 de la Ley 39/2015",
+   "El artículo 47 de la Ley 39/2015"
+  ],
+  "correcta": 3,
+  "cita": "Son causas de nulidad de derecho administrativo las indicadas en el artículo 47 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
+ },
+ {
+  "n": 8061,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-11",
+  "pregunta": "¿Cuál de las siguientes es causa de nulidad de pleno derecho de los contratos según el artículo 39.2?",
+  "opciones": [
+   "Las cláusulas que otorguen ventajas a empresas que hayan contratado previamente con cualquier Administración",
+   "Los encargos a medios propios que no cumplan los requisitos del artículo 32",
+   "La carencia o insuficiencia de crédito, salvo los supuestos de emergencia",
+   "El incumplimiento de los requisitos de los artículos 204 y 205 para la modificación del contrato"
+  ],
+  "correcta": 2,
+  "cita": "b) La carencia o insuficiencia de crédito, de conformidad con lo establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o en las normas presupuestarias de las restantes Administraciones Públicas sujetas a esta Ley, salvo los supuestos de emergencia."
+ },
+ {
+  "n": 8062,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-11",
+  "pregunta": "Formalizar el contrato sin respetar la suspensión automática del acto recurrido cuando se ha interpuesto recurso especial es causa de:",
+  "opciones": [
+   "Irregularidad no invalidante",
+   "Anulabilidad",
+   "Nulidad de pleno derecho",
+   "Resolución del contrato por incumplimiento del contratista"
+  ],
+  "correcta": 2,
+  "cita": "el recurso especial en materia de contratación a que se refieren los artículos 44 y siguientes, sin respetar la suspensión automática del acto recurrido en los casos en que fuera procedente, o la medida cautelar de suspensión acordada por el órgano"
+ },
+ {
+  "n": 8063,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-2",
+  "pregunta": "¿Cuál de las siguientes es causa de anulabilidad de derecho administrativo según el artículo 40?",
+  "opciones": [
+   "La falta de solvencia económica o técnica del adjudicatario",
+   "La carencia o insuficiencia de crédito",
+   "La falta de publicación preceptiva del anuncio de licitación en el perfil de contratante",
+   "El incumplimiento de las circunstancias y requisitos exigidos para la modificación de los contratos en los artículos 204 y 205"
+  ],
+  "correcta": 3,
+  "cita": "En particular, se incluyen entre las causas de anulabilidad a las que se refiere el párrafo anterior, las siguientes: a) El incumplimiento de las circunstancias y requisitos exigidos para la modificación de los contratos en los artículos 204 y 205."
+ },
+ {
+  "n": 8064,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-3",
+  "pregunta": "Cuando se trate de contratos de una Administración Pública, ¿quién es competente para declarar la nulidad o lesividad de sus actos preparatorios y de adjudicación?",
+  "opciones": [
+   "La Junta Consultiva de Contratación Pública del Estado",
+   "El Consejo de Estado",
+   "El Tribunal Administrativo Central de Recursos Contractuales",
+   "El órgano de contratación"
+  ],
+  "correcta": 3,
+  "cita": "deberán atribuir esta competencia a un órgano cuyas resoluciones agoten la vía administrativa, serán competentes para declarar la nulidad o lesividad de los actos a que se refieren los apartados anteriores el órgano de contratación, cuando se trate de contratos de una Administración Pública, o el titular del departamento,"
+ },
+ {
+  "n": 8065,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-6",
+  "pregunta": "Son susceptibles de recurso especial en materia de contratación los contratos de obras cuyo valor estimado sea superior a:",
+  "opciones": [
+   "1.000.000 euros",
+   "500.000 euros",
+   "3.000.000 euros",
+   "5.404.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "Públicas o las restantes entidades que ostenten la condición de poderes adjudicadores: a) Contratos de obras cuyo valor estimado sea superior a tres millones de euros, y de suministro y servicios, que tenga un valor estimado superior a cien mil euros."
+ },
+ {
+  "n": 8066,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-6",
+  "pregunta": "Son susceptibles de recurso especial en materia de contratación los contratos de suministro y servicios cuyo valor estimado sea superior a:",
+  "opciones": [
+   "100.000 euros",
+   "216.000 euros",
+   "15.000 euros",
+   "40.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "adjudicadores: a) Contratos de obras cuyo valor estimado sea superior a tres millones de euros, y de suministro y servicios, que tenga un valor estimado superior a cien mil euros."
+ },
+ {
+  "n": 8067,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-6",
+  "pregunta": "Son susceptibles de recurso especial en materia de contratación las concesiones de obras o de servicios cuyo valor estimado supere:",
+  "opciones": [
+   "1.000.000 euros",
+   "3.000.000 euros",
+   "750.000 euros",
+   "5.404.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "c) Concesiones de obras o de servicios cuyo valor estimado supere los tres millones de euros."
+ },
+ {
+  "n": 8068,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-6",
+  "pregunta": "¿Cuál de las siguientes actuaciones NO figura entre las que pueden ser objeto del recurso especial en materia de contratación?",
+  "opciones": [
+   "La imposición de penalidades al contratista durante la ejecución del contrato",
+   "Los pliegos que establezcan las condiciones que deban regir la contratación",
+   "Los acuerdos de adjudicación",
+   "Los acuerdos de rescate de concesiones"
+  ],
+  "correcta": 0,
+  "cita": "Podrán ser objeto del recurso las siguientes actuaciones: a) Los anuncios de licitación, los pliegos y los documentos contractuales que establezcan las condiciones que deban regir la contratación. b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que estos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. En todo caso se considerará que concurren las circunstancias anteriores en los actos de la mesa o del órgano de contratación por los que se acuerde la admisión o inadmisión de candidatos o licitadores, o la admisión o exclusión de ofertas, incluidas las ofertas que sean excluidas por resultar anormalmente bajas como consecuencia de la aplicación del artículo 149. c) Los acuerdos de adjudicación. d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la presente Ley, por entender que la modificación debió ser objeto de una nueva adjudicación. e) La formalización de encargos a medios propios en los casos en que estos no cumplan los requisitos legales. f) Los acuerdos de rescate de concesiones."
+ },
+ {
+  "n": 8069,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-6",
+  "pregunta": "No cabe recurso especial en materia de contratación en relación con los procedimientos de adjudicación que se sigan por:",
+  "opciones": [
+   "El procedimiento abierto",
+   "La tramitación urgente",
+   "El trámite de emergencia",
+   "El procedimiento restringido"
+  ],
+  "correcta": 2,
+  "cita": "No se dará este recurso en relación con los procedimientos de adjudicación que se sigan por el trámite de emergencia."
+ },
+ {
+  "n": 8070,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-6",
+  "pregunta": "Contra las actuaciones susceptibles de ser impugnadas mediante el recurso especial en materia de contratación:",
+  "opciones": [
+   "No procede la interposición de recursos administrativos ordinarios",
+   "Procede previamente el recurso de alzada",
+   "Procede previamente el recurso potestativo de reposición",
+   "El interesado puede elegir entre el recurso especial y el de alzada"
+  ],
+  "correcta": 0,
+  "cita": "Contra las actuaciones mencionadas en el presente artículo como susceptibles de ser impugnadas mediante el recurso especial, no procederá la interposición de recursos administrativos ordinarios."
+ },
+ {
+  "n": 8071,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-7",
+  "pregunta": "El Tribunal Administrativo Central de Recursos Contractuales está adscrito, según el artículo 45:",
+  "opciones": [
+   "Al Ministerio de Justicia",
+   "Al Consejo de Estado",
+   "Al Ministerio de Hacienda y Función Pública",
+   "A la Presidencia del Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "Dicho órgano estará adscrito al Ministerio de Hacienda y Función Pública, y estará compuesto por un Presidente y un mínimo de cinco vocales."
+ },
+ {
+  "n": 8072,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-7",
+  "pregunta": "El Tribunal Administrativo Central de Recursos Contractuales está compuesto por:",
+  "opciones": [
+   "Un Presidente, un Vicepresidente y tres vocales",
+   "Un Presidente y un mínimo de cinco vocales",
+   "Un Presidente y un mínimo de siete vocales",
+   "Un Presidente y un mínimo de tres vocales"
+  ],
+  "correcta": 1,
+  "cita": "Dicho órgano estará adscrito al Ministerio de Hacienda y Función Pública, y estará compuesto por un Presidente y un mínimo de cinco vocales."
+ },
+ {
+  "n": 8073,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a4-7",
+  "pregunta": "Tiempo de actividad profesional que deben superar los funcionarios de carrera para ser designados vocales del Tribunal Administrativo Central de Recursos Contractuales",
+  "opciones": [
+   "5 años",
+   "10 años",
+   "8 años",
+   "15 años"
+  ],
+  "correcta": 1,
+  "cita": "de carrera de cuerpos y escalas a los que se acceda con título de licenciado o de grado y que hayan desempeñado su actividad profesional por tiempo superior a diez años, preferentemente en el ámbito del derecho administrativo relacionado directamente con la"
+ },
+ {
+  "n": 8074,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a4-7",
+  "pregunta": "Tiempo de actividad profesional que debe superar el Presidente del Tribunal Administrativo Central de Recursos Contractuales",
+  "opciones": [
+   "12 años",
+   "15 años",
+   "10 años",
+   "20 años"
+  ],
+  "correcta": 1,
+  "cita": "necesario el título de licenciado o grado en derecho y haber desempeñado su actividad profesional por tiempo superior a quince años, preferentemente en el ámbito del derecho administrativo relacionado directamente con la"
+ },
+ {
+  "n": 8075,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a4-7",
+  "pregunta": "Duración del nombramiento del Presidente y los vocales del Tribunal Administrativo Central de Recursos Contractuales (no prorrogable)",
+  "opciones": [
+   "4 años",
+   "6 años",
+   "8 años",
+   "5 años"
+  ],
+  "correcta": 1,
+  "cita": "La duración del nombramiento efectuado de conformidad con este apartado será de seis años y no podrá prorrogarse."
+ },
+ {
+  "n": 8076,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-7",
+  "pregunta": "Mientras prestan servicio en el Tribunal Administrativo Central de Recursos Contractuales, el Presidente y los vocales pasan a la situación de:",
+  "opciones": [
+   "Excedencia voluntaria",
+   "Servicios especiales",
+   "Servicio activo",
+   "Servicio en otras Administraciones Públicas"
+  ],
+  "correcta": 1,
+  "cita": "Durante el tiempo en que se hallen prestando servicio en el Tribunal, tanto el Presidente como los Vocales pasarán a la situación de Servicios Especiales dentro de su cuerpo de origen."
+ },
+ {
+  "n": 8077,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-7",
+  "pregunta": "La designación del Presidente y los vocales del Tribunal Administrativo Central de Recursos Contractuales corresponde:",
+  "opciones": [
+   "Al Consejo General del Poder Judicial",
+   "Al Gobierno, a propuesta conjunta de los Ministros de Hacienda y Función Pública y de Justicia",
+   "Al Ministro de Hacienda y Función Pública, previo concurso",
+   "A las Cortes Generales, por mayoría de tres quintos"
+  ],
+  "correcta": 1,
+  "cita": "La designación del Presidente y los Vocales de este Tribunal se realizará por el Gobierno a propuesta conjunta del Ministro de Hacienda y Función Pública y del Ministro de Justicia."
+ },
+ {
+  "n": 8078,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-10",
+  "pregunta": "Según el artículo 48, en todo caso se entenderá legitimada para interponer el recurso especial en materia de contratación:",
+  "opciones": [
+   "El Defensor del Pueblo",
+   "El Ministerio Fiscal",
+   "Cualquier ciudadano, aunque no tenga interés afectado",
+   "La organización empresarial sectorial representativa de los intereses afectados"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso se entenderá legitimada la organización empresarial sectorial representativa de los intereses afectados."
+ },
+ {
+  "n": 8079,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a4-11",
+  "pregunta": "Plazo del órgano competente para resolver el recurso para decidir sobre las medidas cautelares solicitadas antes de interponerlo, desde la presentación del escrito",
+  "opciones": [
+   "5 días hábiles",
+   "2 días hábiles",
+   "10 días hábiles",
+   "3 días hábiles"
+  ],
+  "correcta": 0,
+  "cita": "El órgano competente para resolver el recurso deberá adoptar decisión en forma motivada sobre las medidas cautelares dentro de los cinco días hábiles siguientes a la presentación del escrito en que se soliciten."
+ },
+ {
+  "n": 8080,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a4-11",
+  "pregunta": "Plazo del órgano de contratación para presentar alegaciones sobre la solicitud de medidas cautelares",
+  "opciones": [
+   "5 días hábiles",
+   "10 días hábiles",
+   "3 días hábiles",
+   "2 días hábiles"
+  ],
+  "correcta": 3,
+  "cita": "en que se reciba la petición de la medida cautelar, comunicará la misma al órgano de contratación, que dispondrá de un plazo de dos días hábiles, para presentar las alegaciones que considere oportunas referidas a la adopción de las medidas"
+ },
+ {
+  "n": 8081,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a4-11",
+  "pregunta": "Contra las resoluciones dictadas en el procedimiento de medidas cautelares previas al recurso especial:",
+  "opciones": [
+   "No cabe recurso alguno, sin perjuicio de los que procedan contra las del procedimiento principal",
+   "Cabe recurso potestativo de reposición",
+   "Cabe recurso de alzada",
+   "Cabe recurso especial en materia de contratación"
+  ],
+  "correcta": 0,
+  "cita": "Contra las resoluciones dictadas en este procedimiento no cabrá recurso alguno, sin perjuicio de los que procedan contra las resoluciones que se dicten en el procedimiento principal."
+ },
+ {
+  "n": 8082,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a5-2",
+  "pregunta": "Cuando el recurso especial se interponga contra el anuncio de licitación, el plazo comienza a contarse:",
+  "opciones": [
+   "Desde la finalización del plazo de presentación de ofertas",
+   "A partir del día siguiente al de su publicación en el perfil de contratante",
+   "Desde su publicación en el Boletín Oficial del Estado",
+   "Desde el mismo día de su publicación en el perfil de contratante"
+  ],
+  "correcta": 1,
+  "cita": "Dicho plazo se computará: a) Cuando se interponga contra el anuncio de licitación, el plazo comenzará a contarse a partir del día siguiente al de su publicación en el perfil de contratante."
+ },
+ {
+  "n": 8083,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-2",
+  "pregunta": "Plazo para interponer el recurso especial fundado en las causas de nulidad del artículo 39.2 c), d), e) o f), desde la publicación de la formalización con las razones de la falta de publicación de la convocatoria",
+  "opciones": [
+   "20 días",
+   "30 días",
+   "15 días",
+   "45 días"
+  ],
+  "correcta": 1,
+  "cita": "apartado 2, letras c), d), e) o f) del artículo 39, el plazo de interposición será el siguiente: a) Treinta días a contar desde la publicación de la formalización del contrato en la forma prevista en esta Ley, incluyendo las razones justificativas por las que no se ha"
+ },
+ {
+  "n": 8084,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-2",
+  "pregunta": "Plazo para interponer el recurso especial fundado en dichas causas de nulidad en los restantes casos, desde la formalización del contrato",
+  "opciones": [
+   "2 meses",
+   "12 meses",
+   "6 meses",
+   "3 meses"
+  ],
+  "correcta": 2,
+  "cita": "b) En los restantes casos, antes de que transcurran seis meses a contar desde la formalización del contrato."
+ },
+ {
+  "n": 8085,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-3",
+  "pregunta": "Plazo para subsanar los defectos del escrito de recurso especial, desde el siguiente a la notificación del requerimiento",
+  "opciones": [
+   "5 días hábiles",
+   "2 días hábiles",
+   "3 días hábiles",
+   "10 días hábiles"
+  ],
+  "correcta": 2,
+  "cita": "de los defectos que puedan afectar al escrito de recurso, se requerirá al interesado a fin de que, en un plazo de tres días hábiles desde el siguiente a su notificación, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo"
+ },
+ {
+  "n": 8086,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a5-5",
+  "pregunta": "Interpuesto el recurso especial, queda en suspenso la tramitación del procedimiento cuando el acto recurrido sea:",
+  "opciones": [
+   "Los pliegos",
+   "El de adjudicación (salvo contratos basados en acuerdo marco o sistema dinámico)",
+   "El anuncio de licitación",
+   "Cualquier acto de trámite"
+  ],
+  "correcta": 1,
+  "cita": "Una vez interpuesto el recurso quedará en suspenso la tramitación del procedimiento cuando el acto recurrido sea el de adjudicación, salvo en el supuesto de contratos basados en un acuerdo marco o de contratos específicos en el"
+ },
+ {
+  "n": 8087,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a5-7",
+  "pregunta": "¿Cuál de los siguientes NO es un supuesto de inadmisión del recurso especial previsto en el artículo 55?",
+  "opciones": [
+   "La interposición del recurso una vez finalizado el plazo",
+   "La falta de legitimación del recurrente",
+   "La falta de motivación del acto recurrido",
+   "La incompetencia del órgano para conocer del recurso"
+  ],
+  "correcta": 2,
+  "cita": "encargado de resolver el recurso, tras la reclamación y examen del expediente administrativo, podrá declarar su inadmisión cuando constare de modo inequívoco y manifiesto cualquiera de los siguientes supuestos: a) La incompetencia del órgano para conocer del recurso. b) La falta de legitimación del recurrente o de acreditación de la representación de la persona que interpone el recurso en nombre de otra, mediante poder que sea suficiente a tal efecto. c) Haberse interpuesto el recurso contra actos no susceptibles de impugnación de conformidad con lo dispuesto en el artículo 44. d) La interposición del recurso, una vez finalizado el plazo establecido para su interposición."
+ },
+ {
+  "n": 8088,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-8",
+  "pregunta": "Plazo para remitir el expediente de contratación, con el informe, al órgano competente para resolver el recurso especial una vez reclamado",
+  "opciones": [
+   "3 días hábiles",
+   "10 días hábiles",
+   "2 días hábiles",
+   "5 días hábiles"
+  ],
+  "correcta": 2,
+  "cita": "reclamará el expediente de contratación a la entidad, órgano o servicio que lo hubiese tramitado, quien deberá remitirlo dentro de los dos días hábiles siguientes acompañado del correspondiente informe."
+ },
+ {
+  "n": 8089,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-8",
+  "pregunta": "Plazo de los restantes interesados para formular alegaciones en el recurso especial",
+  "opciones": [
+   "3 días hábiles",
+   "5 días hábiles",
+   "10 días hábiles",
+   "15 días hábiles"
+  ],
+  "correcta": 1,
+  "cita": "competente para la resolución del recurso dará traslado del mismo a los restantes interesados, concediéndoles un plazo de cinco días hábiles para formular alegaciones, que deberán presentarse necesariamente, en el registro del órgano competente para la resolución"
+ },
+ {
+  "n": 8090,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-8",
+  "pregunta": "Duración del período de prueba en el recurso especial en materia de contratación",
+  "opciones": [
+   "10 días hábiles",
+   "20 días hábiles",
+   "5 días hábiles",
+   "15 días hábiles"
+  ],
+  "correcta": 0,
+  "cita": "hechos alegados por los interesados o la naturaleza del procedimiento lo exija, podrá acordarse la apertura del período de prueba por plazo de diez días hábiles, a fin de que puedan practicarse cuantas juzgue pertinentes."
+ },
+ {
+  "n": 8091,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-9",
+  "pregunta": "Plazo para resolver el recurso especial una vez recibidas las alegaciones (o transcurrido su plazo) y, en su caso, la prueba",
+  "opciones": [
+   "15 días hábiles",
+   "2 días hábiles",
+   "10 días hábiles",
+   "5 días hábiles"
+  ],
+  "correcta": 3,
+  "cita": "Una vez recibidas las alegaciones de los interesados, o transcurrido el plazo señalado para su formulación, y el de la prueba, en su caso, el órgano competente deberá resolver el recurso dentro de los cinco días hábiles siguientes, notificándose a continuación la resolución a todos los interesados."
+ },
+ {
+  "n": 8092,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-9",
+  "pregunta": "Tiempo desde el siguiente a la interposición del recurso especial sin notificación de la resolución tras el cual el interesado puede considerarlo desestimado",
+  "opciones": [
+   "1 mes",
+   "6 meses",
+   "2 meses",
+   "3 meses"
+  ],
+  "correcta": 2,
+  "cita": "Transcurridos dos meses contados desde el siguiente a la interposición del recurso sin que se haya notificado su resolución, el interesado podrá considerarlo desestimado a los efectos de interponer recurso contencioso-administrativo."
+ },
+ {
+  "n": 8093,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a5-10",
+  "pregunta": "Si se aprecia temeridad o mala fe en la interposición del recurso especial, la multa al responsable será de:",
+  "opciones": [
+   "Entre 1.000 y 30.000 euros",
+   "Entre 6.000 y 600.000 euros",
+   "Entre 100 y 3.000 euros",
+   "Entre 3.000 y 60.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "El importe de la multa será de entre 1.000 y 30.000 euros, determinándose su cuantía en función de la mala fe apreciada y el perjuicio ocasionado al órgano de contratación y a los restantes licitadores, así como del cálculo de los beneficios obtenidos."
+ },
+ {
+  "n": 8094,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a5-10",
+  "pregunta": "El importe de la multa impuesta por temeridad o mala fe en el recurso especial se ingresa:",
+  "opciones": [
+   "En todo caso en el Tesoro Público",
+   "En el presupuesto del Tribunal que la impone",
+   "En la cuenta del órgano de contratación",
+   "A favor de los restantes licitadores perjudicados"
+  ],
+  "correcta": 0,
+  "cita": "El importe de la multa impuesta se ingresará en todo caso en el Tesoro Público."
+ },
+ {
+  "n": 8095,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a5-11",
+  "pregunta": "Contra la resolución dictada en el procedimiento del recurso especial en materia de contratación:",
+  "opciones": [
+   "Cabe recurso potestativo de reposición",
+   "Solo cabe recurso contencioso-administrativo",
+   "Cabe recurso extraordinario de revisión",
+   "Cabe recurso de alzada"
+  ],
+  "correcta": 1,
+  "cita": "Contra la resolución dictada en este procedimiento solo cabrá la interposición de recurso contencioso-administrativo conforme a lo dispuesto en el artículo 10, letras k) y l) del apartado 1 y en el artículo 11,"
+ },
+ {
+  "n": 8096,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a5-11",
+  "pregunta": "La resolución del recurso especial en materia de contratación:",
+  "opciones": [
+   "Será ejecutiva tras su publicación en el BOE",
+   "Será directamente ejecutiva",
+   "Requiere la conformidad del órgano de contratación para ser ejecutiva",
+   "Solo será ejecutiva cuando sea firme en vía judicial"
+  ],
+  "correcta": 1,
+  "cita": "Sin perjuicio de lo dispuesto en el apartado anterior, la resolución será directamente ejecutiva."
+ }
+]
