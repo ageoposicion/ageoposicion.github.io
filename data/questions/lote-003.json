@@ -1,0 +1,1506 @@
+[
+ {
+  "n": 3001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a97",
+  "pregunta": "Según el artículo 97, ¿quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado?",
+  "opciones": [
+   "El Rey",
+   "El Gobierno",
+   "El Consejo de Estado",
+   "Las Cortes Generales"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado."
+ },
+ {
+  "n": 3002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a98",
+  "pregunta": "Según el artículo 98.1, el Gobierno se compone de:",
+  "opciones": [
+   "El Presidente, los Vicepresidentes, en su caso, los Ministros y los demás miembros que establezca la ley",
+   "El Presidente, los Ministros y los Delegados del Gobierno en las Comunidades Autónomas",
+   "El Presidente, los Vicepresidentes en todo caso y los Ministros",
+   "El Presidente y los Ministros, exclusivamente"
+  ],
+  "correcta": 0,
+  "cita": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley."
+ },
+ {
+  "n": 3003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a99",
+  "pregunta": "En la primera votación de investidura, el candidato a la Presidencia del Gobierno necesita obtener:",
+  "opciones": [
+   "La mayoría simple del Congreso",
+   "La mayoría absoluta del Congreso",
+   "La mayoría absoluta de ambas Cámaras",
+   "La mayoría de tres quintos del Congreso"
+  ],
+  "correcta": 1,
+  "cita": "Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente."
+ },
+ {
+  "n": 3004,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a99",
+  "pregunta": "Nueva votación de investidura, en la que basta la mayoría simple, tras no alcanzarse la mayoría absoluta en la anterior",
+  "opciones": [
+   "24 horas",
+   "48 horas",
+   "12 horas",
+   "72 horas"
+  ],
+  "correcta": 1,
+  "cita": "De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple."
+ },
+ {
+  "n": 3005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a99",
+  "pregunta": "El Rey propone un candidato a la Presidencia del Gobierno, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través de:",
+  "opciones": [
+   "El Presidente del Gobierno en funciones",
+   "El Presidente del Senado",
+   "La Junta de Portavoces del Congreso",
+   "El Presidente del Congreso"
+  ],
+  "correcta": 3,
+  "cita": "con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno."
+ },
+ {
+  "n": 3006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a101",
+  "pregunta": "Según el artículo 101.1, el Gobierno cesa:",
+  "opciones": [
+   "Por decisión del Rey, oído el Consejo de Estado",
+   "Al finalizar cada período ordinario de sesiones",
+   "Tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria, o por dimisión o fallecimiento de su Presidente",
+   "Por la dimisión de la mitad de sus Ministros"
+  ],
+  "correcta": 2,
+  "cita": "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente."
+ },
+ {
+  "n": 3007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a101",
+  "pregunta": "Según el artículo 101.2, el Gobierno cesante:",
+  "opciones": [
+   "Será sustituido de inmediato por la Diputación Permanente",
+   "Continuará en funciones durante un plazo máximo de dos meses",
+   "Cesará en todas sus funciones el mismo día de las elecciones",
+   "Continuará en funciones hasta la toma de posesión del nuevo Gobierno"
+  ],
+  "correcta": 3,
+  "cita": "El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno."
+ },
+ {
+  "n": 3008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a102",
+  "pregunta": "La acusación contra el Presidente o los miembros del Gobierno por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones sólo podrá plantearse:",
+  "opciones": [
+   "Por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo",
+   "Por iniciativa de la décima parte de los Diputados, con la aprobación de la mayoría simple",
+   "Por iniciativa de la cuarta parte de los Senadores, con la aprobación de la mayoría absoluta del Senado",
+   "Por el Fiscal General del Estado, previa autorización del Congreso"
+  ],
+  "correcta": 0,
+  "cita": "Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo."
+ },
+ {
+  "n": 3009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a102",
+  "pregunta": "¿Ante qué órgano será exigible la responsabilidad criminal del Presidente y los demás miembros del Gobierno?",
+  "opciones": [
+   "La Sala de lo Penal del Tribunal Supremo",
+   "El Tribunal Constitucional",
+   "El Congreso de los Diputados",
+   "La Sala de lo Penal de la Audiencia Nacional"
+  ],
+  "correcta": 0,
+  "cita": "La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo."
+ },
+ {
+  "n": 3010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a103",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios de actuación de la Administración Pública enumerados en el artículo 103.1?",
+  "opciones": [
+   "Eficacia",
+   "Jerarquía",
+   "Transparencia",
+   "Desconcentración"
+  ],
+  "correcta": 2,
+  "cita": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."
+ },
+ {
+  "n": 3011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a103",
+  "pregunta": "Según el artículo 103.3, la ley regulará el acceso a la función pública de acuerdo con los principios de:",
+  "opciones": [
+   "Objetividad y eficacia",
+   "Mérito y capacidad",
+   "Jerarquía y coordinación",
+   "Antigüedad y experiencia"
+  ],
+  "correcta": 1,
+  "cita": "La ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones."
+ },
+ {
+  "n": 3012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a104",
+  "pregunta": "Según el artículo 104.1, las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tienen como misión:",
+  "opciones": [
+   "Supervisar la actividad de la Administración",
+   "Garantizar la soberanía e independencia de España",
+   "Velar por la independencia de los Tribunales",
+   "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana"
+  ],
+  "correcta": 3,
+  "cita": "Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana."
+ },
+ {
+  "n": 3013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a105",
+  "pregunta": "Según el artículo 105.b), la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a:",
+  "opciones": [
+   "La seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas",
+   "Los intereses económicos y comerciales de la Administración",
+   "La política económica y monetaria del Estado",
+   "Los procedimientos administrativos en tramitación"
+  ],
+  "correcta": 0,
+  "cita": "b) El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas."
+ },
+ {
+  "n": 3014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a106",
+  "pregunta": "Según el artículo 106.2, los particulares tienen derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos como consecuencia del funcionamiento de los servicios públicos, salvo en los casos de:",
+  "opciones": [
+   "Fuerza mayor",
+   "Funcionamiento normal de los servicios públicos",
+   "Culpa leve de la Administración",
+   "Caso fortuito"
+  ],
+  "correcta": 0,
+  "cita": "Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos."
+ },
+ {
+  "n": 3015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a107",
+  "pregunta": "Según el artículo 107, el Consejo de Estado es:",
+  "opciones": [
+   "El supremo órgano consultivo del Gobierno",
+   "El supremo órgano fiscalizador de las cuentas del Estado",
+   "El órgano de gobierno del Poder Judicial",
+   "Un alto comisionado de las Cortes Generales"
+  ],
+  "correcta": 0,
+  "cita": "El Consejo de Estado es el supremo órgano consultivo del Gobierno."
+ },
+ {
+  "n": 3016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a108",
+  "pregunta": "El Gobierno responde solidariamente en su gestión política ante:",
+  "opciones": [
+   "El Congreso de los Diputados",
+   "Las Cortes Generales",
+   "El Senado",
+   "El Rey"
+  ],
+  "correcta": 0,
+  "cita": "El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados."
+ },
+ {
+  "n": 3017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a111",
+  "pregunta": "Para el debate de las interpelaciones y preguntas al Gobierno, los Reglamentos de las Cámaras establecerán:",
+  "opciones": [
+   "Un tiempo mínimo semanal",
+   "Un tiempo máximo mensual",
+   "Un tiempo mínimo mensual",
+   "Un tiempo máximo semanal"
+  ],
+  "correcta": 0,
+  "cita": "Para esta clase de debate los Reglamentos establecerán un tiempo mínimo semanal."
+ },
+ {
+  "n": 3018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a112",
+  "pregunta": "¿Quién puede plantear ante el Congreso de los Diputados la cuestión de confianza?",
+  "opciones": [
+   "La décima parte de los Diputados",
+   "El Consejo de Ministros, a propuesta de cualquiera de sus miembros",
+   "El Presidente del Gobierno, previa deliberación del Consejo de Ministros",
+   "El Presidente del Gobierno, previa autorización del Rey"
+  ],
+  "correcta": 2,
+  "cita": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general."
+ },
+ {
+  "n": 3019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a112",
+  "pregunta": "En la cuestión de confianza, la confianza se entenderá otorgada cuando vote a favor de la misma:",
+  "opciones": [
+   "La mayoría absoluta de los Diputados",
+   "La mayoría simple de los Diputados",
+   "La mayoría simple de ambas Cámaras",
+   "Tres quintos de los Diputados"
+  ],
+  "correcta": 1,
+  "cita": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados."
+ },
+ {
+  "n": 3020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a113",
+  "pregunta": "¿Por qué mayoría adopta el Congreso de los Diputados la moción de censura?",
+  "opciones": [
+   "Mayoría simple",
+   "Mayoría de dos tercios",
+   "Mayoría absoluta",
+   "Mayoría de tres quintos"
+  ],
+  "correcta": 2,
+  "cita": "El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta de la moción de censura."
+ },
+ {
+  "n": 3021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a113",
+  "pregunta": "La moción de censura deberá ser propuesta, al menos, por:",
+  "opciones": [
+   "La décima parte de los Diputados",
+   "La cuarta parte de los Diputados",
+   "La quinta parte de los Diputados",
+   "La mayoría absoluta de los Diputados"
+  ],
+  "correcta": 0,
+  "cita": "La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno."
+ },
+ {
+  "n": 3022,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a113",
+  "pregunta": "Votación de la moción de censura: tiempo que debe transcurrir desde su presentación",
+  "opciones": [
+   "10 días",
+   "5 días",
+   "2 días",
+   "7 días"
+  ],
+  "correcta": 1,
+  "cita": "La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación."
+ },
+ {
+  "n": 3023,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a113",
+  "pregunta": "Presentación de mociones de censura alternativas, dentro del período anterior a la votación",
+  "opciones": [
+   "El primer día",
+   "Los 3 primeros días",
+   "Los 4 primeros días",
+   "Los 2 primeros días"
+  ],
+  "correcta": 3,
+  "cita": "En los dos primeros días de dicho plazo podrán presentarse mociones alternativas."
+ },
+ {
+  "n": 3024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a113",
+  "pregunta": "Si la moción de censura no fuere aprobada por el Congreso, sus signatarios:",
+  "opciones": [
+   "No podrán presentar otra hasta transcurrido un año",
+   "Podrán presentar otra transcurridos dos meses",
+   "No podrán presentar otra durante el mismo período de sesiones",
+   "No podrán presentar otra durante la misma legislatura"
+  ],
+  "correcta": 2,
+  "cita": "Si la moción de censura no fuere aprobada por el Congreso, sus signatarios no podrán presentar otra durante el mismo período de sesiones."
+ },
+ {
+  "n": 3025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a114",
+  "pregunta": "Si el Congreso adopta una moción de censura:",
+  "opciones": [
+   "El Gobierno continúa en funciones hasta las siguientes elecciones generales",
+   "El Gobierno presenta su dimisión al Rey y el candidato incluido en la moción se entiende investido de la confianza de la Cámara",
+   "El Rey disuelve las Cortes y convoca elecciones",
+   "El Rey abre una nueva ronda de consultas para proponer un candidato"
+  ],
+  "correcta": 1,
+  "cita": "Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara a los efectos previstos en el artículo 99."
+ },
+ {
+  "n": 3026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a115",
+  "pregunta": "La propuesta de disolución del Congreso, del Senado o de las Cortes Generales no podrá presentarse cuando:",
+  "opciones": [
+   "Las Cámaras estén fuera del período ordinario de sesiones",
+   "Esté en trámite el proyecto de Ley de Presupuestos",
+   "Esté en trámite una proposición de ley de iniciativa popular",
+   "Esté en trámite una moción de censura"
+  ],
+  "correcta": 3,
+  "cita": "La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura."
+ },
+ {
+  "n": 3027,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a115",
+  "pregunta": "Nueva disolución de las Cámaras desde la anterior (salvo el supuesto del artículo 99.5)",
+  "opciones": [
+   "1 año",
+   "4 años",
+   "3 años",
+   "2 años"
+  ],
+  "correcta": 0,
+  "cita": "No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo dispuesto en el artículo 99, apartado 5."
+ },
+ {
+  "n": 3028,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a116",
+  "pregunta": "Duración máxima del estado de alarma declarado por el Gobierno, sin autorización de prórroga del Congreso",
+  "opciones": [
+   "30 días",
+   "15 días",
+   "10 días",
+   "60 días"
+  ],
+  "correcta": 1,
+  "cita": "El estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo."
+ },
+ {
+  "n": 3029,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a116",
+  "pregunta": "Duración máxima del estado de excepción",
+  "opciones": [
+   "60 días, prorrogables por otro plazo igual",
+   "30 días, prorrogables por otro plazo igual",
+   "15 días, prorrogables por otro plazo igual",
+   "30 días, sin posibilidad de prórroga"
+  ],
+  "correcta": 1,
+  "cita": "La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de treinta días, prorrogables por otro plazo igual, con los mismos requisitos."
+ },
+ {
+  "n": 3030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a116",
+  "pregunta": "¿Cómo se declara el estado de sitio?",
+  "opciones": [
+   "Por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno",
+   "Por el Rey, previa autorización de las Cortes Generales",
+   "Por el Gobierno mediante decreto acordado en Consejo de Ministros, dando cuenta al Congreso",
+   "Por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso"
+  ],
+  "correcta": 0,
+  "cita": "El estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno."
+ },
+ {
+  "n": 3031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a116",
+  "pregunta": "¿Cómo se declara el estado de excepción?",
+  "opciones": [
+   "Por el Gobierno mediante decreto, dando cuenta posterior al Congreso",
+   "Por la mayoría absoluta del Congreso, a propuesta exclusiva del Gobierno",
+   "Por el Rey, a propuesta del Presidente del Gobierno",
+   "Por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados"
+  ],
+  "correcta": 3,
+  "cita": "El estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados."
+ },
+ {
+  "n": 3032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a116",
+  "pregunta": "Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a los estados del artículo 116, las competencias del Congreso serán asumidas por:",
+  "opciones": [
+   "El Gobierno en funciones",
+   "La Mesa del Congreso",
+   "Su Diputación Permanente",
+   "El Senado"
+  ],
+  "correcta": 2,
+  "cita": "Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de dichos estados, las competencias del Congreso serán asumidas por su Diputación Permanente."
+ },
+ {
+  "n": 3033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a117",
+  "pregunta": "Según el artículo 117.1, los Jueces y Magistrados integrantes del poder judicial son:",
+  "opciones": [
+   "Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+   "Independientes, inviolables, no sujetos a responsabilidad y sometidos al imperio de la ley",
+   "Independientes, amovibles, responsables y sometidos al Consejo General del Poder Judicial",
+   "Imparciales, inamovibles, no sujetos a responsabilidad y sometidos únicamente a la ley"
+  ],
+  "correcta": 0,
+  "cita": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley."
+ },
+ {
+  "n": 3034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a117",
+  "pregunta": "Según el artículo 117.5, ¿qué principio es la base de la organización y funcionamiento de los Tribunales?",
+  "opciones": [
+   "El principio de jerarquía",
+   "El principio de dependencia jerárquica",
+   "El principio de unidad jurisdiccional",
+   "El principio de descentralización"
+  ],
+  "correcta": 2,
+  "cita": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales."
+ },
+ {
+  "n": 3035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a119",
+  "pregunta": "Según el artículo 119, la justicia será gratuita cuando así lo disponga la ley y, en todo caso:",
+  "opciones": [
+   "En los procesos penales",
+   "Respecto de los menores de edad",
+   "Respecto de quienes acrediten insuficiencia de recursos para litigar",
+   "En los recursos de amparo"
+  ],
+  "correcta": 2,
+  "cita": "La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar."
+ },
+ {
+  "n": 3036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a120",
+  "pregunta": "Según el artículo 120.2, el procedimiento judicial será predominantemente oral, sobre todo en materia:",
+  "opciones": [
+   "Criminal",
+   "Civil",
+   "Laboral",
+   "Contencioso-administrativa"
+  ],
+  "correcta": 0,
+  "cita": "El procedimiento será predominantemente oral, sobre todo en materia criminal."
+ },
+ {
+  "n": 3037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a121",
+  "pregunta": "Los daños causados por error judicial darán derecho a una indemnización a cargo de:",
+  "opciones": [
+   "El Estado",
+   "El Juez o Magistrado que cometió el error",
+   "El Consejo General del Poder Judicial",
+   "La parte que se benefició del error"
+  ],
+  "correcta": 0,
+  "cita": "Los daños causados por error judicial, así como los que sean consecuencia del funcionamiento anormal de la Administración de Justicia, darán derecho a una indemnización a cargo del Estado, conforme a la ley."
+ },
+ {
+  "n": 3038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a122",
+  "pregunta": "Además del Presidente del Tribunal Supremo, que lo preside, ¿por cuántos miembros nombrados por el Rey está integrado el Consejo General del Poder Judicial?",
+  "opciones": [
+   "Veinte",
+   "Quince",
+   "Veintiuno",
+   "Doce"
+  ],
+  "correcta": 0,
+  "cita": "El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años."
+ },
+ {
+  "n": 3039,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a122",
+  "pregunta": "Mandato de los miembros del Consejo General del Poder Judicial",
+  "opciones": [
+   "6 años",
+   "9 años",
+   "5 años",
+   "4 años"
+  ],
+  "correcta": 2,
+  "cita": "El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años."
+ },
+ {
+  "n": 3040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a122",
+  "pregunta": "¿Por qué mayoría eligen el Congreso y el Senado a los miembros del Consejo General del Poder Judicial que les corresponde proponer?",
+  "opciones": [
+   "Tres quintos de sus miembros",
+   "Dos tercios de sus miembros",
+   "Mayoría absoluta",
+   "Mayoría simple"
+  ],
+  "correcta": 0,
+  "cita": "ley orgánica; cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años"
+ },
+ {
+  "n": 3041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a122",
+  "pregunta": "De los veinte miembros del Consejo General del Poder Judicial nombrados por el Rey, ¿cuántos lo son entre Jueces y Magistrados de todas las categorías judiciales?",
+  "opciones": [
+   "Diez",
+   "Cuatro",
+   "Ocho",
+   "Doce"
+  ],
+  "correcta": 3,
+  "cita": "De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados,"
+ },
+ {
+  "n": 3042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a123",
+  "pregunta": "El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta de:",
+  "opciones": [
+   "La Sala de Gobierno del Tribunal Supremo",
+   "El Gobierno",
+   "El Congreso de los Diputados",
+   "El Consejo General del Poder Judicial"
+  ],
+  "correcta": 3,
+  "cita": "El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
+ },
+ {
+  "n": 3043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a124",
+  "pregunta": "El Fiscal General del Estado será nombrado por el Rey:",
+  "opciones": [
+   "A propuesta del Consejo General del Poder Judicial, oído el Gobierno",
+   "A propuesta del Congreso de los Diputados por mayoría de tres quintos",
+   "A propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+   "A propuesta del Ministro de Justicia, sin otro trámite"
+  ],
+  "correcta": 2,
+  "cita": "El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial."
+ },
+ {
+  "n": 3044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a124",
+  "pregunta": "Según el artículo 124.2, el Ministerio Fiscal ejerce sus funciones conforme a los principios de:",
+  "opciones": [
+   "Jerarquía, descentralización y coordinación",
+   "Independencia e inamovilidad",
+   "Unidad jurisdiccional y exclusividad",
+   "Unidad de actuación y dependencia jerárquica, con sujeción en todo caso a los de legalidad e imparcialidad"
+  ],
+  "correcta": 3,
+  "cita": "El Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad."
+ },
+ {
+  "n": 3045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a125",
+  "pregunta": "Según el artículo 125, ¿mediante qué institución pueden los ciudadanos participar en la Administración de Justicia en los procesos penales que la ley determine?",
+  "opciones": [
+   "La policía judicial",
+   "El Jurado",
+   "El Consejo General del Poder Judicial",
+   "El Ministerio Fiscal"
+  ],
+  "correcta": 1,
+  "cita": "Los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine, así como en los Tribunales consuetudinarios y tradicionales."
+ },
+ {
+  "n": 3046,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a127",
+  "pregunta": "Los Jueces y Magistrados, así como los Fiscales, mientras se hallen en activo:",
+  "opciones": [
+   "No podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos",
+   "No podrán pertenecer a asociaciones profesionales",
+   "Podrán afiliarse a sindicatos, pero no a partidos políticos",
+   "Podrán pertenecer a partidos políticos, pero no desempeñar cargos en ellos"
+  ],
+  "correcta": 0,
+  "cita": "Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo, no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos."
+ },
+ {
+  "n": 3047,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a134",
+  "pregunta": "Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente:",
+  "opciones": [
+   "El Gobierno aprobará los Presupuestos mediante Decreto-ley",
+   "Se disolverán las Cortes y se convocarán elecciones",
+   "Se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+   "Se considerarán prorrogados por un máximo de seis meses"
+  ],
+  "correcta": 2,
+  "cita": "Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos."
+ },
+ {
+  "n": 3048,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a134",
+  "pregunta": "Según el artículo 134.7, la Ley de Presupuestos:",
+  "opciones": [
+   "Puede crear tributos cuando una ley tributaria sustantiva así lo prevea",
+   "No puede crear ni modificar tributos en ningún caso",
+   "Puede crear y modificar tributos libremente",
+   "No puede crear tributos, aunque podrá modificarlos cuando una ley tributaria sustantiva así lo prevea"
+  ],
+  "correcta": 3,
+  "cita": "La Ley de Presupuestos no puede crear tributos. Podrá modificarlos cuando una ley tributaria sustantiva así lo prevea."
+ },
+ {
+  "n": 3049,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a134",
+  "pregunta": "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios requerirá para su tramitación:",
+  "opciones": [
+   "La conformidad del Tribunal de Cuentas",
+   "La conformidad del Gobierno",
+   "El informe previo del Consejo de Estado",
+   "La mayoría absoluta del Congreso"
+  ],
+  "correcta": 1,
+  "cita": "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios requerirá la conformidad del Gobierno para su tramitación."
+ },
+ {
+  "n": 3050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a136",
+  "pregunta": "Según el artículo 136.1, el Tribunal de Cuentas depende directamente de:",
+  "opciones": [
+   "El Gobierno",
+   "El Congreso de los Diputados",
+   "El Ministerio de Hacienda",
+   "Las Cortes Generales"
+  ],
+  "correcta": 3,
+  "cita": "Dependerá directamente de las Cortes Generales y ejercerá sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado."
+ },
+ {
+  "n": 3051,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a136",
+  "pregunta": "Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que:",
+  "opciones": [
+   "Los Jueces",
+   "Los Diputados y Senadores",
+   "Los miembros del Tribunal Constitucional",
+   "Los miembros del Gobierno"
+  ],
+  "correcta": 0,
+  "cita": "Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los Jueces."
+ },
+ {
+  "n": 3052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a136",
+  "pregunta": "Según el artículo 136.2, ¿qué remite el Tribunal de Cuentas a las Cortes Generales?",
+  "opciones": [
+   "Un informe trimestral",
+   "Un informe anual",
+   "Un informe al final de cada legislatura",
+   "Un informe semestral"
+  ],
+  "correcta": 1,
+  "cita": "El Tribunal de Cuentas, sin perjuicio de su propia jurisdicción, remitirá a las Cortes Generales un informe anual en el que, cuando proceda, comunicará las infracciones o responsabilidades en que, a su juicio, se hubiere incurrido."
+ },
+ {
+  "n": 3053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a137",
+  "pregunta": "Según el artículo 137, el Estado se organiza territorialmente en:",
+  "opciones": [
+   "Municipios, provincias, islas y Comunidades Autónomas",
+   "Municipios, comarcas, provincias y Comunidades Autónomas",
+   "Provincias y Comunidades Autónomas",
+   "Municipios, provincias y las Comunidades Autónomas que se constituyan"
+  ],
+  "correcta": 3,
+  "cita": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan."
+ },
+ {
+  "n": 3054,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a140",
+  "pregunta": "Según el artículo 140, los Alcaldes serán elegidos:",
+  "opciones": [
+   "Por la Asamblea de la Comunidad Autónoma",
+   "Por el Pleno de la Diputación provincial",
+   "Por los Concejales o por los vecinos",
+   "Siempre por los vecinos mediante sufragio directo"
+  ],
+  "correcta": 2,
+  "cita": "Los Alcaldes serán elegidos por los Concejales o por los vecinos."
+ },
+ {
+  "n": 3055,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a141",
+  "pregunta": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante:",
+  "opciones": [
+   "Ley de bases",
+   "Ley orgánica",
+   "Ley ordinaria",
+   "Acuerdo de ambas Cámaras por mayoría simple"
+  ],
+  "correcta": 1,
+  "cita": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica."
+ },
+ {
+  "n": 3056,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a141",
+  "pregunta": "En los archipiélagos, las islas tendrán además su administración propia en forma de:",
+  "opciones": [
+   "Cabildos o Consejos",
+   "Juntas o Delegaciones insulares",
+   "Diputaciones insulares o Mancomunidades",
+   "Comarcas o Veguerías"
+  ],
+  "correcta": 0,
+  "cita": "En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos."
+ },
+ {
+  "n": 3057,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a143",
+  "pregunta": "Según el artículo 143.2, la iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a:",
+  "opciones": [
+   "Las tres cuartas partes de los municipios de cada provincia que representen la mayoría del censo electoral",
+   "La mayoría absoluta de los municipios de cada provincia",
+   "La mitad de los municipios que representen dos tercios del censo electoral",
+   "Las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla"
+  ],
+  "correcta": 3,
+  "cita": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla."
+ },
+ {
+  "n": 3058,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a143",
+  "pregunta": "Cumplimiento de los requisitos de la iniciativa autonómica del artículo 143.2, desde el primer acuerdo adoptado por alguna de las Corporaciones locales interesadas",
+  "opciones": [
+   "3 meses",
+   "9 meses",
+   "12 meses",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "Estos requisitos deberán ser cumplidos en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas."
+ },
+ {
+  "n": 3059,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a143",
+  "pregunta": "Reiteración de la iniciativa autonómica que no hubiera prosperado",
+  "opciones": [
+   "4 años",
+   "3 años",
+   "5 años",
+   "2 años"
+  ],
+  "correcta": 2,
+  "cita": "La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años."
+ },
+ {
+  "n": 3060,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a145",
+  "pregunta": "Según el artículo 145.1, en ningún caso se admitirá:",
+  "opciones": [
+   "La federación de Comunidades Autónomas",
+   "Los acuerdos de cooperación entre Comunidades Autónomas",
+   "La agrupación de municipios diferentes de la provincia",
+   "Los convenios entre Comunidades Autónomas para la gestión de servicios propios"
+  ],
+  "correcta": 0,
+  "cita": "En ningún caso se admitirá la federación de Comunidades Autónomas."
+ },
+ {
+  "n": 3061,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a145",
+  "pregunta": "Fuera de los convenios previstos en los Estatutos, los acuerdos de cooperación entre las Comunidades Autónomas necesitarán:",
+  "opciones": [
+   "El dictamen del Consejo de Estado",
+   "La aprobación del Tribunal Constitucional",
+   "La autorización del Gobierno",
+   "La autorización de las Cortes Generales"
+  ],
+  "correcta": 3,
+  "cita": "En los demás supuestos, los acuerdos de cooperación entre las Comunidades Autónomas necesitarán la autorización de las Cortes Generales."
+ },
+ {
+  "n": 3062,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a147",
+  "pregunta": "Según el artículo 147.1, los Estatutos de Autonomía son:",
+  "opciones": [
+   "Leyes ordinarias aprobadas por las Asambleas autonómicas",
+   "Reglamentos orgánicos del Gobierno autonómico",
+   "La norma institucional básica de cada Comunidad Autónoma",
+   "Tratados entre el Estado y cada Comunidad Autónoma"
+  ],
+  "correcta": 2,
+  "cita": "Dentro de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico."
+ },
+ {
+  "n": 3063,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a147",
+  "pregunta": "La reforma de los Estatutos de Autonomía requerirá, en todo caso:",
+  "opciones": [
+   "La autorización del Tribunal Constitucional",
+   "La aprobación por mayoría absoluta del Senado",
+   "La aprobación por las Cortes Generales, mediante ley orgánica",
+   "El dictamen favorable del Consejo de Estado"
+  ],
+  "correcta": 2,
+  "cita": "La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica."
+ },
+ {
+  "n": 3064,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a147",
+  "pregunta": "¿Cuál de los siguientes contenidos NO figura entre los que deben contener los Estatutos de autonomía según el artículo 147.2?",
+  "opciones": [
+   "La denominación, organización y sede de las instituciones autónomas propias",
+   "El régimen electoral de los municipios de la Comunidad",
+   "La delimitación de su territorio",
+   "Las competencias asumidas dentro del marco establecido en la Constitución"
+  ],
+  "correcta": 1,
+  "cita": "Los Estatutos de autonomía deberán contener: a) La denominación de la Comunidad que mejor corresponda a su identidad histórica. b) La delimitación de su territorio. c) La denominación, organización y sede de las instituciones autónomas propias. d) Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas."
+ },
+ {
+  "n": 3065,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a148",
+  "pregunta": "Ampliación sucesiva de las competencias de las Comunidades Autónomas mediante la reforma de sus Estatutos (artículo 148.2)",
+  "opciones": [
+   "4 años",
+   "5 años",
+   "3 años",
+   "10 años"
+  ],
+  "correcta": 1,
+  "cita": "Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149."
+ },
+ {
+  "n": 3066,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a148",
+  "pregunta": "¿Cuál de las siguientes materias figura en el artículo 148.1 entre las competencias que pueden asumir las Comunidades Autónomas?",
+  "opciones": [
+   "Promoción y ordenación del turismo en su ámbito territorial",
+   "Hacienda general y Deuda del Estado",
+   "Estadística para fines estatales",
+   "Sanidad exterior"
+  ],
+  "correcta": 0,
+  "cita": "18.ª Promoción y ordenación del turismo en su ámbito territorial."
+ },
+ {
+  "n": 3067,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a149",
+  "pregunta": "¿Cuál de las siguientes materias es competencia exclusiva del Estado según el artículo 149.1?",
+  "opciones": [
+   "Relaciones internacionales",
+   "Artesanía",
+   "Ferias interiores",
+   "Asistencia social"
+  ],
+  "correcta": 0,
+  "cita": "3.ª Relaciones internacionales."
+ },
+ {
+  "n": 3068,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a149",
+  "pregunta": "Según el artículo 149.3, el derecho estatal será, en todo caso:",
+  "opciones": [
+   "Supletorio del derecho de las Comunidades Autónomas",
+   "Prevalente sobre el derecho de las Comunidades Autónomas en todas las materias",
+   "Inaplicable en el territorio de las Comunidades Autónomas",
+   "Subordinado al derecho de las Comunidades Autónomas"
+  ],
+  "correcta": 0,
+  "cita": "El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas."
+ },
+ {
+  "n": 3069,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a150",
+  "pregunta": "Según el artículo 150.3, ¿a quién corresponde apreciar la necesidad de dictar leyes de armonización?",
+  "opciones": [
+   "Al Tribunal Constitucional",
+   "Al Congreso de los Diputados, por mayoría de tres quintos",
+   "Al Gobierno, previo dictamen del Consejo de Estado",
+   "A las Cortes Generales, por mayoría absoluta de cada Cámara"
+  ],
+  "correcta": 3,
+  "cita": "Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de esta necesidad."
+ },
+ {
+  "n": 3070,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a150",
+  "pregunta": "Según el artículo 150.2, el Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal mediante:",
+  "opciones": [
+   "Ley orgánica",
+   "Ley marco",
+   "Ley de armonización",
+   "Real decreto de traspasos"
+  ],
+  "correcta": 0,
+  "cita": "El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación."
+ },
+ {
+  "n": 3071,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a152",
+  "pregunta": "Según el artículo 152.1, ¿qué órgano culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma?",
+  "opciones": [
+   "Una Audiencia Provincial",
+   "Un Tribunal Superior de Justicia",
+   "Una Sala del Tribunal Supremo",
+   "Una Audiencia Territorial"
+  ],
+  "correcta": 1,
+  "cita": "Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma."
+ },
+ {
+  "n": 3072,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a153",
+  "pregunta": "El control económico y presupuestario de la actividad de los órganos de las Comunidades Autónomas corresponde a:",
+  "opciones": [
+   "El Gobierno, previo dictamen del Consejo de Estado",
+   "La jurisdicción contencioso-administrativa",
+   "El Tribunal Constitucional",
+   "El Tribunal de Cuentas"
+  ],
+  "correcta": 3,
+  "cita": "d) Por el Tribunal de Cuentas, el económico y presupuestario."
+ },
+ {
+  "n": 3073,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a154",
+  "pregunta": "Según el artículo 154, ¿quién dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma?",
+  "opciones": [
+   "Un Delegado elegido por la Asamblea legislativa de la Comunidad",
+   "Un Delegado nombrado por el Gobierno",
+   "Un Subdelegado nombrado por el Ministro del Interior",
+   "El Presidente de la Comunidad Autónoma"
+  ],
+  "correcta": 1,
+  "cita": "Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad."
+ },
+ {
+  "n": 3074,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a155",
+  "pregunta": "Para adoptar las medidas del artículo 155, el Gobierno necesita, previo requerimiento no atendido al Presidente de la Comunidad Autónoma:",
+  "opciones": [
+   "La aprobación por mayoría absoluta del Senado",
+   "La aprobación por mayoría de dos tercios de las Cortes Generales",
+   "La aprobación por mayoría absoluta del Congreso",
+   "La autorización del Tribunal Constitucional"
+  ],
+  "correcta": 0,
+  "cita": "previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas"
+ },
+ {
+  "n": 3075,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a157",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los recursos de las Comunidades Autónomas enumerados en el artículo 157.1?",
+  "opciones": [
+   "Sus propios impuestos, tasas y contribuciones especiales",
+   "El producto de las operaciones de crédito",
+   "Los derechos arancelarios de aduanas",
+   "Los rendimientos procedentes de su patrimonio"
+  ],
+  "correcta": 2,
+  "cita": "Los recursos de las Comunidades Autónomas estarán constituidos por: a) Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado. b) Sus propios impuestos, tasas y contribuciones especiales. c) Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado. d) Rendimientos procedentes de su patrimonio e ingresos de derecho privado. e) El producto de las operaciones de crédito."
+ },
+ {
+  "n": 3076,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a158",
+  "pregunta": "Según el artículo 158.2, el Fondo de Compensación tiene como destino:",
+  "opciones": [
+   "Gastos de inversión",
+   "Gastos corrientes",
+   "Gastos de personal",
+   "Gastos financieros"
+  ],
+  "correcta": 0,
+  "cita": "Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso."
+ },
+ {
+  "n": 3077,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a159",
+  "pregunta": "¿Cuántos miembros del Tribunal Constitucional son nombrados a propuesta del Gobierno?",
+  "opciones": [
+   "Cuatro",
+   "Uno",
+   "Dos",
+   "Tres"
+  ],
+  "correcta": 2,
+  "cita": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial."
+ },
+ {
+  "n": 3078,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a159",
+  "pregunta": "¿Cuántos miembros del Tribunal Constitucional se nombran a propuesta del Senado, y con qué mayoría?",
+  "opciones": [
+   "Seis, por mayoría de dos tercios",
+   "Dos, por mayoría de tres quintos",
+   "Cuatro, por mayoría de tres quintos de sus miembros",
+   "Cuatro, por mayoría absoluta"
+  ],
+  "correcta": 2,
+  "cita": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial."
+ },
+ {
+  "n": 3079,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a159",
+  "pregunta": "Según el artículo 159.2, los miembros del Tribunal Constitucional deberán ser juristas de reconocida competencia con más de:",
+  "opciones": [
+   "Diez años de ejercicio profesional",
+   "Veinte años de ejercicio profesional",
+   "Quince años de ejercicio profesional",
+   "Doce años de ejercicio profesional"
+  ],
+  "correcta": 2,
+  "cita": "Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional."
+ },
+ {
+  "n": 3080,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a159",
+  "pregunta": "Renovación por terceras partes del Tribunal Constitucional",
+  "opciones": [
+   "Cada 5 años",
+   "Cada 2 años",
+   "Cada 3 años",
+   "Cada 4 años"
+  ],
+  "correcta": 2,
+  "cita": "Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres."
+ },
+ {
+  "n": 3081,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a160",
+  "pregunta": "Mandato del Presidente del Tribunal Constitucional",
+  "opciones": [
+   "9 años",
+   "4 años",
+   "2 años",
+   "3 años"
+  ],
+  "correcta": 3,
+  "cita": "El Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno y por un período de tres años."
+ },
+ {
+  "n": 3082,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a160",
+  "pregunta": "El Presidente del Tribunal Constitucional es nombrado por el Rey, entre sus miembros, a propuesta de:",
+  "opciones": [
+   "El mismo Tribunal en pleno",
+   "El Consejo General del Poder Judicial",
+   "El Gobierno",
+   "El Congreso de los Diputados"
+  ],
+  "correcta": 0,
+  "cita": "El Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno y por un período de tres años."
+ },
+ {
+  "n": 3083,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a161",
+  "pregunta": "Ratificación o levantamiento, por el Tribunal Constitucional, de la suspensión de una disposición autonómica impugnada por el Gobierno",
+  "opciones": [
+   "No superior a 2 meses",
+   "No superior a 6 meses",
+   "No superior a 5 meses",
+   "No superior a 3 meses"
+  ],
+  "correcta": 2,
+  "cita": "La impugnación producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a cinco meses."
+ },
+ {
+  "n": 3084,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a162",
+  "pregunta": "¿Cuál de los siguientes NO está legitimado para interponer el recurso de inconstitucionalidad según el artículo 162.1.a)?",
+  "opciones": [
+   "50 Senadores",
+   "El Ministerio Fiscal",
+   "El Defensor del Pueblo",
+   "El Presidente del Gobierno"
+  ],
+  "correcta": 1,
+  "cita": "Están legitimados: a) Para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas."
+ },
+ {
+  "n": 3085,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a162",
+  "pregunta": "Según el artículo 162.1.b), están legitimados para interponer el recurso de amparo:",
+  "opciones": [
+   "El Presidente del Gobierno, 50 Diputados o 50 Senadores",
+   "Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal",
+   "Solo el Defensor del Pueblo y el Ministerio Fiscal",
+   "Solo las personas físicas directamente afectadas"
+  ],
+  "correcta": 1,
+  "cita": "b) Para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal."
+ },
+ {
+  "n": 3086,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a163",
+  "pregunta": "Según el artículo 163, los efectos del planteamiento de una cuestión de inconstitucionalidad por un órgano judicial:",
+  "opciones": [
+   "Serán suspensivos durante un máximo de cinco meses",
+   "Serán suspensivos solo en los procesos penales",
+   "En ningún caso serán suspensivos",
+   "Siempre serán suspensivos"
+  ],
+  "correcta": 2,
+  "cita": "el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos."
+ },
+ {
+  "n": 3087,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a164",
+  "pregunta": "Las sentencias del Tribunal Constitucional tienen el valor de cosa juzgada:",
+  "opciones": [
+   "A los veinte días de su publicación",
+   "A partir del día siguiente de su publicación",
+   "Desde la fecha en que se dictan",
+   "Desde su notificación a las partes"
+  ],
+  "correcta": 1,
+  "cita": "Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas."
+ },
+ {
+  "n": 3088,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a166",
+  "pregunta": "La iniciativa de reforma constitucional se ejercerá en los términos previstos en:",
+  "opciones": [
+   "Los apartados 1 y 2 del artículo 87",
+   "Los apartados 1, 2 y 3 del artículo 87",
+   "El artículo 92",
+   "El apartado 3 del artículo 87"
+  ],
+  "correcta": 0,
+  "cita": "La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87."
+ },
+ {
+  "n": 3089,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a167",
+  "pregunta": "De no lograrse la aprobación por el procedimiento del artículo 167.1, el Congreso podrá aprobar la reforma:",
+  "opciones": [
+   "Por mayoría de dos tercios, sin necesidad de votación favorable en el Senado",
+   "Por mayoría de dos tercios, siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado",
+   "Por mayoría absoluta, siempre que el texto hubiere obtenido dos tercios del Senado",
+   "Por mayoría de tres quintos, siempre que el texto hubiere obtenido la mayoría simple del Senado"
+  ],
+  "correcta": 1,
+  "cita": "De no lograrse la aprobación mediante el procedimiento del apartado anterior, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de dos tercios, podrá aprobar la reforma."
+ },
+ {
+  "n": 3090,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a167",
+  "pregunta": "Solicitud de referéndum de ratificación de la reforma constitucional del artículo 167, desde su aprobación por las Cortes Generales",
+  "opciones": [
+   "30 días",
+   "10 días",
+   "20 días",
+   "15 días"
+  ],
+  "correcta": 3,
+  "cita": "Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras."
+ },
+ {
+  "n": 3091,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a167",
+  "pregunta": "En el procedimiento del artículo 167, la reforma aprobada se somete a referéndum para su ratificación cuando así lo solicite:",
+  "opciones": [
+   "La mayoría absoluta del Congreso",
+   "Una décima parte de los miembros de ambas Cámaras conjuntamente",
+   "Una quinta parte de los miembros de cualquiera de las Cámaras",
+   "Una décima parte de los miembros de cualquiera de las Cámaras"
+  ],
+  "correcta": 3,
+  "cita": "Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras."
+ },
+ {
+  "n": 3092,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a168",
+  "pregunta": "¿Cuál de las siguientes reformas exige el procedimiento agravado del artículo 168?",
+  "opciones": [
+   "Una reforma del Capítulo tercero del Título I",
+   "Una reforma parcial que afecte al Título II (De la Corona)",
+   "Una reforma del Título III (Cortes Generales)",
+   "Una reforma del Título VIII (organización territorial)"
+  ],
+  "correcta": 1,
+  "cita": "Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes."
+ },
+ {
+  "n": 3093,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a168",
+  "pregunta": "En el procedimiento del artículo 168, una vez aprobado el principio de la reforma por mayoría de dos tercios de cada Cámara:",
+  "opciones": [
+   "Se procede a la disolución inmediata de las Cortes",
+   "Se somete directamente a referéndum",
+   "Se crea una Comisión de composición paritaria",
+   "Se remite al Tribunal Constitucional para su control previo"
+  ],
+  "correcta": 0,
+  "cita": "Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes."
+ },
+ {
+  "n": 3094,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a169",
+  "pregunta": "Según el artículo 169, no podrá iniciarse la reforma constitucional:",
+  "opciones": [
+   "Durante el último año de la legislatura",
+   "Sin dictamen previo del Consejo de Estado",
+   "Mientras esté en trámite una moción de censura",
+   "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116"
+  ],
+  "correcta": 3,
+  "cita": "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116."
+ }
+]
