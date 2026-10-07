@@ -143,7 +143,7 @@ PREGUNTAS = [
 # Arts. 39-50: estructura y créditos
 ('V', T, 'a40', '¿Cuál de las siguientes NO es una de las clasificaciones de los estados de gastos según el artículo 40.1 de la LGP?', 'La clasificación territorial',
  ['La clasificación orgánica', 'La clasificación por programas', 'La clasificación económica'],
- r're:se estructurarán de acuerdo con las siguientes clasificaciones: a\) La clasificación orgánica'),
+ r're:se estructurarán de acuerdo con las siguientes clasificaciones: a\) La clasificación orgánica.*?b\) La clasificación por programas.*?c\) La clasificación económica, que agrupará los créditos por capítulos'),
 ('V', T, 'a40', 'La clasificación económica agrupa los créditos de gastos por:', 'Capítulos, separando operaciones corrientes, de capital, financieras y el Fondo de Contingencia',
  ['Secciones y servicios', 'Programas y subprogramas', 'Políticas de gasto'],
  'La clasificación económica, que agrupará los créditos por capítulos'),

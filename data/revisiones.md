@@ -22,3 +22,13 @@ Resultado: 30 respuestas correctas y únicas, 0 fallos de contenido. Mejoras apl
 - 1032 (y otras 18 preguntas de plazo del lote 1, más la 7122): las opciones mezclaban días, meses y
   años. Se sustituyen solo los distractores para que las cuatro opciones sean del mismo tipo de plazo.
   La respuesta correcta no cambia.
+
+## Revisión 3 (tras los lotes 8, 9 y 10) · 7-10-2026
+
+Muestra (semilla 3003): 8002, 8005, 8006, 8024, 8028, 8029, 8031, 8052, 8063, 8069, 8075, 9014, 9031,
+9032, 9041, 9083, 9086, 9088, 9103, 10001, 10002, 10035, 10047, 10054, 10059, 10073, 10087, 10106,
+10113, 10125.
+
+Resultado: 30 respuestas correctas y únicas, 0 fallos de contenido. Mejora aplicada:
+- 10047 (pregunta «¿cuál NO es…?»): la cita se amplía para que muestre las tres clasificaciones
+  legales (orgánica, por programas y económica) y no solo la primera.
