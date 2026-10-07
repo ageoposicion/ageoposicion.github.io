@@ -1,0 +1,1842 @@
+[
+ {
+  "n": 11001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a54",
+  "pregunta": "Además de los principios generales del artículo 3, la Administración General del Estado actúa y se organiza de acuerdo con los principios de:",
+  "opciones": [
+   "Autonomía y subsidiariedad",
+   "Jerarquía y tutela",
+   "Centralización y concentración territorial",
+   "Descentralización funcional y desconcentración funcional y territorial"
+  ],
+  "correcta": 3,
+  "cita": "La Administración General del Estado actúa y se organiza de acuerdo con los principios establecidos en el artículo 3, así como los de descentralización funcional y desconcentración funcional y territorial."
+ },
+ {
+  "n": 11002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "La organización de la Administración General del Estado responde a los principios de:",
+  "opciones": [
+   "División territorial en provincias y gestión funcional en organismos autónomos",
+   "Gestión compartida con las Comunidades Autónomas",
+   "División funcional en Departamentos ministeriales y gestión territorial integrada en Delegaciones del Gobierno en las Comunidades Autónomas",
+   "Centralización en la Presidencia del Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "La organización de la Administración General del Estado responde a los principios de división funcional en Departamentos ministeriales y de gestión territorial integrada en Delegaciones del Gobierno en las Comunidades Autónomas, salvo las excepciones previstas por esta Ley."
+ },
+ {
+  "n": 11003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "¿Cuál de las siguientes NO es una de las partes que comprende la Administración General del Estado según el artículo 55.2?",
+  "opciones": [
+   "La Organización Territorial",
+   "La Organización Central",
+   "La Organización Institucional",
+   "La Administración General del Estado en el exterior"
+  ],
+  "correcta": 2,
+  "cita": "La Administración General del Estado comprende: a) La Organización Central, que integra los Ministerios y los servicios comunes. b) La Organización Territorial. c) La Administración General del Estado en el exterior."
+ },
+ {
+  "n": 11004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "En la organización central de la AGE, son órganos superiores:",
+  "opciones": [
+   "Los Ministros exclusivamente",
+   "Los Ministros y los Secretarios de Estado",
+   "Los Ministros, los Secretarios de Estado y los Subsecretarios",
+   "Los Subsecretarios y Secretarios generales"
+  ],
+  "correcta": 1,
+  "cita": "En la organización central son órganos superiores y órganos directivos: a) Órganos superiores: 1.º Los Ministros. 2.º Los Secretarios de Estado."
+ },
+ {
+  "n": 11005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "¿Cuál de los siguientes es un órgano directivo de la organización central de la AGE?",
+  "opciones": [
+   "El Secretario de Estado",
+   "El Ministro",
+   "El Consejo de Ministros",
+   "El Secretario general técnico"
+  ],
+  "correcta": 3,
+  "cita": "b) Órganos directivos: 1.º Los Subsecretarios y Secretarios generales. 2.º Los Secretarios generales técnicos y Directores generales. 3.º Los Subdirectores generales."
+ },
+ {
+  "n": 11006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "Los Delegados del Gobierno en las Comunidades Autónomas tienen rango de:",
+  "opciones": [
+   "Subsecretario",
+   "Secretario de Estado",
+   "Subdirector general",
+   "Director general"
+  ],
+  "correcta": 0,
+  "cita": "En la organización territorial de la Administración General del Estado son órganos directivos tanto los Delegados del Gobierno en las Comunidades Autónomas, que tendrán rango de Subsecretario, como los Subdelegados del Gobierno en las provincias, los cuales tendrán nivel de Subdirector general."
+ },
+ {
+  "n": 11007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "Los Subdelegados del Gobierno en las provincias tienen nivel de:",
+  "opciones": [
+   "Jefe de Servicio",
+   "Director general",
+   "Subsecretario",
+   "Subdirector general"
+  ],
+  "correcta": 3,
+  "cita": "En la organización territorial de la Administración General del Estado son órganos directivos tanto los Delegados del Gobierno en las Comunidades Autónomas, que tendrán rango de Subsecretario, como los Subdelegados del Gobierno en las provincias, los cuales tendrán nivel de Subdirector general."
+ },
+ {
+  "n": 11008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "En la Administración General del Estado en el exterior son órganos directivos:",
+  "opciones": [
+   "Los embajadores y representantes permanentes ante Organizaciones internacionales",
+   "Los Delegados del Gobierno",
+   "Los cónsules honorarios",
+   "Los agregados sectoriales"
+  ],
+  "correcta": 0,
+  "cita": "En la Administración General del Estado en el exterior son órganos directivos los embajadores y representantes permanentes ante Organizaciones internacionales."
+ },
+ {
+  "n": 11009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "Los órganos superiores y directivos de la AGE tienen además la condición de alto cargo, excepto:",
+  "opciones": [
+   "Los Secretarios generales técnicos",
+   "Los Delegados del Gobierno",
+   "Los Subdirectores generales y asimilados",
+   "Los Directores generales"
+  ],
+  "correcta": 2,
+  "cita": "Los órganos superiores y directivos tienen además la condición de alto cargo, excepto los Subdirectores generales y asimilados, de acuerdo con lo previsto en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado."
+ },
+ {
+  "n": 11010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a55",
+  "pregunta": "Según el artículo 55.9, corresponde a los órganos superiores establecer los planes de actuación de la organización situada bajo su responsabilidad y a los órganos directivos:",
+  "opciones": [
+   "Su aprobación definitiva",
+   "Su desarrollo y ejecución",
+   "Su elevación al Consejo de Ministros",
+   "Su evaluación final"
+  ],
+  "correcta": 1,
+  "cita": "Corresponde a los órganos superiores establecer los planes de actuación de la organización situada bajo su responsabilidad y a los órganos directivos su desarrollo y ejecución."
+ },
+ {
+  "n": 11011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a5-2",
+  "pregunta": "Los titulares de las Secretarías de Estado y órganos directivos de la AGE se nombrarán de modo que las personas de cada sexo, en el ámbito de cada departamento ministerial:",
+  "opciones": [
+   "No superen el sesenta por ciento ni sean menos del cuarenta por ciento",
+   "Sean exactamente la mitad",
+   "No superen el cincuenta por ciento",
+   "No superen el setenta por ciento ni sean menos del treinta por ciento"
+  ],
+  "correcta": 0,
+  "cita": "de representación equilibrada entre mujeres y hombres, de tal manera que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento en el ámbito de cada departamento ministerial."
+ },
+ {
+  "n": 11012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a56",
+  "pregunta": "Los elementos organizativos básicos de las estructuras orgánicas son:",
+  "opciones": [
+   "Las unidades administrativas",
+   "Los puestos de trabajo aislados",
+   "Las Subdirecciones Generales",
+   "Los órganos directivos"
+  ],
+  "correcta": 0,
+  "cita": "Las unidades administrativas son los elementos organizativos básicos de las estructuras orgánicas."
+ },
+ {
+  "n": 11013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a56",
+  "pregunta": "Las unidades administrativas se establecen mediante:",
+  "opciones": [
+   "Las relaciones de puestos de trabajo",
+   "Ley",
+   "Orden del Ministro respectivo",
+   "Real Decreto del Consejo de Ministros"
+  ],
+  "correcta": 0,
+  "cita": "Las unidades administrativas se establecen mediante las relaciones de puestos de trabajo, que se aprobarán de acuerdo con su regulación específica, y se integran en un determinado órgano."
+ },
+ {
+  "n": 11014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a57",
+  "pregunta": "El número, la denominación y el ámbito de competencia de los Ministerios y Secretarías de Estado se establecen mediante:",
+  "opciones": [
+   "Orden del Ministro de la Presidencia",
+   "Real Decreto del Presidente del Gobierno",
+   "Real Decreto del Consejo de Ministros",
+   "Ley de las Cortes Generales"
+  ],
+  "correcta": 1,
+  "cita": "La determinación del número, la denominación y el ámbito de competencia respectivo de los Ministerios y las Secretarías de Estado se establecen mediante Real Decreto del Presidente del Gobierno."
+ },
+ {
+  "n": 11015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a58",
+  "pregunta": "Según el artículo 58.2, los Ministerios contarán en todo caso con:",
+  "opciones": [
+   "Una Secretaría de Estado y una Secretaría General",
+   "Un Gabinete y una Secretaría General",
+   "Una Dirección General de Servicios y una Intervención Delegada",
+   "Una Subsecretaría y, dependiendo de ella, una Secretaría General Técnica"
+  ],
+  "correcta": 3,
+  "cita": "Los Ministerios contarán, en todo caso, con una Subsecretaría, y dependiendo de ella una Secretaría General Técnica, para la gestión de los servicios comunes previstos en este Título."
+ },
+ {
+  "n": 11016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a58",
+  "pregunta": "Las Direcciones Generales se organizan para la distribución de sus competencias en:",
+  "opciones": [
+   "Delegaciones",
+   "Subdirecciones Generales",
+   "Gabinetes técnicos",
+   "Secretarías Generales"
+  ],
+  "correcta": 1,
+  "cita": "Las Direcciones Generales se organizan en Subdirecciones Generales para la distribución de las competencias encomendadas a aquéllas, la realización de las actividades que les son propias y la asignación de objetivos y responsabilidades."
+ },
+ {
+  "n": 11017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a59",
+  "pregunta": "Las Direcciones Generales y Subdirecciones Generales se crean, modifican y suprimen por:",
+  "opciones": [
+   "Orden del Ministro respectivo",
+   "Real Decreto del Presidente del Gobierno",
+   "Real Decreto del Consejo de Ministros",
+   "Las relaciones de puestos de trabajo"
+  ],
+  "correcta": 2,
+  "cita": "las Secretarías Generales Técnicas, las Direcciones Generales, las Subdirecciones Generales, y órganos similares a los anteriores se crean, modifican y suprimen por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Administraciones"
+ },
+ {
+  "n": 11018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a59",
+  "pregunta": "Los órganos de nivel inferior a Subdirección General se crean, modifican y suprimen por:",
+  "opciones": [
+   "Orden del Ministro respectivo, previa autorización del ministro competente",
+   "Las relaciones de puestos de trabajo",
+   "Real Decreto del Consejo de Ministros",
+   "Resolución del Subsecretario"
+  ],
+  "correcta": 0,
+  "cita": "Los órganos de nivel inferior a Subdirección General se crean, modifican y suprimen por orden del Ministro respectivo, previa autorización del Ministro de Hacienda y Administraciones Públicas."
+ },
+ {
+  "n": 11019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a59",
+  "pregunta": "Las unidades que no tengan la consideración de órganos se crean, modifican y suprimen a través de:",
+  "opciones": [
+   "Real Decreto",
+   "Resolución del Director general",
+   "Orden ministerial",
+   "Las relaciones de puestos de trabajo"
+  ],
+  "correcta": 3,
+  "cita": "Las unidades que no tengan la consideración de órganos se crean, modifican y suprimen a través de las relaciones de puestos de trabajo."
+ },
+ {
+  "n": 11020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a60",
+  "pregunta": "Los Ministros son superiores jerárquicos directos de:",
+  "opciones": [
+   "Los Secretarios de Estado y Subsecretarios",
+   "Los Directores generales exclusivamente",
+   "Los Delegados del Gobierno",
+   "Los Subdirectores generales"
+  ],
+  "correcta": 0,
+  "cita": "Los Ministros son los jefes superiores del Departamento y superiores jerárquicos directos de los Secretarios de Estado y Subsecretarios."
+ },
+ {
+  "n": 11021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a60",
+  "pregunta": "Los órganos directivos se ordenan jerárquicamente entre sí del siguiente modo:",
+  "opciones": [
+   "Subdirector general, Director general y Subsecretario",
+   "Director general, Subsecretario y Subdirector general",
+   "Subsecretario, Director general y Subdirector general",
+   "Secretario general técnico, Subsecretario y Director general"
+  ],
+  "correcta": 2,
+  "cita": "Los órganos directivos dependen de alguno de los anteriores y se ordenan jerárquicamente entre sí de la siguiente forma: Subsecretario, Director general y Subdirector general."
+ },
+ {
+  "n": 11022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a60",
+  "pregunta": "Los Secretarios Generales Técnicos tienen categoría de:",
+  "opciones": [
+   "Director general",
+   "Secretario de Estado",
+   "Subdirector general",
+   "Subsecretario"
+  ],
+  "correcta": 0,
+  "cita": "Los Secretarios generales tienen categoría de Subsecretario y los Secretarios Generales Técnicos tienen categoría de Director general."
+ },
+ {
+  "n": 11023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a60",
+  "pregunta": "Los Secretarios generales tienen categoría de:",
+  "opciones": [
+   "Ministro",
+   "Secretario de Estado",
+   "Director general",
+   "Subsecretario"
+  ],
+  "correcta": 3,
+  "cita": "Los Secretarios generales tienen categoría de Subsecretario y los Secretarios Generales Técnicos tienen categoría de Director general."
+ },
+ {
+  "n": 11024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a61",
+  "pregunta": "¿Cuál de las siguientes es una función de los Ministros según el artículo 61?",
+  "opciones": [
+   "Desempeñar la jefatura superior de todo el personal del Departamento",
+   "Imponer la sanción de separación del servicio por faltas muy graves",
+   "Nombrar a los Subdelegados del Gobierno",
+   "Convocar y resolver los concursos de personal funcionario"
+  ],
+  "correcta": 1,
+  "cita": "s) Imponer la sanción de separación del servicio por faltas muy graves."
+ },
+ {
+  "n": 11025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a61",
+  "pregunta": "Ejercer la potestad reglamentaria en las materias propias de su Departamento corresponde a:",
+  "opciones": [
+   "Los Subsecretarios",
+   "Los Secretarios generales técnicos",
+   "Los Directores generales",
+   "Los Ministros"
+  ],
+  "correcta": 3,
+  "cita": "A tal fin, les corresponden las siguientes funciones: a) Ejercer la potestad reglamentaria en las materias propias de su Departamento."
+ },
+ {
+  "n": 11026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a62",
+  "pregunta": "Los Secretarios de Estado son directamente responsables de:",
+  "opciones": [
+   "La ejecución de la acción del Gobierno en un sector de actividad específica",
+   "La producción normativa y la asistencia jurídica",
+   "La jefatura superior del personal del Departamento",
+   "La representación ordinaria del Ministerio"
+  ],
+  "correcta": 0,
+  "cita": "Los Secretarios de Estado son directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica."
+ },
+ {
+  "n": 11027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a62",
+  "pregunta": "Nombrar y separar a los Subdirectores Generales de la Secretaría de Estado corresponde a:",
+  "opciones": [
+   "El Secretario de Estado",
+   "El Secretario general técnico",
+   "El Consejo de Ministros",
+   "El Director general"
+  ],
+  "correcta": 0,
+  "cita": "c) Nombrar y separar a los Subdirectores Generales de la Secretaría de Estado."
+ },
+ {
+  "n": 11028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a63",
+  "pregunta": "La representación ordinaria del Ministerio corresponde a:",
+  "opciones": [
+   "Los Secretarios de Estado",
+   "Los Secretarios generales técnicos",
+   "Los Subsecretarios",
+   "Los Ministros"
+  ],
+  "correcta": 2,
+  "cita": "Los Subsecretarios ostentan la representación ordinaria del Ministerio, dirigen los servicios comunes, ejercen las competencias correspondientes a dichos servicios"
+ },
+ {
+  "n": 11029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a63",
+  "pregunta": "Desempeñar la jefatura superior de todo el personal del Departamento corresponde a:",
+  "opciones": [
+   "El Subsecretario",
+   "El Director general de Servicios",
+   "El Secretario general técnico",
+   "El Ministro"
+  ],
+  "correcta": 0,
+  "cita": "f) Desempeñar la jefatura superior de todo el personal del Departamento."
+ },
+ {
+  "n": 11030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a63",
+  "pregunta": "Ejercer la potestad disciplinaria del personal del Departamento por faltas graves o muy graves, salvo la separación del servicio, corresponde a:",
+  "opciones": [
+   "El Subsecretario",
+   "El Director general",
+   "El Ministro",
+   "El Subdirector general de Recursos Humanos"
+  ],
+  "correcta": 0,
+  "cita": "n) Convocar y resolver los concursos de personal funcionario. ñ) Ejercer la potestad disciplinaria del personal del Departamento por faltas graves o muy graves, salvo la separación del servicio."
+ },
+ {
+  "n": 11031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a63",
+  "pregunta": "Convocar y resolver pruebas selectivas de personal funcionario y laboral del Departamento corresponde a:",
+  "opciones": [
+   "El Ministro",
+   "El Secretario general técnico",
+   "El Subsecretario",
+   "El Secretario de Estado"
+  ],
+  "correcta": 2,
+  "cita": "m) Convocar y resolver pruebas selectivas de personal funcionario y laboral."
+ },
+ {
+  "n": 11032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a63",
+  "pregunta": "Los Subsecretarios son nombrados y separados:",
+  "opciones": [
+   "Por Orden del Ministro",
+   "Por Real Decreto del Consejo de Ministros a propuesta del titular del Ministerio",
+   "Por Real Decreto del Presidente del Gobierno",
+   "Por el Secretario de Estado del que dependan"
+  ],
+  "correcta": 1,
+  "cita": "Los Subsecretarios serán nombrados y separados por Real Decreto del Consejo de Ministros a propuesta del titular del Ministerio."
+ },
+ {
+  "n": 11033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a63",
+  "pregunta": "Los Subsecretarios deben nombrarse, con carácter general, entre funcionarios de carrera del Estado, de las CCAA o de las Entidades locales pertenecientes al:",
+  "opciones": [
+   "Grupo B",
+   "Subgrupo C1",
+   "Subgrupo A2",
+   "Subgrupo A1"
+  ],
+  "correcta": 3,
+  "cita": "entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades locales, pertenecientes al Subgrupo A1, a que se refiere el artículo 76 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto legislativo 5/2015,"
+ },
+ {
+  "n": 11034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a64",
+  "pregunta": "Los Secretarios generales se nombran entre:",
+  "opciones": [
+   "Altos cargos con al menos cinco años de antigüedad",
+   "Personas con cualificación y experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada",
+   "Miembros de las Cortes Generales",
+   "Funcionarios del Subgrupo A1 exclusivamente"
+  ],
+  "correcta": 1,
+  "cita": "Los nombramientos habrán de efectuarse entre personas con cualificación y experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada."
+ },
+ {
+  "n": 11035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a65",
+  "pregunta": "Los Secretarios generales técnicos dependen inmediatamente de:",
+  "opciones": [
+   "El Director general",
+   "El Secretario de Estado",
+   "El Subsecretario",
+   "El Ministro"
+  ],
+  "correcta": 2,
+  "cita": "Los Secretarios generales técnicos, bajo la inmediata dependencia del Subsecretario, tendrán las competencias sobre servicios comunes que les atribuya el Real Decreto de estructura del Departamento y, en todo caso, las relativas a producción normativa, asistencia jurídica y publicaciones."
+ },
+ {
+  "n": 11036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a65",
+  "pregunta": "Los Secretarios generales técnicos tienen, en todo caso, las competencias relativas a:",
+  "opciones": [
+   "Producción normativa, asistencia jurídica y publicaciones",
+   "Contratación y patrimonio",
+   "Inspección de servicios y régimen disciplinario",
+   "Gestión de personal y presupuestos"
+  ],
+  "correcta": 0,
+  "cita": "Los Secretarios generales técnicos, bajo la inmediata dependencia del Subsecretario, tendrán las competencias sobre servicios comunes que les atribuya el Real Decreto de estructura del Departamento y, en todo caso, las relativas a producción normativa, asistencia jurídica y publicaciones."
+ },
+ {
+  "n": 11037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a66",
+  "pregunta": "Los Directores generales son los titulares de los órganos directivos encargados de:",
+  "opciones": [
+   "La gestión ordinaria de una Subdirección General",
+   "La representación ordinaria del Ministerio",
+   "La ejecución de la acción del Gobierno en un sector",
+   "La gestión de una o varias áreas funcionalmente homogéneas del Ministerio"
+  ],
+  "correcta": 3,
+  "cita": "Los Directores generales son los titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas del Ministerio."
+ },
+ {
+  "n": 11038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a66",
+  "pregunta": "Excepcionalmente, el titular de una Dirección General puede no ser funcionario cuando:",
+  "opciones": [
+   "Nunca, debe ser siempre funcionario del Subgrupo A1",
+   "Lo autoricen las Cortes Generales",
+   "Lo permita el Real Decreto de estructura, en atención a las características específicas de sus funciones, motivándolo en memoria razonada",
+   "Lo decida libremente el Ministro"
+  ],
+  "correcta": 2,
+  "cita": "octubre, o entre personas que hubieran perdido tal condición como consecuencia de su jubilación, salvo que el Real Decreto de estructura permita que, en atención a las características específicas de las funciones de la Dirección General, su titular no reúna dicha condición de funcionario, debiendo motivarse mediante memoria razonada"
+ },
+ {
+  "n": 11039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a67",
+  "pregunta": "Los Subdirectores generales son nombrados y cesados por:",
+  "opciones": [
+   "El Ministro, Secretario de Estado o Subsecretario del que dependan",
+   "El Consejo de Ministros mediante Real Decreto",
+   "El Presidente del Gobierno",
+   "El Director general del que dependan"
+  ],
+  "correcta": 0,
+  "cita": "Los Subdirectores generales serán nombrados, respetando los principios de igualdad, mérito y capacidad, y cesados por el Ministro, Secretario de Estado o Subsecretario del que dependan."
+ },
+ {
+  "n": 11040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a67",
+  "pregunta": "El nombramiento de los Subdirectores generales debe respetar los principios de:",
+  "opciones": [
+   "Antigüedad",
+   "Confianza política",
+   "Igualdad, mérito y capacidad",
+   "Libre designación sin requisitos"
+  ],
+  "correcta": 2,
+  "cita": "Los Subdirectores generales serán nombrados, respetando los principios de igualdad, mérito y capacidad, y cesados por el Ministro, Secretario de Estado o Subsecretario del que dependan."
+ },
+ {
+  "n": 11041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a68",
+  "pregunta": "¿Cuál de las siguientes funciones corresponde a los servicios comunes de los Ministerios según el artículo 68?",
+  "opciones": [
+   "Ejecución de la acción del Gobierno en un sector",
+   "Estadística para fines estatales y publicaciones",
+   "Representación del Gobierno en las Comunidades Autónomas",
+   "Dirección de las Fuerzas y Cuerpos de Seguridad"
+  ],
+  "correcta": 1,
+  "cita": "de medios materiales y servicios auxiliares, seguimiento, control e inspección de servicios, estadística para fines estatales y publicaciones."
+ },
+ {
+  "n": 11042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a69",
+  "pregunta": "¿Cuántas Delegaciones del Gobierno existen según el artículo 69.1?",
+  "opciones": [
+   "Una en cada provincia",
+   "Una en cada Comunidad Autónoma",
+   "Una por cada Ministerio",
+   "Una en cada Comunidad Autónoma pluriprovincial"
+  ],
+  "correcta": 1,
+  "cita": "Existirá una Delegación del Gobierno en cada una de las Comunidades Autónomas."
+ },
+ {
+  "n": 11043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a69",
+  "pregunta": "Salvo acuerdo distinto del Consejo de Ministros o previsión del Estatuto de Autonomía, las Delegaciones del Gobierno tienen su sede en:",
+  "opciones": [
+   "La localidad donde radique el Consejo de Gobierno de la Comunidad Autónoma",
+   "La localidad donde radique el Parlamento autonómico",
+   "Madrid",
+   "La capital de la provincia más poblada"
+  ],
+  "correcta": 0,
+  "cita": "Las Delegaciones del Gobierno tendrán su sede en la localidad donde radique el Consejo de Gobierno de la Comunidad Autónoma, salvo que el Consejo de Ministros acuerde ubicarla en otra distinta y sin perjuicio de lo que disponga expresamente el Estatuto de Autonomía."
+ },
+ {
+  "n": 11044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a69",
+  "pregunta": "En las Comunidades Autónomas uniprovinciales, las Subdelegaciones del Gobierno:",
+  "opciones": [
+   "Existen siempre",
+   "Se crean por orden del Delegado del Gobierno",
+   "Pueden crearse por Real Decreto cuando circunstancias como la población o el volumen de gestión lo justifiquen",
+   "Están prohibidas"
+  ],
+  "correcta": 2,
+  "cita": "Podrán crearse por Real Decreto Subdelegaciones del Gobierno en las Comunidades Autónomas uniprovinciales, cuando circunstancias tales como la población del territorio, el volumen de gestión o sus singularidades geográficas, sociales o económicas así lo justifiquen."
+ },
+ {
+  "n": 11045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a70",
+  "pregunta": "Los Directores Insulares de la Administración General del Estado son nombrados por:",
+  "opciones": [
+   "El Presidente del Cabildo o Consejo Insular",
+   "El Delegado del Gobierno, mediante libre designación entre funcionarios del Subgrupo A1",
+   "El Consejo de Ministros",
+   "El Subdelegado del Gobierno, por concurso"
+  ],
+  "correcta": 1,
+  "cita": "Serán nombrados por el Delegado del Gobierno mediante el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1."
+ },
+ {
+  "n": 11046,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a71",
+  "pregunta": "Los servicios territoriales integrados en las Delegaciones del Gobierno dependen:",
+  "opciones": [
+   "Del Delegado del Gobierno o, en su caso, del Subdelegado, a través de la Secretaría General",
+   "Del órgano central competente sobre el sector de actividad",
+   "Del Ministro de la Presidencia directamente",
+   "De la Comunidad Autónoma"
+  ],
+  "correcta": 0,
+  "cita": "Los servicios territoriales integrados dependerán del Delegado del Gobierno, o en su caso Subdelegado del Gobierno, a través de la Secretaría General, y actuarán de acuerdo con las instrucciones técnicas y criterios operativos establecidos por el Ministerio competente por razón de la materia."
+ },
+ {
+  "n": 11047,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a71",
+  "pregunta": "Los servicios territoriales no integrados en las Delegaciones del Gobierno dependen:",
+  "opciones": [
+   "Del Delegado del Gobierno",
+   "Del Subdelegado del Gobierno",
+   "De la Secretaría General de la Delegación",
+   "Del órgano central competente sobre el sector de actividad en el que operen"
+  ],
+  "correcta": 3,
+  "cita": "Los servicios territoriales no integrados dependerán del órgano central competente sobre el sector de actividad en el que aquéllos operen, el cual les fijará los objetivos concretos de actuación y controlará su ejecución, así como el funcionamiento de los servicios."
+ },
+ {
+  "n": 11048,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a72",
+  "pregunta": "Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la Comunidad Autónoma:",
+  "opciones": [
+   "Por delegación del Presidente autonómico",
+   "Sin perjuicio de la representación ordinaria del Estado a través de los Presidentes autonómicos",
+   "Con exclusión de cualquier otra representación del Estado",
+   "Solo en materia de seguridad ciudadana"
+  ],
+  "correcta": 1,
+  "cita": "Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma, sin perjuicio de la representación ordinaria del Estado en las mismas a través de sus respectivos Presidentes."
+ },
+ {
+  "n": 11049,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a72",
+  "pregunta": "Los Delegados del Gobierno son nombrados y separados por:",
+  "opciones": [
+   "Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno",
+   "Real Decreto del Presidente del Gobierno, a propuesta del Ministro del Interior",
+   "Orden del Ministro de la Presidencia",
+   "El Presidente de la Comunidad Autónoma"
+  ],
+  "correcta": 0,
+  "cita": "Los Delegados del Gobierno serán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno."
+ },
+ {
+  "n": 11050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a72",
+  "pregunta": "En caso de ausencia, vacante o enfermedad, el Delegado del Gobierno es suplido:",
+  "opciones": [
+   "Por el Subdelegado del Gobierno que el Delegado designe y, en su defecto, por el de la provincia en que tenga su sede",
+   "Por el Subdelegado más antiguo",
+   "Por el Ministro competente",
+   "Por el Secretario General de la Delegación en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "En caso de ausencia, vacante o enfermedad del titular de la Delegación del Gobierno, será suplido por el Subdelegado del Gobierno que el Delegado designe y, en su defecto, al de la provincia en que tenga su sede."
+ },
+ {
+  "n": 11051,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a73",
+  "pregunta": "Nombrar a los Subdelegados del Gobierno en las provincias corresponde a:",
+  "opciones": [
+   "El Delegado del Gobierno en la Comunidad Autónoma",
+   "El Consejo de Ministros",
+   "El Ministro del Interior",
+   "El Presidente del Gobierno"
+  ],
+  "correcta": 0,
+  "cita": "2.º Nombrar a los Subdelegados del Gobierno en las provincias de su ámbito de actuación y, en su caso, a los Directores Insulares, y como superior jerárquico, dirigir y coordinar su actividad."
+ },
+ {
+  "n": 11052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a73",
+  "pregunta": "Los Delegados del Gobierno elevan al Gobierno un informe sobre el funcionamiento de los servicios públicos estatales en el ámbito autonómico con carácter:",
+  "opciones": [
+   "Anual",
+   "Trimestral",
+   "Bienal",
+   "Semestral"
+  ],
+  "correcta": 0,
+  "cita": "4.º Elevar al Gobierno, con carácter anual, a través del titular del Ministerio de Hacienda y Administraciones Públicas, un informe sobre el funcionamiento de los servicios públicos estatales en el ámbito autonómico."
+ },
+ {
+  "n": 11053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a73",
+  "pregunta": "La jefatura de las Fuerzas y Cuerpos de Seguridad del Estado en el territorio de la Comunidad Autónoma corresponde a:",
+  "opciones": [
+   "El Director General de la Policía",
+   "El Presidente de la Comunidad Autónoma",
+   "El Delegado del Gobierno, bajo la dependencia funcional del Ministerio del Interior",
+   "El Subdelegado del Gobierno de la capital"
+  ],
+  "correcta": 2,
+  "cita": "a través de los Subdelegados del Gobierno y de las Fuerzas y Cuerpos de seguridad del Estado, cuya jefatura corresponderá al Delegado del Gobierno, quien ejercerá las competencias del Estado en esta materia bajo la dependencia funcional del Ministerio del Interior."
+ },
+ {
+  "n": 11054,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a74",
+  "pregunta": "Los Subdelegados del Gobierno se nombran:",
+  "opciones": [
+   "Por Real Decreto del Consejo de Ministros",
+   "Por concurso de méritos entre funcionarios del Subgrupo A2",
+   "Por el Delegado del Gobierno mediante libre designación entre funcionarios de carrera del Subgrupo A1",
+   "Por el Ministro del Interior"
+  ],
+  "correcta": 2,
+  "cita": "Comunidad Autónoma, existirá un Subdelegado del Gobierno, con nivel de Subdirector General, que será nombrado por aquél mediante el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1."
+ },
+ {
+  "n": 11055,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a74",
+  "pregunta": "En las Comunidades Autónomas uniprovinciales en las que no exista Subdelegado:",
+  "opciones": [
+   "El Delegado del Gobierno asume las competencias de los Subdelegados",
+   "Se nombra un Director Insular",
+   "Las competencias pasan al Ministerio del Interior",
+   "El Secretario General asume las competencias de los Subdelegados"
+  ],
+  "correcta": 0,
+  "cita": "En las Comunidades Autónomas uniprovinciales en las que no exista Subdelegado, el Delegado del Gobierno asumirá las competencias que esta Ley atribuye a los Subdelegados del Gobierno en las provincias."
+ },
+ {
+  "n": 11056,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a75",
+  "pregunta": "Dirigir y coordinar la protección civil en el ámbito de la provincia corresponde a:",
+  "opciones": [
+   "El Presidente de la Diputación Provincial",
+   "El Subdelegado del Gobierno",
+   "El Delegado del Gobierno",
+   "El Director Insular"
+  ],
+  "correcta": 1,
+  "cita": "c) Dirigir y coordinar la protección civil en el ámbito de la provincia."
+ },
+ {
+  "n": 11057,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a76",
+  "pregunta": "Las Delegaciones y Subdelegaciones del Gobierno cuentan en todo caso, como órgano de gestión de los servicios comunes, con:",
+  "opciones": [
+   "Una Secretaría General",
+   "Una Secretaría General Técnica",
+   "Un Gabinete",
+   "Una Subsecretaría"
+  ],
+  "correcta": 0,
+  "cita": "Administraciones Públicas, en razón de la dependencia orgánica de las Delegaciones del Gobierno, y contarán, en todo caso, con una Secretaría General, dependiente de los Delegados o, en su caso, de los Subdelegados del Gobierno, como órgano de"
+ },
+ {
+  "n": 11058,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a77",
+  "pregunta": "La asistencia jurídica y el control económico-financiero de las Delegaciones y Subdelegaciones del Gobierno se ejercen, respectivamente, por:",
+  "opciones": [
+   "La Abogacía del Estado y la Intervención General de la Administración del Estado",
+   "La Secretaría General Técnica y la Dirección General de Presupuestos",
+   "Los Servicios Jurídicos autonómicos y el Tribunal de Cuentas",
+   "El Consejo de Estado y la Intervención General"
+  ],
+  "correcta": 0,
+  "cita": "La asistencia jurídica y las funciones de intervención y control económico financiero en relación con las Delegaciones y Subdelegaciones del Gobierno se ejercerán por la Abogacía del Estado y la Intervención General de la Administración del Estado respectivamente, de acuerdo con su normativa específica."
+ },
+ {
+  "n": 11059,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a79",
+  "pregunta": "En las Comunidades Autónomas pluriprovinciales, la Comisión territorial de asistencia al Delegado del Gobierno está presidida por el Delegado e integrada por:",
+  "opciones": [
+   "Los Directores generales de los ministerios",
+   "Los Presidentes de las Diputaciones",
+   "Los Consejeros autonómicos",
+   "Los Subdelegados del Gobierno en las provincias de su territorio"
+  ],
+  "correcta": 3,
+  "cita": "características: a) Estará presidida por el Delegado del Gobierno en la Comunidad Autónoma e integrada por los Subdelegados del Gobierno en las provincias comprendidas en el territorio de ésta."
+ },
+ {
+  "n": 11060,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a80",
+  "pregunta": "El Servicio Exterior del Estado se rige por:",
+  "opciones": [
+   "Por el Convenio de Viena exclusivamente",
+   "Por Real Decreto del Ministro de Asuntos Exteriores",
+   "La Ley 2/2014, de la Acción y del Servicio Exterior del Estado, y supletoriamente por la Ley 40/2015",
+   "Exclusivamente por la Ley 40/2015"
+  ],
+  "correcta": 2,
+  "cita": "El Servicio Exterior del Estado se rige en todo lo concerniente a su composición, organización, funciones, integración y personal por lo dispuesto en la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado y en su normativa de desarrollo y, supletoriamente, por lo dispuesto en esta Ley."
+ },
+ {
+  "n": 11061,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a81",
+  "pregunta": "Las entidades del sector público institucional están sometidas en su actuación a los principios de:",
+  "opciones": [
+   "Jerarquía y centralización",
+   "Rentabilidad, competitividad y libre mercado",
+   "Legalidad, eficiencia, estabilidad presupuestaria, sostenibilidad financiera y transparencia en su gestión",
+   "Autonomía plena y no sujeción a control"
+  ],
+  "correcta": 2,
+  "cita": "Las entidades que integran el sector público institucional están sometidas en su actuación a los principios de legalidad, eficiencia, estabilidad presupuestaria y sostenibilidad financiera así como al principio de transparencia en su gestión."
+ },
+ {
+  "n": 11062,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a82",
+  "pregunta": "La integración, gestión y publicación del Inventario de Entidades del Sector Público Estatal, Autonómico y Local depende de:",
+  "opciones": [
+   "La Dirección General del Patrimonio del Estado",
+   "El Tribunal de Cuentas",
+   "La Intervención General de la Administración del Estado",
+   "El Instituto Nacional de Estadística"
+  ],
+  "correcta": 2,
+  "cita": "La integración y gestión de dicho Inventario y su publicación dependerá de la Intervención General de la Administración del Estado."
+ },
+ {
+  "n": 11063,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a83",
+  "pregunta": "Plazo para notificar al Inventario de Entidades del Sector Público los actos de creación, transformación, fusión o extinción de una entidad, desde que ocurra el acto inscribible",
+  "opciones": [
+   "10 días hábiles",
+   "20 días hábiles",
+   "15 días hábiles",
+   "30 días hábiles"
+  ],
+  "correcta": 3,
+  "cita": "reglamentariamente, de los actos relativos a su creación, transformación, fusión o extinción, en el plazo de treinta días hábiles a contar desde que ocurra el acto inscribible."
+ },
+ {
+  "n": 11064,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a83",
+  "pregunta": "Plazo para practicar la inscripción en el Inventario de Entidades del Sector Público desde la recepción de la solicitud",
+  "opciones": [
+   "30 días hábiles",
+   "10 días hábiles",
+   "5 días hábiles",
+   "15 días hábiles"
+  ],
+  "correcta": 3,
+  "cita": "b) La inscripción en el Inventario de Entidades del Sector Público Estatal, Autonómico y Local se practicará dentro del plazo de 15 días hábiles siguientes a la recepción de la solicitud de inscripción."
+ },
+ {
+  "n": 11065,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a84",
+  "pregunta": "¿Cuál de las siguientes NO es una clase de organismo público vinculado o dependiente de la AGE según el artículo 84.1.a)?",
+  "opciones": [
+   "Las agencias estatales",
+   "Las entidades públicas empresariales",
+   "Las sociedades mercantiles estatales",
+   "Los organismos autónomos"
+  ],
+  "correcta": 2,
+  "cita": "Integran el sector público institucional estatal las siguientes entidades: a) Los organismos públicos vinculados o dependientes de la Administración General del Estado, los cuales se clasifican en: 1. Organismos autónomos. 2. Entidades públicas empresariales. 3. Agencias estatales."
+ },
+ {
+  "n": 11066,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a84",
+  "pregunta": "¿Cuál de las siguientes entidades NO integra el sector público institucional estatal según el artículo 84.1?",
+  "opciones": [
+   "Los fondos sin personalidad jurídica",
+   "Las mutualidades privadas de previsión social",
+   "Las autoridades administrativas independientes",
+   "Las universidades públicas no transferidas"
+  ],
+  "correcta": 1,
+  "cita": "Integran el sector público institucional estatal las siguientes entidades: a) Los organismos públicos vinculados o dependientes de la Administración General del Estado, los cuales se clasifican en: 1. Organismos autónomos. 2. Entidades públicas empresariales. 3. Agencias estatales. b) Las autoridades administrativas independientes. c) Las sociedades mercantiles estatales. d) Los consorcios. e) Las fundaciones del sector público. f) Los fondos sin personalidad jurídica. g) Las universidades públicas no transferidas."
+ },
+ {
+  "n": 11067,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a8-2",
+  "pregunta": "En las entidades del sector público institucional estatal, el principio de representación equilibrada exige que las personas de cada sexo, entre sus máximos responsables y personal de alta dirección:",
+  "opciones": [
+   "No superen el setenta y cinco por ciento",
+   "No superen el sesenta por ciento ni sean menos del cuarenta por ciento",
+   "No superen el cincuenta por ciento",
+   "Sean al menos un treinta por ciento"
+  ],
+  "correcta": 1,
+  "cita": "responsables, así como a las personas con contratos de alta dirección en las citadas entidades, de tal manera que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento en el ámbito de cada entidad."
+ },
+ {
+  "n": 11068,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a85",
+  "pregunta": "El plan de actuación con el que deben contar las entidades del sector público institucional estatal desde su creación se revisa:",
+  "opciones": [
+   "Cada cinco años",
+   "Cada año, sin planes anuales",
+   "Solo cuando lo pida el Ministerio de adscripción",
+   "Cada tres años, completándose con planes anuales"
+  ],
+  "correcta": 3,
+  "cita": "las líneas estratégicas en torno a las cuales se desenvolverá la actividad de la entidad, que se revisarán cada tres años, y que se completará con planes anuales que desarrollarán el de creación para el ejercicio"
+ },
+ {
+  "n": 11069,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a85",
+  "pregunta": "El control de eficacia de las entidades del sector público institucional estatal lo ejerce:",
+  "opciones": [
+   "La propia entidad mediante autoevaluación",
+   "El Tribunal de Cuentas",
+   "Las Cortes Generales",
+   "El Departamento al que estén adscritas, a través de las inspecciones de servicios"
+  ],
+  "correcta": 3,
+  "cita": "El control de eficacia será ejercido por el Departamento al que estén adscritos, a través de las inspecciones de servicios, y tendrá por objeto evaluar el cumplimiento de los objetivos propios de la actividad específica"
+ },
+ {
+  "n": 11070,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a86",
+  "pregunta": "En la denominación de las entidades del sector público institucional que tengan la condición de medio propio debe figurar:",
+  "opciones": [
+   "La indicación «Servicio Técnico» o «S.T.»",
+   "No es necesaria ninguna indicación",
+   "La indicación «Entidad Instrumental»",
+   "La indicación «Medio Propio» o su abreviatura «M.P.»"
+  ],
+  "correcta": 3,
+  "cita": "En la denominación de las entidades integrantes del sector público institucional que tengan la condición de medio propio deberá figurar necesariamente la indicación ‘‘Medio Propio’’ o su abreviatura “M.P.”."
+ },
+ {
+  "n": 11071,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a87",
+  "pregunta": "Con carácter general, la transformación de una entidad del sector público institucional estatal se lleva a cabo mediante:",
+  "opciones": [
+   "Orden ministerial",
+   "Ley en todo caso",
+   "Acuerdo del órgano de gobierno de la entidad",
+   "Real Decreto, aunque suponga modificación de la ley de creación, salvo la transformación en agencia estatal, que requiere ley"
+  ],
+  "correcta": 3,
+  "cita": "La transformación se llevará a cabo mediante Real Decreto, aunque suponga modificación de la Ley de creación, salvo en el caso de la transformación en agencias estatales que deberá efectuarse por ley."
+ },
+ {
+  "n": 11072,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a89",
+  "pregunta": "Dentro de su esfera de competencia, a los organismos públicos les corresponden las potestades administrativas precisas para sus fines, salvo:",
+  "opciones": [
+   "La potestad sancionadora",
+   "La potestad de ejecución forzosa",
+   "La potestad expropiatoria",
+   "La potestad de autoorganización"
+  ],
+  "correcta": 2,
+  "cita": "Dentro de su esfera de competencia, les corresponden las potestades administrativas precisas para el cumplimiento de sus fines, en los términos que prevean sus estatutos, salvo la potestad expropiatoria."
+ },
+ {
+  "n": 11073,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a90",
+  "pregunta": "Los máximos órganos de gobierno de los organismos públicos son:",
+  "opciones": [
+   "El Director y el Consejo de Administración",
+   "La Junta General y el Patronato",
+   "El Ministro de adscripción y el Subsecretario",
+   "El Presidente y el Consejo Rector"
+  ],
+  "correcta": 3,
+  "cita": "Los máximos órganos de gobierno son el Presidente y el Consejo Rector."
+ },
+ {
+  "n": 11074,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a91",
+  "pregunta": "La creación de los organismos públicos estatales se efectúa por:",
+  "opciones": [
+   "Acuerdo del Consejo de Ministros",
+   "Ley",
+   "Orden ministerial",
+   "Real Decreto del Consejo de Ministros"
+  ],
+  "correcta": 1,
+  "cita": "La creación de los organismos públicos se efectuará por Ley."
+ },
+ {
+  "n": 11075,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a92",
+  "pregunta": "El plan anual de actuación de un organismo público debe aprobarse por su departamento de dependencia:",
+  "opciones": [
+   "Dentro del mes siguiente a la aprobación de los Presupuestos",
+   "En el primer trimestre del año natural",
+   "Antes del 30 de junio",
+   "En el último trimestre del año natural"
+  ],
+  "correcta": 3,
+  "cita": "El plan anual de actuación deberá ser aprobado en el último trimestre del año natural por el departamento del que dependa o al que esté vinculado el organismo y deberá guardar coherencia con el Programa de actuación plurianual previsto en la normativa presupuestaria."
+ },
+ {
+  "n": 11076,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a93",
+  "pregunta": "Los estatutos de los organismos públicos se aprueban por:",
+  "opciones": [
+   "Acuerdo del Consejo Rector",
+   "Real Decreto del Consejo de Ministros",
+   "Orden del Ministro de adscripción",
+   "Ley"
+  ],
+  "correcta": 1,
+  "cita": "Los estatutos de los organismos públicos se aprobarán por Real Decreto del Consejo de Ministros a propuesta conjunta del Ministerio de Hacienda y Administraciones Públicas y del Ministerio al que el organismo esté vinculado o sea dependiente."
+ },
+ {
+  "n": 11077,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a93",
+  "pregunta": "Los estatutos de los organismos públicos deben aprobarse y publicarse:",
+  "opciones": [
+   "Con carácter previo a la entrada en funcionamiento efectivo del organismo",
+   "En el plazo de un año desde su entrada en funcionamiento",
+   "Junto con su primer presupuesto",
+   "Solo si lo exige la ley de creación"
+  ],
+  "correcta": 0,
+  "cita": "Los estatutos deberán ser aprobados y publicados con carácter previo a la entrada en funcionamiento efectivo del organismo público."
+ },
+ {
+  "n": 11078,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a94",
+  "pregunta": "La fusión de organismos públicos estatales de la misma naturaleza jurídica se lleva a cabo mediante:",
+  "opciones": [
+   "Acuerdo de los Consejos Rectores",
+   "Norma reglamentaria, aunque suponga modificación de la Ley de creación",
+   "Convenio entre los organismos",
+   "Ley en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "La fusión se llevará a cabo mediante norma reglamentaria, aunque suponga modificación de la Ley de creación."
+ },
+ {
+  "n": 11079,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a95",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los servicios comunes mínimos de los organismos públicos según el artículo 95.2?",
+  "opciones": [
+   "La contratación pública",
+   "La gestión de bienes inmuebles",
+   "La gestión de recursos humanos",
+   "Los sistemas de información y comunicación"
+  ],
+  "correcta": 2,
+  "cita": "Se consideran servicios comunes de los organismos públicos, al menos, los siguientes: a) Gestión de bienes inmuebles. b) Sistemas de información y comunicación. c) Asistencia jurídica. d) Contabilidad y gestión financiera. e) Publicaciones. f) Contratación pública."
+ },
+ {
+  "n": 11080,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a96",
+  "pregunta": "Plazo para que el titular del máximo órgano de dirección comunique al departamento de adscripción que el organismo público incurre en causa de disolución",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "2 meses",
+   "6 meses"
+  ],
+  "correcta": 2,
+  "cita": "a), b), c), d) o e) del apartado anterior, el titular del máximo órgano de dirección del organismo lo comunicará al titular del departamento de adscripción en el plazo de dos meses desde que concurra la causa de disolución."
+ },
+ {
+  "n": 11081,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a97",
+  "pregunta": "La liquidación de un organismo público estatal tiene lugar por la cesión e integración global de todo su activo y pasivo en:",
+  "opciones": [
+   "El organismo público más próximo por razón de materia",
+   "La Comunidad Autónoma donde tenga su sede",
+   "Un fondo sin personalidad jurídica en todo caso",
+   "La Administración General del Estado, que le sucede universalmente"
+  ],
+  "correcta": 3,
+  "cita": "La liquidación tendrá lugar por la cesión e integración global, en unidad de acto, de todo el activo y el pasivo del organismo público en la Administración General del Estado que le sucederá universalmente en todos sus derechos y obligaciones."
+ },
+ {
+  "n": 11082,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a98",
+  "pregunta": "En la denominación de un organismo público con naturaleza de organismo autónomo debe figurar:",
+  "opciones": [
+   "No es necesaria ninguna indicación",
+   "La indicación «organismo autónomo» o su abreviatura «O.A.»",
+   "La indicación «agencia» o «A.»",
+   "La indicación «entidad pública» o «E.P.»"
+  ],
+  "correcta": 1,
+  "cita": "Con independencia de cuál sea su denominación, cuando un organismo público tenga la naturaleza jurídica de organismo autónomo deberá figurar en su denominación la indicación «organismo autónomo» o su abreviatura «O.A.»."
+ },
+ {
+  "n": 11083,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a100",
+  "pregunta": "El personal al servicio de los organismos autónomos será:",
+  "opciones": [
+   "Exclusivamente funcionario",
+   "Funcionario o laboral",
+   "Exclusivamente laboral",
+   "Personal eventual en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "El personal al servicio de los organismos autónomos será funcionario o laboral, y se regirá por lo previsto en la Ley 7/2007, de 12 de abril, y demás normativa reguladora de los funcionarios públicos y por la normativa laboral."
+ },
+ {
+  "n": 11084,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a100",
+  "pregunta": "En los organismos autónomos, el órgano de contratación es:",
+  "opciones": [
+   "El Subsecretario del Ministerio de adscripción",
+   "El Ministro de adscripción",
+   "El Consejo Rector",
+   "El titular del máximo órgano de dirección del organismo"
+  ],
+  "correcta": 3,
+  "cita": "El titular del máximo órgano de dirección del organismo autónomo será el órgano de contratación."
+ },
+ {
+  "n": 11085,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a103",
+  "pregunta": "Las entidades públicas empresariales se financian, con carácter general:",
+  "opciones": [
+   "Con tasas y precios públicos exclusivamente",
+   "Con endeudamiento ilimitado",
+   "Con ingresos de mercado, salvo las que tengan la condición de medio propio personificado",
+   "Exclusivamente con transferencias de los Presupuestos Generales del Estado"
+  ],
+  "correcta": 2,
+  "cita": "de Derecho público, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, que se financian con ingresos de mercado, a excepción de aquellas que tengan la condición o reúnan los requisitos para ser declaradas medio"
+ },
+ {
+  "n": 11086,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a103",
+  "pregunta": "En la denominación de las entidades públicas empresariales debe figurar:",
+  "opciones": [
+   "La indicación «entidad pública empresarial» o su abreviatura «E.P.E.»",
+   "La indicación «sociedad mercantil estatal» o «S.M.E.»",
+   "La indicación «organismo autónomo» o «O.A.»",
+   "La indicación «empresa pública»"
+  ],
+  "correcta": 0,
+  "cita": "Con independencia de cuál sea su denominación, cuando un organismo público tenga naturaleza jurídica de entidad pública empresarial deberá figurar en su denominación la indicación de «entidad pública empresarial» o su abreviatura «E.P.E»."
+ },
+ {
+  "n": 11087,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a104",
+  "pregunta": "Las entidades públicas empresariales se rigen, con carácter general, por:",
+  "opciones": [
+   "El Derecho privado, excepto en la formación de la voluntad de sus órganos y el ejercicio de potestades administrativas, entre otros aspectos",
+   "El Derecho mercantil sin excepciones",
+   "El Derecho laboral exclusivamente",
+   "El Derecho administrativo en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "Las entidades públicas empresariales se rigen por el Derecho privado, excepto en la formación de la voluntad de sus órganos, en el ejercicio de las potestades administrativas que tengan atribuidas y en los aspectos"
+ },
+ {
+  "n": 11088,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a106",
+  "pregunta": "El personal de las entidades públicas empresariales se rige, con carácter general, por:",
+  "opciones": [
+   "El TREBEP en su integridad",
+   "El Derecho laboral, con las excepciones relativas a los funcionarios de la AGE",
+   "El Derecho mercantil",
+   "El Derecho administrativo"
+  ],
+  "correcta": 1,
+  "cita": "El personal de las entidades públicas empresariales se rige por el Derecho laboral, con las especificaciones dispuestas en este artículo y las excepciones relativas a los funcionarios públicos de la Administración General del Estado, quienes se regirán por lo previsto en la Ley 7/2007, de 12 de abril y demás normativa reguladora"
+ },
+ {
+  "n": 11089,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a1-2",
+  "pregunta": "Las agencias estatales son creadas por:",
+  "opciones": [
+   "Los Ministros mediante orden",
+   "Las Comunidades Autónomas",
+   "El Gobierno, para el cumplimiento de los programas correspondientes a las políticas públicas de la AGE",
+   "Las Cortes Generales mediante ley orgánica"
+  ],
+  "correcta": 2,
+  "cita": "patrimonio propio y autonomía en su gestión, facultadas para ejercer potestades administrativas, que son creadas por el Gobierno para el cumplimiento de los programas correspondientes a las políticas públicas que desarrolle la Administración General del Estado en el ámbito de sus competencias."
+ },
+ {
+  "n": 11090,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a1-3",
+  "pregunta": "La actuación de las agencias estatales se produce con arreglo al plan de acción anual y al pertinente:",
+  "opciones": [
+   "Contrato plurianual de gestión",
+   "Programa de actuación plurianual",
+   "Convenio de colaboración",
+   "Contrato-programa con el Estado"
+  ],
+  "correcta": 0,
+  "cita": "La actuación de las agencias estatales se produce, con arreglo al plan de acción anual, bajo la vigencia y con arreglo al pertinente contrato plurianual de gestión que ha de establecer, como mínimo y para el periodo de su vigencia, los siguientes extremos: a)"
+ },
+ {
+  "n": 11091,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a1-3",
+  "pregunta": "Plazo, desde su constitución, para que el Consejo Rector de una agencia estatal apruebe la propuesta de contrato inicial de gestión",
+  "opciones": [
+   "1 mes",
+   "6 meses",
+   "2 meses",
+   "3 meses"
+  ],
+  "correcta": 3,
+  "cita": "El Consejo Rector de cada agencia estatal aprueba la propuesta de contrato inicial de gestión, en el plazo de tres meses desde su constitución."
+ },
+ {
+  "n": 11092,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a1-4",
+  "pregunta": "El órgano ejecutivo de la agencia estatal es:",
+  "opciones": [
+   "El Secretario General",
+   "El Presidente, nombrado por el Consejo de Ministros",
+   "La Comisión de Control",
+   "El director, nombrado y separado por el Consejo Rector a propuesta del Presidente"
+  ],
+  "correcta": 3,
+  "cita": "El órgano ejecutivo de la agencia estatal es el director."
+ },
+ {
+  "n": 11093,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a1-5",
+  "pregunta": "El recurso al endeudamiento por las agencias estatales:",
+  "opciones": [
+   "Está permitido sin límite",
+   "Está prohibido salvo que una ley disponga lo contrario, aunque pueden concertar pólizas de crédito para desfases de tesorería",
+   "Está permitido hasta el 50 % de su presupuesto",
+   "Requiere autorización del Consejo Rector"
+  ],
+  "correcta": 1,
+  "cita": "El recurso al endeudamiento está prohibido a las agencias estatales, salvo que por Ley se disponga lo contrario."
+ },
+ {
+  "n": 11094,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a1-5",
+  "pregunta": "Para atender desfases temporales de tesorería, las agencias estatales pueden contratar pólizas de crédito o préstamo siempre que el saldo vivo no supere:",
+  "opciones": [
+   "El 5 % de su presupuesto",
+   "El 20 % de su presupuesto",
+   "El 10 % de su presupuesto",
+   "El 1 % de su presupuesto"
+  ],
+  "correcta": 0,
+  "cita": "No obstante, y con objeto de atender desfases temporales de tesorería, las agencias estatales pueden recurrir a la contratación de pólizas de crédito o préstamo, siempre que el saldo vivo no supere el 5 % de su presupuesto."
+ },
+ {
+  "n": 11095,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a1-6",
+  "pregunta": "Plazo para que la persona titular de la Dirección formule las cuentas anuales de una agencia estatal, desde el cierre del ejercicio",
+  "opciones": [
+   "2 meses",
+   "1 mes",
+   "6 meses",
+   "3 meses"
+  ],
+  "correcta": 3,
+  "cita": "Las cuentas anuales de las agencias estatales se formulan por la persona titular de la Dirección en el plazo de tres meses desde el cierre del ejercicio económico."
+ },
+ {
+  "n": 11096,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a109",
+  "pregunta": "Las autoridades administrativas independientes tienen atribuidas funciones de:",
+  "opciones": [
+   "Prestación directa de servicios públicos",
+   "Regulación o supervisión de carácter externo sobre sectores económicos o actividades determinadas",
+   "Asesoramiento jurídico al Gobierno",
+   "Producción de bienes en régimen de mercado"
+  ],
+  "correcta": 1,
+  "cita": "público que, vinculadas a la Administración General del Estado y con personalidad jurídica propia, tienen atribuidas funciones de regulación o supervisión de carácter externo sobre sectores económicos o actividades determinadas, por requerir su desempeño de independencia funcional o una especial autonomía respecto de la"
+ },
+ {
+  "n": 11097,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a109",
+  "pregunta": "La necesidad de independencia funcional o especial autonomía de una autoridad administrativa independiente debe determinarse en:",
+  "opciones": [
+   "Una orden ministerial",
+   "Sus estatutos",
+   "Un Real Decreto",
+   "Una norma con rango de Ley"
+  ],
+  "correcta": 3,
+  "cita": "independencia funcional o una especial autonomía respecto de la Administración General del Estado, lo que deberá determinarse en una norma con rango de Ley."
+ },
+ {
+  "n": 11098,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a111",
+  "pregunta": "Una sociedad mercantil es estatal, entre otros supuestos, cuando la participación directa en su capital de la AGE o de entidades del sector público institucional estatal sea:",
+  "opciones": [
+   "Superior al 25 por 100",
+   "Superior al 50 por 100",
+   "Del 100 por 100 en todo caso",
+   "Igual o superior al 40 por 100"
+  ],
+  "correcta": 1,
+  "cita": "integran el sector público institucional estatal, incluidas las sociedades mercantiles estatales, sea superior al 50 por 100."
+ },
+ {
+  "n": 11099,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a111",
+  "pregunta": "En la denominación de las sociedades mercantiles estatales debe figurar:",
+  "opciones": [
+   "La indicación «sociedad anónima pública»",
+   "La indicación «entidad pública empresarial» o «E.P.E.»",
+   "No es necesaria ninguna indicación especial",
+   "La indicación «sociedad mercantil estatal» o su abreviatura «S.M.E.»"
+  ],
+  "correcta": 3,
+  "cita": "En la denominación de las sociedades mercantiles que tengan la condición de estatales deberá figurar necesariamente la indicación «sociedad mercantil estatal» o su abreviatura «S.M.E.»."
+ },
+ {
+  "n": 11100,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a113",
+  "pregunta": "Las sociedades mercantiles estatales:",
+  "opciones": [
+   "Ejercen la potestad sancionadora en todo caso",
+   "Pueden ejercer la potestad expropiatoria",
+   "En ningún caso pueden disponer de facultades que impliquen el ejercicio de autoridad pública, salvo que excepcionalmente la ley les atribuya potestades administrativas",
+   "Pueden dictar actos administrativos libremente"
+  ],
+  "correcta": 2,
+  "cita": "En ningún caso podrán disponer de facultades que impliquen el ejercicio de autoridad pública, sin perjuicio de que excepcionalmente la ley pueda atribuirle el ejercicio de potestades administrativas."
+ },
+ {
+  "n": 11101,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a114",
+  "pregunta": "La creación de una sociedad mercantil estatal se autoriza mediante:",
+  "opciones": [
+   "Orden del Ministro de Hacienda",
+   "Acuerdo del Consejo de Ministros",
+   "Ley de las Cortes Generales",
+   "Escritura pública sin autorización previa"
+  ],
+  "correcta": 1,
+  "cita": "creación de una sociedad mercantil estatal o la adquisición de este carácter de forma sobrevenida será autorizada mediante acuerdo del Consejo de Ministros que deberá ser acompañado de una propuesta de estatutos y de un plan de actuación que contendrá,"
+ },
+ {
+  "n": 11102,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a117",
+  "pregunta": "El personal de las sociedades mercantiles estatales, incluido el directivo, se rige por:",
+  "opciones": [
+   "El régimen de altos cargos",
+   "El Derecho administrativo exclusivamente",
+   "El TREBEP como personal funcionario",
+   "El Derecho laboral y las normas aplicables por su adscripción al sector público estatal"
+  ],
+  "correcta": 3,
+  "cita": "El personal de las sociedades mercantiles estatales, incluido el que tenga condición de directivo, se regirá por el Derecho laboral, así como por las normas que le sean de aplicación en función de su adscripción al sector público"
+ },
+ {
+  "n": 11103,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a118",
+  "pregunta": "Los consorcios son entidades de derecho público creadas por varias Administraciones Públicas o entidades del sector público institucional para:",
+  "opciones": [
+   "La supervisión independiente de sectores económicos",
+   "La producción de bienes en régimen de mercado con ánimo de lucro",
+   "El desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias",
+   "La gestión de fondos sin personalidad jurídica"
+  ],
+  "correcta": 2,
+  "cita": "integrantes del sector público institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias."
+ },
+ {
+  "n": 11104,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a118",
+  "pregunta": "En la denominación de los consorcios debe figurar:",
+  "opciones": [
+   "La indicación «C.P.»",
+   "La indicación «consorcio» o su abreviatura «C»",
+   "La indicación «mancomunidad»",
+   "No es necesaria ninguna indicación"
+  ],
+  "correcta": 1,
+  "cita": "En la denominación de los consorcios deberá figurar necesariamente la indicación «consorcio» o su abreviatura «C»."
+ },
+ {
+  "n": 11105,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a120",
+  "pregunta": "El primer criterio, por orden de prioridad, para determinar la Administración a la que queda adscrito un consorcio es que:",
+  "opciones": [
+   "Financie en más de un cincuenta por ciento la actividad",
+   "Ostente el mayor porcentaje de participación en el fondo patrimonial",
+   "Tenga mayor número de habitantes",
+   "Disponga de la mayoría de votos en los órganos de gobierno"
+  ],
+  "correcta": 3,
+  "cita": "en cada ejercicio presupuestario y por todo este periodo, a la Administración Pública que: a) Disponga de la mayoría de votos en los órganos de gobierno."
+ },
+ {
+  "n": 11106,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a120",
+  "pregunta": "El cambio de adscripción de un consorcio a otra Administración conlleva la modificación de sus estatutos en un plazo no superior a:",
+  "opciones": [
+   "Tres meses desde el cambio",
+   "Un año desde el cambio",
+   "Seis meses desde el inicio del ejercicio presupuestario siguiente",
+   "Dos meses desde el inicio del ejercicio siguiente"
+  ],
+  "correcta": 2,
+  "cita": "Cualquier cambio de adscripción a una Administración Pública, cualquiera que fuere su causa, conllevará la modificación de los estatutos del consorcio en un plazo no superior a seis meses, contados desde el inicio del ejercicio presupuestario siguiente a aquel en se produjo el cambio de adscripción."
+ },
+ {
+  "n": 11107,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a121",
+  "pregunta": "El personal de los consorcios, con carácter general:",
+  "opciones": [
+   "Debe ser exclusivamente funcionario de la AGE",
+   "Puede ser funcionario o laboral y debe proceder de las Administraciones participantes",
+   "Es siempre personal eventual",
+   "Debe ser contratado libremente por el consorcio"
+  ],
+  "correcta": 1,
+  "cita": "El personal al servicio de los consorcios podrá ser funcionario o laboral y habrá de proceder de las Administraciones participantes, en cuyo caso su régimen jurídico será el de la Administración Pública de adscripción y sus"
+ },
+ {
+  "n": 11108,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a123",
+  "pregunta": "Los consorcios se crean mediante:",
+  "opciones": [
+   "Convenio suscrito por las Administraciones, organismos públicos o entidades participantes",
+   "Escritura pública ante notario",
+   "Real Decreto del Presidente del Gobierno",
+   "Ley orgánica"
+  ],
+  "correcta": 0,
+  "cita": "Los consorcios se crearán mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes."
+ },
+ {
+  "n": 11109,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a123",
+  "pregunta": "En los consorcios en que participe la AGE, su creación requiere:",
+  "opciones": [
+   "Autorización del Tribunal de Cuentas",
+   "Autorización por ley y autorización previa del convenio por el Consejo de Ministros",
+   "Solo la firma del convenio por el Ministro",
+   "Orden del Ministro de Hacienda"
+  ],
+  "correcta": 1,
+  "cita": "En los consorcios en los que participe la Administración General del Estado o sus organismos públicos y entidades vinculados o dependientes se requerirá: a) Que su creación se autorice por ley. b) El convenio de creación precisará de autorización previa del Consejo de Ministros."
+ },
+ {
+  "n": 11110,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a126",
+  "pregunta": "El ejercicio del derecho de separación de un consorcio produce su disolución, salvo que los restantes miembros acuerden su continuidad y permanezcan en él, al menos:",
+  "opciones": [
+   "Dos Administraciones, o entidades u organismos públicos vinculados o dependientes de más de una Administración",
+   "La mitad de los miembros iniciales",
+   "Una Administración",
+   "Tres Administraciones"
+  ],
+  "correcta": 0,
+  "cita": "el resto de sus miembros, de conformidad con lo previsto en sus estatutos, acuerden su continuidad y sigan permaneciendo en el consorcio, al menos, dos Administraciones, o entidades u organismos públicos vinculados o dependientes de más de una Administración."
+ },
+ {
+  "n": 11111,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a128",
+  "pregunta": "Las fundaciones del sector público estatal:",
+  "opciones": [
+   "Pueden ejercer la potestad expropiatoria",
+   "Pueden ejercer potestades públicas si lo prevén sus estatutos",
+   "No podrán ejercer potestades públicas",
+   "Ejercen la potestad sancionadora"
+  ],
+  "correcta": 2,
+  "cita": "Las fundaciones no podrán ejercer potestades públicas."
+ },
+ {
+  "n": 11112,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a128",
+  "pregunta": "En la denominación de las fundaciones del sector público estatal debe figurar:",
+  "opciones": [
+   "No es necesaria ninguna indicación",
+   "La indicación «fundación pública» o «F.P.»",
+   "La indicación «fundación del sector público» o su abreviatura «F.S.P.»",
+   "La indicación «fundación estatal» o «F.E.»"
+  ],
+  "correcta": 2,
+  "cita": "En la denominación de las fundaciones del sector público estatal deberá figurar necesariamente la indicación «fundación del sector público» o su abreviatura «F.S.P.»."
+ },
+ {
+  "n": 11113,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a128",
+  "pregunta": "Es fundación del sector público estatal, entre otros supuestos, aquella cuyo patrimonio esté integrado con carácter permanente por bienes o derechos aportados o cedidos por la AGE o el sector público institucional estatal en:",
+  "opciones": [
+   "Más de un 50 por ciento",
+   "Más de un 25 por ciento",
+   "Al menos un 33 por ciento",
+   "La totalidad"
+  ],
+  "correcta": 0,
+  "cita": "b) Que el patrimonio de la fundación esté integrado en más de un 50 por ciento por bienes o derechos aportados o cedidos por la Administración General del Estado o cualquiera de los sujetos integrantes del sector público institucional estatal con carácter permanente."
+ },
+ {
+  "n": 11114,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a129",
+  "pregunta": "El cambio de adscripción de una fundación del sector público a otra Administración conlleva la modificación de sus estatutos en un plazo no superior a:",
+  "opciones": [
+   "Un mes desde el cambio",
+   "Tres meses desde el inicio del ejercicio presupuestario siguiente",
+   "Un año desde el cambio",
+   "Seis meses desde el inicio del ejercicio siguiente"
+  ],
+  "correcta": 1,
+  "cita": "El cambio de adscripción a una Administración Pública, cualquiera que fuere su causa, conllevará la modificación de los estatutos que deberá realizarse en un plazo no superior a tres meses, contados desde el inicio del ejercicio presupuestario siguiente a aquél en se produjo el cambio de adscripción."
+ },
+ {
+  "n": 11115,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a131",
+  "pregunta": "La contratación de las fundaciones del sector público estatal se ajusta a:",
+  "opciones": [
+   "Sus estatutos sin sujeción a la legislación de contratos",
+   "La Ley de Fundaciones exclusivamente",
+   "El Derecho privado exclusivamente",
+   "La legislación sobre contratación del sector público"
+  ],
+  "correcta": 3,
+  "cita": "La contratación de las fundaciones del sector público estatal se ajustará a lo dispuesto en la legislación sobre contratación del sector público."
+ }
+]
