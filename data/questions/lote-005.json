@@ -1,0 +1,2338 @@
+[
+ {
+  "n": 5001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a3",
+  "pregunta": "Según el artículo 3, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos tienen capacidad de obrar ante las Administraciones Públicas:",
+  "opciones": [
+   "En todo caso",
+   "En ningún caso",
+   "Cuando lo autorice el órgano competente para resolver",
+   "Cuando la Ley así lo declare expresamente"
+  ],
+  "correcta": 3,
+  "cita": "c) Cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos."
+ },
+ {
+  "n": 5002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a4",
+  "pregunta": "Según el artículo 4.1.c), quienes tengan intereses legítimos que puedan resultar afectados por la resolución son interesados si:",
+  "opciones": [
+   "Se personan en el procedimiento en tanto no haya recaído resolución definitiva",
+   "Lo solicitan dentro de los diez días siguientes al inicio del procedimiento",
+   "Han presentado una denuncia",
+   "Son mayores de edad"
+  ],
+  "correcta": 0,
+  "cita": "c) Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva."
+ },
+ {
+  "n": 5003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a4",
+  "pregunta": "Cuando la condición de interesado derive de alguna relación jurídica transmisible, el derecho-habiente:",
+  "opciones": [
+   "No sucederá en la condición de interesado",
+   "Solo sucederá si aún no se ha abierto el trámite de audiencia",
+   "Sucederá en tal condición cualquiera que sea el estado del procedimiento",
+   "Deberá iniciar un nuevo procedimiento"
+  ],
+  "correcta": 2,
+  "cita": "Cuando la condición de interesado derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento."
+ },
+ {
+  "n": 5004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a5",
+  "pregunta": "Según el artículo 5.3, ¿para cuál de las siguientes actuaciones se presume la representación?",
+  "opciones": [
+   "Interponer recursos",
+   "Renunciar a derechos",
+   "Los actos y gestiones de mero trámite",
+   "Desistir de acciones"
+  ],
+  "correcta": 2,
+  "cita": "Para los actos y gestiones de mero trámite se presumirá aquella representación."
+ },
+ {
+  "n": 5005,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a5",
+  "pregunta": "Aportación de la acreditación de la representación o subsanación de su defecto (plazo que debe conceder el órgano, salvo que las circunstancias requieran uno superior)",
+  "opciones": [
+   "10 días",
+   "15 días",
+   "20 días",
+   "5 días"
+  ],
+  "correcta": 0,
+  "cita": "tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran."
+ },
+ {
+  "n": 5006,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a6",
+  "pregunta": "Validez máxima de los poderes inscritos en los registros electrónicos de apoderamientos, desde la fecha de inscripción",
+  "opciones": [
+   "5 años",
+   "3 años",
+   "10 años",
+   "2 años"
+  ],
+  "correcta": 0,
+  "cita": "Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción."
+ },
+ {
+  "n": 5007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a7",
+  "pregunta": "Cuando en una solicitud figuren varios interesados y no se haya señalado expresamente con quién entenderse, las actuaciones se efectuarán con:",
+  "opciones": [
+   "El que resida más cerca del órgano competente",
+   "El de mayor edad",
+   "El que figure en primer término",
+   "Todos ellos por separado"
+  ],
+  "correcta": 2,
+  "cita": "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término."
+ },
+ {
+  "n": 5008,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a22",
+  "pregunta": "Suspensión máxima del plazo para resolver por la petición de informes preceptivos a un órgano de la misma o distinta Administración",
+  "opciones": [
+   "2 meses",
+   "6 meses",
+   "3 meses",
+   "1 mes"
+  ],
+  "correcta": 2,
+  "cita": "Este plazo de suspensión no podrá exceder en ningún caso de tres meses."
+ },
+ {
+  "n": 5009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a22",
+  "pregunta": "¿En cuál de los siguientes casos el artículo 22.2 establece que el plazo máximo para resolver se suspenderá (y no solo que se podrá suspender)?",
+  "opciones": [
+   "Cuando se soliciten informes preceptivos",
+   "Cuando los interesados promuevan la recusación, desde que se plantee hasta que sea resuelta",
+   "Cuando deba requerirse al interesado para que subsane deficiencias",
+   "Cuando se inicien negociaciones para concluir un pacto o convenio"
+  ],
+  "correcta": 1,
+  "cita": "El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se suspenderá en los siguientes casos: a) Cuando una Administración Pública requiera a otra para que anule o revise un acto que entienda que es ilegal y que constituya la base para el que la primera haya de dictar en el ámbito de sus competencias, en el supuesto al que se refiere el apartado 5 del artículo 39 de esta Ley, desde que se realiza el requerimiento hasta que se atienda o, en su caso, se resuelva el recurso interpuesto ante la jurisdicción contencioso administrativa. Deberá ser comunicado a los interesados tanto la realización del requerimiento, como su cumplimiento o, en su caso, la resolución del correspondiente recurso contencioso-administrativo. b) Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87, desde el momento en que se notifique a los interesados el acuerdo motivado del inicio de las actuaciones hasta que se produzca su terminación. c) Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento, desde que ésta se plantee hasta que"
+ },
+ {
+  "n": 5010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a23",
+  "pregunta": "Contra el acuerdo que resuelva sobre la ampliación del plazo máximo de resolución y notificación:",
+  "opciones": [
+   "Cabe recurso contencioso-administrativo directo",
+   "Cabe recurso de alzada",
+   "Cabe recurso potestativo de reposición",
+   "No cabrá recurso alguno"
+  ],
+  "correcta": 3,
+  "cita": "Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno."
+ },
+ {
+  "n": 5011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a23",
+  "pregunta": "La ampliación excepcional del plazo máximo de resolución y notificación (artículo 23) no puede ser superior:",
+  "opciones": [
+   "A tres meses",
+   "Al plazo establecido para la tramitación del procedimiento",
+   "A la mitad del plazo establecido",
+   "A seis meses"
+  ],
+  "correcta": 1,
+  "cita": "podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento."
+ },
+ {
+  "n": 5012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a24",
+  "pregunta": "Con carácter general, en los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificarse resolución expresa permite entender la solicitud:",
+  "opciones": [
+   "Estimada, salvo que un reglamento establezca lo contrario",
+   "Desestimada, salvo que una ley establezca lo contrario",
+   "Estimada, salvo que una norma con rango de ley, de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezca lo contrario",
+   "Desestimada en todo caso"
+  ],
+  "correcta": 2,
+  "cita": "3 de este artículo, el vencimiento del plazo máximo sin haberse notificado resolución expresa, legitima al interesado o interesados para entenderla estimada por silencio administrativo, excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión"
+ },
+ {
+  "n": 5013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a24",
+  "pregunta": "¿Cuál de los siguientes procedimientos figura en el artículo 24.1 entre aquellos en que el silencio tiene efecto desestimatorio?",
+  "opciones": [
+   "Los iniciados por personas jurídicas",
+   "Los tramitados de forma simplificada",
+   "Los de cuantía inferior a 6.000 euros",
+   "Los relativos al ejercicio del derecho de petición del artículo 29 de la Constitución"
+  ],
+  "correcta": 3,
+  "cita": "El silencio tendrá efecto desestimatorio en los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución, aquellos cuya estimación tuviera como"
+ },
+ {
+  "n": 5014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a24",
+  "pregunta": "Si se interpone recurso de alzada contra la desestimación por silencio de una solicitud y, llegado el plazo, el órgano no resuelve (fuera de las materias excluidas), el recurso:",
+  "opciones": [
+   "Se entenderá caducado",
+   "Se tendrá por desistido",
+   "Se entenderá desestimado",
+   "Se entenderá estimado"
+  ],
+  "correcta": 3,
+  "cita": "contra la desestimación por silencio administrativo de una solicitud por el transcurso del plazo, se entenderá estimado el mismo si, llegado el plazo de resolución, el órgano administrativo competente no dictase y notificase resolución expresa, siempre que no se"
+ },
+ {
+  "n": 5015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a24",
+  "pregunta": "La desestimación por silencio administrativo tiene:",
+  "opciones": [
+   "Los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que proceda",
+   "La consideración de acto administrativo finalizador del procedimiento a todos los efectos",
+   "Los efectos de la caducidad del procedimiento",
+   "Los efectos de una resolución firme"
+  ],
+  "correcta": 0,
+  "cita": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente."
+ },
+ {
+  "n": 5016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a24",
+  "pregunta": "En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto:",
+  "opciones": [
+   "Podrá revocar libremente el acto presunto",
+   "Se adoptará sin vinculación alguna al sentido del silencio",
+   "Sólo podrá dictarse de ser confirmatoria del mismo",
+   "No podrá dictarse en ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "La obligación de dictar resolución expresa a que se refiere el apartado primero del artículo 21 se sujetará al siguiente régimen: a) En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto sólo podrá dictarse de ser confirmatoria del mismo."
+ },
+ {
+  "n": 5017,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a24",
+  "pregunta": "Expedición de oficio del certificado acreditativo del silencio, desde que expire el plazo máximo para resolver",
+  "opciones": [
+   "5 días",
+   "15 días",
+   "10 días",
+   "20 días"
+  ],
+  "correcta": 1,
+  "cita": "Este certificado se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento."
+ },
+ {
+  "n": 5018,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a25",
+  "pregunta": "En los procedimientos iniciados de oficio en que la Administración ejercite potestades sancionadoras, el vencimiento del plazo máximo sin resolución expresa produce:",
+  "opciones": [
+   "La desestimación por silencio administrativo",
+   "La prescripción de la infracción",
+   "La caducidad",
+   "La estimación por silencio administrativo"
+  ],
+  "correcta": 2,
+  "cita": "b) En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad."
+ },
+ {
+  "n": 5019,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a25",
+  "pregunta": "En los procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos, si vence el plazo sin resolución expresa, los interesados que hubieren comparecido:",
+  "opciones": [
+   "Verán caducado el procedimiento",
+   "Deberán reiterar su solicitud",
+   "Podrán entender estimadas sus pretensiones",
+   "Podrán entender desestimadas sus pretensiones por silencio administrativo"
+  ],
+  "correcta": 3,
+  "cita": "o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo."
+ },
+ {
+  "n": 5020,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a30",
+  "pregunta": "Los plazos expresados por horas no podrán tener una duración superior a (en tal caso se expresarán en días):",
+  "opciones": [
+   "24 horas",
+   "12 horas",
+   "72 horas",
+   "48 horas"
+  ],
+  "correcta": 0,
+  "cita": "Los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate y no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días."
+ },
+ {
+  "n": 5021,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a30",
+  "pregunta": "Cuando el último día del plazo sea inhábil:",
+  "opciones": [
+   "Se entenderá prorrogado al primer día hábil siguiente",
+   "Se entenderá vencido el día hábil anterior",
+   "Se entenderá vencido ese mismo día",
+   "Se prorrogará tres días hábiles"
+  ],
+  "correcta": 0,
+  "cita": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente."
+ },
+ {
+  "n": 5022,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a30",
+  "pregunta": "Si un día es hábil en el municipio o Comunidad Autónoma de residencia del interesado e inhábil en la sede del órgano administrativo, o a la inversa:",
+  "opciones": [
+   "Se estará a lo que resulte en la sede del órgano",
+   "Se considerará hábil en todo caso",
+   "Se considerará inhábil en todo caso",
+   "Se estará a lo que resulte en el domicilio del interesado"
+  ],
+  "correcta": 2,
+  "cita": "Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso."
+ },
+ {
+  "n": 5023,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a30",
+  "pregunta": "En un plazo fijado en meses, si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo:",
+  "opciones": [
+   "El plazo expira el primer día del mes siguiente",
+   "El plazo se amplía tres días",
+   "El plazo expira el último día del mes",
+   "El plazo expira el día hábil anterior"
+  ],
+  "correcta": 2,
+  "cita": "Si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes."
+ },
+ {
+  "n": 5024,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a30",
+  "pregunta": "Los plazos expresados en días se contarán:",
+  "opciones": [
+   "Desde el mismo día de la notificación o publicación",
+   "Desde el segundo día hábil tras la notificación",
+   "Desde el día en que se dictó el acto",
+   "A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto"
+  ],
+  "correcta": 3,
+  "cita": "Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo."
+ },
+ {
+  "n": 5025,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a31",
+  "pregunta": "En el registro electrónico, a efectos del cómputo de plazos fijados en días hábiles para los interesados, la presentación en un día inhábil se entenderá realizada:",
+  "opciones": [
+   "A las doce horas del primer día hábil siguiente",
+   "En el mismo día inhábil",
+   "En la última hora del día hábil anterior",
+   "En la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil"
+  ],
+  "correcta": 3,
+  "cita": "b) A los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados, la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil."
+ },
+ {
+  "n": 5026,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a32",
+  "pregunta": "La ampliación de los plazos establecidos que puede conceder la Administración (artículo 32.1) no podrá exceder de:",
+  "opciones": [
+   "El doble de los mismos",
+   "Un tercio de los mismos",
+   "La mitad de los mismos",
+   "Diez días"
+  ],
+  "correcta": 2,
+  "cita": "La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero."
+ },
+ {
+  "n": 5027,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a32",
+  "pregunta": "¿Puede ser objeto de ampliación un plazo ya vencido?",
+  "opciones": [
+   "Sí, si no se perjudican derechos de tercero",
+   "Sí, si concurre causa justificada",
+   "No, en ningún caso",
+   "Sí, si lo solicita el interesado"
+  ],
+  "correcta": 2,
+  "cita": "En ningún caso podrá ser objeto de ampliación un plazo ya vencido."
+ },
+ {
+  "n": 5028,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a33",
+  "pregunta": "En la tramitación de urgencia, los plazos establecidos para el procedimiento ordinario:",
+  "opciones": [
+   "Se reducen en diez días",
+   "Se reducen a la mitad, salvo los relativos a la presentación de solicitudes y recursos",
+   "Se reducen a un tercio",
+   "Se reducen a la mitad, incluidos los de presentación de solicitudes y recursos"
+  ],
+  "correcta": 1,
+  "cita": "petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos."
+ },
+ {
+  "n": 5029,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a35",
+  "pregunta": "Los actos que deben ser motivados según el artículo 35.1 lo serán:",
+  "opciones": [
+   "Con transcripción íntegra del expediente",
+   "Con referencia solo a los fundamentos de derecho",
+   "Con exposición exhaustiva de todos los hechos y fundamentos",
+   "Con sucinta referencia de hechos y fundamentos de derecho"
+  ],
+  "correcta": 3,
+  "cita": "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho: a) Los actos que limiten derechos subjetivos o intereses legítimos."
+ },
+ {
+  "n": 5030,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a35",
+  "pregunta": "Según el artículo 35.1.f), deben motivarse los actos que:",
+  "opciones": [
+   "Incorporen documentos al expediente",
+   "Admitan las pruebas propuestas por los interesados",
+   "Ordenen la notificación a los interesados",
+   "Rechacen pruebas propuestas por los interesados"
+  ],
+  "correcta": 3,
+  "cita": "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho: a) Los actos que limiten derechos subjetivos o intereses legítimos. b) Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión. c) Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos. d) Los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como la adopción de medidas provisionales previstas en el artículo 56. e) Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias. f) Los actos que rechacen pruebas propuestas por los interesados."
+ },
+ {
+  "n": 5031,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a36",
+  "pregunta": "Según el artículo 36.1, los actos administrativos se producirán:",
+  "opciones": [
+   "Por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada",
+   "Por escrito en papel, salvo que el interesado elija medios electrónicos",
+   "De forma verbal, salvo que una ley exija la forma escrita",
+   "En papel y en formato electrónico simultáneamente"
+  ],
+  "correcta": 0,
+  "cita": "Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia."
+ },
+ {
+  "n": 5032,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a37",
+  "pregunta": "Las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria son:",
+  "opciones": [
+   "Válidas hasta que sean recurridas",
+   "Válidas si proceden de un órgano de superior jerarquía",
+   "Nulas",
+   "Anulables"
+  ],
+  "correcta": 2,
+  "cita": "Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en el artículo 47."
+ },
+ {
+  "n": 5033,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a37",
+  "pregunta": "¿Qué principio impide que las resoluciones administrativas de carácter particular vulneren una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía?",
+  "opciones": [
+   "La jerarquía normativa",
+   "La irretroactividad",
+   "La inderogabilidad singular",
+   "La reserva de ley"
+  ],
+  "correcta": 2,
+  "cita": "Inderogabilidad singular. 1. Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general."
+ },
+ {
+  "n": 5034,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a39",
+  "pregunta": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos:",
+  "opciones": [
+   "Desde que sean firmes",
+   "Desde su notificación, en todo caso",
+   "Desde su publicación en el boletín oficial",
+   "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa"
+  ],
+  "correcta": 3,
+  "cita": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa."
+ },
+ {
+  "n": 5035,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a39",
+  "pregunta": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos administrativos:",
+  "opciones": [
+   "Cuando se dicten en sustitución de actos anulados o produzcan efectos favorables al interesado, con los requisitos legales",
+   "Cuando sean actos sancionadores",
+   "Siempre que lo acuerde el órgano superior",
+   "Cuando produzcan efectos desfavorables al interesado"
+  ],
+  "correcta": 0,
+  "cita": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho"
+ },
+ {
+  "n": 5036,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a40",
+  "pregunta": "Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos exigidos:",
+  "opciones": [
+   "Surtirán efecto desde la fecha del acto",
+   "Surtirán efecto desde que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance del acto, o interponga el recurso procedente",
+   "Son nulas de pleno derecho",
+   "No surtirán efecto en ningún caso"
+  ],
+  "correcta": 1,
+  "cita": "íntegro del acto, omitiesen alguno de los demás requisitos previstos en el apartado anterior, surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la"
+ },
+ {
+  "n": 5037,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a41",
+  "pregunta": "¿Cuál de las siguientes notificaciones no se efectuará en ningún caso por medios electrónicos?",
+  "opciones": [
+   "Las de resoluciones sancionadoras",
+   "Las dirigidas a personas jurídicas",
+   "Las dirigidas a empleados públicos",
+   "Las que contengan medios de pago a favor de los obligados, tales como cheques"
+  ],
+  "correcta": 3,
+  "cita": "En ningún caso se efectuarán por medios electrónicos las siguientes notificaciones: a) Aquellas en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico. b) Las que contengan medios de pago a favor de los obligados, tales como cheques."
+ },
+ {
+  "n": 5038,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a41",
+  "pregunta": "Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación:",
+  "opciones": [
+   "La de la notificación electrónica, en todo caso",
+   "La de la que se hubiera producido en último lugar",
+   "La de la notificación en papel, en todo caso",
+   "La de la que se hubiera producido en primer lugar"
+  ],
+  "correcta": 3,
+  "cita": "Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar."
+ },
+ {
+  "n": 5039,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a41",
+  "pregunta": "La falta de práctica del aviso al dispositivo electrónico o a la dirección de correo electrónico del interesado:",
+  "opciones": [
+   "No impedirá que la notificación sea considerada plenamente válida",
+   "Obliga a repetir la notificación",
+   "Suspende los efectos de la notificación",
+   "Determina la nulidad de la notificación"
+  ],
+  "correcta": 0,
+  "cita": "La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida."
+ },
+ {
+  "n": 5040,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a41",
+  "pregunta": "Cuando el interesado o su representante rechace la notificación de una actuación administrativa:",
+  "opciones": [
+   "Se publicará un anuncio en el «Boletín Oficial del Estado»",
+   "Se repetirá la notificación dentro de los tres días siguientes",
+   "Se suspenderá el procedimiento",
+   "Se hará constar en el expediente, dando por efectuado el trámite y siguiéndose el procedimiento"
+  ],
+  "correcta": 3,
+  "cita": "Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento."
+ },
+ {
+  "n": 5041,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a42",
+  "pregunta": "En la notificación en papel en el domicilio, si el interesado no está presente, puede hacerse cargo de ella cualquier persona que se encuentre en el domicilio, haga constar su identidad y sea mayor de:",
+  "opciones": [
+   "12 años",
+   "16 años",
+   "18 años",
+   "14 años"
+  ],
+  "correcta": 3,
+  "cita": "Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad."
+ },
+ {
+  "n": 5042,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a42",
+  "pregunta": "Repetición, por una sola vez y en hora distinta, del intento de notificación en papel cuando nadie se hizo cargo de ella",
+  "opciones": [
+   "Dentro de los 5 días siguientes",
+   "Dentro de los 3 días siguientes",
+   "Dentro de los 10 días siguientes",
+   "Dentro de los 2 días siguientes"
+  ],
+  "correcta": 1,
+  "cita": "Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes."
+ },
+ {
+  "n": 5043,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a42",
+  "pregunta": "¿Qué margen mínimo de diferencia debe haber entre los dos intentos de notificación en papel en el domicilio?",
+  "opciones": [
+   "Tres horas",
+   "Una hora",
+   "Cuatro horas",
+   "Dos horas"
+  ],
+  "correcta": 0,
+  "cita": "En caso de que el primer intento de notificación se haya realizado antes de las quince horas, el segundo intento deberá realizarse después de las quince horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación."
+ },
+ {
+  "n": 5044,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a43",
+  "pregunta": "Las notificaciones por medios electrónicos se entenderán practicadas:",
+  "opciones": [
+   "Cuando se envíe el aviso al correo electrónico",
+   "Al día siguiente de su puesta a disposición",
+   "En el momento en que se produzca el acceso a su contenido",
+   "En el momento de su puesta a disposición"
+  ],
+  "correcta": 2,
+  "cita": "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido."
+ },
+ {
+  "n": 5045,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a44",
+  "pregunta": "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o, intentada, no se hubiese podido practicar, la notificación se hará por anuncio publicado en:",
+  "opciones": [
+   "El boletín oficial de la provincia, exclusivamente",
+   "El «Boletín Oficial del Estado»",
+   "La sede electrónica del órgano, exclusivamente",
+   "El tablón de edictos del Ayuntamiento, exclusivamente"
+  ],
+  "correcta": 1,
+  "cita": "Cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien, intentada ésta, no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el «Boletín Oficial del Estado»."
+ },
+ {
+  "n": 5046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a45",
+  "pregunta": "Los actos integrantes de un procedimiento selectivo o de concurrencia competitiva:",
+  "opciones": [
+   "No requieren publicación ni notificación",
+   "Solo se publicarán si lo solicitan los interesados",
+   "Se notificarán individualmente en todo caso",
+   "Serán objeto de publicación, que surtirá los efectos de la notificación"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso, los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en los siguientes casos: a) Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas o cuando la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos, siendo, en este último caso, adicional a la individualmente realizada. b) Cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo."
+ },
+ {
+  "n": 5047,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a47",
+  "pregunta": "¿Cuál de los siguientes vicios determina la nulidad de pleno derecho de un acto según el artículo 47.1?",
+  "opciones": [
+   "Haberse dictado fuera del tiempo establecido",
+   "Incurrir en desviación de poder",
+   "Haber sido dictado por órgano manifiestamente incompetente por razón de la materia o del territorio",
+   "Un defecto de forma que produzca indefensión"
+  ],
+  "correcta": 2,
+  "cita": "Los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes: a) Los que lesionen los derechos y libertades susceptibles de amparo constitucional. b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio."
+ },
+ {
+  "n": 5048,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a47",
+  "pregunta": "Los actos que lesionen los derechos y libertades susceptibles de amparo constitucional son:",
+  "opciones": [
+   "Convalidables",
+   "Anulables",
+   "Nulos de pleno derecho",
+   "Válidos hasta que lo declare el Tribunal Constitucional"
+  ],
+  "correcta": 2,
+  "cita": "Los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes: a) Los que lesionen los derechos y libertades susceptibles de amparo constitucional."
+ },
+ {
+  "n": 5049,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a47",
+  "pregunta": "Los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido son:",
+  "opciones": [
+   "Válidos si el interesado no los recurre",
+   "Convalidables en todo caso",
+   "Anulables",
+   "Nulos de pleno derecho"
+  ],
+  "correcta": 3,
+  "cita": "Los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes: a) Los que lesionen los derechos y libertades susceptibles de amparo constitucional. b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio. c) Los que tengan un contenido imposible. d) Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta. e) Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los"
+ },
+ {
+  "n": 5050,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a47",
+  "pregunta": "Las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales son:",
+  "opciones": [
+   "Nulas de pleno derecho",
+   "Válidas si lo prevé una ley",
+   "Anulables",
+   "Inaplicables solo al caso concreto"
+  ],
+  "correcta": 0,
+  "cita": "También serán nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
+ },
+ {
+  "n": 5051,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a48",
+  "pregunta": "Según el artículo 48.1, la desviación de poder determina:",
+  "opciones": [
+   "La inexistencia del acto",
+   "La anulabilidad del acto",
+   "Una mera irregularidad no invalidante",
+   "La nulidad de pleno derecho del acto"
+  ],
+  "correcta": 1,
+  "cita": "Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder."
+ },
+ {
+  "n": 5052,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a48",
+  "pregunta": "El defecto de forma sólo determinará la anulabilidad del acto cuando:",
+  "opciones": [
+   "Lo alegue el interesado en el plazo de diez días",
+   "Carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+   "Afecte a la notificación del acto",
+   "Se trate de un acto de gravamen"
+  ],
+  "correcta": 1,
+  "cita": "No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados."
+ },
+ {
+  "n": 5053,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a48",
+  "pregunta": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+  "opciones": [
+   "Sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo",
+   "Determina la inexistencia del acto",
+   "Determina siempre la anulabilidad",
+   "Determina siempre la nulidad de pleno derecho"
+  ],
+  "correcta": 0,
+  "cita": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+ },
+ {
+  "n": 5054,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a49",
+  "pregunta": "La nulidad o anulabilidad de un acto:",
+  "opciones": [
+   "Implicará la de los actos anteriores del procedimiento",
+   "Implicará la nulidad de todo el procedimiento",
+   "No implicará la de los sucesivos en el procedimiento que sean independientes del primero",
+   "Implicará la de todos los actos sucesivos del procedimiento"
+  ],
+  "correcta": 2,
+  "cita": "La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero."
+ },
+ {
+  "n": 5055,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a50",
+  "pregunta": "¿Cómo se denomina la figura por la que los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producen los efectos de éste?",
+  "opciones": [
+   "Revocación",
+   "Convalidación",
+   "Conservación de actos y trámites",
+   "Conversión de actos viciados"
+  ],
+  "correcta": 3,
+  "cita": "Conversión de actos viciados. Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste."
+ },
+ {
+  "n": 5056,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a51",
+  "pregunta": "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de:",
+  "opciones": [
+   "Únicamente los informes preceptivos",
+   "Aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción",
+   "Todos los actos anteriores a la infracción",
+   "Los actos favorables al interesado"
+  ],
+  "correcta": 1,
+  "cita": "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción."
+ },
+ {
+  "n": 5057,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a52",
+  "pregunta": "¿Qué actos puede convalidar la Administración, subsanando los vicios de que adolezcan?",
+  "opciones": [
+   "Los actos anulables",
+   "Los actos nulos de pleno derecho",
+   "Únicamente los actos de trámite",
+   "Cualquier acto, sea nulo o anulable"
+  ],
+  "correcta": 0,
+  "cita": "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan."
+ },
+ {
+  "n": 5058,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a52",
+  "pregunta": "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por:",
+  "opciones": [
+   "El mismo órgano que dictó el acto",
+   "El órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+   "Cualquier órgano de la misma Administración",
+   "El Consejo de Estado"
+  ],
+  "correcta": 1,
+  "cita": "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado."
+ },
+ {
+  "n": 5059,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a52",
+  "pregunta": "El acto de convalidación producirá efecto:",
+  "opciones": [
+   "Desde la fecha del acto convalidado, en todo caso",
+   "Desde su notificación al interesado, en todo caso",
+   "Desde su publicación en el boletín oficial",
+   "Desde su fecha, salvo lo dispuesto para la retroactividad de los actos administrativos"
+  ],
+  "correcta": 3,
+  "cita": "El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos."
+ },
+ {
+  "n": 5060,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a53",
+  "pregunta": "En los procedimientos de naturaleza sancionadora, los presuntos responsables tienen derecho, entre otros, a:",
+  "opciones": [
+   "Que el procedimiento se tramite siempre de forma simplificada",
+   "La suspensión automática del procedimiento si lo solicitan",
+   "No ser objeto de medidas provisionales",
+   "La presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario"
+  ],
+  "correcta": 3,
+  "cita": "en el apartado anterior, en el caso de procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tendrán los siguientes derechos: a) A ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer, así como de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia. b) A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario."
+ },
+ {
+  "n": 5061,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a53",
+  "pregunta": "Según el artículo 53.1.e), los interesados pueden formular alegaciones y aportar documentos:",
+  "opciones": [
+   "En cualquier fase del procedimiento anterior al trámite de audiencia",
+   "En cualquier momento, incluso después de la resolución",
+   "Solo en el trámite de audiencia",
+   "Solo en los diez días siguientes al inicio"
+  ],
+  "correcta": 0,
+  "cita": "e) A formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución."
+ },
+ {
+  "n": 5062,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a55",
+  "pregunta": "Con anterioridad al inicio del procedimiento, el órgano competente podrá abrir:",
+  "opciones": [
+   "Un período de información o actuaciones previas",
+   "Un trámite de audiencia",
+   "Un trámite de información pública obligatorio",
+   "Un período de prueba"
+  ],
+  "correcta": 0,
+  "cita": "Con anterioridad al inicio del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento."
+ },
+ {
+  "n": 5063,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a56",
+  "pregunta": "Confirmación, modificación o levantamiento, en el acuerdo de iniciación, de las medidas provisionales adoptadas antes de iniciarse el procedimiento (desde su adopción)",
+  "opciones": [
+   "10 días",
+   "5 días",
+   "20 días",
+   "15 días"
+  ],
+  "correcta": 3,
+  "cita": "Las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda."
+ },
+ {
+  "n": 5064,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a56",
+  "pregunta": "No se podrán adoptar medidas provisionales que:",
+  "opciones": [
+   "Consistan en el embargo preventivo de bienes",
+   "Consistan en la prestación de fianzas",
+   "Puedan causar perjuicio de difícil o imposible reparación a los interesados o impliquen violación de derechos amparados por las leyes",
+   "Supongan la suspensión temporal de actividades"
+  ],
+  "correcta": 2,
+  "cita": "No se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes."
+ },
+ {
+  "n": 5065,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a56",
+  "pregunta": "Las medidas provisionales se extinguirán, en todo caso:",
+  "opciones": [
+   "Al dictarse la propuesta de resolución",
+   "A los tres meses de su adopción",
+   "Cuando surta efectos la resolución administrativa que ponga fin al procedimiento",
+   "Al abrirse el trámite de audiencia"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso, se extinguirán cuando surta efectos la resolución administrativa que ponga fin al procedimiento correspondiente."
+ },
+ {
+  "n": 5066,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a57",
+  "pregunta": "Contra el acuerdo de acumulación de procedimientos:",
+  "opciones": [
+   "Cabe recurso potestativo de reposición",
+   "No procederá recurso alguno",
+   "Cabe recurso contencioso-administrativo directo",
+   "Cabe recurso de alzada"
+  ],
+  "correcta": 1,
+  "cita": "Contra el acuerdo de acumulación no procederá recurso alguno."
+ },
+ {
+  "n": 5067,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a58",
+  "pregunta": "¿Cuál de las siguientes NO es una de las vías de iniciación de oficio previstas en el artículo 58?",
+  "opciones": [
+   "La petición razonada de otros órganos",
+   "La orden superior",
+   "La denuncia",
+   "La solicitud del interesado"
+  ],
+  "correcta": 3,
+  "cita": "Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia."
+ },
+ {
+  "n": 5068,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a61",
+  "pregunta": "La petición razonada de otros órganos para que se inicie un procedimiento:",
+  "opciones": [
+   "Vincula al órgano competente para iniciar",
+   "Equivale a la iniciación del procedimiento",
+   "No vincula al órgano competente, que deberá comunicar los motivos por los que, en su caso, no procede la iniciación",
+   "Obliga a iniciar el procedimiento en diez días"
+  ],
+  "correcta": 2,
+  "cita": "La petición no vincula al órgano competente para iniciar el procedimiento, si bien deberá comunicar al órgano que la hubiera formulado los motivos por los que, en su caso, no procede la iniciación."
+ },
+ {
+  "n": 5069,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a62",
+  "pregunta": "La presentación de una denuncia:",
+  "opciones": [
+   "Obliga a iniciar el procedimiento",
+   "Confiere siempre la condición de interesado",
+   "No confiere, por sí sola, la condición de interesado en el procedimiento",
+   "Debe hacerse de forma anónima"
+  ],
+  "correcta": 2,
+  "cita": "La presentación de una denuncia no confiere, por sí sola, la condición de interesado en el procedimiento."
+ },
+ {
+  "n": 5070,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a63",
+  "pregunta": "Según el artículo 63.1, los procedimientos de naturaleza sancionadora:",
+  "opciones": [
+   "Se iniciarán siempre de oficio y separarán la fase instructora y la sancionadora, encomendadas a órganos distintos",
+   "Pueden iniciarse a solicitud del denunciante",
+   "Se inician por orden del Ministerio Fiscal",
+   "Se instruyen y resuelven por el mismo órgano"
+  ],
+  "correcta": 0,
+  "cita": "Los procedimientos de naturaleza sancionadora se iniciarán siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos."
+ },
+ {
+  "n": 5071,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a64",
+  "pregunta": "Si al dictar el acuerdo de iniciación de un procedimiento sancionador no existen elementos suficientes para la calificación inicial de los hechos, la calificación podrá realizarse después mediante:",
+  "opciones": [
+   "Una propuesta de resolución",
+   "Una petición razonada",
+   "Un acta de inspección",
+   "Un Pliego de cargos"
+  ],
+  "correcta": 3,
+  "cita": "la incoación del procedimiento, la citada calificación podrá realizarse en una fase posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados."
+ },
+ {
+  "n": 5072,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a65",
+  "pregunta": "Aportación de alegaciones, documentos e información por los presuntos lesionados, tras notificárseles el inicio de oficio de un procedimiento de responsabilidad patrimonial",
+  "opciones": [
+   "15 días",
+   "10 días",
+   "5 días",
+   "20 días"
+  ],
+  "correcta": 1,
+  "cita": "El acuerdo de iniciación del procedimiento se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo."
+ },
+ {
+  "n": 5073,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a66",
+  "pregunta": "Cuando la Administración establezca expresamente modelos específicos de presentación de solicitudes en un procedimiento concreto, estos:",
+  "opciones": [
+   "Solo serán obligatorios en la presentación electrónica",
+   "Solo serán obligatorios para las personas jurídicas",
+   "Serán de uso voluntario",
+   "Serán de uso obligatorio por los interesados"
+  ],
+  "correcta": 3,
+  "cita": "Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados."
+ },
+ {
+  "n": 5074,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a67",
+  "pregunta": "Prescripción del derecho a reclamar responsabilidad patrimonial, desde el hecho o acto que motive la indemnización o la manifestación de su efecto lesivo",
+  "opciones": [
+   "1 año",
+   "2 años",
+   "4 años",
+   "3 años"
+  ],
+  "correcta": 0,
+  "cita": "El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo."
+ },
+ {
+  "n": 5075,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a67",
+  "pregunta": "En caso de daños de carácter físico o psíquico a las personas, el plazo para reclamar responsabilidad patrimonial empezará a computarse:",
+  "opciones": [
+   "Desde la primera asistencia médica",
+   "Desde el día en que se produjo el daño",
+   "Desde la notificación del alta laboral",
+   "Desde la curación o la determinación del alcance de las secuelas"
+  ],
+  "correcta": 3,
+  "cita": "En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas."
+ },
+ {
+  "n": 5076,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a68",
+  "pregunta": "Salvo en procedimientos selectivos o de concurrencia competitiva, el plazo de subsanación de la solicitud podrá ampliarse prudencialmente hasta:",
+  "opciones": [
+   "Cinco días",
+   "Tres días",
+   "Quince días",
+   "Diez días"
+  ],
+  "correcta": 0,
+  "cita": "Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales."
+ },
+ {
+  "n": 5077,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a69",
+  "pregunta": "Las declaraciones responsables y las comunicaciones permiten el reconocimiento o ejercicio de un derecho o el inicio de una actividad:",
+  "opciones": [
+   "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección",
+   "Al mes de su presentación",
+   "Desde que la Administración las compruebe",
+   "Desde su publicación en el boletín oficial"
+  ],
+  "correcta": 0,
+  "cita": "Las declaraciones responsables y las comunicaciones permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas."
+ },
+ {
+  "n": 5078,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a69",
+  "pregunta": "¿Puede exigirse a la vez una declaración responsable y una comunicación para iniciar una misma actividad?",
+  "opciones": [
+   "Sí, siempre",
+   "No, únicamente será exigible una de ellas",
+   "Sí, para las actividades sujetas a inspección",
+   "Sí, cuando lo prevea una ordenanza"
+  ],
+  "correcta": 1,
+  "cita": "Únicamente será exigible, bien una declaración responsable, bien una comunicación para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio, sin que sea posible la exigencia de ambas acumulativamente."
+ },
+ {
+  "n": 5079,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a70",
+  "pregunta": "Según el artículo 70.4, ¿cuál de los siguientes SÍ forma parte del expediente administrativo?",
+  "opciones": [
+   "Las notas y opiniones",
+   "Los juicios de valor emitidos por las Administraciones Públicas",
+   "Los borradores",
+   "Los informes, preceptivos y facultativos, solicitados antes de la resolución que ponga fin al procedimiento"
+  ],
+  "correcta": 3,
+  "cita": "administrativas, así como los juicios de valor emitidos por las Administraciones Públicas, salvo que se trate de informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento."
+ },
+ {
+  "n": 5080,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a71",
+  "pregunta": "En el despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza, salvo:",
+  "opciones": [
+   "Orden motivada en contrario del titular de la unidad administrativa, de la que quede constancia",
+   "Que el asunto sea de cuantía elevada",
+   "Acuerdo verbal del instructor",
+   "Petición del interesado"
+  ],
+  "correcta": 0,
+  "cita": "En el despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza, salvo que por el titular de la unidad administrativa se dé orden motivada en contrario, de la que quede constancia."
+ },
+ {
+  "n": 5081,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a74",
+  "pregunta": "Las cuestiones incidentales que se susciten en el procedimiento, incluso las referidas a la nulidad de actuaciones:",
+  "opciones": [
+   "No suspenderán la tramitación, salvo las relativas a la nulidad de actuaciones",
+   "Suspenderán siempre la tramitación",
+   "No suspenderán la tramitación del mismo, salvo la recusación",
+   "Suspenderán la tramitación durante diez días"
+  ],
+  "correcta": 2,
+  "cita": "Las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del mismo, salvo la recusación."
+ },
+ {
+  "n": 5082,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a77",
+  "pregunta": "Período extraordinario de prueba que puede acordar el instructor a petición de los interesados",
+  "opciones": [
+   "No superior a 5 días",
+   "No superior a 30 días",
+   "No superior a 15 días",
+   "No superior a 10 días"
+  ],
+  "correcta": 3,
+  "cita": "Asimismo, cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un período extraordinario de prueba por un plazo no superior a diez días."
+ },
+ {
+  "n": 5083,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a77",
+  "pregunta": "El instructor del procedimiento sólo podrá rechazar las pruebas propuestas por los interesados cuando sean:",
+  "opciones": [
+   "Manifiestamente improcedentes o innecesarias, mediante resolución motivada",
+   "Testificales",
+   "Costosas para la Administración",
+   "Propuestas después del inicio del procedimiento"
+  ],
+  "correcta": 0,
+  "cita": "El instructor del procedimiento sólo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada."
+ },
+ {
+  "n": 5084,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a77",
+  "pregunta": "En los procedimientos sancionadores, los hechos declarados probados por resoluciones judiciales penales firmes:",
+  "opciones": [
+   "Solo vinculan si el interesado los alega",
+   "No vinculan a la Administración",
+   "Vincularán a las Administraciones Públicas",
+   "Solo vinculan si la sentencia es condenatoria"
+  ],
+  "correcta": 2,
+  "cita": "En los procedimientos de carácter sancionador, los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien."
+ },
+ {
+  "n": 5085,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a77",
+  "pregunta": "Los documentos formalizados por funcionarios con condición de autoridad en los que se recojan hechos constatados por ellos, con los requisitos legales:",
+  "opciones": [
+   "Hacen prueba plena que no admite prueba en contrario",
+   "Carecen de valor probatorio",
+   "Solo hacen prueba si los ratifica un superior",
+   "Harán prueba de éstos salvo que se acredite lo contrario"
+  ],
+  "correcta": 3,
+  "cita": "Los documentos formalizados por los funcionarios a los que se reconoce la condición de autoridad y en los que, observándose los requisitos legales correspondientes se recojan los hechos constatados por aquéllos harán prueba de éstos salvo que se acredite lo contrario."
+ },
+ {
+  "n": 5086,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a80",
+  "pregunta": "Salvo disposición expresa en contrario, los informes serán:",
+  "opciones": [
+   "Facultativos y vinculantes",
+   "Facultativos y no vinculantes",
+   "Preceptivos y vinculantes",
+   "Preceptivos y no vinculantes"
+  ],
+  "correcta": 1,
+  "cita": "Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes."
+ },
+ {
+  "n": 5087,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a80",
+  "pregunta": "Si no se emite en plazo un informe preceptivo:",
+  "opciones": [
+   "Se entenderá emitido en sentido favorable",
+   "Se producirá la caducidad del procedimiento",
+   "Se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento",
+   "Se entenderá emitido en sentido desfavorable"
+  ],
+  "correcta": 2,
+  "cita": "la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos"
+ },
+ {
+  "n": 5088,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a81",
+  "pregunta": "En los procedimientos de responsabilidad patrimonial, es preceptivo el dictamen del Consejo de Estado u órgano consultivo autonómico cuando la indemnización reclamada sea de cuantía igual o superior a (salvo la cuantía que fije la legislación autonómica):",
+  "opciones": [
+   "50.000 euros",
+   "6.000 euros",
+   "15.000 euros",
+   "100.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que se establezca en la correspondiente legislación autonómica, así como en aquellos casos"
+ },
+ {
+  "n": 5089,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a81",
+  "pregunta": "Emisión del dictamen del Consejo de Estado u órgano consultivo autonómico en los procedimientos de responsabilidad patrimonial",
+  "opciones": [
+   "3 meses",
+   "1 mes",
+   "2 meses",
+   "6 meses"
+  ],
+  "correcta": 2,
+  "cita": "El dictamen se emitirá en el plazo de dos meses y deberá pronunciarse sobre la existencia o no de relación de causalidad entre el funcionamiento"
+ },
+ {
+  "n": 5090,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a81",
+  "pregunta": "Emisión del informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable",
+  "opciones": [
+   "No superior a 5 días",
+   "No superior a 15 días",
+   "No superior a 20 días",
+   "No superior a 10 días"
+  ],
+  "correcta": 3,
+  "cita": "En el caso de los procedimientos de responsabilidad patrimonial será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión."
+ },
+ {
+  "n": 5091,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a82",
+  "pregunta": "Se podrá prescindir del trámite de audiencia cuando:",
+  "opciones": [
+   "No figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos, alegaciones y pruebas que los aducidos por el interesado",
+   "Lo acuerde el instructor por razones de urgencia",
+   "El interesado no haya presentado alegaciones previas",
+   "El procedimiento se haya iniciado de oficio"
+  ],
+  "correcta": 0,
+  "cita": "Se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado."
+ },
+ {
+  "n": 5092,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a82",
+  "pregunta": "Según el artículo 82.1, la audiencia a los interesados será:",
+  "opciones": [
+   "Simultánea a la solicitud de los informes preceptivos",
+   "Posterior a la propuesta de resolución",
+   "Anterior a la solicitud del informe del órgano de asesoramiento jurídico o del dictamen del Consejo de Estado u órgano equivalente",
+   "Posterior al dictamen del Consejo de Estado"
+  ],
+  "correcta": 2,
+  "cita": "La audiencia a los interesados será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento."
+ },
+ {
+  "n": 5093,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a83",
+  "pregunta": "La comparecencia en el trámite de información pública:",
+  "opciones": [
+   "Otorga la condición de interesado",
+   "No otorga, por sí misma, la condición de interesado",
+   "Es requisito para poder recurrir la resolución",
+   "Obliga a la Administración a estimar las alegaciones"
+  ],
+  "correcta": 1,
+  "cita": "La comparecencia en el trámite de información pública no otorga, por sí misma, la condición de interesado."
+ },
+ {
+  "n": 5094,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a84",
+  "pregunta": "¿Cuál de los siguientes NO pone fin al procedimiento según el artículo 84.1?",
+  "opciones": [
+   "La propuesta de resolución",
+   "La declaración de caducidad",
+   "La renuncia al derecho, cuando no esté prohibida por el ordenamiento jurídico",
+   "El desistimiento"
+  ],
+  "correcta": 0,
+  "cita": "Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y la declaración de caducidad."
+ },
+ {
+  "n": 5095,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a85",
+  "pregunta": "En un procedimiento sancionador con sanción únicamente pecuniaria, el reconocimiento de responsabilidad o el pago voluntario conllevan reducciones de, al menos:",
+  "opciones": [
+   "El 50 % sobre el importe de la sanción propuesta",
+   "El 30 % sobre el importe de la sanción propuesta",
+   "El 10 % sobre el importe de la sanción propuesta",
+   "El 20 % sobre el importe de la sanción propuesta, acumulables entre sí"
+  ],
+  "correcta": 3,
+  "cita": "En ambos casos, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí."
+ },
+ {
+  "n": 5096,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a85",
+  "pregunta": "La efectividad de las reducciones de la sanción por reconocimiento de responsabilidad o pago voluntario está condicionada a:",
+  "opciones": [
+   "Que no exista reincidencia",
+   "Que se trate de una infracción leve",
+   "Que el infractor lo solicite por escrito en diez días",
+   "El desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción"
+  ],
+  "correcta": 3,
+  "cita": "Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción."
+ },
+ {
+  "n": 5097,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a87",
+  "pregunta": "Práctica de las actuaciones complementarias acordadas antes de dictar resolución",
+  "opciones": [
+   "No superior a 7 días",
+   "No superior a 15 días",
+   "No superior a 30 días",
+   "No superior a 10 días"
+  ],
+  "correcta": 1,
+  "cita": "Las actuaciones complementarias deberán practicarse en un plazo no superior a quince días."
+ },
+ {
+  "n": 5098,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a87",
+  "pregunta": "Alegaciones de los interesados tras la finalización de las actuaciones complementarias",
+  "opciones": [
+   "10 días",
+   "7 días",
+   "5 días",
+   "15 días"
+  ],
+  "correcta": 1,
+  "cita": "El acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes tras la finalización de las mismas."
+ },
+ {
+  "n": 5099,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a88",
+  "pregunta": "En los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste y:",
+  "opciones": [
+   "Deberá ser siempre estimatoria",
+   "Podrá agravar su situación si lo justifica el interés público",
+   "Podrá resolver sobre cuestiones no planteadas sin oírle",
+   "En ningún caso podrá agravar su situación inicial"
+  ],
+  "correcta": 3,
+  "cita": "En los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial y sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede."
+ },
+ {
+  "n": 5100,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a88",
+  "pregunta": "So pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables, la Administración:",
+  "opciones": [
+   "Deberá suspender el procedimiento",
+   "Podrá abstenerse de resolver",
+   "Deberá elevar consulta al Consejo de Estado",
+   "En ningún caso podrá abstenerse de resolver"
+  ],
+  "correcta": 3,
+  "cita": "En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá acordarse la"
+ },
+ {
+  "n": 5101,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a89",
+  "pregunta": "¿En cuál de los siguientes casos el instructor de un procedimiento sancionador resolverá su finalización, con archivo de las actuaciones, sin formular propuesta de resolución?",
+  "opciones": [
+   "Cuando el interesado no presente alegaciones",
+   "Cuando la infracción sea leve",
+   "Cuando se concluya que ha prescrito la infracción",
+   "Cuando el interesado reconozca su responsabilidad"
+  ],
+  "correcta": 2,
+  "cita": "El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias: a) La inexistencia de los hechos que pudieran constituir la infracción. b) Cuando los hechos no resulten acreditados. c) Cuando los hechos probados no constituyan, de modo manifiesto, infracción administrativa. d) Cuando no exista o no se haya podido identificar a la persona o personas responsables o bien aparezcan exentos de responsabilidad. e) Cuando se concluyera, en cualquier momento, que ha prescrito la infracción."
+ },
+ {
+  "n": 5102,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a90",
+  "pregunta": "Alegaciones del inculpado cuando el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la propuesta",
+  "opciones": [
+   "10 días",
+   "20 días",
+   "15 días",
+   "5 días"
+  ],
+  "correcta": 2,
+  "cita": "No obstante, cuando el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución, se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de quince días."
+ },
+ {
+  "n": 5103,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a90",
+  "pregunta": "La resolución que ponga fin a un procedimiento sancionador será ejecutiva:",
+  "opciones": [
+   "Desde su notificación",
+   "Desde que se dicte",
+   "Cuando sea firme en vía judicial",
+   "Cuando no quepa contra ella ningún recurso ordinario en vía administrativa"
+  ],
+  "correcta": 3,
+  "cita": "La resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa, pudiendo adoptarse en la misma las disposiciones cautelares precisas para garantizar su eficacia"
+ },
+ {
+  "n": 5104,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a91",
+  "pregunta": "Transcurso, desde el inicio del procedimiento de responsabilidad patrimonial sin resolución ni acuerdo, tras el cual puede entenderse que la resolución es contraria a la indemnización",
+  "opciones": [
+   "6 meses",
+   "2 meses",
+   "12 meses",
+   "3 meses"
+  ],
+  "correcta": 0,
+  "cita": "Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es contraria a la indemnización del particular."
+ },
+ {
+  "n": 5105,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a92",
+  "pregunta": "En el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán, con carácter general, por:",
+  "opciones": [
+   "El Delegado del Gobierno",
+   "El Ministro respectivo",
+   "El Consejo de Ministros, en todo caso",
+   "El Subsecretario del Departamento"
+  ],
+  "correcta": 1,
+  "cita": "En el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán por el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga."
+ },
+ {
+  "n": 5106,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a94",
+  "pregunta": "Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia:",
+  "opciones": [
+   "Afectará a todos los interesados",
+   "Sólo afectará a aquellos que la hubiesen formulado",
+   "Pone fin al procedimiento para todos",
+   "Requiere la conformidad de todos ellos"
+  ],
+  "correcta": 1,
+  "cita": "Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado."
+ },
+ {
+  "n": 5107,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a94",
+  "pregunta": "Solicitud de continuación del procedimiento por terceros interesados personados, desde que fueron notificados del desistimiento o renuncia",
+  "opciones": [
+   "10 días",
+   "20 días",
+   "5 días",
+   "15 días"
+  ],
+  "correcta": 0,
+  "cita": "La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de diez días desde que fueron notificados del desistimiento o renuncia."
+ },
+ {
+  "n": 5108,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a95",
+  "pregunta": "Según el artículo 95.3, la caducidad del procedimiento:",
+  "opciones": [
+   "Interrumpe el plazo de prescripción",
+   "Impide iniciar un nuevo procedimiento con el mismo objeto",
+   "No produce por sí sola la prescripción de las acciones, pero los procedimientos caducados no interrumpen el plazo de prescripción",
+   "Produce por sí sola la prescripción de las acciones"
+  ],
+  "correcta": 2,
+  "cita": "La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción."
+ },
+ {
+  "n": 5109,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a96",
+  "pregunta": "Desestimación por el órgano de la solicitud de tramitación simplificada formulada por el interesado (transcurrido el cual se entiende desestimada)",
+  "opciones": [
+   "3 días",
+   "15 días",
+   "5 días",
+   "10 días"
+  ],
+  "correcta": 2,
+  "cita": "Si el órgano competente para la tramitación aprecia que no concurre alguna de las razones previstas en el apartado 1, podrá desestimar dicha solicitud, en el plazo de cinco días desde su presentación, sin que exista posibilidad de recurso por parte del interesado."
+ },
+ {
+  "n": 5110,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a96",
+  "pregunta": "En la tramitación simplificada del procedimiento, el trámite de audiencia se realiza:",
+  "opciones": [
+   "Únicamente cuando la resolución vaya a ser desfavorable para el interesado",
+   "En todo caso",
+   "Solo a petición del interesado",
+   "Nunca"
+  ],
+  "correcta": 0,
+  "cita": "d) Trámite de audiencia, únicamente cuando la resolución vaya a ser desfavorable para el interesado."
+ },
+ {
+  "n": 5111,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a96",
+  "pregunta": "Alegaciones formuladas al inicio del procedimiento en la tramitación simplificada",
+  "opciones": [
+   "5 días",
+   "10 días",
+   "15 días",
+   "3 días"
+  ],
+  "correcta": 0,
+  "cita": "c) Alegaciones formuladas al inicio del procedimiento durante el plazo de cinco días."
+ },
+ {
+  "n": 5112,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a98",
+  "pregunta": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo son inmediatamente ejecutivos, salvo, entre otros supuestos, que:",
+  "opciones": [
+   "Se trate de un acto de gravamen",
+   "El acto no se haya publicado en el «Boletín Oficial del Estado»",
+   "El interesado manifieste su disconformidad",
+   "Se trate de una resolución sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición"
+  ],
+  "correcta": 3,
+  "cita": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que: a) Se produzca la suspensión de la ejecución del acto. b) Se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición."
+ },
+ {
+  "n": 5113,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a100",
+  "pregunta": "¿Cuál de los siguientes NO es un medio de ejecución forzosa según el artículo 100.1?",
+  "opciones": [
+   "La multa coercitiva",
+   "La sanción pecuniaria",
+   "La compulsión sobre las personas",
+   "La ejecución subsidiaria"
+  ],
+  "correcta": 1,
+  "cita": "La ejecución forzosa por las Administraciones Públicas se efectuará, respetando siempre el principio de proporcionalidad, por los siguientes medios: a) Apremio sobre el patrimonio. b) Ejecución subsidiaria. c) Multa coercitiva. d) Compulsión sobre las personas."
+ },
+ {
+  "n": 5114,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a100",
+  "pregunta": "Si fueran varios los medios de ejecución forzosa admisibles, se elegirá:",
+  "opciones": [
+   "El que elija el interesado",
+   "El menos restrictivo de la libertad individual",
+   "El más económico para la Administración",
+   "El más rápido"
+  ],
+  "correcta": 1,
+  "cita": "Si fueran varios los medios de ejecución admisibles se elegirá el menos restrictivo de la libertad individual."
+ },
+ {
+  "n": 5115,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a100",
+  "pregunta": "Si para la ejecución forzosa fuera necesario entrar en el domicilio del afectado, la Administración deberá obtener:",
+  "opciones": [
+   "El consentimiento del afectado o, en su defecto, la oportuna autorización judicial",
+   "La orden del superior jerárquico",
+   "La presencia de un notario",
+   "La autorización del Delegado del Gobierno"
+  ],
+  "correcta": 0,
+  "cita": "Si fuese necesario entrar en el domicilio del afectado o en los restantes lugares que requieran la autorización de su titular, las Administraciones Públicas deberán obtener el consentimiento del mismo o, en su defecto, la oportuna autorización judicial."
+ },
+ {
+  "n": 5116,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a102",
+  "pregunta": "Habrá lugar a la ejecución subsidiaria cuando se trate de actos:",
+  "opciones": [
+   "Que impongan una obligación personalísima de no hacer",
+   "Personalísimos de hacer",
+   "Que impongan el pago de una cantidad líquida",
+   "Que, por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado"
+  ],
+  "correcta": 3,
+  "cita": "Habrá lugar a la ejecución subsidiaria cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado."
+ },
+ {
+  "n": 5117,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a103",
+  "pregunta": "Según el artículo 103.2, la multa coercitiva:",
+  "opciones": [
+   "Sustituye a la sanción",
+   "Es incompatible con las sanciones",
+   "Solo puede imponerse una vez",
+   "Es independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas"
+  ],
+  "correcta": 3,
+  "cita": "La multa coercitiva es independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas."
+ },
+ {
+  "n": 5118,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a105",
+  "pregunta": "Contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido:",
+  "opciones": [
+   "Caben acciones posesorias ante la jurisdicción civil",
+   "No se admitirán a trámite acciones posesorias",
+   "Cabe recurso de amparo directo",
+   "Cabe recurso extraordinario de revisión en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "No se admitirán a trámite acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido."
+ },
+ {
+  "n": 5119,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a106",
+  "pregunta": "Para declarar de oficio la nulidad de los actos administrativos (artículo 106.1) es necesario:",
+  "opciones": [
+   "Una sentencia judicial previa",
+   "La autorización del Consejo de Ministros",
+   "El informe de la Abogacía del Estado",
+   "El dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere"
+  ],
+  "correcta": 3,
+  "cita": "Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido"
+ },
+ {
+  "n": 5120,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a106",
+  "pregunta": "¿Cuándo pueden las Administraciones declarar de oficio la nulidad de los actos del artículo 47.1 que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo?",
+  "opciones": [
+   "Dentro de los seis meses siguientes",
+   "Dentro de los cuatro años siguientes",
+   "En cualquier momento",
+   "Dentro del año siguiente"
+  ],
+  "correcta": 2,
+  "cita": "Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad"
+ },
+ {
+  "n": 5121,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a107",
+  "pregunta": "Para impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, la Administración debe previamente:",
+  "opciones": [
+   "Revocarlos",
+   "Declararlos lesivos para el interés público",
+   "Suspender su ejecución",
+   "Revisarlos de oficio con dictamen del Consejo de Estado"
+  ],
+  "correcta": 1,
+  "cita": "Las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público."
+ },
+ {
+  "n": 5122,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a107",
+  "pregunta": "Si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por:",
+  "opciones": [
+   "El Pleno de la Corporación o, en defecto de éste, el órgano colegiado superior de la entidad",
+   "El Alcalde",
+   "El Secretario de la Corporación",
+   "La Junta de Gobierno Local"
+  ],
+  "correcta": 0,
+  "cita": "Si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de éste, por el órgano colegiado superior de la entidad."
+ },
+ {
+  "n": 5123,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a107",
+  "pregunta": "La declaración de lesividad:",
+  "opciones": [
+   "No es susceptible de recurso, aunque podrá notificarse a los interesados a efectos informativos",
+   "Es recurrible en reposición",
+   "Es recurrible en alzada",
+   "Es recurrible ante el Consejo de Estado"
+  ],
+  "correcta": 0,
+  "cita": "Sin perjuicio de su examen como presupuesto procesal de admisibilidad de la acción en el proceso judicial correspondiente, la declaración de lesividad no será susceptible de recurso, si bien podrá notificarse a los interesados a los meros efectos informativos."
+ },
+ {
+  "n": 5124,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a109",
+  "pregunta": "Las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
+  "opciones": [
+   "Dentro del mes siguiente a su notificación",
+   "Dentro de los cuatro años siguientes",
+   "En cualquier momento, sin límite temporal",
+   "Mientras no haya transcurrido el plazo de prescripción"
+  ],
+  "correcta": 3,
+  "cita": "Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico."
+ },
+ {
+  "n": 5125,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a109",
+  "pregunta": "Los errores materiales, de hecho o aritméticos existentes en los actos podrán ser rectificados:",
+  "opciones": [
+   "Solo a instancia de los interesados",
+   "Solo de oficio y en el plazo de un año",
+   "En cualquier momento, de oficio o a instancia de los interesados",
+   "Solo dentro del plazo de recurso"
+  ],
+  "correcta": 2,
+  "cita": "Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos."
+ },
+ {
+  "n": 5126,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a111",
+  "pregunta": "En el ámbito estatal, ¿quién es competente para la revisión de oficio de los actos y disposiciones dictados por los Ministros?",
+  "opciones": [
+   "El Secretario de Estado",
+   "El Presidente del Gobierno",
+   "El propio Ministro",
+   "El Consejo de Ministros"
+  ],
+  "correcta": 3,
+  "cita": "En el ámbito estatal, serán competentes para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables: a) El Consejo de Ministros, respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros."
+ },
+ {
+  "n": 5127,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a112",
+  "pregunta": "Contra las disposiciones administrativas de carácter general:",
+  "opciones": [
+   "Cabe recurso de alzada",
+   "Cabe recurso extraordinario de revisión",
+   "No cabrá recurso en vía administrativa",
+   "Cabe recurso potestativo de reposición"
+  ],
+  "correcta": 2,
+  "cita": "Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa."
+ },
+ {
+  "n": 5128,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a112",
+  "pregunta": "¿Contra qué actos de trámite caben los recursos de alzada y potestativo de reposición?",
+  "opciones": [
+   "Contra ningún acto de trámite",
+   "Los que deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento o producen indefensión o perjuicio irreparable",
+   "Solo contra los que acuerden la práctica de pruebas",
+   "Contra todos los actos de trámite"
+  ],
+  "correcta": 1,
+  "cita": "Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio"
+ },
+ {
+  "n": 5129,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a114",
+  "pregunta": "Según el artículo 114.1, pone fin a la vía administrativa:",
+  "opciones": [
+   "La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación de que derive",
+   "La propuesta de resolución",
+   "El acuerdo de iniciación del procedimiento",
+   "La apertura del trámite de audiencia"
+  ],
+  "correcta": 0,
+  "cita": "Ponen fin a la vía administrativa: a) Las resoluciones de los recursos de alzada. b) Las resoluciones de los procedimientos a que se refiere el artículo 112.2. c) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario. d) Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento. e) La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive."
+ },
+ {
+  "n": 5130,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a114",
+  "pregunta": "En el ámbito estatal, ¿ponen fin a la vía administrativa los actos de los órganos directivos con nivel de Director general o superior?",
+  "opciones": [
+   "No, en ningún caso",
+   "Solo los dictados en materia de contratación",
+   "Sí, en todo caso",
+   "Sí, en relación con las competencias que tengan atribuidas en materia de personal"
+  ],
+  "correcta": 3,
+  "cita": "Además de lo previsto en el apartado anterior, en el ámbito estatal ponen fin a la vía administrativa los actos y resoluciones siguientes: a) Los actos administrativos de los miembros y órganos del Gobierno. b) Los emanados de los Ministros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares. c) Los emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal."
+ },
+ {
+  "n": 5131,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a115",
+  "pregunta": "El error o la ausencia de la calificación del recurso por parte del recurrente:",
+  "opciones": [
+   "No será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter",
+   "Determina su inadmisión",
+   "Determina su desestimación",
+   "Obliga a requerir su subsanación en diez días"
+  ],
+  "correcta": 0,
+  "cita": "El error o la ausencia de la calificación del recurso por parte del recurrente no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter."
+ },
+ {
+  "n": 5132,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a115",
+  "pregunta": "Los vicios y defectos que hagan anulable un acto:",
+  "opciones": [
+   "Solo pueden alegarse en vía judicial",
+   "Solo pueden ser alegados por la Administración",
+   "Pueden ser alegados por cualquier persona",
+   "No podrán ser alegados por quienes los hubieren causado"
+  ],
+  "correcta": 3,
+  "cita": "Los vicios y defectos que hagan anulable un acto no podrán ser alegados por quienes los hubieren causado."
+ },
+ {
+  "n": 5133,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a116",
+  "pregunta": "¿Cuál de las siguientes NO es causa de inadmisión de los recursos según el artículo 116?",
+  "opciones": [
+   "Carecer de legitimación el recurrente",
+   "Carecer el recurso manifiestamente de fundamento",
+   "Haber transcurrido el plazo para la interposición del recurso",
+   "El error en la calificación del recurso por el recurrente"
+  ],
+  "correcta": 3,
+  "cita": "Serán causas de inadmisión las siguientes: a) Ser incompetente el órgano administrativo, cuando el competente perteneciera a otra Administración Pública. El recurso deberá remitirse al órgano competente, de acuerdo con lo establecido en el artículo 14.1 de la Ley de Régimen Jurídico del Sector Público. b) Carecer de legitimación el recurrente. c) Tratarse de un acto no susceptible de recurso. d) Haber transcurrido el plazo para la interposición del recurso. e) Carecer el recurso manifiestamente de fundamento."
+ },
+ {
+  "n": 5134,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a117",
+  "pregunta": "La interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario:",
+  "opciones": [
+   "Suspenderá la ejecución si el acto es de gravamen",
+   "No suspenderá la ejecución del acto impugnado",
+   "Suspenderá la ejecución durante un mes",
+   "Suspenderá automáticamente la ejecución del acto"
+  ],
+  "correcta": 1,
+  "cita": "La interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado."
+ },
+ {
+  "n": 5135,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a118",
+  "pregunta": "En la resolución de los recursos, ¿se tendrán en cuenta los hechos, documentos o alegaciones del recurrente que, habiendo podido aportarlos en el trámite de alegaciones, no lo hizo?",
+  "opciones": [
+   "Sí, si los aporta junto con el recurso",
+   "Sí, siempre",
+   "No",
+   "Sí, si son relevantes para el fondo"
+  ],
+  "correcta": 2,
+  "cita": "No se tendrán en cuenta en la resolución de los recursos, hechos, documentos o alegaciones del recurrente, cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho."
+ },
+ {
+  "n": 5136,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a119",
+  "pregunta": "Cuando, existiendo vicio de forma, no se estime procedente resolver sobre el fondo del recurso:",
+  "opciones": [
+   "Se estimará el recurso en todo caso",
+   "Se desestimará el recurso",
+   "Se declarará la nulidad de todo el procedimiento",
+   "Se ordenará la retroacción del procedimiento al momento en que el vicio fue cometido"
+  ],
+  "correcta": 3,
+  "cita": "Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido, sin perjuicio de que eventualmente pueda acordarse la convalidación de actuaciones por el órgano"
+ },
+ {
+  "n": 5137,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a119",
+  "pregunta": "Según el artículo 119.3, la resolución del recurso:",
+  "opciones": [
+   "Podrá agravar la situación del recurrente si lo exige el interés público",
+   "Será congruente con las peticiones del recurrente, sin que en ningún caso pueda agravarse su situación inicial",
+   "Solo podrá pronunciarse sobre las cuestiones alegadas por los interesados",
+   "Deberá ser siempre estimatoria, al menos en parte"
+  ],
+  "correcta": 1,
+  "cita": "No obstante, la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial."
+ },
+ {
+  "n": 5138,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a121",
+  "pregunta": "¿Ante qué órgano puede interponerse el recurso de alzada?",
+  "opciones": [
+   "Ante el Consejo de Estado",
+   "Solo ante el superior jerárquico",
+   "Solo ante el órgano que dictó el acto",
+   "Ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo"
+  ],
+  "correcta": 3,
+  "cita": "El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo."
+ },
+ {
+  "n": 5139,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a121",
+  "pregunta": "Remisión del recurso de alzada al órgano competente para resolverlo, cuando se interpuso ante el órgano que dictó el acto",
+  "opciones": [
+   "15 días",
+   "20 días",
+   "10 días",
+   "5 días"
+  ],
+  "correcta": 2,
+  "cita": "Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente."
+ },
+ {
+  "n": 5140,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a121",
+  "pregunta": "A efectos del recurso de alzada, los Tribunales y órganos de selección del personal al servicio de las Administraciones se consideran dependientes de:",
+  "opciones": [
+   "El Instituto Nacional de Administración Pública, en todo caso",
+   "El Ministerio de Hacienda",
+   "El órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente",
+   "Ningún órgano, por su autonomía funcional"
+  ],
+  "correcta": 2,
+  "cita": "Públicas y cualesquiera otros que, en el seno de éstas, actúen con autonomía funcional, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos."
+ },
+ {
+  "n": 5141,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a122",
+  "pregunta": "Contra la resolución de un recurso de alzada:",
+  "opciones": [
+   "Cabe un segundo recurso de alzada",
+   "No cabe ningún otro recurso administrativo, salvo el extraordinario de revisión en los casos del artículo 125.1",
+   "Cabe recurso potestativo de reposición",
+   "Cabe recurso ante el Consejo de Estado"
+  ],
+  "correcta": 1,
+  "cita": "Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1."
+ },
+ {
+  "n": 5142,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a123",
+  "pregunta": "¿Contra qué actos puede interponerse el recurso potestativo de reposición?",
+  "opciones": [
+   "Contra los que pongan fin a la vía administrativa",
+   "Contra las disposiciones de carácter general",
+   "Contra los que no pongan fin a la vía administrativa",
+   "Solo contra los actos presuntos"
+  ],
+  "correcta": 0,
+  "cita": "Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo."
+ },
+ {
+  "n": 5143,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a123",
+  "pregunta": "Interpuesto recurso de reposición, ¿cuándo puede interponerse recurso contencioso-administrativo?",
+  "opciones": [
+   "Simultáneamente, sin esperar a su resolución",
+   "Al día siguiente de su interposición",
+   "Cuando aquel sea resuelto expresamente o se haya producido su desestimación presunta",
+   "Solo tras su resolución expresa"
+  ],
+  "correcta": 2,
+  "cita": "No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto."
+ },
+ {
+  "n": 5144,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a124",
+  "pregunta": "Contra la resolución de un recurso de reposición:",
+  "opciones": [
+   "Cabe recurso de alzada",
+   "Cabe recurso ante el superior jerárquico",
+   "No podrá interponerse de nuevo dicho recurso",
+   "Cabe un nuevo recurso de reposición"
+  ],
+  "correcta": 2,
+  "cita": "Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso."
+ },
+ {
+  "n": 5145,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a125",
+  "pregunta": "¿Ante qué órgano se interpone el recurso extraordinario de revisión?",
+  "opciones": [
+   "Ante el superior jerárquico del que dictó el acto",
+   "Ante el Consejo de Estado",
+   "Ante la Sala de lo Contencioso-administrativo del Tribunal Supremo",
+   "Ante el órgano administrativo que dictó el acto, que también será el competente para resolverlo"
+  ],
+  "correcta": 3,
+  "cita": "los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias siguientes: a) Que al dictarlos se hubiera incurrido"
+ },
+ {
+  "n": 5146,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a126",
+  "pregunta": "Transcurso, desde la interposición del recurso extraordinario de revisión sin resolución notificada, tras el cual se entiende desestimado",
+  "opciones": [
+   "3 meses",
+   "6 meses",
+   "2 meses",
+   "1 mes"
+  ],
+  "correcta": 0,
+  "cita": "Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa."
+ }
+]

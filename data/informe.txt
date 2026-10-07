@@ -1,3 +1,3 @@
-Preguntas verificadas: 376
-Por bloque: {'III': 142, 'I': 229, 'V': 4, 'IV': 1}
+Preguntas verificadas: 522
+Por bloque: {'III': 288, 'I': 229, 'V': 4, 'IV': 1}
 Rechazadas: 0
