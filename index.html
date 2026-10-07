@@ -86,7 +86,7 @@ const P=[
 ['III','Ley 9/2017','198.4','Abono del precio desde la aprobación de las certificaciones o documentos de conformidad','30 días',['15 días','60 días','10 días']],
 ['V','Constitución Española','134.3','Presentación de los Presupuestos Generales del Estado al Congreso, antes de la expiración de los del año anterior','3 meses',['1 mes','2 meses','6 meses']]
 ];
-const D=R.map((x,i)=>({id:i,p:0,b:x[0],l:x[1],a:x[2],q:x[3],r:x[4],d:x[5],v:!!x[6]})).concat(P.map((x,i)=>({id:R.length+i,p:1,b:x[0],l:x[1],a:x[2],q:'Plazo de: '+x[3],r:x[4],d:x[5],v:!!x[6]})));
+const KEEP=x=>x[0]==='C'||x[0]==='VI';const D=R.filter(KEEP).map((x,i)=>({id:i,p:0,b:x[0],l:x[1],a:x[2],q:x[3],r:x[4],d:x[5],v:!!x[6]})).concat(P.filter(KEEP).map((x,i)=>({id:500+i,p:1,b:x[0],l:x[1],a:x[2],q:'Plazo de: '+x[3],r:x[4],d:x[5],v:!!x[6]})));
 const ref=it=>it.a==='—'?'documentación oficial de Microsoft':(/^\d/.test(it.a)?'art. ':'')+it.a;
 let S={fav:{},note:{},st:{}};try{Object.assign(S,JSON.parse(localStorage.getItem('ageop')||'{}'))}catch(e){}
 const save=()=>{try{localStorage.setItem('ageop',JSON.stringify(S))}catch(e){}};
