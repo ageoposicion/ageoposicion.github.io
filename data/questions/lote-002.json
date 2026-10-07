@@ -1,0 +1,1970 @@
+[
+ {
+  "n": 2001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a1",
+  "pregunta": "Según el artículo 1.1, ¿qué valores superiores de su ordenamiento jurídico propugna España?",
+  "opciones": [
+   "La dignidad, la justicia, la igualdad y la legalidad",
+   "La libertad, la seguridad, la igualdad y la solidaridad",
+   "La libertad, la justicia, la igualdad y el pluralismo político",
+   "La libertad, la justicia, la solidaridad y la seguridad jurídica"
+  ],
+  "correcta": 2,
+  "cita": "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político."
+ },
+ {
+  "n": 2002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a1",
+  "pregunta": "¿En quién reside la soberanía nacional?",
+  "opciones": [
+   "En el Rey",
+   "En las Cortes Generales",
+   "En el pueblo español",
+   "En el Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+ },
+ {
+  "n": 2003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a1",
+  "pregunta": "¿Cuál es la forma política del Estado español?",
+  "opciones": [
+   "La Monarquía hereditaria",
+   "La Monarquía democrática",
+   "La Monarquía parlamentaria",
+   "La Monarquía constitucional"
+  ],
+  "correcta": 2,
+  "cita": "La forma política del Estado español es la Monarquía parlamentaria."
+ },
+ {
+  "n": 2004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a2",
+  "pregunta": "Según el artículo 2, ¿en qué se fundamenta la Constitución?",
+  "opciones": [
+   "En la solidaridad entre las Comunidades Autónomas",
+   "En la indisoluble unidad de la Nación española",
+   "En el derecho a la autonomía de las nacionalidades y regiones",
+   "En el pluralismo político"
+  ],
+  "correcta": 1,
+  "cita": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas."
+ },
+ {
+  "n": 2005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a3",
+  "pregunta": "Respecto del castellano, lengua española oficial del Estado, todos los españoles tienen:",
+  "opciones": [
+   "El deber de conocerla y el derecho a usarla",
+   "El derecho a conocerla y a usarla, sin deber alguno",
+   "El derecho a conocerla y el deber de usarla",
+   "El deber de conocerla y de usarla"
+  ],
+  "correcta": 0,
+  "cita": "Todos los españoles tienen el deber de conocerla y el derecho a usarla."
+ },
+ {
+  "n": 2006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a3",
+  "pregunta": "Según el artículo 3.2, las demás lenguas españolas serán también oficiales:",
+  "opciones": [
+   "En las respectivas Comunidades Autónomas de acuerdo con sus Estatutos",
+   "En todo el territorio nacional, junto al castellano",
+   "En las Comunidades Autónomas que lo acuerden por ley orgánica",
+   "Solo en el ámbito de la Administración local"
+  ],
+  "correcta": 0,
+  "cita": "Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos."
+ },
+ {
+  "n": 2007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a4",
+  "pregunta": "¿Qué anchura tiene la franja amarilla de la bandera de España respecto de cada una de las rojas?",
+  "opciones": [
+   "Triple anchura",
+   "La mitad de anchura",
+   "La misma anchura",
+   "Doble anchura"
+  ],
+  "correcta": 3,
+  "cita": "La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas."
+ },
+ {
+  "n": 2008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a6",
+  "pregunta": "Según el artículo 6, los partidos políticos expresan:",
+  "opciones": [
+   "El pluralismo político",
+   "Los intereses económicos y sociales que les son propios",
+   "La voluntad general de la Nación",
+   "La soberanía nacional"
+  ],
+  "correcta": 0,
+  "cita": "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política."
+ },
+ {
+  "n": 2009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a7",
+  "pregunta": "Según el artículo 7, los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de:",
+  "opciones": [
+   "La formación y manifestación de la voluntad popular",
+   "El pluralismo político",
+   "La participación política de los ciudadanos",
+   "Los intereses económicos y sociales que les son propios"
+  ],
+  "correcta": 3,
+  "cita": "Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios."
+ },
+ {
+  "n": 2010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a8",
+  "pregunta": "Según el artículo 8.1, las Fuerzas Armadas están constituidas por:",
+  "opciones": [
+   "El Ejército de Tierra, la Armada y la Guardia Real",
+   "El Ejército de Tierra y la Armada",
+   "El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil",
+   "El Ejército de Tierra, la Armada y el Ejército del Aire"
+  ],
+  "correcta": 3,
+  "cita": "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional."
+ },
+ {
+  "n": 2011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a8",
+  "pregunta": "¿Qué tipo de norma regulará las bases de la organización militar?",
+  "opciones": [
+   "Un real decreto",
+   "Una ley ordinaria",
+   "Una ley orgánica",
+   "Un decreto legislativo"
+  ],
+  "correcta": 2,
+  "cita": "Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución."
+ },
+ {
+  "n": 2012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a9",
+  "pregunta": "Según el artículo 9.2, ¿a quién corresponde promover las condiciones para que la libertad y la igualdad del individuo y de los grupos sean reales y efectivas?",
+  "opciones": [
+   "Al Defensor del Pueblo",
+   "A las Cortes Generales",
+   "A los poderes públicos",
+   "Al Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos"
+ },
+ {
+  "n": 2013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a9",
+  "pregunta": "El artículo 9.3 garantiza la irretroactividad de:",
+  "opciones": [
+   "Las disposiciones favorables a los derechos individuales",
+   "Todas las disposiciones normativas",
+   "Las leyes y los reglamentos, sin excepción",
+   "Las disposiciones sancionadoras no favorables o restrictivas de derechos individuales"
+  ],
+  "correcta": 3,
+  "cita": "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+ },
+ {
+  "n": 2014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a10",
+  "pregunta": "Según el artículo 10.2, las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+  "opciones": [
+   "La jurisprudencia del Tribunal Supremo y del Tribunal Constitucional",
+   "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España",
+   "Las leyes orgánicas que los desarrollen exclusivamente",
+   "La Carta de las Naciones Unidas exclusivamente"
+  ],
+  "correcta": 1,
+  "cita": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España."
+ },
+ {
+  "n": 2015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a10",
+  "pregunta": "Según el artículo 10.1, la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás son:",
+  "opciones": [
+   "Fundamento del orden político y de la paz social",
+   "Principios rectores de la política social y económica",
+   "Valores superiores del ordenamiento jurídico",
+   "Límites al ejercicio de los derechos fundamentales"
+  ],
+  "correcta": 0,
+  "cita": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social."
+ },
+ {
+  "n": 2016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a11",
+  "pregunta": "Según el artículo 11.2, ¿quién no podrá ser privado de su nacionalidad?",
+  "opciones": [
+   "Ningún español residente en España",
+   "Ningún español mayor de edad",
+   "Ningún español de origen",
+   "Ningún español, cualquiera que sea el modo en que adquirió la nacionalidad"
+  ],
+  "correcta": 2,
+  "cita": "Ningún español de origen podrá ser privado de su nacionalidad."
+ },
+ {
+  "n": 2017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a11",
+  "pregunta": "¿Con qué países podrá el Estado concertar tratados de doble nacionalidad?",
+  "opciones": [
+   "Con cualquier país, siempre que exista reciprocidad",
+   "Solo con los países iberoamericanos",
+   "Con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España",
+   "Solo con los Estados miembros de la Unión Europea"
+  ],
+  "correcta": 2,
+  "cita": "El Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España."
+ },
+ {
+  "n": 2018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a12",
+  "pregunta": "¿A qué edad son mayores de edad los españoles?",
+  "opciones": [
+   "A los dieciocho años",
+   "A los veintiún años",
+   "A los dieciséis años",
+   "A los diecisiete años"
+  ],
+  "correcta": 0,
+  "cita": "Los españoles son mayores de edad a los dieciocho años."
+ },
+ {
+  "n": 2019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a13",
+  "pregunta": "¿Qué derechos del artículo 23 podrán establecerse para los extranjeros por tratado o ley, atendiendo a criterios de reciprocidad?",
+  "opciones": [
+   "Solo el derecho de sufragio activo en las elecciones municipales",
+   "El derecho de sufragio activo en las elecciones autonómicas y municipales",
+   "El derecho de sufragio activo y pasivo en las elecciones generales",
+   "El derecho de sufragio activo y pasivo en las elecciones municipales"
+  ],
+  "correcta": 3,
+  "cita": "Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales."
+ },
+ {
+  "n": 2020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a13",
+  "pregunta": "En materia de extradición, el artículo 13.3 establece que:",
+  "opciones": [
+   "Solo se concederá respecto de nacionales de la Unión Europea",
+   "Quedan excluidos los delitos políticos, incluidos los actos de terrorismo",
+   "Se concederá aunque no exista tratado ni ley que la prevea",
+   "Quedan excluidos los delitos políticos, no considerándose como tales los actos de terrorismo"
+  ],
+  "correcta": 3,
+  "cita": "Quedan excluidos de la extradición los delitos políticos, no considerándose como tales los actos de terrorismo."
+ },
+ {
+  "n": 2021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a14",
+  "pregunta": "¿Cuál de las siguientes circunstancias NO se menciona expresamente en el artículo 14 como causa de discriminación?",
+  "opciones": [
+   "El nacimiento",
+   "La edad",
+   "La opinión",
+   "La raza"
+  ],
+  "correcta": 1,
+  "cita": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social."
+ },
+ {
+  "n": 2022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a15",
+  "pregunta": "Según el artículo 15, queda abolida la pena de muerte, salvo:",
+  "opciones": [
+   "Para los delitos de terrorismo",
+   "Lo que dispongan los tratados internacionales ratificados por España",
+   "Durante la vigencia del estado de sitio",
+   "Lo que puedan disponer las leyes penales militares para tiempos de guerra"
+  ],
+  "correcta": 3,
+  "cita": "Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra."
+ },
+ {
+  "n": 2023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a16",
+  "pregunta": "¿Qué establece el artículo 16.3 sobre las confesiones religiosas?",
+  "opciones": [
+   "La religión católica es la oficial del Estado",
+   "Los poderes públicos no mantendrán relaciones con ninguna confesión",
+   "Las confesiones deberán inscribirse para ser reconocidas por el Estado",
+   "Ninguna confesión tendrá carácter estatal"
+  ],
+  "correcta": 3,
+  "cita": "Ninguna confesión tendrá carácter estatal."
+ },
+ {
+  "n": 2024,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a17",
+  "pregunta": "Duración máxima de la detención preventiva, tras la cual el detenido debe ser puesto en libertad o a disposición de la autoridad judicial",
+  "opciones": [
+   "96 horas",
+   "24 horas",
+   "72 horas",
+   "48 horas"
+  ],
+  "correcta": 2,
+  "cita": "La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial."
+ },
+ {
+  "n": 2025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a17",
+  "pregunta": "El procedimiento de «habeas corpus» que regulará la ley tiene por objeto:",
+  "opciones": [
+   "Garantizar la asistencia de abogado en las diligencias policiales",
+   "Fijar el plazo máximo de duración de la prisión provisional",
+   "Recurrir en amparo ante el Tribunal Constitucional",
+   "Producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente"
+  ],
+  "correcta": 3,
+  "cita": "La ley regulará un procedimiento de «habeas corpus» para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente."
+ },
+ {
+  "n": 2026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a18",
+  "pregunta": "Según el artículo 18.2, ¿en qué caso puede hacerse una entrada o registro en un domicilio sin consentimiento del titular ni resolución judicial?",
+  "opciones": [
+   "En caso de flagrante delito",
+   "Por orden del Ministerio Fiscal",
+   "En caso de alteración grave del orden público",
+   "Por orden de la autoridad gubernativa"
+  ],
+  "correcta": 0,
+  "cita": "Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito."
+ },
+ {
+  "n": 2027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a18",
+  "pregunta": "Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo:",
+  "opciones": [
+   "Resolución judicial",
+   "Acuerdo del Consejo de Ministros",
+   "Orden del Ministerio Fiscal",
+   "Autorización del Ministerio del Interior"
+  ],
+  "correcta": 0,
+  "cita": "Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial."
+ },
+ {
+  "n": 2028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a20",
+  "pregunta": "Según el artículo 20.5, el secuestro de publicaciones, grabaciones y otros medios de información sólo podrá acordarse:",
+  "opciones": [
+   "En virtud de resolución judicial",
+   "Por decreto del Ministerio Fiscal",
+   "Por acuerdo del Consejo de Ministros",
+   "Por resolución administrativa motivada"
+  ],
+  "correcta": 0,
+  "cita": "Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial."
+ },
+ {
+  "n": 2029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a21",
+  "pregunta": "El ejercicio del derecho de reunión pacífica y sin armas:",
+  "opciones": [
+   "Requerirá autorización previa de la autoridad gubernativa",
+   "Requerirá autorización judicial previa",
+   "Requerirá inscripción previa en un registro",
+   "No necesitará autorización previa"
+  ],
+  "correcta": 3,
+  "cita": "El ejercicio de este derecho no necesitará autorización previa."
+ },
+ {
+  "n": 2030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a21",
+  "pregunta": "En los casos de reuniones en lugares de tránsito público y manifestaciones, se dará a la autoridad:",
+  "opciones": [
+   "Solicitud de autorización previa",
+   "Solicitud de licencia municipal",
+   "Comunicación previa",
+   "Comunicación posterior a su celebración"
+  ],
+  "correcta": 2,
+  "cita": "En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes."
+ },
+ {
+  "n": 2031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a22",
+  "pregunta": "Las asociaciones constituidas al amparo del artículo 22 deberán inscribirse en un registro:",
+  "opciones": [
+   "Como requisito de validez de su constitución",
+   "Para adquirir personalidad jurídica",
+   "A los solos efectos de publicidad",
+   "Para poder recibir subvenciones públicas"
+  ],
+  "correcta": 2,
+  "cita": "Las asociaciones constituidas al amparo de este artículo deberán inscribirse en un registro a los solos efectos de publicidad."
+ },
+ {
+  "n": 2032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a22",
+  "pregunta": "Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades:",
+  "opciones": [
+   "En virtud de resolución judicial motivada",
+   "Por resolución administrativa, previa audiencia",
+   "Por acuerdo del Consejo de Ministros",
+   "Por resolución motivada del Ministerio del Interior"
+  ],
+  "correcta": 0,
+  "cita": "Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada."
+ },
+ {
+  "n": 2033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a22",
+  "pregunta": "¿Qué asociaciones prohíbe expresamente el artículo 22.5?",
+  "opciones": [
+   "Las secretas y las de carácter paramilitar",
+   "Las que no se inscriban en el registro",
+   "Las secretas y las de carácter político",
+   "Las de carácter religioso y las paramilitares"
+  ],
+  "correcta": 0,
+  "cita": "Se prohíben las asociaciones secretas y las de carácter paramilitar."
+ },
+ {
+  "n": 2034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a23",
+  "pregunta": "Según el artículo 23.2, los ciudadanos tienen derecho a acceder en condiciones de igualdad a:",
+  "opciones": [
+   "La enseñanza universitaria",
+   "Los medios de comunicación social dependientes del Estado",
+   "Las funciones y cargos públicos, con los requisitos que señalen las leyes",
+   "Los archivos y registros administrativos"
+  ],
+  "correcta": 2,
+  "cita": "Asimismo, tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes."
+ },
+ {
+  "n": 2035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a24",
+  "pregunta": "Según el artículo 24.2, la ley regulará los casos en que no se estará obligado a declarar sobre hechos presuntamente delictivos por razón de:",
+  "opciones": [
+   "Parentesco o secreto profesional",
+   "Edad o enfermedad",
+   "Parentesco o amistad íntima",
+   "Secreto profesional o interés legítimo"
+  ],
+  "correcta": 0,
+  "cita": "La ley regulará los casos en que, por razón de parentesco o de secreto profesional, no se estará obligado a declarar sobre hechos presuntamente delictivos."
+ },
+ {
+  "n": 2036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a25",
+  "pregunta": "Según el artículo 25.3, la Administración civil no podrá imponer sanciones que:",
+  "opciones": [
+   "Directa o subsidiariamente, impliquen privación de libertad",
+   "Impliquen la inhabilitación para el ejercicio de actividades",
+   "Superen la cuantía máxima fijada por el Gobierno",
+   "Tengan carácter pecuniario"
+  ],
+  "correcta": 0,
+  "cita": "La Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad."
+ },
+ {
+  "n": 2037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a25",
+  "pregunta": "Según el artículo 25.2, las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia:",
+  "opciones": [
+   "La reparación del daño a la víctima",
+   "La prevención general y especial",
+   "La reeducación y reinserción social",
+   "El castigo y la retribución"
+  ],
+  "correcta": 2,
+  "cita": "Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social y no podrán consistir en trabajos forzados."
+ },
+ {
+  "n": 2038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a26",
+  "pregunta": "¿Qué prohíbe el artículo 26 en el ámbito de la Administración civil y de las organizaciones profesionales?",
+  "opciones": [
+   "Los Tribunales de Honor",
+   "Las comisiones de investigación",
+   "Los jurados populares",
+   "Los colegios profesionales de adscripción obligatoria"
+  ],
+  "correcta": 0,
+  "cita": "Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales."
+ },
+ {
+  "n": 2039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a27",
+  "pregunta": "Según el artículo 27.4, la enseñanza básica es:",
+  "opciones": [
+   "Obligatoria y gratuita",
+   "Obligatoria, pero no necesariamente gratuita",
+   "Gratuita, pero no obligatoria",
+   "Obligatoria y gratuita solo en los centros públicos"
+  ],
+  "correcta": 0,
+  "cita": "La enseñanza básica es obligatoria y gratuita."
+ },
+ {
+  "n": 2040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a28",
+  "pregunta": "Según el artículo 28.1, ¿a quiénes podrá la ley limitar o exceptuar el ejercicio del derecho a sindicarse?",
+  "opciones": [
+   "A los funcionarios públicos",
+   "A los trabajadores extranjeros",
+   "A los trabajadores de los servicios esenciales de la comunidad",
+   "A las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar"
+  ],
+  "correcta": 3,
+  "cita": "La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos."
+ },
+ {
+  "n": 2041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a28",
+  "pregunta": "La ley que regule el ejercicio del derecho de huelga establecerá las garantías precisas para asegurar:",
+  "opciones": [
+   "La paz social durante la vigencia de los convenios",
+   "La libertad de empresa y la productividad",
+   "El mantenimiento de los servicios esenciales de la comunidad",
+   "El funcionamiento ordinario de las Administraciones públicas"
+  ],
+  "correcta": 2,
+  "cita": "La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad."
+ },
+ {
+  "n": 2042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a29",
+  "pregunta": "Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer el derecho de petición:",
+  "opciones": [
+   "En ningún caso",
+   "Sólo individualmente y con arreglo a lo dispuesto en su legislación específica",
+   "Sólo colectivamente, a través de sus mandos",
+   "Individual y colectivamente, sin limitación alguna"
+  ],
+  "correcta": 1,
+  "cita": "Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho sólo individualmente y con arreglo a lo dispuesto en su legislación específica."
+ },
+ {
+  "n": 2043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a30",
+  "pregunta": "Según el artículo 30.2, al regular la objeción de conciencia, la ley podrá imponer, en su caso:",
+  "opciones": [
+   "La pérdida de los derechos políticos",
+   "Una sanción administrativa",
+   "Una contribución económica sustitutoria",
+   "Una prestación social sustitutoria"
+  ],
+  "correcta": 3,
+  "cita": "La ley fijará las obligaciones militares de los españoles y regulará, con las debidas garantías, la objeción de conciencia, así como las demás causas de exención del servicio militar obligatorio, pudiendo imponer, en su caso, una prestación social sustitutoria."
+ },
+ {
+  "n": 2044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a31",
+  "pregunta": "Según el artículo 31.1, el sistema tributario justo se inspira en los principios de:",
+  "opciones": [
+   "Igualdad y progresividad",
+   "Suficiencia y neutralidad",
+   "Eficiencia y economía",
+   "Generalidad y proporcionalidad"
+  ],
+  "correcta": 0,
+  "cita": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio."
+ },
+ {
+  "n": 2045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a31",
+  "pregunta": "Según el artículo 31.2, la programación y ejecución del gasto público responderán a los criterios de:",
+  "opciones": [
+   "Eficiencia y economía",
+   "Estabilidad y sostenibilidad",
+   "Eficacia y jerarquía",
+   "Igualdad y progresividad"
+  ],
+  "correcta": 0,
+  "cita": "El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de eficiencia y economía."
+ },
+ {
+  "n": 2046,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a33",
+  "pregunta": "Según el artículo 33.3, nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social y:",
+  "opciones": [
+   "Mediante resolución judicial firme",
+   "Previa autorización de las Cortes Generales",
+   "Mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes",
+   "Por acuerdo del Consejo de Ministros, sin indemnización"
+  ],
+  "correcta": 2,
+  "cita": "Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes."
+ },
+ {
+  "n": 2047,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a35",
+  "pregunta": "Según el artículo 35.1, el trabajo es para todos los españoles:",
+  "opciones": [
+   "Solo un deber",
+   "Solo un derecho",
+   "Un principio rector de la política social y económica",
+   "Un deber y un derecho"
+  ],
+  "correcta": 3,
+  "cita": "Todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia, sin que en ningún caso pueda hacerse discriminación por razón de sexo."
+ },
+ {
+  "n": 2048,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a38",
+  "pregunta": "El artículo 38 reconoce la libertad de empresa en el marco de:",
+  "opciones": [
+   "La planificación económica general",
+   "La iniciativa pública en la actividad económica",
+   "La economía social",
+   "La economía de mercado"
+  ],
+  "correcta": 3,
+  "cita": "Se reconoce la libertad de empresa en el marco de la economía de mercado."
+ },
+ {
+  "n": 2049,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a41",
+  "pregunta": "Según el artículo 41, el régimen público de Seguridad Social garantizará la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de:",
+  "opciones": [
+   "Desempleo",
+   "Jubilación",
+   "Enfermedad",
+   "Incapacidad permanente"
+  ],
+  "correcta": 0,
+  "cita": "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo."
+ },
+ {
+  "n": 2050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a47",
+  "pregunta": "Según el artículo 47, la comunidad participará en:",
+  "opciones": [
+   "Los beneficios de las empresas públicas",
+   "Las plusvalías que genere la acción urbanística de los entes públicos",
+   "La adjudicación de las viviendas de protección oficial",
+   "La aprobación de los planes urbanísticos municipales"
+  ],
+  "correcta": 1,
+  "cita": "La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos."
+ },
+ {
+  "n": 2051,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a49",
+  "pregunta": "Según el artículo 49.2 (en su redacción de 2024), ¿qué necesidades se atenderán particularmente?",
+  "opciones": [
+   "Las necesidades específicas de las personas con discapacidad en el medio rural",
+   "Las necesidades específicas de las personas con discapacidad intelectual",
+   "Las necesidades específicas de las personas mayores con discapacidad",
+   "Las necesidades específicas de las mujeres y los menores con discapacidad"
+  ],
+  "correcta": 3,
+  "cita": "Se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad."
+ },
+ {
+  "n": 2052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a50",
+  "pregunta": "Según el artículo 50, ¿cómo garantizarán los poderes públicos la suficiencia económica a los ciudadanos durante la tercera edad?",
+  "opciones": [
+   "Mediante un sistema de servicios sociales",
+   "Mediante prestaciones complementarias libres",
+   "Mediante la obligación de alimentos de sus familiares",
+   "Mediante pensiones adecuadas y periódicamente actualizadas"
+  ],
+  "correcta": 3,
+  "cita": "Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad."
+ },
+ {
+  "n": 2053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a53",
+  "pregunta": "Según el artículo 53.2, ¿qué derechos pueden tutelarse ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad?",
+  "opciones": [
+   "Los del artículo 14 y la Sección primera del Capítulo segundo del Título I",
+   "Todos los del Título I",
+   "Los del Capítulo tercero del Título I",
+   "Todos los del Capítulo segundo del Título I"
+  ],
+  "correcta": 0,
+  "cita": "Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional."
+ },
+ {
+  "n": 2054,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a53",
+  "pregunta": "Según el artículo 53.1, el ejercicio de los derechos y libertades del Capítulo segundo del Título I sólo podrá regularse:",
+  "opciones": [
+   "Por real decreto, previo dictamen del Consejo de Estado",
+   "Por ley o por reglamento, indistintamente",
+   "Por ley, que en todo caso deberá respetar su contenido esencial",
+   "Por decreto-ley, en caso de extraordinaria y urgente necesidad"
+  ],
+  "correcta": 2,
+  "cita": "Sólo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio de tales derechos y libertades, que se tutelarán de acuerdo con lo previsto en el artículo 161, 1, a)."
+ },
+ {
+  "n": 2055,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a53",
+  "pregunta": "Según el artículo 53.3, los principios reconocidos en el Capítulo tercero del Título I:",
+  "opciones": [
+   "No pueden ser alegados en ningún caso ante los tribunales",
+   "Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen",
+   "Se tutelan por un procedimiento basado en los principios de preferencia y sumariedad",
+   "Pueden ser objeto de recurso de amparo ante el Tribunal Constitucional"
+  ],
+  "correcta": 1,
+  "cita": "Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen."
+ },
+ {
+  "n": 2056,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a53",
+  "pregunta": "Además de a los derechos del artículo 14 y de la Sección primera del Capítulo segundo, ¿a qué es aplicable el recurso de amparo según el artículo 53.2?",
+  "opciones": [
+   "Al derecho de propiedad reconocido en el artículo 33",
+   "Al derecho al trabajo reconocido en el artículo 35",
+   "Al derecho a la vivienda reconocido en el artículo 47",
+   "A la objeción de conciencia reconocida en el artículo 30"
+  ],
+  "correcta": 3,
+  "cita": "Este último recurso será aplicable a la objeción de conciencia reconocida en el artículo 30."
+ },
+ {
+  "n": 2057,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a54",
+  "pregunta": "Según el artículo 54, el Defensor del Pueblo es:",
+  "opciones": [
+   "Un órgano consultivo del Gobierno",
+   "Un alto comisionado del Gobierno",
+   "Un alto comisionado de las Cortes Generales",
+   "Un órgano dependiente del Ministerio de Justicia"
+  ],
+  "correcta": 2,
+  "cita": "Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales."
+ },
+ {
+  "n": 2058,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a55",
+  "pregunta": "Los derechos enumerados en el artículo 55.1 podrán ser suspendidos cuando se acuerde la declaración del:",
+  "opciones": [
+   "Estado de excepción o de sitio",
+   "Estado de alarma o de excepción",
+   "Estado de alarma únicamente",
+   "Estado de alarma, de excepción o de sitio"
+  ],
+  "correcta": 0,
+  "cita": "Los derechos reconocidos en los artículos 17, 18, apartados 2 y 3, artículos 19, 20, apartados 1, a) y d), y 5, artículos 21, 28, apartado 2, y artículo 37, apartado 2, podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución."
+ },
+ {
+  "n": 2059,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a55",
+  "pregunta": "¿Qué apartado del artículo 17 se exceptúa de la suspensión en el supuesto de declaración del estado de excepción?",
+  "opciones": [
+   "El apartado 4",
+   "El apartado 1",
+   "El apartado 2",
+   "El apartado 3"
+  ],
+  "correcta": 3,
+  "cita": "Se exceptúa de lo establecido anteriormente el apartado 3 del artículo 17 para el supuesto de declaración de estado de excepción."
+ },
+ {
+  "n": 2060,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a55",
+  "pregunta": "Según el artículo 55.2, ¿qué derechos pueden ser suspendidos para personas determinadas en relación con las investigaciones sobre bandas armadas o elementos terroristas?",
+  "opciones": [
+   "Los de los artículos 17.3 y 24.2",
+   "Los de los artículos 18.1 y 20.1",
+   "Los de los artículos 17.2 y 18.2 y 3",
+   "Los de los artículos 19 y 21"
+  ],
+  "correcta": 2,
+  "cita": "de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos"
+ },
+ {
+  "n": 2061,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a56",
+  "pregunta": "Según el artículo 56.3, los actos del Rey carecen de validez sin refrendo, salvo lo dispuesto en:",
+  "opciones": [
+   "El artículo 62",
+   "El artículo 99",
+   "El artículo 63",
+   "El artículo 65.2"
+  ],
+  "correcta": 3,
+  "cita": "Sus actos estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2."
+ },
+ {
+  "n": 2062,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a56",
+  "pregunta": "Según el artículo 56.3, la persona del Rey:",
+  "opciones": [
+   "Es inviolable, pero responde ante las Cortes Generales",
+   "Es inviolable y no está sujeta a responsabilidad",
+   "Es inviolable solo en el ejercicio de sus funciones",
+   "Responde de sus actos ante el Tribunal Supremo"
+  ],
+  "correcta": 1,
+  "cita": "La persona del Rey es inviolable y no está sujeta a responsabilidad."
+ },
+ {
+  "n": 2063,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a57",
+  "pregunta": "En el orden de sucesión a la Corona, en la misma línea y en el mismo grado, se prefiere:",
+  "opciones": [
+   "La persona de menos edad a la de más",
+   "La persona que designe el Rey",
+   "El varón a la mujer",
+   "La mujer al varón"
+  ],
+  "correcta": 2,
+  "cita": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos."
+ },
+ {
+  "n": 2064,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a57",
+  "pregunta": "Según el artículo 57.2, el Príncipe heredero tendrá la dignidad de:",
+  "opciones": [
+   "Príncipe de Asturias",
+   "Príncipe de España",
+   "Infante de España",
+   "Príncipe de Castilla"
+  ],
+  "correcta": 0,
+  "cita": "El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España."
+ },
+ {
+  "n": 2065,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a57",
+  "pregunta": "¿Cómo se resolverán las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona?",
+  "opciones": [
+   "Por una ley orgánica",
+   "Por una ley ordinaria",
+   "Por acuerdo de las Cortes Generales en sesión conjunta",
+   "Por sentencia del Tribunal Constitucional"
+  ],
+  "correcta": 0,
+  "cita": "Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por una ley orgánica."
+ },
+ {
+  "n": 2066,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a57",
+  "pregunta": "Quienes, teniendo derecho a la sucesión en el trono, contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales:",
+  "opciones": [
+   "Perderán la dignidad de Príncipe de Asturias, pero conservarán su derecho",
+   "Quedarán excluidos de la sucesión, pero no sus descendientes",
+   "Quedarán excluidos de la sucesión a la Corona por sí y sus descendientes",
+   "Solo quedarán excluidos si así lo declara una ley orgánica"
+  ],
+  "correcta": 2,
+  "cita": "Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales, quedarán excluidas en la sucesión a la Corona por sí y sus descendientes."
+ },
+ {
+  "n": 2067,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a58",
+  "pregunta": "Según el artículo 58, la Reina consorte o el consorte de la Reina:",
+  "opciones": [
+   "No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia",
+   "Ejercerán siempre la Regencia durante la minoría de edad del Rey",
+   "Podrán presidir el Consejo de Ministros en ausencia del Rey",
+   "Podrán asumir las funciones constitucionales que el Rey les delegue"
+  ],
+  "correcta": 0,
+  "cita": "La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia."
+ },
+ {
+  "n": 2068,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a59",
+  "pregunta": "Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales y se compondrá de:",
+  "opciones": [
+   "Tres personas",
+   "Una o tres personas",
+   "Dos o cuatro personas",
+   "Una, tres o cinco personas"
+  ],
+  "correcta": 3,
+  "cita": "Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales, y se compondrá de una, tres o cinco personas."
+ },
+ {
+  "n": 2069,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a59",
+  "pregunta": "Según el artículo 59.4, para ejercer la Regencia es preciso:",
+  "opciones": [
+   "Ser español de origen y mayor de treinta años",
+   "Ser español y haber sido designado en el testamento del Rey difunto",
+   "Ser español y mayor de edad",
+   "Ser mayor de edad y miembro de la Familia Real"
+  ],
+  "correcta": 2,
+  "cita": "Para ejercer la Regencia es preciso ser español y mayor de edad."
+ },
+ {
+  "n": 2070,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a60",
+  "pregunta": "Según el artículo 60.1, ¿quién será, en primer lugar, tutor del Rey menor?",
+  "opciones": [
+   "La persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento",
+   "El Regente, en todo caso",
+   "El Presidente del Gobierno",
+   "La persona que designen las Cortes Generales"
+  ],
+  "correcta": 0,
+  "cita": "Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos."
+ },
+ {
+  "n": 2071,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a61",
+  "pregunta": "¿Ante quién presta juramento el Rey al ser proclamado?",
+  "opciones": [
+   "Ante el Tribunal Constitucional",
+   "Ante las Cortes Generales",
+   "Ante el Consejo de Ministros",
+   "Ante el Congreso de los Diputados"
+  ],
+  "correcta": 1,
+  "cita": "El Rey, al ser proclamado ante las Cortes Generales, prestará juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas."
+ },
+ {
+  "n": 2072,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a62",
+  "pregunta": "Corresponde al Rey ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar:",
+  "opciones": [
+   "Indultos parciales",
+   "Indultos particulares",
+   "Conmutaciones de pena",
+   "Indultos generales"
+  ],
+  "correcta": 3,
+  "cita": "i) Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales."
+ },
+ {
+  "n": 2073,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a62",
+  "pregunta": "Según el artículo 62.g), el Rey preside las sesiones del Consejo de Ministros:",
+  "opciones": [
+   "Cuando lo estime oportuno, a petición del Presidente del Gobierno",
+   "Solo en la primera sesión de cada legislatura",
+   "Únicamente en tiempo de guerra",
+   "Siempre que lo estime oportuno, sin necesidad de petición"
+  ],
+  "correcta": 0,
+  "cita": "g) Ser informado de los asuntos de Estado y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a petición del Presidente del Gobierno."
+ },
+ {
+  "n": 2074,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a63",
+  "pregunta": "Al Rey corresponde declarar la guerra y hacer la paz:",
+  "opciones": [
+   "Previa autorización del Congreso de los Diputados",
+   "Previa autorización de las Cortes Generales",
+   "A propuesta del Consejo de Seguridad Nacional",
+   "Previo dictamen del Consejo de Estado"
+  ],
+  "correcta": 1,
+  "cita": "Al Rey corresponde, previa autorización de las Cortes Generales, declarar la guerra y hacer la paz."
+ },
+ {
+  "n": 2075,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a64",
+  "pregunta": "¿Quién refrenda la propuesta y el nombramiento del Presidente del Gobierno?",
+  "opciones": [
+   "El Presidente del Gobierno saliente",
+   "El Presidente del Senado",
+   "El Ministro de la Presidencia",
+   "El Presidente del Congreso"
+  ],
+  "correcta": 3,
+  "cita": "La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso."
+ },
+ {
+  "n": 2076,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a64",
+  "pregunta": "De los actos del Rey serán responsables:",
+  "opciones": [
+   "El Gobierno en su conjunto",
+   "Las Cortes Generales",
+   "Las personas que los refrenden",
+   "El propio Rey"
+  ],
+  "correcta": 2,
+  "cita": "De los actos del Rey serán responsables las personas que los refrenden."
+ },
+ {
+  "n": 2077,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a66",
+  "pregunta": "¿Cuál de las siguientes funciones NO atribuye el artículo 66.2 a las Cortes Generales?",
+  "opciones": [
+   "Dirigir la política interior y exterior",
+   "Ejercer la potestad legislativa del Estado",
+   "Controlar la acción del Gobierno",
+   "Aprobar los Presupuestos del Estado"
+  ],
+  "correcta": 0,
+  "cita": "Las Cortes Generales ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución."
+ },
+ {
+  "n": 2078,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a67",
+  "pregunta": "Según el artículo 67.1, nadie podrá acumular el acta de una Asamblea de Comunidad Autónoma con la de:",
+  "opciones": [
+   "Diputado al Congreso",
+   "Concejal",
+   "Diputado provincial",
+   "Senador"
+  ],
+  "correcta": 0,
+  "cita": "Nadie podrá ser miembro de las dos Cámaras simultáneamente, ni acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso."
+ },
+ {
+  "n": 2079,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a68",
+  "pregunta": "Según el artículo 68.2, la circunscripción electoral para el Congreso es:",
+  "opciones": [
+   "La isla",
+   "La provincia",
+   "La Comunidad Autónoma",
+   "El municipio"
+  ],
+  "correcta": 1,
+  "cita": "La circunscripción electoral es la provincia."
+ },
+ {
+  "n": 2080,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a68",
+  "pregunta": "¿Por cuántos Diputados estará representada cada una de las poblaciones de Ceuta y Melilla?",
+  "opciones": [
+   "Cuatro",
+   "Tres",
+   "Dos",
+   "Uno"
+  ],
+  "correcta": 3,
+  "cita": "Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Diputado."
+ },
+ {
+  "n": 2081,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a68",
+  "pregunta": "Según el artículo 68.3, ¿con qué criterios se verificará la elección del Congreso en cada circunscripción?",
+  "opciones": [
+   "De representación proporcional",
+   "Mixtos, mayoritarios y proporcionales",
+   "Mayoritarios",
+   "De representación territorial igualitaria"
+  ],
+  "correcta": 0,
+  "cita": "La elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional."
+ },
+ {
+  "n": 2082,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a69",
+  "pregunta": "¿Cuántos Senadores se elegirán en cada provincia según el artículo 69.2?",
+  "opciones": [
+   "Cuatro",
+   "Dos",
+   "Tres",
+   "Cinco"
+  ],
+  "correcta": 0,
+  "cita": "En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica."
+ },
+ {
+  "n": 2083,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a69",
+  "pregunta": "¿Cuántos Senadores elegirá cada una de las poblaciones de Ceuta y Melilla?",
+  "opciones": [
+   "Dos",
+   "Tres",
+   "Cuatro",
+   "Uno"
+  ],
+  "correcta": 0,
+  "cita": "Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos Senadores."
+ },
+ {
+  "n": 2084,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a69",
+  "pregunta": "Según el artículo 69.3, ¿cuántos Senadores corresponden a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife)?",
+  "opciones": [
+   "Cuatro",
+   "Uno",
+   "Tres",
+   "Dos"
+  ],
+  "correcta": 2,
+  "cita": "con Cabildo o Consejo Insular constituirá una circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores −Gran Canaria, Mallorca y Tenerife− y uno a cada una de las siguientes islas: Ibiza, Formentera,"
+ },
+ {
+  "n": 2085,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a69",
+  "pregunta": "Además de los Senadores elegidos en las provincias, las islas, Ceuta y Melilla, las Comunidades Autónomas designarán:",
+  "opciones": [
+   "Un Senador por cada quinientos mil habitantes",
+   "Un Senador y otro más por cada millón de habitantes de su respectivo territorio",
+   "Un Senador por cada provincia de su territorio",
+   "Dos Senadores y otro más por cada millón de habitantes"
+  ],
+  "correcta": 1,
+  "cita": "Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio."
+ },
+ {
+  "n": 2086,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a69",
+  "pregunta": "Duración del mandato del Senado",
+  "opciones": [
+   "3 años",
+   "4 años",
+   "5 años",
+   "6 años"
+  ],
+  "correcta": 1,
+  "cita": "El Senado es elegido por cuatro años."
+ },
+ {
+  "n": 2087,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a70",
+  "pregunta": "¿Cuál de los siguientes NO está comprendido expresamente en el artículo 70.1 entre las causas de inelegibilidad e incompatibilidad de Diputados y Senadores?",
+  "opciones": [
+   "El Defensor del Pueblo",
+   "Los miembros del Gobierno",
+   "Los miembros de las Juntas Electorales",
+   "Los componentes del Tribunal Constitucional"
+  ],
+  "correcta": 1,
+  "cita": "b) A los altos cargos de la Administración del Estado que determine la ley, con la excepción de los miembros del Gobierno."
+ },
+ {
+  "n": 2088,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a71",
+  "pregunta": "¿Qué órgano es competente en las causas contra Diputados y Senadores?",
+  "opciones": [
+   "La Sala de lo Penal de la Audiencia Nacional",
+   "La Sala de lo Penal del Tribunal Supremo",
+   "El Tribunal Constitucional",
+   "El Tribunal Superior de Justicia de su circunscripción"
+  ],
+  "correcta": 1,
+  "cita": "En las causas contra Diputados y Senadores será competente la Sala de lo Penal del Tribunal Supremo."
+ },
+ {
+  "n": 2089,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a71",
+  "pregunta": "Durante el período de su mandato, los Diputados y Senadores sólo podrán ser detenidos:",
+  "opciones": [
+   "Fuera del período de sesiones",
+   "En caso de flagrante delito",
+   "Previa autorización del Tribunal Supremo",
+   "Previa autorización del Presidente de su Cámara"
+  ],
+  "correcta": 1,
+  "cita": "Durante el período de su mandato los Diputados y Senadores gozarán asimismo de inmunidad y sólo podrán ser detenidos en caso de flagrante delito."
+ },
+ {
+  "n": 2090,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a71",
+  "pregunta": "Los Diputados y Senadores no podrán ser inculpados ni procesados sin:",
+  "opciones": [
+   "La previa autorización de la Mesa del Congreso",
+   "La previa autorización de ambas Cámaras en sesión conjunta",
+   "La previa autorización del Consejo General del Poder Judicial",
+   "La previa autorización de la Cámara respectiva"
+  ],
+  "correcta": 3,
+  "cita": "No podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva."
+ },
+ {
+  "n": 2091,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a72",
+  "pregunta": "Los Reglamentos de las Cámaras y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá:",
+  "opciones": [
+   "La mayoría absoluta",
+   "La mayoría simple",
+   "La mayoría de dos tercios",
+   "La mayoría de tres quintos"
+  ],
+  "correcta": 0,
+  "cita": "Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta."
+ },
+ {
+  "n": 2092,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a72",
+  "pregunta": "¿Quién preside las sesiones conjuntas de las Cámaras?",
+  "opciones": [
+   "El Presidente del Senado",
+   "El Rey",
+   "El Presidente del Congreso y el del Senado, alternativamente",
+   "El Presidente del Congreso"
+  ],
+  "correcta": 3,
+  "cita": "Las sesiones conjuntas serán presididas por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara."
+ },
+ {
+  "n": 2093,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a73",
+  "pregunta": "¿Cuáles son los períodos ordinarios de sesiones de las Cámaras?",
+  "opciones": [
+   "De septiembre a diciembre y de febrero a junio",
+   "De septiembre a diciembre y de enero a junio",
+   "De septiembre a enero y de marzo a julio",
+   "De octubre a diciembre y de febrero a junio"
+  ],
+  "correcta": 0,
+  "cita": "Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre, y el segundo, de febrero a junio."
+ },
+ {
+  "n": 2094,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a73",
+  "pregunta": "¿Quién puede pedir que las Cámaras se reúnan en sesiones extraordinarias?",
+  "opciones": [
+   "El Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros de cualquiera de las Cámaras",
+   "El Gobierno o la décima parte de los Diputados",
+   "El Rey, el Gobierno o la quinta parte de los miembros de cualquiera de las Cámaras",
+   "Solo el Gobierno"
+  ],
+  "correcta": 0,
+  "cita": "Las Cámaras podrán reunirse en sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras."
+ },
+ {
+  "n": 2095,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a74",
+  "pregunta": "En las decisiones de las Cortes Generales previstas en los artículos 94.1, 145.2 y 158.2, si el texto de la Comisión Mixta no se aprueba en la forma establecida:",
+  "opciones": [
+   "Decidirá el Senado por mayoría absoluta",
+   "Se someterá a referéndum consultivo",
+   "Decidirán ambas Cámaras en sesión conjunta por mayoría simple",
+   "Decidirá el Congreso por mayoría absoluta"
+  ],
+  "correcta": 3,
+  "cita": "Si no se aprueba en la forma establecida, decidirá el Congreso por mayoría absoluta."
+ },
+ {
+  "n": 2096,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a75",
+  "pregunta": "Según el artículo 75.3, ¿cuál de las siguientes materias queda exceptuada de la delegación en las Comisiones Legislativas Permanentes?",
+  "opciones": [
+   "Las proposiciones de ley tomadas en consideración por el Senado",
+   "Los proyectos de ley declarados urgentes",
+   "Las leyes de bases",
+   "Las proposiciones de ley de iniciativa popular"
+  ],
+  "correcta": 2,
+  "cita": "Quedan exceptuados de lo dispuesto en el apartado anterior la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado."
+ },
+ {
+  "n": 2097,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a76",
+  "pregunta": "Las conclusiones de las Comisiones de investigación:",
+  "opciones": [
+   "No serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales",
+   "Serán vinculantes una vez aprobadas por el Pleno",
+   "Tendrán valor de prueba plena en el proceso penal",
+   "Serán vinculantes para los Tribunales"
+  ],
+  "correcta": 0,
+  "cita": "Sus conclusiones no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas."
+ },
+ {
+  "n": 2098,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a77",
+  "pregunta": "Las Cámaras pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida:",
+  "opciones": [
+   "La presentación directa por manifestaciones ciudadanas",
+   "La presentación por asociaciones",
+   "La presentación de peticiones colectivas",
+   "La presentación por medios electrónicos"
+  ],
+  "correcta": 0,
+  "cita": "Las Cámaras pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas."
+ },
+ {
+  "n": 2099,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a78",
+  "pregunta": "¿De cuántos miembros, como mínimo, se compone la Diputación Permanente de cada Cámara?",
+  "opciones": [
+   "Treinta",
+   "Quince",
+   "Veinticinco",
+   "Veintiuno"
+  ],
+  "correcta": 3,
+  "cita": "En cada Cámara habrá una Diputación Permanente compuesta por un mínimo de veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica."
+ },
+ {
+  "n": 2100,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a78",
+  "pregunta": "¿Quién preside las Diputaciones Permanentes?",
+  "opciones": [
+   "El Presidente de la Cámara respectiva",
+   "El Vicepresidente primero de la Cámara respectiva",
+   "El miembro de mayor edad de la Diputación",
+   "El Presidente del Congreso, en ambas Cámaras"
+  ],
+  "correcta": 0,
+  "cita": "Las Diputaciones Permanentes estarán presididas por el Presidente de la Cámara respectiva y tendrán como funciones la prevista en el artículo 73, la de asumir las facultades que"
+ },
+ {
+  "n": 2101,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a79",
+  "pregunta": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de:",
+  "opciones": [
+   "Dos tercios de sus miembros",
+   "La mayoría de sus miembros",
+   "Un tercio de sus miembros",
+   "Tres quintos de sus miembros"
+  ],
+  "correcta": 1,
+  "cita": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros."
+ },
+ {
+  "n": 2102,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a79",
+  "pregunta": "Según el artículo 79.3, el voto de Senadores y Diputados es:",
+  "opciones": [
+   "Secreto en todo caso",
+   "Personal, pero delegable en otro miembro de su grupo",
+   "Delegable en el portavoz de su grupo parlamentario",
+   "Personal e indelegable"
+  ],
+  "correcta": 3,
+  "cita": "El voto de Senadores y Diputados es personal e indelegable."
+ },
+ {
+  "n": 2103,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a80",
+  "pregunta": "Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por:",
+  "opciones": [
+   "Mayoría absoluta o con arreglo al Reglamento",
+   "Mayoría de dos tercios",
+   "Mayoría de tres quintos",
+   "Mayoría simple"
+  ],
+  "correcta": 0,
+  "cita": "Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento."
+ },
+ {
+  "n": 2104,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a81",
+  "pregunta": "¿Cuál de las siguientes materias es propia de ley orgánica según el artículo 81.1?",
+  "opciones": [
+   "El estatuto de los trabajadores",
+   "El régimen jurídico de los Colegios Profesionales",
+   "Los Presupuestos Generales del Estado",
+   "El régimen electoral general"
+  ],
+  "correcta": 3,
+  "cita": "Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución."
+ },
+ {
+  "n": 2105,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a82",
+  "pregunta": "La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea:",
+  "opciones": [
+   "La formación de textos articulados",
+   "Regular los Presupuestos Generales del Estado",
+   "Aprobar una ley orgánica",
+   "Refundir varios textos legales en uno solo"
+  ],
+  "correcta": 0,
+  "cita": "La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo."
+ },
+ {
+  "n": 2106,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a82",
+  "pregunta": "La delegación legislativa para refundir varios textos legales en uno solo deberá otorgarse mediante:",
+  "opciones": [
+   "Un decreto legislativo",
+   "Una ley de bases",
+   "Una ley ordinaria",
+   "Una ley orgánica"
+  ],
+  "correcta": 2,
+  "cita": "La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo."
+ },
+ {
+  "n": 2107,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a82",
+  "pregunta": "Según el artículo 82.3, la delegación legislativa se agota:",
+  "opciones": [
+   "Por el transcurso de un año desde su otorgamiento",
+   "Por el dictamen favorable del Consejo de Estado",
+   "Por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente",
+   "Por la convalidación del Congreso de los Diputados"
+  ],
+  "correcta": 2,
+  "cita": "La delegación se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente."
+ },
+ {
+  "n": 2108,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a83",
+  "pregunta": "Según el artículo 83, las leyes de bases no podrán en ningún caso:",
+  "opciones": [
+   "Establecer los principios y criterios que han de seguirse en su ejercicio",
+   "Fijar el plazo para el ejercicio de la delegación",
+   "Facultar para dictar normas con carácter retroactivo",
+   "Delimitar el objeto y alcance de la delegación legislativa"
+  ],
+  "correcta": 2,
+  "cita": "b) Facultar para dictar normas con carácter retroactivo."
+ },
+ {
+  "n": 2109,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a85",
+  "pregunta": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+  "opciones": [
+   "Decretos-leyes",
+   "Leyes de bases",
+   "Decretos Legislativos",
+   "Reales Decretos"
+  ],
+  "correcta": 2,
+  "cita": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de Decretos Legislativos."
+ },
+ {
+  "n": 2110,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a86",
+  "pregunta": "Según el artículo 86.1, el Gobierno podrá dictar Decretos-leyes:",
+  "opciones": [
+   "En caso de grave riesgo, catástrofe o calamidad pública",
+   "Solo cuando las Cortes Generales estén disueltas",
+   "Previa autorización del Congreso de los Diputados",
+   "En caso de extraordinaria y urgente necesidad"
+  ],
+  "correcta": 3,
+  "cita": "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de Decretos-leyes y que no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos,"
+ },
+ {
+  "n": 2111,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a86",
+  "pregunta": "¿Cuál de las siguientes materias figura en el artículo 86.1 entre las que no pueden ser afectadas por los Decretos-leyes?",
+  "opciones": [
+   "Las ayudas a los afectados por catástrofes naturales",
+   "La concesión de créditos extraordinarios",
+   "El Derecho electoral general",
+   "Las medidas urgentes de apoyo a la actividad empresarial"
+  ],
+  "correcta": 2,
+  "cita": "del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general."
+ },
+ {
+  "n": 2112,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a87",
+  "pregunta": "Según el artículo 87.3, la iniciativa popular para la presentación de proposiciones de ley exige no menos de:",
+  "opciones": [
+   "1.000.000 de firmas acreditadas",
+   "750.000 firmas acreditadas",
+   "500.000 firmas acreditadas",
+   "250.000 firmas acreditadas"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso se exigirán no menos de 500.000 firmas acreditadas."
+ },
+ {
+  "n": 2113,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a87",
+  "pregunta": "¿Cuál de las siguientes materias está excluida de la iniciativa legislativa popular según el artículo 87.3?",
+  "opciones": [
+   "El acceso a la vivienda",
+   "La protección del medio ambiente",
+   "La prerrogativa de gracia",
+   "La defensa de los consumidores y usuarios"
+  ],
+  "correcta": 2,
+  "cita": "No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia."
+ },
+ {
+  "n": 2114,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a87",
+  "pregunta": "Al remitir a la Mesa del Congreso una proposición de ley, las Asambleas de las Comunidades Autónomas delegan ante dicha Cámara:",
+  "opciones": [
+   "Un único miembro de la Asamblea",
+   "Un máximo de dos miembros de la Asamblea",
+   "Un máximo de cinco miembros de la Asamblea",
+   "Un máximo de tres miembros de la Asamblea encargados de su defensa"
+  ],
+  "correcta": 3,
+  "cita": "Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de tres miembros de la Asamblea encargados de su defensa."
+ },
+ {
+  "n": 2115,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a90",
+  "pregunta": "Veto o enmiendas del Senado a los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados",
+  "opciones": [
+   "10 días naturales",
+   "30 días naturales",
+   "15 días naturales",
+   "20 días naturales"
+  ],
+  "correcta": 3,
+  "cita": "El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados."
+ },
+ {
+  "n": 2116,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a90",
+  "pregunta": "El veto del Senado a un proyecto de ley deberá ser aprobado por:",
+  "opciones": [
+   "Mayoría de tres quintos",
+   "Mayoría absoluta",
+   "Mayoría simple",
+   "Mayoría de dos tercios"
+  ],
+  "correcta": 1,
+  "cita": "El veto deberá ser aprobado por mayoría absoluta."
+ },
+ {
+  "n": 2117,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a90",
+  "pregunta": "Ratificación por mayoría simple, por el Congreso, del texto inicial vetado por el Senado (desde la interposición del veto)",
+  "opciones": [
+   "6 meses",
+   "3 meses",
+   "1 mes",
+   "2 meses"
+  ],
+  "correcta": 3,
+  "cita": "El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple."
+ },
+ {
+  "n": 2118,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a92",
+  "pregunta": "El referéndum consultivo será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por:",
+  "opciones": [
+   "Las Cortes Generales",
+   "El Congreso de los Diputados",
+   "El Consejo de Ministros",
+   "El Senado"
+  ],
+  "correcta": 1,
+  "cita": "El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados."
+ },
+ {
+  "n": 2119,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a93",
+  "pregunta": "¿Mediante qué norma se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución?",
+  "opciones": [
+   "Ley orgánica",
+   "Real decreto",
+   "Acuerdo del Consejo de Ministros",
+   "Ley ordinaria"
+  ],
+  "correcta": 0,
+  "cita": "Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución."
+ },
+ {
+  "n": 2120,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a94",
+  "pregunta": "Según el artículo 94.2, de la conclusión de los tratados o convenios no incluidos en el apartado 1:",
+  "opciones": [
+   "Se requiere la previa autorización del Congreso por mayoría simple",
+   "El Congreso y el Senado serán inmediatamente informados",
+   "Se requiere dictamen previo del Tribunal Constitucional",
+   "Se informará únicamente al Consejo de Estado"
+  ],
+  "correcta": 1,
+  "cita": "El Congreso y el Senado serán inmediatamente informados de la conclusión de los restantes tratados o convenios."
+ },
+ {
+  "n": 2121,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a95",
+  "pregunta": "La celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución exigirá:",
+  "opciones": [
+   "Su aprobación mediante ley orgánica",
+   "El dictamen favorable del Consejo de Estado",
+   "La previa revisión constitucional",
+   "La autorización de las Cortes Generales por mayoría absoluta"
+  ],
+  "correcta": 2,
+  "cita": "La celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución exigirá la previa revisión constitucional."
+ },
+ {
+  "n": 2122,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a95",
+  "pregunta": "¿Quién puede requerir al Tribunal Constitucional para que declare si existe contradicción entre un tratado internacional y la Constitución?",
+  "opciones": [
+   "El Defensor del Pueblo o 50 Diputados",
+   "El Gobierno o cualquiera de las Cámaras",
+   "El Consejo de Estado",
+   "Solo el Gobierno"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe o no esa contradicción."
+ },
+ {
+  "n": 2123,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a96",
+  "pregunta": "Los tratados internacionales válidamente celebrados formarán parte del ordenamiento interno:",
+  "opciones": [
+   "Una vez publicados oficialmente en España",
+   "Desde su firma por el Rey",
+   "Desde su autorización por las Cortes Generales",
+   "Desde que se apruebe la ley orgánica que los desarrolle"
+  ],
+  "correcta": 0,
+  "cita": "Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno."
+ }
+]
