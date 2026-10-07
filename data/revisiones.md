@@ -32,3 +32,17 @@ Muestra (semilla 3003): 8002, 8005, 8006, 8024, 8028, 8029, 8031, 8052, 8063, 80
 Resultado: 30 respuestas correctas y únicas, 0 fallos de contenido. Mejora aplicada:
 - 10047 (pregunta «¿cuál NO es…?»): la cita se amplía para que muestre las tres clasificaciones
   legales (orgánica, por programas y económica) y no solo la primera.
+
+## Revisión 4 (tras los lotes 11, 12, 13 y 14) · 7-10-2026
+
+Muestra (semilla 4004): 11001, 11010, 11015, 11028, 11039, 11040, 11062, 11079, 11097, 11101, 11104,
+11109, 11112, 11115, 12004, 12013, 12028, 12032, 12057, 13010, 13022, 13033, 13036, 14008, 14022,
+14030, 14034, 14040, 14048, 14060.
+
+Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
+
+Comprobación adicional sobre todo el banco: ninguna cita procede de una «Redacción anterior» ni de un
+texto antiguo entrecomillado de las notas del BOE (las 5 citas situadas tras una nota «Téngase en cuenta»
+pertenecen a apartados vigentes posteriores a esa nota: 9022, 9023, 9086, 9087 y 9088).
+Durante el lote 13 se eliminó una pregunta sobre los medios de acreditación de la violencia de género
+(art. 23 LOVG) porque la cláusula «o por cualquier otro título» hacía discutible la respuesta.
