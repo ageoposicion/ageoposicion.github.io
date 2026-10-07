@@ -1,0 +1,27 @@
+name: Sincronizar BOE y validar preguntas
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'
+  push:
+    paths:
+      - 'data/questions/**'
+      - 'norms.json'
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fetch_boe.py
+      - run: python scripts/build_bank.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "boe-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then git commit -m "Sincronización BOE y validación"; git push; fi
