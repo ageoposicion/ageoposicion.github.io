@@ -1,0 +1,786 @@
+[
+ {
+  "n": 1001,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a21",
+  "pregunta": "Plazo máximo para notificar la resolución expresa cuando las normas reguladoras del procedimiento no fijan plazo",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "6 meses",
+   "2 meses"
+  ],
+  "correcta": 1,
+  "cita": "así venga previsto en el Derecho de la Unión Europea. 3. Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses. Este plazo y los previstos en el apartado anterior se contarán: a) En los procedimientos iniciados de"
+ },
+ {
+  "n": 1002,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a21",
+  "pregunta": "Límite máximo del plazo de resolución fijado por la norma reguladora, salvo que una norma con rango de Ley o el Derecho de la UE establezca otro",
+  "opciones": [
+   "3 meses",
+   "1 año",
+   "9 meses",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión"
+ },
+ {
+  "n": 1003,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a40",
+  "pregunta": "Plazo para cursar la notificación, a partir de la fecha en que el acto haya sido dictado",
+  "opciones": [
+   "5 días",
+   "15 días",
+   "10 días",
+   "1 mes"
+  ],
+  "correcta": 2,
+  "cita": "por aquéllos, en los términos previstos en los artículos siguientes. 2. Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si"
+ },
+ {
+  "n": 1004,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a43",
+  "pregunta": "Plazo tras el cual se entiende rechazada una notificación electrónica sin acceso a su contenido, desde su puesta a disposición",
+  "opciones": [
+   "10 días naturales",
+   "10 días hábiles",
+   "5 días naturales",
+   "15 días naturales"
+  ],
+  "correcta": 0,
+  "cita": "o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido. 3. Se entenderá cumplida la obligación a la que se"
+ },
+ {
+  "n": 1005,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a68",
+  "pregunta": "Plazo para subsanar la solicitud que no reúne los requisitos exigidos, tras el requerimiento al interesado",
+  "opciones": [
+   "5 días",
+   "15 días",
+   "10 días",
+   "1 mes"
+  ],
+  "correcta": 2,
+  "cita": "artículo 67 u otros exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá"
+ },
+ {
+  "n": 1006,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a73",
+  "pregunta": "Plazo para cumplimentar los trámites de los interesados, a partir del siguiente al de la notificación del acto, salvo plazo distinto en la norma",
+  "opciones": [
+   "10 días",
+   "15 días",
+   "5 días",
+   "20 días"
+  ],
+  "correcta": 0,
+  "cita": "de trámites. 1. Los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de diez días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije"
+ },
+ {
+  "n": 1007,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a77",
+  "pregunta": "Duración del período de prueba acordado por el instructor",
+  "opciones": [
+   "Entre 5 y 15 días",
+   "Entre 10 y 60 días",
+   "Entre 10 y 30 días",
+   "Entre 15 y 45 días"
+  ],
+  "correcta": 2,
+  "cita": "procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes. Asimismo, cuando lo considere necesario, el"
+ },
+ {
+  "n": 1008,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a80",
+  "pregunta": "Plazo para emitir los informes, salvo que una disposición o el resto de plazos del procedimiento exijan otro",
+  "opciones": [
+   "5 días",
+   "1 mes",
+   "15 días",
+   "10 días"
+  ],
+  "correcta": 3,
+  "cita": "serán emitidos a través de medios electrónicos y de acuerdo con los requisitos que señala el artículo 26 en el plazo de diez días, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo"
+ },
+ {
+  "n": 1009,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a82",
+  "pregunta": "Plazo de alegaciones y presentación de documentos en el trámite de audiencia",
+  "opciones": [
+   "Entre 15 y 30 días",
+   "Entre 10 y 15 días",
+   "Entre 5 y 10 días",
+   "Entre 10 y 20 días"
+  ],
+  "correcta": 1,
+  "cita": "Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento. 2. Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes. 3. Si antes del"
+ },
+ {
+  "n": 1010,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a83",
+  "pregunta": "Plazo para formular alegaciones en el trámite de información pública",
+  "opciones": [
+   "No inferior a 30 días",
+   "No superior a 20 días",
+   "No inferior a 20 días",
+   "No inferior a 10 días"
+  ],
+  "correcta": 2,
+  "cita": "electrónicos en la sede electrónica correspondiente, y determinará el plazo para formular alegaciones, que en ningún caso podrá ser inferior a veinte días. 3. La incomparecencia en este trámite no impedirá a los interesados interponer los recursos procedentes"
+ },
+ {
+  "n": 1011,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a95",
+  "pregunta": "Paralización por causa imputable al interesado tras la cual se produce la caducidad del procedimiento iniciado a solicitud",
+  "opciones": [
+   "2 meses",
+   "3 meses",
+   "6 meses",
+   "1 mes"
+  ],
+  "correcta": 1,
+  "cita": "cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento. Consumido este plazo sin que el particular requerido realice las actividades necesarias"
+ },
+ {
+  "n": 1012,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a96",
+  "pregunta": "Plazo de resolución de los procedimientos tramitados de manera simplificada (salvo que reste menos en la tramitación ordinaria)",
+  "opciones": [
+   "3 meses",
+   "30 días",
+   "10 días",
+   "15 días"
+  ],
+  "correcta": 1,
+  "cita": "menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del"
+ },
+ {
+  "n": 1013,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a106",
+  "pregunta": "Plazo desde el inicio, sin resolución, que produce la caducidad en la revisión de oficio iniciada de oficio",
+  "opciones": [
+   "3 meses",
+   "2 meses",
+   "6 meses",
+   "1 año"
+  ],
+  "correcta": 2,
+  "cita": "en aplicación de la misma. 5. Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a"
+ },
+ {
+  "n": 1014,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a107",
+  "pregunta": "Plazo máximo, desde que se dictó el acto, para adoptar la declaración de lesividad",
+  "opciones": [
+   "1 año",
+   "4 años",
+   "2 años",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "lesividad para el interés público. 2. La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en"
+ },
+ {
+  "n": 1015,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a117",
+  "pregunta": "Plazo tras el cual se entiende suspendida la ejecución del acto impugnado si el órgano no ha dictado resolución expresa sobre la suspensión",
+  "opciones": [
+   "3 meses",
+   "15 días",
+   "10 días",
+   "1 mes"
+  ],
+  "correcta": 3,
+  "cita": "previstas en el artículo 47.1 de esta Ley. 3. La ejecución del acto impugnado se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir"
+ },
+ {
+  "n": 1016,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a122",
+  "pregunta": "Interposición del recurso de alzada contra un acto expreso",
+  "opciones": [
+   "2 meses",
+   "3 meses",
+   "15 días hábiles",
+   "1 mes"
+  ],
+  "correcta": 3,
+  "cita": "Artículo 122. Plazos. 1. El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será"
+ },
+ {
+  "n": 1017,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a122",
+  "pregunta": "Plazo máximo para dictar y notificar la resolución del recurso de alzada",
+  "opciones": [
+   "3 meses",
+   "1 mes",
+   "2 meses",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "con su normativa específica, se produzcan los efectos del silencio administrativo. 2. El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso, salvo en el"
+ },
+ {
+  "n": 1018,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a124",
+  "pregunta": "Interposición del recurso potestativo de reposición contra un acto expreso",
+  "opciones": [
+   "1 mes",
+   "15 días hábiles",
+   "2 meses",
+   "3 meses"
+  ],
+  "correcta": 0,
+  "cita": "Artículo 124. Plazos. 1. El plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso. Transcurrido dicho plazo, únicamente podrá interponerse recurso"
+ },
+ {
+  "n": 1019,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a124",
+  "pregunta": "Plazo máximo para dictar y notificar la resolución del recurso de reposición",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "2 meses",
+   "15 días"
+  ],
+  "correcta": 0,
+  "cita": "con su normativa específica, se produzca el acto presunto. 2. El plazo máximo para dictar y notificar la resolución del recurso será de un mes. 3. Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso."
+ },
+ {
+  "n": 1020,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a125",
+  "pregunta": "Recurso extraordinario de revisión cuando concurra la causa a) del art. 125.1, desde la notificación de la resolución impugnada",
+  "opciones": [
+   "5 años",
+   "1 año",
+   "2 años",
+   "4 años"
+  ],
+  "correcta": 3,
+  "cita": "El recurso extraordinario de revisión se interpondrá, cuando se trate de la causa a) del apartado anterior, dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada. En los demás casos, el plazo será de"
+ },
+ {
+  "n": 1021,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L39",
+  "articulo": "a125",
+  "pregunta": "Recurso extraordinario de revisión en los demás casos, desde el conocimiento de los documentos o desde que la sentencia quedó firme",
+  "opciones": [
+   "6 meses",
+   "1 mes",
+   "1 año",
+   "3 meses"
+  ],
+  "correcta": 3,
+  "cita": "de cuatro años siguientes a la fecha de la notificación de la resolución impugnada. En los demás casos, el plazo será de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme. 3. Lo establecido en"
+ },
+ {
+  "n": 1022,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a68",
+  "pregunta": "Duración del mandato del Congreso de los Diputados",
+  "opciones": [
+   "6 años",
+   "4 años",
+   "3 años",
+   "5 años"
+  ],
+  "correcta": 1,
+  "cita": "La elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional. 4. El Congreso es elegido por cuatro años. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la"
+ },
+ {
+  "n": 1023,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a68",
+  "pregunta": "Celebración de elecciones al Congreso, desde la terminación del mandato",
+  "opciones": [
+   "Entre 30 y 60 días",
+   "Entre 60 y 90 días",
+   "Entre 30 y 90 días",
+   "Entre 15 y 30 días"
+  ],
+  "correcta": 0,
+  "cita": "sufragio a los españoles que se encuentren fuera del territorio de España. 6. Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días"
+ },
+ {
+  "n": 1024,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a68",
+  "pregunta": "Convocatoria del Congreso electo, desde la celebración de las elecciones",
+  "opciones": [
+   "25 días",
+   "15 días",
+   "30 días",
+   "10 días"
+  ],
+  "correcta": 0,
+  "cita": "los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones."
+ },
+ {
+  "n": 1025,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a86",
+  "pregunta": "Pronunciamiento del Congreso sobre la convalidación o derogación de un decreto-ley, desde su promulgación",
+  "opciones": [
+   "10 días",
+   "60 días",
+   "15 días",
+   "30 días"
+  ],
+  "correcta": 3,
+  "cita": "de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación. El Congreso habrá de pronunciarse expresamente dentro de dicho plazo sobre su convalidación o derogación,"
+ },
+ {
+  "n": 1026,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a90",
+  "pregunta": "Plazo del Senado, desde la recepción del texto, para oponer su veto o introducir enmiendas",
+  "opciones": [
+   "3 meses",
+   "20 días",
+   "2 meses",
+   "1 mes"
+  ],
+  "correcta": 2,
+  "cita": "dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste. 2. El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir"
+ },
+ {
+  "n": 1027,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a91",
+  "pregunta": "Sanción por el Rey de las leyes aprobadas por las Cortes Generales",
+  "opciones": [
+   "1 mes",
+   "30 días",
+   "10 días",
+   "15 días"
+  ],
+  "correcta": 3,
+  "cita": "Artículo 91 El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación."
+ },
+ {
+  "n": 1028,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a99",
+  "pregunta": "Plazo, desde la primera votación de investidura, sin confianza del Congreso a ningún candidato, tras el cual el Rey disuelve las Cámaras",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "15 días",
+   "2 meses"
+  ],
+  "correcta": 3,
+  "cita": "se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores. 5. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras"
+ },
+ {
+  "n": 1029,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a159",
+  "pregunta": "Duración del mandato de los miembros del Tribunal Constitucional",
+  "opciones": [
+   "9 años",
+   "5 años",
+   "6 años",
+   "12 años"
+  ],
+  "correcta": 0,
+  "cita": "de quince años de ejercicio profesional. 3. Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres. 4. La condición de miembro del Tribunal Constitucional es"
+ },
+ {
+  "n": 1030,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "CE",
+  "articulo": "a134",
+  "pregunta": "Antelación mínima con la que el Gobierno presenta al Congreso los Presupuestos Generales del Estado, respecto a la expiración de los del año anterior",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "6 meses",
+   "2 meses"
+  ],
+  "correcta": 1,
+  "cita": "3. El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos tres meses antes de la expiración de los del año anterior. 4. Si la Ley de Presupuestos no se aprobara antes del primer día"
+ },
+ {
+  "n": 1031,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a20",
+  "pregunta": "Plazo máximo para resolver y notificar la solicitud de acceso a la información pública, desde su recepción por el órgano competente",
+  "opciones": [
+   "15 días hábiles",
+   "20 días hábiles",
+   "3 meses",
+   "1 mes"
+  ],
+  "correcta": 3,
+  "cita": "el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver. Este plazo podrá ampliarse por otro mes en el caso"
+ },
+ {
+  "n": 1032,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a24",
+  "pregunta": "Interposición de la reclamación ante el Consejo de Transparencia y Buen Gobierno",
+  "opciones": [
+   "15 días hábiles",
+   "3 meses",
+   "20 días hábiles",
+   "1 mes"
+  ],
+  "correcta": 3,
+  "cita": "potestativo y previo a su impugnación en vía contencioso-administrativa. 2. La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos"
+ },
+ {
+  "n": 1033,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a24",
+  "pregunta": "Plazo máximo para resolver y notificar la reclamación ante el Consejo de Transparencia y Buen Gobierno",
+  "opciones": [
+   "3 meses",
+   "1 mes",
+   "2 meses",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "resultar afectadas para que aleguen lo que a su derecho convenga. 4. El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá desestimada. 5. Las resoluciones del Consejo de"
+ },
+ {
+  "n": 1034,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a49",
+  "pregunta": "Duración máxima determinada de un convenio, salvo previsión normativa de un plazo superior",
+  "opciones": [
+   "4 años",
+   "1 año",
+   "5 años",
+   "2 años"
+  ],
+  "correcta": 0,
+  "cita": "teniendo en cuenta las siguientes reglas: 1.º Los convenios deberán tener una duración determinada, que no podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior. 2.º En cualquier momento antes de la finalización del"
+ },
+ {
+  "n": 1035,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a49",
+  "pregunta": "Prórroga máxima de un convenio, por acuerdo unánime de los firmantes antes de su finalización",
+  "opciones": [
+   "2 años",
+   "1 año",
+   "5 años",
+   "4 años"
+  ],
+  "correcta": 3,
+  "cita": "el apartado anterior, los firmantes del convenio podrán acordar unánimemente su prórroga por un periodo de hasta cuatro años adicionales o su extinción. En el caso de convenios suscritos por la Administración General del Estado o alguno de sus"
+ },
+ {
+  "n": 1036,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-11",
+  "pregunta": "Duración máxima de los contratos menores",
+  "opciones": [
+   "6 meses, sin prórroga",
+   "2 años, prorrogable",
+   "1 año, sin prórroga",
+   "1 año, prorrogable"
+  ],
+  "correcta": 2,
+  "cita": "de dicho contrato principal. 8. Los contratos menores definidos en el apartado primero del artículo 118 no podrán tener una duración superior a un año ni ser objeto de prórroga. 9. El período de recuperación de la inversión a que se refieren los apartados 4 y 6 de este artículo será"
+ },
+ {
+  "n": 1037,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a5-2",
+  "pregunta": "Presentación del escrito de interposición del recurso especial en materia de contratación",
+  "opciones": [
+   "15 días naturales",
+   "15 días hábiles",
+   "10 días hábiles",
+   "1 mes"
+  ],
+  "correcta": 1,
+  "cita": "y plazo. 1. El procedimiento de recurso se iniciará mediante escrito que deberá presentarse en el plazo de quince días hábiles. Dicho plazo se computará: a) Cuando se interponga contra el anuncio de licitación, el plazo comenzará a"
+ },
+ {
+  "n": 1038,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-62",
+  "pregunta": "Presentación de la documentación justificativa por el licitador que haya presentado la mejor oferta, desde la recepción del requerimiento",
+  "opciones": [
+   "10 días naturales",
+   "15 días hábiles",
+   "5 días hábiles",
+   "10 días hábiles"
+  ],
+  "correcta": 3,
+  "cita": "licitador que haya presentado la mejor oferta, de conformidad con lo dispuesto en el artículo 145 para que, dentro del plazo de diez días hábiles, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento, presente la documentación justificativa de las circunstancias a las que se refieren las letras a) a c) del"
+ },
+ {
+  "n": 1039,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-65",
+  "pregunta": "Plazo del requerimiento al adjudicatario para formalizar el contrato, desde que lo recibe",
+  "opciones": [
+   "No superior a 15 días",
+   "No superior a 10 días",
+   "No superior a 3 días",
+   "No superior a 5 días"
+  ],
+  "correcta": 3,
+  "cita": "servicios dependientes del órgano de contratación requerirán al adjudicatario para que formalice el contrato en plazo no superior a cinco días a contar desde el siguiente a aquel en que hubiera recibido el requerimiento, una vez transcurrido el plazo"
+ },
+ {
+  "n": 1040,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-65",
+  "pregunta": "Plazo mínimo, desde la notificación de la adjudicación, antes del cual no puede formalizarse un contrato susceptible de recurso especial",
+  "opciones": [
+   "15 días naturales",
+   "5 días hábiles",
+   "15 días hábiles",
+   "10 días hábiles"
+  ],
+  "correcta": 2,
+  "cita": "es susceptible de recurso especial en materia de contratación conforme al artículo 44, la formalización no podrá efectuarse antes de que transcurran quince días hábiles desde que se remita la notificación de la adjudicación a los licitadores y candidatos. Las Comunidades"
+ },
+ {
+  "n": 1041,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a1-110",
+  "pregunta": "Plazo para que la Administración abone el precio, desde la aprobación de las certificaciones de obra o documentos de conformidad",
+  "opciones": [
+   "15 días",
+   "10 días",
+   "30 días",
+   "60 días"
+  ],
+  "correcta": 2,
+  "cita": "pagos mediante la prestación de garantía. 4. La Administración tendrá la obligación de abonar el precio dentro de los treinta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el"
+ },
+ {
+  "n": 1042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a68",
+  "pregunta": "Composición del Congreso de los Diputados según la Constitución",
+  "opciones": [
+   "Exactamente 350 diputados",
+   "Entre 250 y 350 diputados",
+   "Entre 300 y 400 diputados",
+   "Entre 350 y 450 diputados"
+  ],
+  "correcta": 2,
+  "cita": "Artículo 68 1. El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca"
+ },
+ {
+  "n": 1043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a159",
+  "pregunta": "Número de miembros del Tribunal Constitucional",
+  "opciones": [
+   "15",
+   "9",
+   "12",
+   "10"
+  ],
+  "correcta": 2,
+  "cita": "Artículo 159 1. El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta"
+ },
+ {
+  "n": 1044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a167",
+  "pregunta": "Mayoría exigida en cada Cámara para aprobar un proyecto de reforma constitucional por el procedimiento del art. 167",
+  "opciones": [
+   "Tres quintos",
+   "Dos tercios",
+   "Mayoría simple",
+   "Mayoría absoluta"
+  ],
+  "correcta": 0,
+  "cita": "Artículo 167 1. Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras. Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una Comisión de"
+ },
+ {
+  "n": 1045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a81",
+  "pregunta": "Mayoría exigida para aprobar, modificar o derogar una ley orgánica",
+  "opciones": [
+   "Mayoría absoluta del Congreso, en votación final sobre el conjunto del proyecto",
+   "Tres quintos de cada Cámara",
+   "Dos tercios del Congreso y del Senado",
+   "Mayoría simple del Congreso"
+  ],
+  "correcta": 0,
+  "cita": "previstas en la Constitución. 2. La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto."
+ },
+ {
+  "n": 1046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a30",
+  "pregunta": "Cómputo de los plazos señalados por días, si la Ley o el Derecho de la UE no expresan otro cómputo",
+  "opciones": [
+   "Días laborables según el convenio aplicable",
+   "Días naturales",
+   "Días hábiles, incluidos los sábados",
+   "Días hábiles: se excluyen sábados, domingos y festivos"
+  ],
+  "correcta": 3,
+  "cita": "Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos. Cuando los plazos se hayan señalado por días naturales por declararlo así una ley o por el Derecho de la"
+ },
+ {
+  "n": 1047,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-30",
+  "pregunta": "Valor estimado máximo de un contrato menor de obras",
+  "opciones": [
+   "Inferior a 40.000 euros",
+   "Inferior a 15.000 euros",
+   "Inferior a 50.000 euros",
+   "Inferior a 100.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "de contratación en contratos menores. 1. Se consideran contratos menores los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras, o a 15.000 euros, cuando se trate de contratos de suministro o de servicios, sin perjuicio de lo dispuesto"
+ },
+ {
+  "n": 1048,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a1-30",
+  "pregunta": "Valor estimado máximo de un contrato menor de suministro o de servicios",
+  "opciones": [
+   "Inferior a 30.000 euros",
+   "Inferior a 6.000 euros",
+   "Inferior a 40.000 euros",
+   "Inferior a 15.000 euros"
+  ],
+  "correcta": 3,
+  "cita": "menores los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras, o a 15.000 euros, cuando se trate de contratos de suministro o de servicios, sin perjuicio de lo dispuesto en el artículo 229 en relación con las obras, servicios y suministros"
+ },
+ {
+  "n": 1049,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a76",
+  "pregunta": "Clasificación de los cuerpos y escalas de funcionarios de carrera según la titulación exigida (art. 76)",
+  "opciones": [
+   "Grupos A, B, C, D y E",
+   "Grupo A (subgrupos A1 y A2), Grupo B y Grupo C (subgrupos C1 y C2)",
+   "Grupos A, B, C y D",
+   "Grupos A y B, sin subgrupos"
+  ],
+  "correcta": 1,
+  "cita": "se clasifican, de acuerdo con la titulación exigida para el acceso a los mismos, en los siguientes grupos: Grupo A: Dividido en dos Subgrupos, A1 y A2. Para el acceso a los cuerpos o escalas de este Grupo se exigirá estar en posesión del título universitario"
+ }
+]
