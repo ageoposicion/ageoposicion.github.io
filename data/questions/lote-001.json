@@ -24,7 +24,7 @@
   "pregunta": "Límite máximo del plazo de resolución fijado por la norma reguladora, salvo que una norma con rango de Ley o el Derecho de la UE establezca otro",
   "opciones": [
    "3 meses",
-   "1 año",
+   "4 meses",
    "9 meses",
    "6 meses"
   ],
@@ -42,7 +42,7 @@
    "5 días",
    "15 días",
    "10 días",
-   "1 mes"
+   "20 días"
   ],
   "correcta": 2,
   "cita": "por aquéllos, en los términos previstos en los artículos siguientes. 2. Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si"
@@ -74,7 +74,7 @@
    "5 días",
    "15 días",
    "10 días",
-   "1 mes"
+   "20 días"
   ],
   "correcta": 2,
   "cita": "artículo 67 u otros exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá"
@@ -120,7 +120,7 @@
   "pregunta": "Plazo para emitir los informes, salvo que una disposición o el resto de plazos del procedimiento exijan otro",
   "opciones": [
    "5 días",
-   "1 mes",
+   "20 días",
    "15 días",
    "10 días"
   ],
@@ -183,7 +183,7 @@
   "articulo": "a96",
   "pregunta": "Plazo de resolución de los procedimientos tramitados de manera simplificada (salvo que reste menos en la tramitación ordinaria)",
   "opciones": [
-   "3 meses",
+   "60 días",
    "30 días",
    "10 días",
    "15 días"
@@ -202,7 +202,7 @@
    "3 meses",
    "2 meses",
    "6 meses",
-   "1 año"
+   "9 meses"
   ],
   "correcta": 2,
   "cita": "en aplicación de la misma. 5. Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a"
@@ -218,7 +218,7 @@
    "1 año",
    "4 años",
    "2 años",
-   "6 meses"
+   "3 años"
   ],
   "correcta": 1,
   "cita": "lesividad para el interés público. 2. La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en"
@@ -232,8 +232,8 @@
   "pregunta": "Plazo tras el cual se entiende suspendida la ejecución del acto impugnado si el órgano no ha dictado resolución expresa sobre la suspensión",
   "opciones": [
    "3 meses",
-   "15 días",
-   "10 días",
+   "2 meses",
+   "6 meses",
    "1 mes"
   ],
   "correcta": 3,
@@ -249,7 +249,7 @@
   "opciones": [
    "2 meses",
    "3 meses",
-   "15 días hábiles",
+   "6 meses",
    "1 mes"
   ],
   "correcta": 3,
@@ -280,7 +280,7 @@
   "pregunta": "Interposición del recurso potestativo de reposición contra un acto expreso",
   "opciones": [
    "1 mes",
-   "15 días hábiles",
+   "6 meses",
    "2 meses",
    "3 meses"
   ],
@@ -298,7 +298,7 @@
    "1 mes",
    "3 meses",
    "2 meses",
-   "15 días"
+   "6 meses"
   ],
   "correcta": 0,
   "cita": "con su normativa específica, se produzca el acto presunto. 2. El plazo máximo para dictar y notificar la resolución del recurso será de un mes. 3. Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso."
@@ -329,7 +329,7 @@
   "opciones": [
    "6 meses",
    "1 mes",
-   "1 año",
+   "2 meses",
    "3 meses"
   ],
   "correcta": 3,
@@ -408,7 +408,7 @@
   "pregunta": "Plazo del Senado, desde la recepción del texto, para oponer su veto o introducir enmiendas",
   "opciones": [
    "3 meses",
-   "20 días",
+   "4 meses",
    "2 meses",
    "1 mes"
   ],
@@ -423,7 +423,7 @@
   "articulo": "a91",
   "pregunta": "Sanción por el Rey de las leyes aprobadas por las Cortes Generales",
   "opciones": [
-   "1 mes",
+   "20 días",
    "30 días",
    "10 días",
    "15 días"
@@ -441,7 +441,7 @@
   "opciones": [
    "1 mes",
    "3 meses",
-   "15 días",
+   "6 meses",
    "2 meses"
   ],
   "correcta": 3,
@@ -487,8 +487,8 @@
   "articulo": "a20",
   "pregunta": "Plazo máximo para resolver y notificar la solicitud de acceso a la información pública, desde su recepción por el órgano competente",
   "opciones": [
-   "15 días hábiles",
-   "20 días hábiles",
+   "4 meses",
+   "6 meses",
    "3 meses",
    "1 mes"
   ],
@@ -503,9 +503,9 @@
   "articulo": "a24",
   "pregunta": "Interposición de la reclamación ante el Consejo de Transparencia y Buen Gobierno",
   "opciones": [
-   "15 días hábiles",
+   "2 meses",
    "3 meses",
-   "20 días hábiles",
+   "6 meses",
    "1 mes"
   ],
   "correcta": 3,
@@ -567,7 +567,7 @@
   "articulo": "a2-11",
   "pregunta": "Duración máxima de los contratos menores",
   "opciones": [
-   "6 meses, sin prórroga",
+   "2 años, sin prórroga",
    "2 años, prorrogable",
    "1 año, sin prórroga",
    "1 año, prorrogable"
@@ -586,7 +586,7 @@
    "15 días naturales",
    "15 días hábiles",
    "10 días hábiles",
-   "1 mes"
+   "20 días hábiles"
   ],
   "correcta": 1,
   "cita": "y plazo. 1. El procedimiento de recurso se iniciará mediante escrito que deberá presentarse en el plazo de quince días hábiles. Dicho plazo se computará: a) Cuando se interponga contra el anuncio de licitación, el plazo comenzará a"

@@ -877,7 +877,7 @@
    "2 días hábiles"
   ],
   "correcta": 2,
-  "cita": "distinta de las anteriores que conviva con el funcionario o funcionaria en el mismo domicilio y que requiera el cuidado efectivo de aquella, cinco días hábiles."
+  "cita": "Los funcionarios públicos tendrán los siguientes permisos: a) Por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el primer grado por consanguinidad o afinidad, así como de cualquier otra persona distinta de las anteriores que conviva con el funcionario o funcionaria en el mismo domicilio y que requiera el cuidado efectivo de aquella, cinco días hábiles."
  },
  {
   "n": 7056,
@@ -1181,7 +1181,7 @@
    "Puede acumularse indefinidamente a años posteriores"
   ],
   "correcta": 1,
-  "cita": "El período de vacaciones anuales retribuidas de los funcionarios públicos no puede ser sustituido por una cuantía económica."
+  "cita": "El período de vacaciones anuales retribuidas de los funcionarios públicos no puede ser sustituido por una cuantía económica. En los casos de renuncia voluntaria deberá garantizarse en todo caso el disfrute de las vacaciones devengadas. No obstante lo anterior, en los casos de conclusión de la relación de servicios de los funcionarios públicos por causas ajenas a la voluntad de estos, tendrán derecho a solicitar el abono de una compensación económica por las vacaciones devengadas y no disfrutadas; y en particular, en los casos de jubilación por incapacidad permanente o por fallecimiento, hasta"
  },
  {
   "n": 7075,
@@ -1943,10 +1943,10 @@
   "articulo": "a89",
   "pregunta": "Reserva del puesto de trabajo desempeñado durante la excedencia por cuidado de familiares (como mínimo)",
   "opciones": [
-   "6 meses",
-   "2 años",
    "1 año",
-   "3 años"
+   "2 años",
+   "3 años",
+   "4 años"
   ],
   "correcta": 1,
   "cita": "El puesto de trabajo desempeñado se reservará, al menos, durante dos años."
