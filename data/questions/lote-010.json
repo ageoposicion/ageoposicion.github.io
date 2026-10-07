@@ -1,0 +1,2002 @@
+[
+ {
+  "n": 10001,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a1",
+  "pregunta": "La Ley General Presupuestaria tiene por objeto la regulación del régimen presupuestario, económico-financiero, de contabilidad, intervención y control financiero:",
+  "opciones": [
+   "Del sector público estatal",
+   "Exclusivamente de la Administración General del Estado",
+   "De todas las Administraciones Públicas",
+   "De las comunidades autónomas y entidades locales"
+  ],
+  "correcta": 0,
+  "cita": "Esta ley tiene por objeto la regulación del régimen presupuestario, económico-financiero, de contabilidad, intervención y de control financiero del sector público estatal."
+ },
+ {
+  "n": 10002,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a2",
+  "pregunta": "Según el artículo 2.1 de la LGP, forman parte del sector público estatal:",
+  "opciones": [
+   "La Administración General del Estado y el sector público institucional estatal",
+   "Solo las entidades con presupuesto limitativo",
+   "Solo la Administración General del Estado y sus organismos autónomos",
+   "La Administración General del Estado y las comunidades autónomas"
+  ],
+  "correcta": 0,
+  "cita": "A los efectos de esta Ley forman parte del sector público estatal: a) La Administración General del Estado. b) El sector público institucional estatal."
+ },
+ {
+  "n": 10003,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a2",
+  "pregunta": "¿A qué institución NO se aplica la Ley General Presupuestaria, por gozar de autonomía presupuestaria según el artículo 72 de la Constitución?",
+  "opciones": [
+   "A las agencias estatales",
+   "A las universidades públicas no transferidas",
+   "A los organismos autónomos",
+   "A las Cortes Generales"
+  ],
+  "correcta": 3,
+  "cita": "Sin perjuicio de lo anterior, esta Ley no será de aplicación a las Cortes Generales, que gozan de autonomía presupuestaria de acuerdo con lo establecido en el artículo 72 de la Constitución; no obstante, se mantendrá la coordinación necesaria para la elaboración del Proyecto de Ley de Presupuestos Generales del Estado."
+ },
+ {
+  "n": 10004,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a3",
+  "pregunta": "Según el artículo 3 de la LGP, las entidades públicas empresariales y las sociedades mercantiles estatales integran:",
+  "opciones": [
+   "El sector público empresarial",
+   "El sector público administrativo",
+   "El sector público fundacional",
+   "La Hacienda Pública estatal"
+  ],
+  "correcta": 0,
+  "cita": "El sector público empresarial, integrado por: a) Las entidades públicas empresariales. b) Las sociedades mercantiles estatales. c) Cualesquiera organismos y entidades de derecho público vinculados o dependientes de la Administración General del Estado,"
+ },
+ {
+  "n": 10005,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a3",
+  "pregunta": "Las fundaciones del sector público estatal integran:",
+  "opciones": [
+   "El sector público fundacional",
+   "El sector público administrativo",
+   "El sector público empresarial",
+   "El sector público institucional local"
+  ],
+  "correcta": 0,
+  "cita": "c) Cualesquiera organismos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, los consorcios y los fondos sin personalidad jurídica no incluidos en el sector público administrativo. 3. El sector público fundacional, integrado por las fundaciones del sector público estatal."
+ },
+ {
+  "n": 10006,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a3",
+  "pregunta": "Los organismos autónomos forman parte, según la LGP, del:",
+  "opciones": [
+   "Sector público fundacional",
+   "Sector público administrativo",
+   "Sector público financiero",
+   "Sector público empresarial"
+  ],
+  "correcta": 1,
+  "cita": "El sector público administrativo, integrado por: a) La Administración General del Estado, los organismos autónomos, las autoridades administrativas independientes, las universidades públicas no transferidas y las"
+ },
+ {
+  "n": 10007,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a4",
+  "pregunta": "Según el artículo 4.3 de la LGP, en el régimen económico y financiero del sector público estatal tienen carácter supletorio:",
+  "opciones": [
+   "Las normas de derecho común y, en su defecto, las de derecho administrativo",
+   "Las demás normas de derecho administrativo y, en su defecto, las normas de derecho común",
+   "La Ley General Tributaria en todo caso",
+   "Exclusivamente las normas del Derecho de la Unión Europea"
+  ],
+  "correcta": 1,
+  "cita": "Tendrán carácter supletorio las demás normas de derecho administrativo y, en su defecto, las normas de derecho común."
+ },
+ {
+  "n": 10008,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a5",
+  "pregunta": "La Hacienda Pública estatal está constituida por el conjunto de derechos y obligaciones de contenido económico cuya titularidad corresponde:",
+  "opciones": [
+   "A las Administraciones Públicas territoriales",
+   "A la Administración General del Estado exclusivamente",
+   "A todo el sector público estatal",
+   "A la Administración General del Estado y a sus organismos autónomos"
+  ],
+  "correcta": 3,
+  "cita": "La Hacienda Pública estatal, está constituida por el conjunto de derechos y obligaciones de contenido económico cuya titularidad corresponde a la Administración General del Estado y a sus organismos autónomos."
+ },
+ {
+  "n": 10009,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a5",
+  "pregunta": "Los derechos de la Hacienda Pública estatal se clasifican en:",
+  "opciones": [
+   "Derechos presupuestarios y extrapresupuestarios",
+   "Derechos tributarios y no tributarios exclusivamente",
+   "Derechos de naturaleza pública y de naturaleza privada",
+   "Derechos ordinarios y extraordinarios"
+  ],
+  "correcta": 2,
+  "cita": "Los derechos de la Hacienda Pública estatal se clasifican en derechos de naturaleza pública y de naturaleza privada."
+ },
+ {
+  "n": 10010,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a7",
+  "pregunta": "Transigir judicial o extrajudicialmente sobre los derechos de la Hacienda Pública estatal, o someterlos a arbitraje, requiere (salvo lo previsto en el art. 10.2):",
+  "opciones": [
+   "Real decreto acordado en Consejo de Ministros, previa audiencia del Consejo de Estado en pleno",
+   "Orden del Ministro de Hacienda",
+   "Ley de las Cortes Generales en todo caso",
+   "Resolución del Interventor General de la Administración del Estado"
+  ],
+  "correcta": 0,
+  "cita": "Pública estatal, ni someter a arbitraje las contiendas que se susciten respecto de los mismos, sino mediante real decreto acordado en Consejo de Ministros, previa audiencia del de Estado en pleno."
+ },
+ {
+  "n": 10011,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a7",
+  "pregunta": "Las exenciones, condonaciones, rebajas o moratorias en el pago de los derechos de la Hacienda Pública estatal:",
+  "opciones": [
+   "Están prohibidas en todo caso",
+   "Pueden concederse por resolución de la Agencia Tributaria en cualquier caso",
+   "Solo se concederán en los casos y formas que determinen las leyes",
+   "Pueden concederlas libremente los ministros"
+  ],
+  "correcta": 2,
+  "cita": "Tampoco se concederán exenciones, condonaciones, rebajas ni moratorias en el pago de los derechos a la Hacienda Pública estatal, sino en los casos y formas que determinen las leyes, sin perjuicio de lo establecido en el artículo 16 de esta ley."
+ },
+ {
+  "n": 10012,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a9",
+  "pregunta": "Cuando los organismos autónomos concurran con la Administración General del Estado en el cobro de créditos:",
+  "opciones": [
+   "Tiene preferencia la Administración General del Estado",
+   "Tienen preferencia los organismos autónomos",
+   "Se atiende al crédito más antiguo",
+   "Se cobran a prorrata"
+  ],
+  "correcta": 0,
+  "cita": "Cuando los organismos autónomos concurran con la Administración General del Estado, tendrá preferencia para el cobro de los créditos esta última."
+ },
+ {
+  "n": 10013,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a12",
+  "pregunta": "Las providencias de apremio acreditativas del descubierto de deudas de derechos de naturaleza pública:",
+  "opciones": [
+   "Tienen la misma fuerza ejecutiva que la sentencia judicial",
+   "Necesitan homologación judicial para ejecutarse",
+   "Requieren previa conformidad del deudor",
+   "Solo tienen valor informativo"
+  ],
+  "correcta": 0,
+  "cita": "por los órganos competentes, serán título suficiente para iniciar el procedimiento de apremio y tendrán la misma fuerza ejecutiva que la sentencia judicial para proceder contra los bienes y derechos de los obligados al pago."
+ },
+ {
+  "n": 10014,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a12",
+  "pregunta": "El procedimiento de apremio se suspenderá inmediatamente, sin necesidad de garantía, cuando el interesado demuestre, entre otros supuestos:",
+  "opciones": [
+   "Que la deuda es superior a 3.000 euros",
+   "Que ha interpuesto una demanda civil",
+   "Que la deuda ha prescrito o ha sido ingresada",
+   "Que carece de liquidez"
+  ],
+  "correcta": 2,
+  "cita": "Se suspenderá inmediatamente el procedimiento de apremio, sin necesidad de prestar garantía, cuando el interesado demuestre que se ha producido en su perjuicio error material, aritmético o de hecho en la determinación de la deuda, o bien que dicha deuda ha prescrito o ha sido ingresada, condonada, compensada, aplazada o suspendida."
+ },
+ {
+  "n": 10015,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a13",
+  "pregunta": "El aplazamiento o fraccionamiento de las cantidades adeudadas a la Hacienda Pública estatal en virtud de una relación de derecho público:",
+  "opciones": [
+   "Devenga el interés legal del dinero incrementado en un 25 %",
+   "Está prohibido",
+   "No devenga interés alguno",
+   "Devenga el correspondiente interés de demora"
+  ],
+  "correcta": 3,
+  "cita": "Podrán aplazarse o fraccionarse, devengando el correspondiente interés de demora, las cantidades adeudadas a la Hacienda Pública estatal, en virtud de una relación jurídica de derecho público, en los casos, por los medios y a través del procedimiento establecido reglamentariamente."
+ },
+ {
+  "n": 10016,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGP",
+  "articulo": "a15",
+  "pregunta": "Plazo de prescripción, salvo leyes especiales, del derecho de la Hacienda Pública estatal a reconocer o liquidar créditos a su favor",
+  "opciones": [
+   "4 años",
+   "5 años",
+   "10 años",
+   "3 años"
+  ],
+  "correcta": 0,
+  "cita": "Salvo lo establecido por las leyes reguladoras de los distintos recursos, prescribirá a los cuatro años el derecho de la Hacienda Pública estatal: a) A reconocer o liquidar créditos a su favor, contándose dicho plazo desde el día en que el derecho pudo ejercitarse."
+ },
+ {
+  "n": 10017,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a15",
+  "pregunta": "La prescripción de los derechos de la Hacienda Pública estatal se interrumpe conforme a la Ley General Tributaria y se aplica:",
+  "opciones": [
+   "Solo a instancia del deudor",
+   "Solo por declaración judicial",
+   "A instancia del Tribunal de Cuentas",
+   "De oficio"
+  ],
+  "correcta": 3,
+  "cita": "La prescripción de los derechos de la Hacienda Pública estatal se interrumpirá conforme a lo establecido en la Ley General Tributaria y se aplicará de oficio."
+ },
+ {
+  "n": 10018,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a17",
+  "pregunta": "Las cantidades adeudadas a la Hacienda Pública estatal devengan interés de demora:",
+  "opciones": [
+   "Desde la notificación de la providencia de apremio",
+   "Desde el día siguiente al de su vencimiento",
+   "Desde el mismo día de su vencimiento",
+   "A partir del mes siguiente a su vencimiento"
+  ],
+  "correcta": 1,
+  "cita": "Las cantidades adeudadas a la Hacienda Pública estatal devengarán interés de demora desde el día siguiente al de su vencimiento."
+ },
+ {
+  "n": 10019,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a17",
+  "pregunta": "El interés de demora de las cantidades adeudadas a la Hacienda Pública estatal resulta de aplicar:",
+  "opciones": [
+   "El interés legal fijado en la Ley de Presupuestos para cada ejercicio",
+   "El tipo de interés del Banco Central Europeo",
+   "El tipo que fije cada órgano gestor",
+   "El interés legal incrementado en un 25 % en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "El interés de demora resultará de la aplicación, para cada año o periodo de los que integren el período de cálculo, del interés legal fijado en la Ley de Presupuestos para dichos ejercicios."
+ },
+ {
+  "n": 10020,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a20",
+  "pregunta": "Según el artículo 20 de la LGP, las obligaciones de la Hacienda Pública estatal nacen:",
+  "opciones": [
+   "De la ley, de los negocios jurídicos y de los actos o hechos que, según derecho, las generen",
+   "Solo de los contratos",
+   "Exclusivamente de la Ley de Presupuestos",
+   "De las sentencias judiciales exclusivamente"
+  ],
+  "correcta": 0,
+  "cita": "Las obligaciones de la Hacienda Pública estatal nacen de la ley, de los negocios jurídicos y de los actos o hechos que, según derecho, las generen."
+ },
+ {
+  "n": 10021,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a21",
+  "pregunta": "Las obligaciones de la Hacienda Pública estatal solo son exigibles cuando resulten:",
+  "opciones": [
+   "De cualquier acuerdo del órgano gestor",
+   "De la ejecución de los presupuestos, de sentencia judicial firme o de operaciones no presupuestarias legalmente autorizadas",
+   "De la mera reclamación del acreedor",
+   "De los convenios, aunque no tengan crédito"
+  ],
+  "correcta": 1,
+  "cita": "Las obligaciones de la Hacienda Pública estatal sólo son exigibles cuando resulten de la ejecución de los presupuestos, de conformidad con lo dispuesto en esta Ley, de sentencia judicial firme o de operaciones no presupuestarias legalmente autorizadas."
+ },
+ {
+  "n": 10022,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a21",
+  "pregunta": "En convenios y encomiendas de gestión, el acreedor de la Administración puede percibir un anticipo por operaciones preparatorias hasta un límite máximo de:",
+  "opciones": [
+   "El 20 por ciento de la cantidad total a percibir",
+   "El 50 por ciento de la cantidad total a percibir",
+   "El 10 por ciento de la cantidad total a percibir",
+   "El 5 por ciento de la cantidad total a percibir"
+  ],
+  "correcta": 2,
+  "cita": "por las operaciones preparatorias que resulten necesarias para realizar la actuaciones financiadas hasta un límite máximo del 10 por ciento de la cantidad total a percibir."
+ },
+ {
+  "n": 10023,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a23",
+  "pregunta": "Ningún tribunal ni autoridad administrativa podrá dictar providencia de embargo contra los bienes y derechos patrimoniales del Estado cuando:",
+  "opciones": [
+   "Estén inscritos en el Registro de la Propiedad",
+   "Su valor sea inferior a 600.000 euros",
+   "Se encuentren materialmente afectados a un servicio público o a una función pública",
+   "Sean bienes muebles"
+  ],
+  "correcta": 2,
+  "cita": "de embargo ni despachar mandamiento de ejecución contra los bienes y derechos patrimoniales cuando se encuentren materialmente afectados a un servicio público o a una función pública, cuando sus rendimientos o el producto de su enajenación estén legalmente afectados a fines"
+ },
+ {
+  "n": 10024,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGP",
+  "articulo": "a23",
+  "pregunta": "Plazo para concluir la modificación presupuestaria necesaria para pagar una obligación impuesta por resolución judicial, desde la notificación de la resolución",
+  "opciones": [
+   "3 meses",
+   "2 meses",
+   "6 meses",
+   "1 mes"
+  ],
+  "correcta": 0,
+  "cita": "Si para el pago fuese necesario realizar una modificación presupuestaria, deberá concluirse el procedimiento correspondiente dentro de los tres meses siguientes al día de la notificación de la resolución judicial."
+ },
+ {
+  "n": 10025,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGP",
+  "articulo": "a24",
+  "pregunta": "Plazo desde la notificación de la resolución judicial o del reconocimiento de la obligación tras el cual, si la Administración no paga y el acreedor lo reclama por escrito, se devengan intereses de demora",
+  "opciones": [
+   "6 meses",
+   "3 meses",
+   "1 mes",
+   "2 meses"
+  ],
+  "correcta": 1,
+  "cita": "Si la Administración no pagara al acreedor de la Hacienda Pública estatal dentro de los tres meses siguientes al día de notificación de la resolución judicial o del reconocimiento de la obligación, habrá de"
+ },
+ {
+  "n": 10026,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGP",
+  "articulo": "a25",
+  "pregunta": "Plazo de prescripción, salvo leyes especiales, del derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas",
+  "opciones": [
+   "3 años",
+   "5 años",
+   "4 años",
+   "1 año"
+  ],
+  "correcta": 2,
+  "cita": "b) El derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas, si no fuese reclamado por los acreedores legítimos o sus derechohabientes."
+ },
+ {
+  "n": 10027,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a25",
+  "pregunta": "La prescripción de las obligaciones de la Hacienda Pública estatal se interrumpe, salvo leyes especiales, conforme a:",
+  "opciones": [
+   "Las disposiciones del Código Civil",
+   "La Ley de Enjuiciamiento Civil",
+   "La Ley 39/2015",
+   "La Ley General Tributaria"
+  ],
+  "correcta": 0,
+  "cita": "Con la expresada salvedad en favor de leyes especiales, la prescripción se interrumpirá conforme a las disposiciones del Código Civil."
+ },
+ {
+  "n": 10028,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a26",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios de programación presupuestaria del artículo 26.1 de la LGP?",
+  "opciones": [
+   "Plurianualidad",
+   "Anualidad estricta sin escenarios plurianuales",
+   "Estabilidad presupuestaria",
+   "Sostenibilidad financiera"
+  ],
+  "correcta": 1,
+  "cita": "La programación presupuestaria se regirá por los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de los recursos públicos,"
+ },
+ {
+  "n": 10029,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a27",
+  "pregunta": "La gestión del sector público estatal está sometida al régimen de presupuesto anual aprobado por:",
+  "opciones": [
+   "Las Cortes Generales",
+   "El Tribunal de Cuentas",
+   "El Ministro de Hacienda",
+   "El Consejo de Ministros"
+  ],
+  "correcta": 0,
+  "cita": "La gestión del sector público estatal está sometida al régimen de presupuesto anual aprobado por las Cortes Generales y enmarcado en los límites de un escenario plurianual."
+ },
+ {
+  "n": 10030,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a28",
+  "pregunta": "Los escenarios presupuestarios plurianuales determinan los límites que la acción de gobierno debe respetar, referidos a:",
+  "opciones": [
+   "Los dos ejercicios siguientes",
+   "Los tres ejercicios siguientes",
+   "Los cinco ejercicios siguientes",
+   "La legislatura"
+  ],
+  "correcta": 1,
+  "cita": "Los escenarios presupuestarios plurianuales determinarán los límites, referidos a los tres ejercicios siguientes, que la acción de gobierno debe respetar en los casos en que sus decisiones tengan incidencia presupuestaria."
+ },
+ {
+  "n": 10031,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a28",
+  "pregunta": "Los escenarios presupuestarios plurianuales están integrados por:",
+  "opciones": [
+   "Un escenario de ingresos y un escenario de gastos",
+   "Un escenario de inversiones exclusivamente",
+   "Un escenario financiero y otro no financiero",
+   "Un escenario estatal y otro autonómico"
+  ],
+  "correcta": 0,
+  "cita": "Los escenarios presupuestarios plurianuales estarán integrados por un escenario de ingresos y un escenario de gastos."
+ },
+ {
+  "n": 10032,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a29",
+  "pregunta": "El programa plurianual de cada ministerio contiene los programas de todos sus centros gestores y se aprueba por:",
+  "opciones": [
+   "El Subsecretario",
+   "Las Cortes Generales",
+   "El Consejo de Ministros",
+   "El Ministro"
+  ],
+  "correcta": 3,
+  "cita": "El programa plurianual de cada ministerio contendrá los programas de todos los centros gestores que de él dependan y se aprobará por el Ministro."
+ },
+ {
+  "n": 10033,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a31",
+  "pregunta": "Las asignaciones presupuestarias a los centros gestores de gasto se efectúan tomando en cuenta, entre otras circunstancias:",
+  "opciones": [
+   "El gasto realizado en el ejercicio anterior exclusivamente",
+   "El nivel de cumplimiento de los objetivos en ejercicios anteriores",
+   "El número de empleados de cada centro",
+   "Las peticiones de los ciudadanos"
+  ],
+  "correcta": 1,
+  "cita": "Las asignaciones presupuestarias a los centros gestores de gasto se efectuarán tomando en cuenta, entre otras circunstancias, el nivel de cumplimiento de los objetivos en ejercicios anteriores."
+ },
+ {
+  "n": 10034,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a32",
+  "pregunta": "Los Presupuestos Generales del Estado constituyen:",
+  "opciones": [
+   "La expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por los órganos y entidades del sector público estatal",
+   "Una previsión orientativa de ingresos sin carácter vinculante",
+   "El conjunto de cuentas anuales del ejercicio anterior",
+   "La programación plurianual del gasto del Gobierno"
+  ],
+  "correcta": 0,
+  "cita": "Los Presupuestos Generales del Estado constituyen la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los órganos y entidades que forman parte del sector público estatal."
+ },
+ {
+  "n": 10035,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a33",
+  "pregunta": "Los presupuestos de las entidades de los sectores empresarial y fundacional que se integran en los PGE tienen carácter:",
+  "opciones": [
+   "Vinculante a nivel de concepto",
+   "Estimativo",
+   "Limitativo",
+   "Ampliable"
+  ],
+  "correcta": 1,
+  "cita": "b) Los presupuestos estimativos de las entidades de los sectores empresarial y fundacional, los consorcios, las universidades no transferidas, los fondos sin personalidad jurídica y las restantes entidades del sector público administrativo no incluidas en la letra anterior."
+ },
+ {
+  "n": 10036,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a33",
+  "pregunta": "Entre las determinaciones de los Presupuestos Generales del Estado figura:",
+  "opciones": [
+   "La estimación de los beneficios fiscales que afecten a los tributos del Estado",
+   "La aprobación de las cuentas anuales del ejercicio anterior",
+   "La relación de puestos de trabajo de cada ministerio",
+   "La fijación de los tipos de interés del Tesoro"
+  ],
+  "correcta": 0,
+  "cita": "e) La estimación de los beneficios fiscales que afecten a los tributos del Estado."
+ },
+ {
+  "n": 10037,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a34",
+  "pregunta": "El ejercicio presupuestario coincide con:",
+  "opciones": [
+   "La legislatura",
+   "El período de vigencia de los escenarios plurianuales",
+   "El período de 1 de julio a 30 de junio",
+   "El año natural"
+  ],
+  "correcta": 3,
+  "cita": "El ejercicio presupuestario coincidirá con el año natural, y a él se imputarán: a) Los derechos económicos liquidados durante el ejercicio, cualquiera que sea el período del que deriven."
+ },
+ {
+  "n": 10038,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a34",
+  "pregunta": "Al ejercicio presupuestario se imputan las obligaciones económicas reconocidas:",
+  "opciones": [
+   "Hasta la aprobación de la Cuenta General",
+   "Durante el ejercicio, aunque correspondan a gastos de otros ejercicios",
+   "Hasta el fin del mes de diciembre, siempre que correspondan a gastos realizados dentro del ejercicio",
+   "Hasta el 31 de marzo del año siguiente"
+  ],
+  "correcta": 2,
+  "cita": "b) Las obligaciones económicas reconocidas hasta el fin del mes de diciembre, siempre que correspondan a adquisiciones, obras, servicios, prestaciones o, en general, gastos realizados dentro del ejercicio y con cargo a los respectivos créditos."
+ },
+ {
+  "n": 10039,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a34",
+  "pregunta": "La imputación al presupuesto de obligaciones de ejercicios anteriores no comprendidas en los supuestos del artículo 34.2 y 3 requiere:",
+  "opciones": [
+   "Orden del Ministro de Hacienda",
+   "Informe favorable de la Intervención Delegada",
+   "Acuerdo del Consejo de Ministros",
+   "Norma con rango de ley que la autorice"
+  ],
+  "correcta": 3,
+  "cita": "En el caso de obligaciones de ejercicios anteriores que fuera necesario imputar a presupuesto y no se hallen comprendidas en los supuestos previstos en los apartados anteriores, la imputación requerirá norma con rango de ley que la autorice."
+ },
+ {
+  "n": 10040,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a35",
+  "pregunta": "Son créditos presupuestarios:",
+  "opciones": [
+   "Las previsiones de ingresos del Estado",
+   "Los derechos económicos liquidados en el ejercicio",
+   "Cada una de las asignaciones individualizadas de gasto puestas a disposición de los centros gestores",
+   "Los préstamos concedidos por el Tesoro"
+  ],
+  "correcta": 2,
+  "cita": "Son créditos presupuestarios cada una de las asignaciones individualizadas de gasto, que figuran en los presupuestos de los órganos y entidades a que se refiere el artículo 33.1.ª) de esta ley, puestas a disposición de los centros gestores para la cobertura de las necesidades para las que hayan sido aprobados."
+ },
+ {
+  "n": 10041,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a36",
+  "pregunta": "Elevar al acuerdo del Gobierno el anteproyecto de Ley de Presupuestos Generales del Estado corresponde:",
+  "opciones": [
+   "Al Presidente del Gobierno",
+   "Al Director General de Presupuestos",
+   "A la Comisión de Políticas de Gasto",
+   "Al Ministro de Hacienda"
+  ],
+  "correcta": 3,
+  "cita": "Corresponderá al Ministro de Hacienda elevar al acuerdo del Gobierno el anteproyecto de la Ley de Presupuestos Generales del Estado."
+ },
+ {
+  "n": 10042,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a36",
+  "pregunta": "Para fijar las directrices de distribución del gasto en la elaboración de los Presupuestos se constituye:",
+  "opciones": [
+   "La Comisión General de Secretarios de Estado y Subsecretarios",
+   "La Comisión de Políticas de Gasto",
+   "El Consejo de Política Fiscal y Financiera",
+   "La Comisión Delegada para Asuntos Presupuestarios"
+  ],
+  "correcta": 1,
+  "cita": "Con este fin, se constituirá la Comisión de Políticas de Gasto, cuya composición se determinará por orden del Ministro de Hacienda."
+ },
+ {
+  "n": 10043,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a37",
+  "pregunta": "El proyecto de Ley de Presupuestos Generales del Estado debe remitirse a las Cortes Generales:",
+  "opciones": [
+   "Antes del 31 de diciembre del año anterior",
+   "Antes del día 1 de octubre del año anterior al que se refiera",
+   "Antes del día 1 de septiembre del año anterior",
+   "Antes del día 1 de noviembre del año anterior"
+  ],
+  "correcta": 1,
+  "cita": "con el nivel de especificación de créditos establecido en los artículos 40 y 41 de esta ley, será remitido a las Cortes Generales antes del día 1 de octubre del año anterior al que se refiera."
+ },
+ {
+  "n": 10044,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a37",
+  "pregunta": "¿Cuál de los siguientes documentos NO acompaña al proyecto de Ley de PGE según el artículo 37.2?",
+  "opciones": [
+   "Un informe económico y financiero",
+   "La memoria de los beneficios fiscales",
+   "El informe de impacto de género",
+   "Las cuentas anuales auditadas de cada sociedad mercantil estatal"
+  ],
+  "correcta": 3,
+  "cita": "Al proyecto de Ley de Presupuestos Generales del Estado se acompañará la siguiente documentación complementaria: a) Las memorias descriptivas de los programas de gasto y sus objetivos anuales. b) El informe de impacto de género. c) El informe del impacto en la infancia, en la adolescencia y en la familia. d) El informe de alineamiento de los Presupuestos Generales del Estado con los Objetivos de Desarrollo Sostenible de la Agenda 2030. e) Un anexo con el desarrollo económico de los créditos, por centros gestores de gasto. f) Un anexo, de carácter plurianual de los proyectos de inversión pública, que incluirá su clasificación territorial. g) La liquidación de los presupuestos del año anterior y un avance de la liquidación del ejercicio corriente. h) Las cuentas y balances de la Seguridad Social del año anterior. i) Los estados consolidados de los presupuestos. j) Un informe económico y financiero, que incluirá una explicación de los contenidos de cada presupuesto, con especificación de las principales modificaciones que presenten en relación con los vigentes. k) Una memoria de los beneficios fiscales."
+ },
+ {
+  "n": 10045,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a38",
+  "pregunta": "Si la Ley de Presupuestos Generales del Estado no se aprueba antes del primer día del ejercicio correspondiente:",
+  "opciones": [
+   "Se paraliza toda ejecución de gasto",
+   "Se consideran automáticamente prorrogados los presupuestos iniciales del ejercicio anterior",
+   "El Gobierno aprueba un presupuesto provisional por real decreto-ley",
+   "Solo pueden atenderse gastos de personal"
+  ],
+  "correcta": 1,
+  "cita": "Si la Ley de Presupuestos Generales del Estado no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos en el ‘‘Boletín Oficial del Estado’’."
+ },
+ {
+  "n": 10046,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a38",
+  "pregunta": "La prórroga de los Presupuestos Generales del Estado NO afecta a los créditos:",
+  "opciones": [
+   "De gastos de personal",
+   "De transferencias a la Seguridad Social",
+   "De la Deuda Pública",
+   "Para programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan"
+  ],
+  "correcta": 3,
+  "cita": "La prórroga no afectará a los créditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan o para obligaciones que se extingan en el mismo."
+ },
+ {
+  "n": 10047,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a40",
+  "pregunta": "¿Cuál de las siguientes NO es una de las clasificaciones de los estados de gastos según el artículo 40.1 de la LGP?",
+  "opciones": [
+   "La clasificación orgánica",
+   "La clasificación económica",
+   "La clasificación territorial",
+   "La clasificación por programas"
+  ],
+  "correcta": 2,
+  "cita": "Los estados de gastos de los presupuestos a que se refiere el artículo 33.1.ª) de esta ley se estructurarán de acuerdo con las siguientes clasificaciones: a) La clasificación orgánica que agrupará por secciones y servicios los créditos asignados a los distintos centros gestores de"
+ },
+ {
+  "n": 10048,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a40",
+  "pregunta": "La clasificación económica agrupa los créditos de gastos por:",
+  "opciones": [
+   "Programas y subprogramas",
+   "Secciones y servicios",
+   "Políticas de gasto",
+   "Capítulos, separando operaciones corrientes, de capital, financieras y el Fondo de Contingencia"
+  ],
+  "correcta": 3,
+  "cita": "c) La clasificación económica, que agrupará los créditos por capítulos separando las operaciones corrientes, las de capital, las financieras y el Fondo de Contingencia de ejecución presupuestaria."
+ },
+ {
+  "n": 10049,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a40",
+  "pregunta": "En la clasificación económica de gastos, dentro de las operaciones de capital se distinguen:",
+  "opciones": [
+   "Los gastos corrientes en bienes y servicios",
+   "Los activos y pasivos financieros",
+   "Los gastos de personal y los gastos financieros",
+   "Las inversiones reales y las transferencias de capital"
+  ],
+  "correcta": 3,
+  "cita": "En los créditos para operaciones de capital se distinguirán las inversiones reales y las transferencias de capital."
+ },
+ {
+  "n": 10050,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a40",
+  "pregunta": "La clasificación orgánica agrupa los créditos asignados a los distintos centros gestores por:",
+  "opciones": [
+   "Finalidades",
+   "Programas",
+   "Capítulos, artículos y conceptos",
+   "Secciones y servicios"
+  ],
+  "correcta": 3,
+  "cita": "el artículo 33.1.ª) de esta ley se estructurarán de acuerdo con las siguientes clasificaciones: a) La clasificación orgánica que agrupará por secciones y servicios los créditos asignados a los distintos centros gestores de gasto de los órganos con dotación"
+ },
+ {
+  "n": 10051,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a41",
+  "pregunta": "Los estados de ingresos se estructuran siguiendo las clasificaciones:",
+  "opciones": [
+   "Orgánica, por programas y económica",
+   "Por programas y territorial",
+   "Orgánica y económica",
+   "Económica y funcional"
+  ],
+  "correcta": 2,
+  "cita": "Los estados de ingresos de los presupuestos a que se refiere el artículo 33.1.ª) de esta ley se estructurarán siguiendo las clasificaciones orgánica y económica: a) La clasificación orgánica distinguirá los ingresos correspondientes a la Administración"
+ },
+ {
+  "n": 10052,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a42",
+  "pregunta": "Según el principio de especialidad, los créditos para gastos se destinarán:",
+  "opciones": [
+   "A la finalidad que decida el órgano gestor",
+   "A cualquier gasto del mismo ministerio",
+   "A cualquier gasto del mismo capítulo",
+   "Exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos o por las modificaciones aprobadas"
+  ],
+  "correcta": 3,
+  "cita": "Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos o a la que resulte de las modificaciones aprobadas conforme a esta ley."
+ },
+ {
+  "n": 10053,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a43",
+  "pregunta": "En el presupuesto del Estado, con carácter general, los créditos se especifican a nivel de:",
+  "opciones": [
+   "Capítulo",
+   "Concepto",
+   "Subconcepto",
+   "Artículo"
+  ],
+  "correcta": 1,
+  "cita": "En el presupuesto del Estado los créditos se especificarán a nivel de concepto, salvo los créditos destinados a gastos de personal y los gastos corrientes en bienes y servicios, que se especificarán a nivel de artículo y las inversiones reales a nivel de capítulo."
+ },
+ {
+  "n": 10054,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a43",
+  "pregunta": "En el presupuesto del Estado, los créditos para gastos de personal y gastos corrientes en bienes y servicios se especifican a nivel de:",
+  "opciones": [
+   "Artículo",
+   "Capítulo",
+   "Concepto",
+   "Subconcepto"
+  ],
+  "correcta": 0,
+  "cita": "En el presupuesto del Estado los créditos se especificarán a nivel de concepto, salvo los créditos destinados a gastos de personal y los gastos corrientes en bienes y servicios, que se especificarán a nivel de artículo y las inversiones reales a nivel de capítulo."
+ },
+ {
+  "n": 10055,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a43",
+  "pregunta": "En el presupuesto del Estado, las inversiones reales se especifican a nivel de:",
+  "opciones": [
+   "Artículo",
+   "Concepto",
+   "Programa",
+   "Capítulo"
+  ],
+  "correcta": 3,
+  "cita": "En el presupuesto del Estado los créditos se especificarán a nivel de concepto, salvo los créditos destinados a gastos de personal y los gastos corrientes en bienes y servicios, que se especificarán a nivel de artículo y las inversiones reales a nivel de capítulo."
+ },
+ {
+  "n": 10056,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a46",
+  "pregunta": "Los actos administrativos y disposiciones generales de rango inferior a ley que adquieran compromisos de gasto por cuantía superior al importe de los créditos autorizados son:",
+  "opciones": [
+   "Válidos, pero el exceso no puede pagarse",
+   "Válidos si se convalidan por el Consejo de Ministros",
+   "Nulos de pleno derecho",
+   "Anulables"
+  ],
+  "correcta": 2,
+  "cita": "obligaciones por cuantía superior al importe de los créditos autorizados en los estados de gastos, siendo nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación, sin perjuicio de las responsabilidades reguladas en el título VII"
+ },
+ {
+  "n": 10057,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a46",
+  "pregunta": "Según el artículo 46 de la LGP, los créditos para gastos son:",
+  "opciones": [
+   "Indicativos",
+   "Ampliables",
+   "Estimativos",
+   "Limitativos"
+  ],
+  "correcta": 3,
+  "cita": "Los créditos para gastos son limitativos."
+ },
+ {
+  "n": 10058,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a47",
+  "pregunta": "Con carácter general, el número de ejercicios a que pueden aplicarse los gastos plurianuales no será superior a:",
+  "opciones": [
+   "Seis",
+   "Cinco",
+   "Cuatro",
+   "Tres"
+  ],
+  "correcta": 2,
+  "cita": "El número de ejercicios a que pueden aplicarse los gastos no será superior a cuatro."
+ },
+ {
+  "n": 10059,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a47",
+  "pregunta": "En los compromisos de gasto plurianuales, el gasto imputado al ejercicio inmediato siguiente no puede exceder del siguiente porcentaje del crédito inicial:",
+  "opciones": [
+   "El 60 por ciento",
+   "El 80 por ciento",
+   "El 70 por ciento",
+   "El 50 por ciento"
+  ],
+  "correcta": 2,
+  "cita": "resulte de aplicar al crédito inicial a que corresponda la operación los siguientes porcentajes: en el ejercicio inmediato siguiente, el 70 por ciento, en el segundo ejercicio, el 60 por ciento, y en los ejercicios tercero y cuarto, el 50 por ciento."
+ },
+ {
+  "n": 10060,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a47",
+  "pregunta": "En los compromisos de gasto plurianuales, el gasto imputado a los ejercicios tercero y cuarto no puede exceder del siguiente porcentaje del crédito inicial:",
+  "opciones": [
+   "El 40 por ciento",
+   "El 50 por ciento",
+   "El 60 por ciento",
+   "El 70 por ciento"
+  ],
+  "correcta": 1,
+  "cita": "en el ejercicio inmediato siguiente, el 70 por ciento, en el segundo ejercicio, el 60 por ciento, y en los ejercicios tercero y cuarto, el 50 por ciento."
+ },
+ {
+  "n": 10061,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a47",
+  "pregunta": "En los contratos de obra plurianuales (salvo abono total del precio), al adjudicar se efectúa una retención adicional de crédito del:",
+  "opciones": [
+   "5 por ciento del importe de adjudicación",
+   "10 por ciento del importe de adjudicación",
+   "20 por ciento del importe de adjudicación",
+   "3 por ciento del importe de adjudicación"
+  ],
+  "correcta": 1,
+  "cita": "En los contratos de obra de carácter plurianual, con excepción de los realizados bajo la modalidad de abono total del precio, se efectuará una retención adicional de crédito del 10 por ciento del importe de adjudicación, en el momento en que ésta se realice."
+ },
+ {
+  "n": 10062,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a47",
+  "pregunta": "En casos especialmente justificados, modificar los porcentajes o incrementar el número de anualidades de los gastos plurianuales corresponde a:",
+  "opciones": [
+   "El titular del departamento afectado",
+   "El Ministro de Hacienda sin más trámite",
+   "Las Cortes Generales",
+   "El Gobierno"
+  ],
+  "correcta": 3,
+  "cita": "El Gobierno, en casos especialmente justificados, podrá acordar la modificación de los porcentajes anteriores, incrementar el número de anualidades o autorizar la adquisición de compromisos de gastos que hayan de atenderse en ejercicios posteriores en el caso de que no exista crédito inicial."
+ },
+ {
+  "n": 10063,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a48",
+  "pregunta": "Puede diferirse el pago del precio de compra de bienes inmuebles adquiridos directamente cuyo importe exceda de seis millones de euros, siempre que el desembolso inicial a la firma de la escritura no sea inferior al:",
+  "opciones": [
+   "20 por ciento del precio",
+   "25 por ciento del precio",
+   "50 por ciento del precio",
+   "10 por ciento del precio"
+  ],
+  "correcta": 1,
+  "cita": "adquiridos directamente cuyo importe exceda de seis millones de euros, sin que, en ningún caso, el desembolso inicial a la firma de la escritura pueda ser inferior al 25 por ciento del precio, pudiendo distribuirse el resto en los cuatro ejercicios siguientes dentro de las limitaciones"
+ },
+ {
+  "n": 10064,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a49",
+  "pregunta": "Los créditos para gastos que el último día del ejercicio no estén afectados al cumplimiento de obligaciones ya reconocidas:",
+  "opciones": [
+   "Se incorporan automáticamente al ejercicio siguiente",
+   "Quedan anulados de pleno derecho, sin perjuicio de las incorporaciones del artículo 58",
+   "Se transfieren al Fondo de Contingencia",
+   "Se mantienen vigentes durante tres meses más"
+  ],
+  "correcta": 1,
+  "cita": "Los créditos para gastos que en el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas, quedarán anulados de pleno derecho, sin perjuicio de lo establecido en el artículo 58 de esta ley."
+ },
+ {
+  "n": 10065,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a50",
+  "pregunta": "El Fondo de Contingencia de ejecución presupuestaria se dota por importe del:",
+  "opciones": [
+   "Dos por ciento del total de gastos para operaciones no financieras, con las exclusiones legales",
+   "Cinco por ciento del total de gastos",
+   "Uno por ciento del total de los créditos del Estado",
+   "Diez por ciento de los gastos de capital"
+  ],
+  "correcta": 0,
+  "cita": "crédito, incluirá una sección bajo la rúbrica «Fondo de Contingencia de ejecución presupuestaria», por importe del dos por ciento del total de gastos para operaciones no financieras, excluidos los destinados a financiar a las comunidades autónomas y entidades locales en"
+ },
+ {
+  "n": 10066,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a50",
+  "pregunta": "¿Cuál de las siguientes modificaciones de crédito NO puede financiar el Fondo de Contingencia?",
+  "opciones": [
+   "Las transferencias de crédito",
+   "Las ampliaciones de crédito",
+   "Las incorporaciones de crédito",
+   "Los créditos extraordinarios y suplementos de crédito"
+  ],
+  "correcta": 0,
+  "cita": "El Fondo únicamente financiará, cuando proceda, las siguientes modificaciones de crédito salvo que concurran las circunstancias a que se refiere el artículo 59 de esta Ley: a) Las ampliaciones de crédito reguladas en el artículo 54. b) Los créditos extraordinarios y suplementos de crédito, de conformidad con lo previsto en el artículo 55. c) Las incorporaciones de crédito, conforme al artículo 58."
+ },
+ {
+  "n": 10067,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a50",
+  "pregunta": "La aplicación del Fondo de Contingencia se aprueba:",
+  "opciones": [
+   "Por orden del Ministro de Hacienda, después de autorizar las modificaciones",
+   "Por resolución de la Dirección General de Presupuestos",
+   "Mediante acuerdo del Consejo de Ministros, previamente a la autorización de las modificaciones de crédito",
+   "Por ley de las Cortes Generales"
+  ],
+  "correcta": 2,
+  "cita": "La aplicación del Fondo de Contingencia se aprobará, a propuesta del Ministro de Economía y Hacienda, mediante acuerdo del Consejo de Ministros, previamente a la autorización de las respectivas modificaciones de crédito."
+ },
+ {
+  "n": 10068,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a50",
+  "pregunta": "El Gobierno remite a las Cortes Generales un informe sobre la utilización del Fondo de Contingencia con periodicidad:",
+  "opciones": [
+   "Trimestral",
+   "Semestral",
+   "Anual",
+   "Mensual"
+  ],
+  "correcta": 0,
+  "cita": "El Gobierno remitirá a las Cortes Generales, a través de su Oficina Presupuestaria, un informe trimestral acerca de la utilización del Fondo Regulado en este artículo."
+ },
+ {
+  "n": 10069,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a51",
+  "pregunta": "¿Cuál de las siguientes NO es una figura de modificación de los créditos iniciales del artículo 51 de la LGP?",
+  "opciones": [
+   "Las incorporaciones",
+   "Las bajas por anulación",
+   "Las transferencias",
+   "Las generaciones"
+  ],
+  "correcta": 1,
+  "cita": "dentro de los límites y con arreglo al procedimiento establecido en los artículos siguientes, mediante: a) Transferencias. b) Generaciones. c) Ampliaciones. d) Créditos extraordinarios y suplementos de crédito. e) Incorporaciones."
+ },
+ {
+  "n": 10070,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a52",
+  "pregunta": "Las transferencias de crédito son:",
+  "opciones": [
+   "Traspasos de dotaciones entre créditos",
+   "Remanentes del ejercicio anterior",
+   "Incrementos de crédito por ingresos no previstos",
+   "Créditos para gastos sin dotación previa"
+  ],
+  "correcta": 0,
+  "cita": "Las transferencias son traspasos de dotaciones entre créditos."
+ },
+ {
+  "n": 10071,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a52",
+  "pregunta": "Con carácter general, las transferencias de crédito NO pueden realizarse:",
+  "opciones": [
+   "Entre créditos de una misma sección presupuestaria",
+   "Desde créditos para operaciones corrientes a créditos para operaciones de capital",
+   "Entre créditos de un mismo programa",
+   "Desde créditos para operaciones de capital a créditos para operaciones corrientes"
+  ],
+  "correcta": 3,
+  "cita": "a) No podrán realizarse desde créditos para operaciones financieras al resto de los créditos, ni desde créditos para operaciones de capital a créditos para operaciones corrientes."
+ },
+ {
+  "n": 10072,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a52",
+  "pregunta": "Con carácter general, las transferencias de crédito NO pueden realizarse entre créditos:",
+  "opciones": [
+   "De un mismo capítulo",
+   "De distintas secciones presupuestarias",
+   "De un mismo programa",
+   "De un mismo servicio"
+  ],
+  "correcta": 1,
+  "cita": "b) No podrán realizarse entre créditos de distintas secciones presupuestarias."
+ },
+ {
+  "n": 10073,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a52",
+  "pregunta": "Con carácter general, las transferencias de crédito no pueden minorar:",
+  "opciones": [
+   "Créditos de inversiones reales",
+   "Créditos de gastos corrientes en bienes y servicios",
+   "Créditos extraordinarios o créditos que se hayan suplementado o ampliado en el ejercicio",
+   "Créditos del mismo programa"
+  ],
+  "correcta": 2,
+  "cita": "c) No minorarán créditos extraordinarios o créditos que se hayan suplementado o ampliado en el ejercicio."
+ },
+ {
+  "n": 10074,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a53",
+  "pregunta": "Las generaciones de crédito son modificaciones que incrementan los créditos como consecuencia de:",
+  "opciones": [
+   "La aprobación de una ley de crédito extraordinario",
+   "La realización de determinados ingresos no previstos o superiores a los contemplados en el presupuesto inicial",
+   "La incorporación de remanentes del ejercicio anterior",
+   "Traspasos de dotaciones entre créditos"
+  ],
+  "correcta": 1,
+  "cita": "Las generaciones son modificaciones que incrementan los créditos como consecuencia de la realización de determinados ingresos no previstos o superiores a los contemplados en el presupuesto inicial."
+ },
+ {
+  "n": 10075,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a53",
+  "pregunta": "¿Cuál de los siguientes ingresos NO figura entre los que pueden dar lugar a generaciones de crédito según el artículo 53.2?",
+  "opciones": [
+   "Ventas de bienes y prestación de servicios",
+   "Los ingresos por impuestos directos",
+   "Enajenaciones de inmovilizado",
+   "Reembolsos de préstamos"
+  ],
+  "correcta": 1,
+  "cita": "Podrán dar lugar a generaciones los ingresos realizados en el propio ejercicio como consecuencia de: a) Aportación del Estado a los organismos autónomos o a las entidades con presupuesto limitativo, así como de los organismos autónomos y las entidades con presupuesto limitativo y otras personas naturales o jurídicas al Estado u otros organismos autónomos o entidades con presupuesto limitativo, para financiar conjuntamente gastos que por su naturaleza estén comprendidos en los fines u objetivos asignados a los mismos. b) Ventas de bienes y prestación de servicios. c) Enajenaciones de inmovilizado. d) Reembolsos de préstamos. e) Ingresos legalmente afectados a la realización de actuaciones determinadas. f) Ingresos por reintegros de pagos indebidos realizados con cargo a créditos del presupuesto corriente."
+ },
+ {
+  "n": 10076,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a53",
+  "pregunta": "Los ingresos procedentes del reembolso de préstamos solo pueden generar crédito en:",
+  "opciones": [
+   "Los créditos destinados a la concesión de nuevos préstamos",
+   "Los créditos de gastos de personal",
+   "Cualquier crédito del mismo ministerio",
+   "El Fondo de Contingencia"
+  ],
+  "correcta": 0,
+  "cita": "Los ingresos procedentes de reembolso de préstamos únicamente podrán dar lugar a generaciones en aquellos créditos destinados a la concesión de nuevos préstamos."
+ },
+ {
+  "n": 10077,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a53",
+  "pregunta": "Con carácter excepcional, pueden generar crédito en el presupuesto del ejercicio los ingresos realizados:",
+  "opciones": [
+   "En el último trimestre del ejercicio anterior",
+   "En el último mes del ejercicio anterior",
+   "En el primer trimestre del ejercicio siguiente",
+   "En cualquier momento de los dos ejercicios anteriores"
+  ],
+  "correcta": 0,
+  "cita": "Con carácter excepcional podrán generar crédito en el Presupuesto del ejercicio los ingresos realizados en el último trimestre del ejercicio anterior."
+ },
+ {
+  "n": 10078,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a54",
+  "pregunta": "Tienen la condición de créditos ampliables, entre otros:",
+  "opciones": [
+   "Los de arrendamientos de edificios",
+   "Los destinados a atenciones protocolarias y representativas",
+   "Los destinados al pago de pensiones de Clases Pasivas del Estado",
+   "Los de gastos corrientes en bienes y servicios"
+  ],
+  "correcta": 2,
+  "cita": "Excepcionalmente tendrán la condición de ampliables los créditos destinados al pago de pensiones de Clases Pasivas del Estado y los destinados a atender obligaciones específicas del respectivo ejercicio, derivadas de normas"
+ },
+ {
+  "n": 10079,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a54",
+  "pregunta": "Las ampliaciones de crédito que afecten a operaciones del presupuesto del Estado se financian:",
+  "opciones": [
+   "Con Deuda Pública en todo caso",
+   "Con cargo al Fondo de Contingencia o con baja en otros créditos del presupuesto no financiero",
+   "Con mayores ingresos tributarios del ejercicio siguiente",
+   "Con el remanente de tesorería del Estado"
+  ],
+  "correcta": 1,
+  "cita": "Las ampliaciones de crédito que afecten a operaciones del presupuesto del Estado se financiarán con cargo al Fondo de Contingencia, conforme a lo previsto en el artículo 50 de esta ley, o con baja en otros créditos del presupuesto no financiero."
+ },
+ {
+  "n": 10080,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a55",
+  "pregunta": "Si con cargo al Presupuesto del Estado debe realizarse un gasto que no puede demorarse al ejercicio siguiente, no existe crédito adecuado o el consignado es insuficiente y no ampliable, y no cabe dotarlo con las restantes figuras del artículo 51, procede tramitar:",
+  "opciones": [
+   "Un anticipo de caja fija",
+   "Un crédito extraordinario o suplementario",
+   "Una incorporación de remanentes",
+   "Una generación de crédito"
+  ],
+  "correcta": 1,
+  "cita": "y su dotación no resulte posible a través de las restantes figuras previstas en el artículo 51, deberá procederse a la tramitación de un crédito extraordinario o suplementario del inicialmente previsto."
+ },
+ {
+  "n": 10081,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a55",
+  "pregunta": "Si la necesidad de un crédito extraordinario o suplementario surge en operaciones financieras del Presupuesto del Estado, se financiará:",
+  "opciones": [
+   "Con anticipos de caja fija",
+   "Con el remanente de tesorería",
+   "Con el Fondo de Contingencia",
+   "Con Deuda Pública o con baja en otros créditos de la misma naturaleza"
+  ],
+  "correcta": 3,
+  "cita": "b) Si la necesidad surgiera en operaciones financieras del Presupuesto, se financiará con Deuda Pública o con baja en otros créditos de la misma naturaleza."
+ },
+ {
+  "n": 10082,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a55",
+  "pregunta": "Los créditos extraordinarios y suplementos de crédito del Estado para obligaciones del ejercicio corriente financiados con cargo al Fondo de Contingencia los autoriza:",
+  "opciones": [
+   "El Ministro de Hacienda",
+   "El titular del departamento afectado",
+   "Las Cortes Generales mediante ley",
+   "El Consejo de Ministros"
+  ],
+  "correcta": 3,
+  "cita": "El Consejo de Ministros autorizará los créditos extraordinarios y suplementos de crédito para atender obligaciones del ejercicio corriente o de ejercicios anteriores si se hubiera anulado crédito en el ejercicio de procedencia, cuando se financien con cargo al Fondo de Contingencia."
+ },
+ {
+  "n": 10083,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a55",
+  "pregunta": "Los créditos extraordinarios o suplementarios del Estado para obligaciones del propio ejercicio financiados con baja en otros créditos requieren:",
+  "opciones": [
+   "Una resolución del Interventor General",
+   "Un acuerdo del Consejo de Ministros",
+   "Un proyecto de ley remitido a las Cortes Generales, previo informe de la Dirección General de Presupuestos y dictamen del Consejo de Estado",
+   "Una orden del Ministro de Hacienda"
+  ],
+  "correcta": 2,
+  "cita": "b) Cuando se trate de créditos extraordinarios o suplementarios para atender obligaciones del propio ejercicio cuando se financien con baja en otros créditos."
+ },
+ {
+  "n": 10084,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a56",
+  "pregunta": "Los créditos extraordinarios o suplementarios de los organismos autónomos solo pueden financiarse con:",
+  "opciones": [
+   "Deuda Pública",
+   "El Fondo de Contingencia exclusivamente",
+   "La parte no aplicada del remanente de tesorería del ejercicio anterior o con mayores ingresos sobre los previstos",
+   "Baja en créditos de otros organismos"
+  ],
+  "correcta": 2,
+  "cita": "La financiación de los créditos extraordinarios o suplementarios únicamente podrá realizarse con cargo a la parte del remanente de tesorería al fin del ejercicio anterior que no haya sido aplicada en el presupuesto del organismo, o con mayores ingresos sobre los previstos inicialmente."
+ },
+ {
+  "n": 10085,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a56",
+  "pregunta": "Los presidentes o directores de los organismos autónomos pueden autorizar créditos extraordinarios o suplementarios hasta el 10 % del capítulo, siempre que no se supere la cuantía de:",
+  "opciones": [
+   "300.000 euros",
+   "500.000 euros",
+   "1.000.000 de euros",
+   "12.000.000 de euros"
+  ],
+  "correcta": 1,
+  "cita": "hasta un importe del 10 % del correspondiente capítulo de su presupuesto inicial de gastos, cuando no supere la cuantía de 500.000 euros, excluidos los que afecten a gastos de personal o a los contemplados en el apartado 2 del artículo 44 de esta Ley, dando cuenta de los acuerdos al"
+ },
+ {
+  "n": 10086,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a58",
+  "pregunta": "Pueden incorporarse a los créditos de un ejercicio los remanentes de crédito del ejercicio anterior:",
+  "opciones": [
+   "Cuando lo disponga una norma de rango legal y los procedentes de determinadas generaciones",
+   "Solo los de gastos de personal",
+   "En todo caso, de forma automática",
+   "Siempre que lo solicite el órgano gestor"
+  ],
+  "correcta": 0,
+  "cita": "No obstante lo dispuesto en el artículo 49, se podrán incorporar a los correspondientes créditos de un ejercicio los remanentes de crédito del ejercicio anterior, en los siguientes casos: a) Cuando así lo disponga una norma de rango legal."
+ },
+ {
+  "n": 10087,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a60",
+  "pregunta": "Los anticipos de Tesorería para gastos inaplazables tienen un límite máximo, en cada ejercicio, del:",
+  "opciones": [
+   "Cinco por ciento de los créditos autorizados",
+   "Uno por ciento de los créditos autorizados al Estado por la Ley de Presupuestos",
+   "Dos por ciento de los gastos no financieros",
+   "Siete por ciento de los gastos corrientes"
+  ],
+  "correcta": 1,
+  "cita": "del Ministro de Economía, podrá conceder anticipos de Tesorería para atender gastos inaplazables, con el límite máximo en cada ejercicio del uno por ciento de los créditos autorizados al Estado por la Ley de Presupuestos Generales del Estado, en los siguientes casos: a) Cuando, una vez"
+ },
+ {
+  "n": 10088,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a60",
+  "pregunta": "Si las Cortes Generales no aprueban el proyecto de ley del crédito extraordinario o suplemento que motivó un anticipo de Tesorería:",
+  "opciones": [
+   "El anticipo se cancela con cargo al Fondo de Contingencia en todo caso",
+   "El Gobierno dispone la cancelación del anticipo con cargo a los créditos del departamento u organismo cuya minoración ocasione menos trastornos",
+   "Se exige su reintegro a los acreedores",
+   "El anticipo se convierte en crédito definitivo"
+  ],
+  "correcta": 1,
+  "cita": "extraordinario o del suplemento de crédito el Gobierno, a propuesta del Ministro de Hacienda, dispondrá la cancelación del anticipo de Tesorería con cargo a los créditos del respectivo departamento ministerial u organismo autónomo, en su caso, cuya minoración ocasione menos trastornos para el servicio público."
+ },
+ {
+  "n": 10089,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a61",
+  "pregunta": "Autorizar las transferencias entre distintas secciones presupuestarias como consecuencia de reorganizaciones administrativas corresponde a:",
+  "opciones": [
+   "La Dirección General de Presupuestos",
+   "El Gobierno",
+   "Los ministros afectados",
+   "El Ministro de Hacienda"
+  ],
+  "correcta": 1,
+  "cita": "Corresponde al Gobierno, a propuesta del Ministro de Hacienda y a iniciativa de los ministros afectados: a) Autorizar las transferencias entre distintas secciones presupuestarias como consecuencia de reorganizaciones administrativas."
+ },
+ {
+  "n": 10090,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a62",
+  "pregunta": "Autorizar las incorporaciones de remanentes de crédito reguladas en el artículo 58 corresponde a:",
+  "opciones": [
+   "Los titulares de los ministerios",
+   "El Ministro de Hacienda",
+   "El Consejo de Ministros",
+   "Las Cortes Generales"
+  ],
+  "correcta": 1,
+  "cita": "c) Las incorporaciones de remanentes reguladas en el artículo 58."
+ },
+ {
+  "n": 10091,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a63",
+  "pregunta": "Los titulares de los ministerios pueden autorizar transferencias entre créditos de un mismo programa o entre programas de un mismo servicio:",
+  "opciones": [
+   "Previo acuerdo del Consejo de Ministros",
+   "Previo dictamen del Consejo de Estado",
+   "Previo informe favorable de la Intervención Delegada competente",
+   "Sin necesidad de informe alguno"
+  ],
+  "correcta": 2,
+  "cita": "Los titulares de los distintos ministerios podrán autorizar, previo informe favorable de la Intervención Delegada competente en el ministerio o, en su caso, en las entidades a que se refiere el artículo 3.1 de esta ley, las"
+ },
+ {
+  "n": 10092,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a67",
+  "pregunta": "En las entidades del sector público empresarial que reciben aportaciones de los PGE, las variaciones de endeudamiento superiores a 12.000.000 de euros sobre su presupuesto de capital son competencia de:",
+  "opciones": [
+   "El consejo de administración de la entidad",
+   "El Consejo de Ministros",
+   "El Ministerio del que dependan funcionalmente",
+   "La persona titular del Ministerio de Hacienda y Función Pública"
+  ],
+  "correcta": 1,
+  "cita": "exceda de la cuantía de 12.000.000 euros de las cifras aprobadas en su presupuesto de capital, – Del Consejo de Ministros cuando su importe exceda de la cuantía de 12.000.000 euros de las cifras aprobadas en su presupuesto de capital."
+ },
+ {
+  "n": 10093,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a65",
+  "pregunta": "El programa de actuación plurianual de las entidades con presupuestos de explotación y capital refleja los datos económico-financieros previstos para el ejercicio del proyecto de PGE y:",
+  "opciones": [
+   "El ejercicio siguiente",
+   "Los cuatro ejercicios siguientes",
+   "Los tres ejercicios inmediatamente siguientes",
+   "Los dos ejercicios inmediatamente siguientes"
+  ],
+  "correcta": 3,
+  "cita": "previstos para el ejercicio relativo al proyecto de Presupuestos Generales del Estado y a los dos ejercicios inmediatamente siguientes, según las líneas estratégicas y objetivos definidos para la entidad."
+ },
+ {
+  "n": 10094,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a69",
+  "pregunta": "Los sujetos del sector público estatal adecuarán su gestión económico-financiera al cumplimiento de:",
+  "opciones": [
+   "La maximización de los ingresos",
+   "La rentabilidad económica en todo caso",
+   "La eficacia en la consecución de los objetivos y la eficiencia en la asignación y utilización de recursos públicos",
+   "La reducción del gasto de personal"
+  ],
+  "correcta": 2,
+  "cita": "Los sujetos que integran el sector público estatal adecuarán su gestión económico-financiera al cumplimiento de la eficacia en la consecución de los objetivos fijados y de la eficiencia en la asignación y utilización de recursos públicos, en un marco de objetividad y transparencia en su actividad administrativa."
+ },
+ {
+  "n": 10095,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a73",
+  "pregunta": "¿Cuál es el orden correcto de las fases del procedimiento de gestión de los gastos según el artículo 73?",
+  "opciones": [
+   "Reconocimiento de la obligación, aprobación, compromiso, ordenación del pago y pago material",
+   "Aprobación, reconocimiento de la obligación, compromiso, pago material y ordenación del pago",
+   "Aprobación, compromiso, reconocimiento de la obligación, ordenación del pago y pago material",
+   "Compromiso, aprobación, ordenación del pago, reconocimiento de la obligación y pago material"
+  ],
+  "correcta": 2,
+  "cita": "gestoras y Servicios comunes de la Seguridad Social se realizará a través de las siguientes fases: a) Aprobación del gasto. b) Compromiso de gasto. c) Reconocimiento de la obligación. d) Ordenación del pago. e) Pago material."
+ },
+ {
+  "n": 10096,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a73",
+  "pregunta": "El acto mediante el cual se autoriza la realización de un gasto determinado por una cuantía cierta o aproximada, reservando crédito, sin relación con terceros, es:",
+  "opciones": [
+   "La aprobación del gasto",
+   "La ordenación del pago",
+   "El compromiso de gasto",
+   "El reconocimiento de la obligación"
+  ],
+  "correcta": 0,
+  "cita": "La aprobación es el acto mediante el cual se autoriza la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario."
+ },
+ {
+  "n": 10097,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a73",
+  "pregunta": "La fase del gasto que constituye un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública a la realización del gasto, es:",
+  "opciones": [
+   "La retención de crédito",
+   "La ordenación del pago",
+   "La aprobación",
+   "El compromiso"
+  ],
+  "correcta": 3,
+  "cita": "El compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública estatal o a la Seguridad Social a la realización del gasto a que se refiera en la cuantía y condiciones establecidas."
+ },
+ {
+  "n": 10098,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a73",
+  "pregunta": "El acto mediante el que se declara la existencia de un crédito exigible contra la Hacienda Pública estatal, derivado de un gasto aprobado y comprometido, es:",
+  "opciones": [
+   "El reconocimiento de la obligación",
+   "El compromiso de gasto",
+   "La aprobación del gasto",
+   "El pago material"
+  ],
+  "correcta": 0,
+  "cita": "El reconocimiento de la obligación es el acto mediante el que se declara la existencia de un crédito exigible contra la Hacienda Pública estatal o contra la Seguridad Social, derivado de un gasto aprobado y comprometido y que comporta la propuesta de pago correspondiente."
+ },
+ {
+  "n": 10099,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a73",
+  "pregunta": "Cuando la naturaleza de la operación o gasto así lo determine, las fases de ejecución del gasto:",
+  "opciones": [
+   "Se suprimen",
+   "Deben tramitarse siempre por separado",
+   "Se sustituyen por la intervención material",
+   "Se acumularán en un solo acto"
+  ],
+  "correcta": 3,
+  "cita": "Cuando la naturaleza de la operación o gasto así lo determinen, se acumularán en un solo acto las fases de ejecución precisas."
+ },
+ {
+  "n": 10100,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a74",
+  "pregunta": "Corresponde aprobar y comprometer los gastos propios de sus presupuestos, salvo los reservados al Consejo de Ministros, y reconocer las obligaciones:",
+  "opciones": [
+   "Al Ordenador General de Pagos del Estado",
+   "A los Ministros y titulares de los demás órganos del Estado con dotaciones diferenciadas",
+   "A la Intervención General de la Administración del Estado",
+   "A la Dirección General de Presupuestos"
+  ],
+  "correcta": 1,
+  "cita": "Corresponde a los Ministros y a los titulares de los demás órganos del Estado con dotaciones diferenciadas en los Presupuestos Generales del Estado aprobar y comprometer los gastos propios de sus"
+ },
+ {
+  "n": 10101,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a74",
+  "pregunta": "Los órganos de los departamentos ministeriales necesitan autorización del Consejo de Ministros para suscribir convenios o contratos-programa cuando el gasto sea superior a:",
+  "opciones": [
+   "3 millones de euros",
+   "6 millones de euros",
+   "12 millones de euros",
+   "1 millón de euros"
+  ],
+  "correcta": 2,
+  "cita": "públicas o con entidades públicas o privadas, necesitarán autorización del Consejo de Ministros cuando el importe del gasto que de aquellos se derive sea superior a doce millones de euros."
+ },
+ {
+  "n": 10102,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a77",
+  "pregunta": "Se entiende por pago indebido el que se realiza:",
+  "opciones": [
+   "Sin fiscalización previa",
+   "Fuera del plazo legal de pago",
+   "Mediante anticipo de caja fija",
+   "Por error material, aritmético o de hecho, a favor de quien no tiene derecho de cobro o en cuantía superior a la reconocida"
+  ],
+  "correcta": 3,
+  "cita": "A los efectos de esta Ley se entiende por pago indebido el que se realiza por error material, aritmético o de hecho, en favor de persona en quien no concurra derecho alguno de cobro frente a la Administración con"
+ },
+ {
+  "n": 10103,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a78",
+  "pregunta": "Los anticipos de caja fija son provisiones de fondos de carácter:",
+  "opciones": [
+   "Presupuestario, para gastos en el extranjero",
+   "Presupuestario y temporal, para inversiones reales",
+   "Extrapresupuestario y permanente, para gastos periódicos o repetitivos del capítulo de gastos corrientes en bienes y servicios",
+   "Extrapresupuestario y ocasional, para gastos de personal"
+  ],
+  "correcta": 2,
+  "cita": "Se entienden por anticipos de caja fija las provisiones de fondos de carácter extrapresupuestario y permanente que se realicen a pagadurías, cajas y habilitaciones para la atención inmediata y posterior aplicación al capítulo de gastos corrientes en bienes y servicios del presupuesto del año en que se realicen, de gastos periódicos o repetitivos."
+ },
+ {
+  "n": 10104,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a78",
+  "pregunta": "Con carácter general, la cuantía global de los anticipos de caja fija de cada ministerio u organismo autónomo no puede superar:",
+  "opciones": [
+   "El diez por ciento del total del presupuesto",
+   "El tres por ciento de los créditos de personal",
+   "El catorce por ciento de los gastos de capital",
+   "El siete por ciento del total de créditos del capítulo de gastos corrientes en bienes y servicios"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso, la cuantía global de los anticipos de caja fija no podrá superar para cada ministerio u organismo autónomo el siete por ciento del total de créditos del capítulo destinado a gastos corrientes en bienes y servicios del presupuesto vigente en cada momento."
+ },
+ {
+  "n": 10105,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a79",
+  "pregunta": "Pueden librarse fondos con el carácter de «a justificar» cuando:",
+  "opciones": [
+   "El gasto sea superior a 5.000 euros",
+   "El gasto sea de personal",
+   "Excepcionalmente, no pueda aportarse la documentación justificativa de las obligaciones en el momento del reconocimiento",
+   "Lo solicite el acreedor"
+  ],
+  "correcta": 2,
+  "cita": "Cuando, excepcionalmente, no pueda aportarse la documentación justificativa de las obligaciones en el momento previsto en el apartado 4 del artículo 73, podrán tramitarse propuestas de pagos presupuestarios y librarse fondos con el carácter de a justificar."
+ },
+ {
+  "n": 10106,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGP",
+  "articulo": "a79",
+  "pregunta": "Plazo general de rendición de las cuentas justificativas de los pagos a justificar",
+  "opciones": [
+   "3 meses",
+   "6 meses",
+   "2 meses",
+   "1 mes"
+  ],
+  "correcta": 0,
+  "cita": "El plazo de rendición de las cuentas será de tres meses, excepto las correspondientes a pagos de expropiaciones y pagos en el extranjero que podrán ser rendidas en el plazo de seis meses."
+ },
+ {
+  "n": 10107,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGP",
+  "articulo": "a79",
+  "pregunta": "Plazo de rendición de las cuentas de pagos a justificar correspondientes a expropiaciones y pagos en el extranjero",
+  "opciones": [
+   "4 meses",
+   "12 meses",
+   "6 meses",
+   "3 meses"
+  ],
+  "correcta": 2,
+  "cita": "El plazo de rendición de las cuentas será de tres meses, excepto las correspondientes a pagos de expropiaciones y pagos en el extranjero que podrán ser rendidas en el plazo de seis meses."
+ },
+ {
+  "n": 10108,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGP",
+  "articulo": "a79",
+  "pregunta": "Plazo para la aprobación o reparo de la cuenta justificativa de un pago a justificar, desde la aportación de los documentos justificativos",
+  "opciones": [
+   "1 mes",
+   "2 meses",
+   "3 meses",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "En el curso de los dos meses siguientes a la fecha de aportación de los documentos justificativos a que se refieren los apartados anteriores de este artículo, se llevará a cabo la aprobación o reparo de la cuenta por la autoridad competente."
+ },
+ {
+  "n": 10109,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a80",
+  "pregunta": "La gestión del presupuesto de ingresos se realiza en las fases de:",
+  "opciones": [
+   "Aprobación, compromiso y pago",
+   "Liquidación y recaudación en período ejecutivo",
+   "Previsión, liquidación y contabilización",
+   "Reconocimiento del derecho y extinción del derecho"
+  ],
+  "correcta": 3,
+  "cita": "La gestión del Presupuesto de ingresos se realizará en las siguientes fases sucesivas o simultáneas: a) Reconocimiento del derecho. b) Extinción del derecho."
+ },
+ {
+  "n": 10110,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a140",
+  "pregunta": "El control interno de la gestión económica y financiera del sector público estatal corresponde a:",
+  "opciones": [
+   "El Tribunal de Cuentas",
+   "La Autoridad Independiente de Responsabilidad Fiscal",
+   "La Dirección General de Presupuestos",
+   "La Intervención General de la Administración del Estado"
+  ],
+  "correcta": 3,
+  "cita": "La Intervención General de la Administración del Estado ejercerá en los términos previstos en esta ley el control interno de la gestión económica y financiera del sector público estatal, con plena autonomía respecto de las autoridades y demás entidades cuya gestión controle."
+ },
+ {
+  "n": 10111,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a140",
+  "pregunta": "El control externo del sector público estatal corresponde a:",
+  "opciones": [
+   "La Comisión Nacional de los Mercados y la Competencia",
+   "El Consejo de Estado",
+   "El Tribunal de Cuentas",
+   "La Intervención General de la Administración del Estado"
+  ],
+  "correcta": 2,
+  "cita": "En su condición de supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público, corresponde al Tribunal de Cuentas el control externo del sector público estatal, en los términos establecidos en la Constitución, en su ley orgánica y en las demás leyes que regulen su competencia."
+ },
+ {
+  "n": 10112,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a142",
+  "pregunta": "El control interno regulado en la LGP se realiza mediante:",
+  "opciones": [
+   "La inspección de servicios y la auditoría externa",
+   "El control de eficacia y el control de legalidad exclusivamente",
+   "La función interventora, el control financiero permanente y la auditoría pública",
+   "La fiscalización previa, la auditoría privada y el control parlamentario"
+  ],
+  "correcta": 2,
+  "cita": "El control se realizará mediante el ejercicio de la función interventora, el control financiero permanente y la auditoría pública, a que se refieren los capítulos II, III y IV de este título."
+ },
+ {
+  "n": 10113,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a144",
+  "pregunta": "La Intervención General de la Administración del Estado ejerce sus funciones de control conforme a los principios de:",
+  "opciones": [
+   "Dependencia jerárquica del órgano controlado",
+   "Oportunidad y discrecionalidad",
+   "Autonomía, ejercicio desconcentrado y jerarquía interna",
+   "Centralización y coordinación"
+  ],
+  "correcta": 2,
+  "cita": "La Intervención General de la Administración del Estado ejercerá sus funciones de control conforme a los principios de autonomía, ejercicio desconcentrado y jerarquía interna a través de los órganos de control a que se refiere el artículo anterior."
+ },
+ {
+  "n": 10114,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a148",
+  "pregunta": "La función interventora tiene por objeto controlar los actos del sector público estatal que den lugar al reconocimiento de derechos o a la realización de gastos:",
+  "opciones": [
+   "Solo si lo solicita el órgano gestor",
+   "Antes de que sean aprobados",
+   "Al cierre del ejercicio",
+   "Una vez ejecutados"
+  ],
+  "correcta": 1,
+  "cita": "La función interventora tiene por objeto controlar, antes de que sean aprobados, los actos del sector público estatal que den lugar al reconocimiento de derechos o a la"
+ },
+ {
+  "n": 10115,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a150",
+  "pregunta": "La intervención formal consiste en:",
+  "opciones": [
+   "La auditoría de las cuentas anuales",
+   "La verificación del cumplimiento de los requisitos legales mediante el examen de los documentos que deban incorporarse al expediente",
+   "La comprobación de la real y efectiva aplicación de los fondos públicos",
+   "La inspección física de las obras"
+  ],
+  "correcta": 1,
+  "cita": "La intervención formal consistirá en la verificación del cumplimiento de los requisitos legales necesarios para la adopción del acuerdo, mediante el examen de todos los documentos que, preceptivamente, deban estar incorporados al expediente."
+ },
+ {
+  "n": 10116,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a150",
+  "pregunta": "En la intervención material se comprueba:",
+  "opciones": [
+   "La competencia del órgano",
+   "La existencia de crédito adecuado",
+   "El cumplimiento de los requisitos formales del expediente",
+   "La real y efectiva aplicación de los fondos públicos"
+  ],
+  "correcta": 3,
+  "cita": "En la intervención material se comprobará la real y efectiva aplicación de los fondos públicos. 2. El ejercicio de la función interventora comprenderá: a) La fiscalización previa de los actos que reconozcan"
+ },
+ {
+  "n": 10117,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a151",
+  "pregunta": "¿Cuál de los siguientes NO está sometido a fiscalización previa según el artículo 151?",
+  "opciones": [
+   "Las subvenciones concedidas en régimen de concurrencia competitiva",
+   "Los contratos de obras de valor estimado superior a 40.000 euros",
+   "Los contratos menores",
+   "Los convenios de colaboración con gasto"
+  ],
+  "correcta": 2,
+  "cita": "No estarán sometidos a la fiscalización previa prevista en el apartado 2.a) del artículo anterior: a) los contratos menores así como los asimilados a ellos en virtud de la legislación contractual;"
+ },
+ {
+  "n": 10118,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a151",
+  "pregunta": "No están sometidos a fiscalización previa los gastos que se paguen mediante anticipo de caja fija cuando sean menores de:",
+  "opciones": [
+   "5.000 euros",
+   "40.000 euros",
+   "15.000 euros",
+   "3.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "c) los gastos menores de 5.000 euros cuyo pago se realice mediante el procedimiento especial de anticipo de caja fija, regulado en el artículo 78 de esta Ley;"
+ },
+ {
+  "n": 10119,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a151",
+  "pregunta": "Las subvenciones con asignación nominativa:",
+  "opciones": [
+   "Requieren siempre fiscalización previa plena",
+   "Se fiscalizan solo si superan 12 millones de euros",
+   "Requieren autorización del Consejo de Ministros",
+   "No están sometidas a fiscalización previa"
+  ],
+  "correcta": 3,
+  "cita": "e) las subvenciones con asignación nominativa;"
+ },
+ {
+  "n": 10120,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a154",
+  "pregunta": "Si la Intervención está en desacuerdo con el contenido de los actos examinados, deberá formular sus reparos:",
+  "opciones": [
+   "Verbalmente ante el órgano gestor",
+   "Por escrito, sin necesidad de motivación",
+   "Mediante comunicación al Tribunal de Cuentas",
+   "Por escrito, con cita de los preceptos legales en los que sustente su criterio"
+  ],
+  "correcta": 3,
+  "cita": "Si la Intervención, al realizar la fiscalización o intervención, se manifiesta en desacuerdo con el contenido de los actos examinados o con el procedimiento seguido para su adopción, deberá formular sus reparos por escrito, con cita de los preceptos legales en los que sustente su criterio."
+ },
+ {
+  "n": 10121,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a154",
+  "pregunta": "La formulación del reparo por la Intervención:",
+  "opciones": [
+   "Suspende la tramitación del expediente hasta que sea solventado",
+   "Produce la nulidad del expediente",
+   "No afecta a la tramitación del expediente",
+   "Obliga a archivar el expediente"
+  ],
+  "correcta": 0,
+  "cita": "La formulación del reparo suspenderá la tramitación del expediente hasta que sea solventado, bien por la subsanación de las deficiencias observadas o bien, en el caso de no aceptación del reparo, por la resolución del procedimiento previsto en el artículo siguiente."
+ },
+ {
+  "n": 10122,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a155",
+  "pregunta": "Cuando el reparo lo haya formulado la Intervención General de la Administración del Estado y subsista la discrepancia, la resolución definitiva corresponde a:",
+  "opciones": [
+   "El Subsecretario del departamento",
+   "El Consejo de Ministros",
+   "El Tribunal de Cuentas",
+   "El Ministro de Hacienda"
+  ],
+  "correcta": 1,
+  "cita": "b) Cuando el reparo haya sido formulado por la Intervención General de la Administración del Estado o este centro directivo haya confirmado el de otra Intervención General o delegada, subsistiendo la discrepancia, corresponderá al Consejo de Ministros adoptar resolución definitiva."
+ },
+ {
+  "n": 10123,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a156",
+  "pregunta": "Cuando la función interventora era preceptiva y se ha omitido:",
+  "opciones": [
+   "Solo se exige responsabilidad al interventor",
+   "No se podrá reconocer la obligación ni tramitar el pago hasta que se subsane la omisión",
+   "El acto es válido y puede pagarse sin más",
+   "El expediente se archiva automáticamente"
+  ],
+  "correcta": 1,
+  "cita": "en las disposiciones aplicables, la función interventora fuera preceptiva y se hubiese omitido, no se podrá reconocer la obligación, ni tramitar el pago, ni intervenir favorablemente estas actuaciones hasta que se subsane dicha omisión en los términos previstos en este artículo."
+ },
+ {
+  "n": 10124,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a156",
+  "pregunta": "El acuerdo favorable del Consejo de Ministros en un supuesto de omisión de fiscalización:",
+  "opciones": [
+   "Requiere ratificación de las Cortes",
+   "Solo es posible para gastos inferiores a 12 millones de euros",
+   "No exime de la exigencia de las responsabilidades a que hubiera lugar",
+   "Exime de cualquier responsabilidad"
+  ],
+  "correcta": 2,
+  "cita": "El acuerdo favorable del Consejo de Ministros no eximirá de la exigencia de las responsabilidades a que, en su caso, hubiera lugar."
+ },
+ {
+  "n": 10125,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a157",
+  "pregunta": "El control financiero permanente se realiza:",
+  "opciones": [
+   "Solo a solicitud del órgano controlado",
+   "De forma continua, a través de la correspondiente intervención delegada",
+   "Antes de la aprobación de cada gasto",
+   "Una vez al año por el Tribunal de Cuentas"
+  ],
+  "correcta": 1,
+  "cita": "permanente se ejercerá en los órganos y entidades establecidos en el artículo siguiente y tendrá por objeto la verificación de una forma continua realizada a través de la correspondiente intervención delegada, de la situación y el funcionamiento de las entidades del sector público estatal en el aspecto"
+ }
+]
