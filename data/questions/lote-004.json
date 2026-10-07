@@ -1,0 +1,1762 @@
+[
+ {
+  "n": 4001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a2",
+  "pregunta": "Según el artículo 2.2, ¿cuál de los siguientes NO integra el sector público institucional?",
+  "opciones": [
+   "Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas",
+   "Las Universidades públicas",
+   "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas",
+   "Las Entidades que integran la Administración Local"
+  ],
+  "correcta": 3,
+  "cita": "El sector público institucional se integra por: a) Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas. b) Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, en particular a los principios previstos en el artículo 3, y en todo caso, cuando ejerzan potestades administrativas. c) Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente"
+ },
+ {
+  "n": 4002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a2",
+  "pregunta": "¿Cuál de las siguientes entidades NO tiene la consideración de Administración Pública según el artículo 2.3?",
+  "opciones": [
+   "La Administración General del Estado",
+   "Las Entidades que integran la Administración Local",
+   "Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas",
+   "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas"
+  ],
+  "correcta": 3,
+  "cita": "Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, así como los organismos públicos y entidades de derecho público previstos en la letra a) del apartado 2."
+ },
+ {
+  "n": 4003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a2",
+  "pregunta": "Según el artículo 2.2.c), las Universidades públicas se rigen:",
+  "opciones": [
+   "Por la legislación de contratos del sector público",
+   "Por su normativa específica y supletoriamente por las previsiones de la Ley 40/2015",
+   "Exclusivamente por la Ley 40/2015",
+   "Exclusivamente por el Derecho privado"
+  ],
+  "correcta": 1,
+  "cita": "c) Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente Ley."
+ },
+ {
+  "n": 4004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a3",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios que las Administraciones Públicas deben respetar en su actuación y relaciones según el artículo 3.1?",
+  "opciones": [
+   "Buena fe, confianza legítima y lealtad institucional",
+   "Responsabilidad por la gestión pública",
+   "Simplicidad, claridad y proximidad a los ciudadanos",
+   "Seguridad jurídica"
+  ],
+  "correcta": 3,
+  "cita": "Deberán respetar en su actuación y relaciones los siguientes principios: a) Servicio efectivo a los ciudadanos. b) Simplicidad, claridad y proximidad a los ciudadanos. c) Participación, objetividad y transparencia de la actuación administrativa. d) Racionalización y agilidad de los procedimientos administrativos y de las actividades materiales de gestión. e) Buena fe, confianza legítima y lealtad institucional. f) Responsabilidad por la gestión pública. g) Planificación y dirección por objetivos y control de la gestión y evaluación de los resultados de las políticas públicas. h) Eficacia en el cumplimiento de los objetivos fijados. i) Economía, suficiencia y adecuación estricta de los medios a los fines institucionales. j) Eficiencia en la asignación y utilización de los recursos públicos. k) Cooperación, colaboración y coordinación entre las Administraciones Públicas."
+ },
+ {
+  "n": 4005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a3",
+  "pregunta": "Según el artículo 3.4, cada una de las Administraciones Públicas actúa para el cumplimiento de sus fines con:",
+  "opciones": [
+   "Personalidad jurídica única",
+   "Autonomía financiera plena",
+   "Personalidad jurídica propia de cada uno de sus órganos",
+   "Personalidad jurídica múltiple"
+  ],
+  "correcta": 0,
+  "cita": "Cada una de las Administraciones Públicas del artículo 2 actúa para el cumplimiento de sus fines con personalidad jurídica única."
+ },
+ {
+  "n": 4006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a3",
+  "pregunta": "Según el artículo 3.2, las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos públicos y entidades vinculados o dependientes a través de:",
+  "opciones": [
+   "Medios electrónicos o en papel, a su elección",
+   "Correo postal certificado",
+   "Medios electrónicos",
+   "Correo ordinario, salvo urgencia"
+  ],
+  "correcta": 2,
+  "cita": "relacionarán entre sí y con sus órganos, organismos públicos y entidades vinculados o dependientes a través de medios electrónicos, que aseguren la interoperabilidad y seguridad de los sistemas y soluciones adoptadas por cada una de ellas, garantizarán la"
+ },
+ {
+  "n": 4007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a4",
+  "pregunta": "Según el artículo 4.1, las Administraciones Públicas que establezcan medidas que limiten el ejercicio de derechos deberán aplicar el principio de proporcionalidad y elegir:",
+  "opciones": [
+   "La medida que determine el órgano superior",
+   "La medida menos restrictiva",
+   "La medida de menor coste económico",
+   "La medida más eficaz"
+  ],
+  "correcta": 1,
+  "cita": "o colectivos o exijan el cumplimiento de requisitos para el desarrollo de una actividad, deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público así como justificar su adecuación"
+ },
+ {
+  "n": 4008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a5",
+  "pregunta": "Según el artículo 5.1, son órganos administrativos las unidades administrativas a las que se atribuyan funciones que tengan efectos jurídicos frente a terceros, o:",
+  "opciones": [
+   "Que estén integradas por tres o más personas",
+   "Que dispongan de presupuesto propio",
+   "Cuya actuación tenga carácter preceptivo",
+   "Cuyo titular tenga rango de Director general"
+  ],
+  "correcta": 2,
+  "cita": "Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo."
+ },
+ {
+  "n": 4009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a5",
+  "pregunta": "¿Cuál de los siguientes NO es un requisito mínimo para la creación de un órgano administrativo según el artículo 5.3?",
+  "opciones": [
+   "El informe favorable del Consejo de Estado",
+   "La determinación de su forma de integración en la Administración Pública y su dependencia jerárquica",
+   "La delimitación de sus funciones y competencias",
+   "La dotación de los créditos necesarios para su puesta en marcha y funcionamiento"
+  ],
+  "correcta": 0,
+  "cita": "La creación de cualquier órgano administrativo exigirá, al menos, el cumplimiento de los siguientes requisitos: a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica. b) Delimitación de sus funciones y competencias. c) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento."
+ },
+ {
+  "n": 4010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a5",
+  "pregunta": "Según el artículo 5.4, no podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si al mismo tiempo no:",
+  "opciones": [
+   "Se informa a las Cortes Generales",
+   "Se obtiene autorización del Consejo de Ministros",
+   "Se suprime o restringe debidamente la competencia de estos",
+   "Se publica la creación en el «Boletín Oficial del Estado»"
+  ],
+  "correcta": 2,
+  "cita": "No podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si al mismo tiempo no se suprime o restringe debidamente la competencia de estos."
+ },
+ {
+  "n": 4011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a6",
+  "pregunta": "¿Mediante qué pueden los órganos administrativos dirigir las actividades de sus órganos jerárquicamente dependientes?",
+  "opciones": [
+   "Mediante reales decretos",
+   "Mediante instrucciones y órdenes de servicio",
+   "Mediante convenios",
+   "Mediante encomiendas de gestión"
+  ],
+  "correcta": 1,
+  "cita": "Los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio."
+ },
+ {
+  "n": 4012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a6",
+  "pregunta": "Según el artículo 6.2, el incumplimiento de las instrucciones u órdenes de servicio:",
+  "opciones": [
+   "No puede dar lugar a responsabilidad disciplinaria",
+   "No afecta por sí solo a la validez de los actos dictados, sin perjuicio de la responsabilidad disciplinaria",
+   "Determina la anulabilidad de los actos dictados",
+   "Determina la nulidad de pleno derecho de los actos dictados"
+  ],
+  "correcta": 1,
+  "cita": "El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir."
+ },
+ {
+  "n": 4013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a8",
+  "pregunta": "Según el artículo 8.1, la competencia es:",
+  "opciones": [
+   "Libremente transferible a cualquier órgano",
+   "Renunciable, con autorización del superior jerárquico",
+   "Irrenunciable",
+   "Delegable en todo caso"
+  ],
+  "correcta": 2,
+  "cita": "La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en ésta u otras leyes."
+ },
+ {
+  "n": 4014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a8",
+  "pregunta": "Según el artículo 8, ¿cuál de las siguientes figuras puede afectar a la titularidad de la competencia, y no solo a su ejercicio?",
+  "opciones": [
+   "La delegación de competencias",
+   "La desconcentración",
+   "La encomienda de gestión",
+   "La delegación de firma"
+  ],
+  "correcta": 1,
+  "cita": "La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén. 2. La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean"
+ },
+ {
+  "n": 4015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a8",
+  "pregunta": "Si una disposición atribuye la competencia a una Administración sin especificar el órgano que debe ejercerla, la facultad de instruir y resolver corresponde a:",
+  "opciones": [
+   "El órgano superior de esa Administración",
+   "El titular del Departamento ministerial",
+   "Los órganos inferiores competentes por razón de la materia y del territorio",
+   "El órgano que designe el Consejo de Ministros"
+  ],
+  "correcta": 2,
+  "cita": "Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y del territorio."
+ },
+ {
+  "n": 4016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a9",
+  "pregunta": "Según el artículo 9.2, ¿cuál de las siguientes competencias figura entre las que en ningún caso pueden ser objeto de delegación?",
+  "opciones": [
+   "La contratación de suministros",
+   "La adopción de disposiciones de carácter general",
+   "La firma de convenios con particulares",
+   "La resolución de procedimientos sancionadores"
+  ],
+  "correcta": 1,
+  "cita": "b) La adopción de disposiciones de carácter general."
+ },
+ {
+  "n": 4017,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a9",
+  "pregunta": "Según el artículo 9.2.c), no puede delegarse la resolución de recursos:",
+  "opciones": [
+   "En los órganos superiores jerárquicos",
+   "En ningún otro órgano de la misma Administración",
+   "En los organismos públicos vinculados",
+   "En los órganos administrativos que hayan dictado los actos objeto de recurso"
+  ],
+  "correcta": 3,
+  "cita": "c) La resolución de recursos en los órganos administrativos que hayan dictado los actos objeto de recurso."
+ },
+ {
+  "n": 4018,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a9",
+  "pregunta": "Las delegaciones de competencias y su revocación:",
+  "opciones": [
+   "Deben ser autorizadas por el Consejo de Estado",
+   "No requieren publicación para su validez",
+   "Solo deben notificarse a los interesados",
+   "Deberán publicarse en el boletín oficial que corresponda según la Administración a que pertenezca el órgano delegante"
+  ],
+  "correcta": 3,
+  "cita": "Las delegaciones de competencias y su revocación deberán publicarse en el «Boletín Oficial del Estado», en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante, y el ámbito territorial de competencia de éste."
+ },
+ {
+  "n": 4019,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a9",
+  "pregunta": "Las resoluciones administrativas que se adopten por delegación se considerarán dictadas por:",
+  "opciones": [
+   "El órgano delegado",
+   "Ambos órganos conjuntamente",
+   "El órgano delegante",
+   "El superior jerárquico común"
+  ],
+  "correcta": 2,
+  "cita": "Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante."
+ },
+ {
+  "n": 4020,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a9",
+  "pregunta": "Salvo autorización expresa de una Ley, ¿pueden delegarse las competencias que se ejerzan por delegación?",
+  "opciones": [
+   "Sí, si el nuevo delegado es jerárquicamente dependiente",
+   "Sí, siempre que se publique en el boletín oficial",
+   "Sí, con autorización del órgano delegante",
+   "No"
+  ],
+  "correcta": 3,
+  "cita": "Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación."
+ },
+ {
+  "n": 4021,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a9",
+  "pregunta": "La delegación de competencias será revocable:",
+  "opciones": [
+   "Solo con el consentimiento del órgano delegado",
+   "Solo por el superior jerárquico del órgano delegante",
+   "En cualquier momento por el órgano que la haya conferido",
+   "Solo transcurrido un año desde su otorgamiento"
+  ],
+  "correcta": 2,
+  "cita": "La delegación será revocable en cualquier momento por el órgano que la haya conferido."
+ },
+ {
+  "n": 4022,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a9",
+  "pregunta": "El acuerdo de delegación de competencias atribuidas a órganos colegiados, para cuyo ejercicio se requiera un quórum o mayoría especial:",
+  "opciones": [
+   "Requiere unanimidad",
+   "Puede adoptarse por mayoría simple",
+   "Deberá adoptarse observando, en todo caso, dicho quórum o mayoría",
+   "Está prohibido"
+  ],
+  "correcta": 2,
+  "cita": "El acuerdo de delegación de aquellas competencias atribuidas a órganos colegiados, para cuyo ejercicio se requiera un quórum o mayoría especial, deberá adoptarse observando, en todo caso, dicho quórum o mayoría."
+ },
+ {
+  "n": 4023,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a10",
+  "pregunta": "Contra el acuerdo de avocación:",
+  "opciones": [
+   "No cabe recurso, aunque podrá impugnarse en el que se interponga contra la resolución del procedimiento",
+   "Cabe recurso de alzada",
+   "Cabe recurso contencioso-administrativo directo e independiente",
+   "Cabe recurso potestativo de reposición"
+  ],
+  "correcta": 0,
+  "cita": "Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento."
+ },
+ {
+  "n": 4024,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a10",
+  "pregunta": "En los supuestos de delegación de competencias en órganos no dependientes jerárquicamente, ¿quién puede avocar el conocimiento de un asunto?",
+  "opciones": [
+   "Cualquier órgano superior",
+   "El superior jerárquico común",
+   "El órgano delegado",
+   "Únicamente el órgano delegante"
+  ],
+  "correcta": 3,
+  "cita": "En los supuestos de delegación de competencias en órganos no dependientes jerárquicamente, el conocimiento de un asunto podrá ser avocado únicamente por el órgano delegante."
+ },
+ {
+  "n": 4025,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a10",
+  "pregunta": "El acuerdo motivado de avocación deberá notificarse a los interesados en el procedimiento, si los hubiere:",
+  "opciones": [
+   "Solo si lo solicitan expresamente",
+   "En el plazo de diez días desde su adopción",
+   "Con posterioridad a la resolución final",
+   "Con anterioridad o simultáneamente a la resolución final que se dicte"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso, la avocación se realizará mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, si los hubiere, con anterioridad o simultáneamente a la resolución final que se dicte."
+ },
+ {
+  "n": 4026,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a11",
+  "pregunta": "La encomienda de gestión tiene por objeto la realización de actividades de carácter:",
+  "opciones": [
+   "Sancionador",
+   "Jurisdiccional",
+   "Material o técnico",
+   "Normativo"
+  ],
+  "correcta": 2,
+  "cita": "La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser"
+ },
+ {
+  "n": 4027,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a11",
+  "pregunta": "Según el artículo 11.2, la encomienda de gestión:",
+  "opciones": [
+   "Traslada al órgano encomendado la responsabilidad de dictar los actos jurídicos que le den soporte",
+   "Puede tener por objeto prestaciones propias de los contratos",
+   "Supone la cesión de la titularidad de la competencia",
+   "No supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio"
+  ],
+  "correcta": 3,
+  "cita": "La encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo responsabilidad del órgano o Entidad encomendante dictar cuantos actos o resoluciones de"
+ },
+ {
+  "n": 4028,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a11",
+  "pregunta": "En una encomienda de gestión, el órgano o entidad encomendado tendrá, respecto de los datos personales a los que pueda acceder, la condición de:",
+  "opciones": [
+   "Responsable del tratamiento",
+   "Delegado de protección de datos",
+   "Corresponsable del tratamiento",
+   "Encargado del tratamiento"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso, la Entidad u órgano encomendado tendrá la condición de encargado del tratamiento de los datos de carácter personal a los que pudiera tener acceso en ejecución de la encomienda de gestión, siéndole de aplicación lo dispuesto en la normativa de protección de datos de carácter personal."
+ },
+ {
+  "n": 4029,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a11",
+  "pregunta": "La encomienda de gestión entre órganos y Entidades de Derecho Público de distintas Administraciones se formalizará mediante:",
+  "opciones": [
+   "Acuerdo del Consejo de Ministros",
+   "La firma del correspondiente convenio entre ellas",
+   "Orden ministerial conjunta",
+   "Resolución unilateral del órgano encomendante"
+  ],
+  "correcta": 1,
+  "cita": "de gestión se realice entre órganos y Entidades de Derecho Público de distintas Administraciones se formalizará mediante firma del correspondiente convenio entre ellas, que deberá ser publicado en el «Boletín Oficial del Estado», en el Boletín oficial de la"
+ },
+ {
+  "n": 4030,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a12",
+  "pregunta": "Para su validez, la delegación de firma:",
+  "opciones": [
+   "Requiere la aprobación previa del órgano ministerial",
+   "No necesita publicación",
+   "Debe publicarse en el «Boletín Oficial del Estado»",
+   "Debe notificarse a todos los interesados"
+  ],
+  "correcta": 1,
+  "cita": "La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación."
+ },
+ {
+  "n": 4031,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a13",
+  "pregunta": "Si no se designa suplente, la competencia del órgano administrativo se ejercerá por:",
+  "opciones": [
+   "El funcionario de mayor antigüedad del órgano",
+   "Quien designe el órgano administrativo inmediato superior de quien dependa",
+   "El órgano inferior jerárquico",
+   "El Subsecretario del Departamento"
+  ],
+  "correcta": 1,
+  "cita": "Si no se designa suplente, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato superior de quien dependa."
+ },
+ {
+  "n": 4032,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a13",
+  "pregunta": "¿En qué supuestos pueden ser suplidos temporalmente los titulares de los órganos administrativos?",
+  "opciones": [
+   "Solo en caso de vacante",
+   "Solo en caso de enfermedad",
+   "Cuando lo solicite cualquier interesado en el procedimiento",
+   "Vacante, ausencia o enfermedad, y cuando haya sido declarada su abstención o recusación"
+  ],
+  "correcta": 3,
+  "cita": "En la forma que disponga cada Administración Pública, los titulares de los órganos administrativos podrán ser suplidos temporalmente en los supuestos de vacante, ausencia o enfermedad, así como en los casos en que haya sido declarada su abstención o recusación."
+ },
+ {
+  "n": 4033,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a14",
+  "pregunta": "Los conflictos de atribuciones sólo podrán suscitarse entre:",
+  "opciones": [
+   "Órganos de una misma Administración no relacionados jerárquicamente",
+   "Órganos de distintas Administraciones Públicas",
+   "Órganos de una misma Administración relacionados jerárquicamente",
+   "Cualesquiera órganos, aunque haya finalizado el procedimiento"
+  ],
+  "correcta": 0,
+  "cita": "Los conflictos de atribuciones sólo podrán suscitarse entre órganos de una misma Administración no relacionados jerárquicamente, y respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo."
+ },
+ {
+  "n": 4034,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a14",
+  "pregunta": "El órgano administrativo que se estime incompetente para la resolución de un asunto:",
+  "opciones": [
+   "Remitirá directamente las actuaciones al órgano que considere competente, notificándolo a los interesados",
+   "Planteará un conflicto ante el Consejo de Estado",
+   "Archivará el expediente",
+   "Devolverá la solicitud al interesado para que la presente ante el órgano competente"
+  ],
+  "correcta": 0,
+  "cita": "El órgano administrativo que se estime incompetente para la resolución de un asunto remitirá directamente las actuaciones al órgano que considere competente, debiendo notificar esta circunstancia a los interesados."
+ },
+ {
+  "n": 4035,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a16",
+  "pregunta": "En los órganos colegiados, ¿a quién corresponde velar por la legalidad formal y material de sus actuaciones?",
+  "opciones": [
+   "Al Secretario",
+   "Al miembro de mayor antigüedad",
+   "Al Presidente",
+   "Al Vicepresidente"
+  ],
+  "correcta": 0,
+  "cita": "Corresponderá al Secretario velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones del mismo y garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas."
+ },
+ {
+  "n": 4036,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a17",
+  "pregunta": "Para la válida constitución de un órgano colegiado se requiere la asistencia, presencial o a distancia, del Presidente y del Secretario, o de quienes les suplan, y de:",
+  "opciones": [
+   "La mitad, al menos, de sus miembros",
+   "Un tercio de sus miembros",
+   "Todos sus miembros",
+   "Dos tercios de sus miembros"
+  ],
+  "correcta": 0,
+  "cita": "Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros."
+ },
+ {
+  "n": 4037,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a17",
+  "pregunta": "¿Puede ser objeto de deliberación o acuerdo de un órgano colegiado un asunto que no figure en el orden del día?",
+  "opciones": [
+   "Nunca",
+   "Sí, siempre que lo decida el Presidente",
+   "Sí, si lo solicita un tercio de los miembros",
+   "Solo si asisten todos los miembros y se declara la urgencia del asunto por el voto favorable de la mayoría"
+  ],
+  "correcta": 3,
+  "cita": "No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría."
+ },
+ {
+  "n": 4038,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a17",
+  "pregunta": "Los acuerdos de los órganos colegiados serán adoptados por:",
+  "opciones": [
+   "Unanimidad",
+   "Mayoría de votos",
+   "Mayoría de tres quintos",
+   "Mayoría de dos tercios"
+  ],
+  "correcta": 1,
+  "cita": "Los acuerdos serán adoptados por mayoría de votos."
+ },
+ {
+  "n": 4039,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a17",
+  "pregunta": "Cuando se asista a distancia, los acuerdos del órgano colegiado se entenderán adoptados:",
+  "opciones": [
+   "En la sede del Ministerio de adscripción",
+   "En el lugar donde se encuentre la mayoría de los miembros",
+   "En el lugar donde se encuentre el Secretario",
+   "En el lugar donde tenga la sede el órgano colegiado y, en su defecto, donde esté ubicada la presidencia"
+  ],
+  "correcta": 3,
+  "cita": "Cuando se asista a distancia, los acuerdos se entenderán adoptados en el lugar donde tenga la sede el órgano colegiado y, en su defecto, donde esté ubicada la presidencia."
+ },
+ {
+  "n": 4040,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a17",
+  "pregunta": "Los miembros de un órgano colegiado que voten en contra o se abstengan:",
+  "opciones": [
+   "Perderán su condición de miembros",
+   "Deberán formular obligatoriamente voto particular",
+   "Quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos",
+   "Responderán solidariamente de los acuerdos adoptados"
+  ],
+  "correcta": 2,
+  "cita": "Cuando los miembros del órgano voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos."
+ },
+ {
+  "n": 4041,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a18",
+  "pregunta": "¿Quién levanta el acta de cada sesión que celebre el órgano colegiado?",
+  "opciones": [
+   "El Presidente",
+   "El Secretario",
+   "El miembro de menor edad",
+   "El Vicepresidente"
+  ],
+  "correcta": 1,
+  "cita": "De cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados."
+ },
+ {
+  "n": 4042,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a18",
+  "pregunta": "El acta de cada sesión del órgano colegiado podrá aprobarse:",
+  "opciones": [
+   "Solo en la misma reunión",
+   "En la misma reunión o en la inmediata siguiente",
+   "Solo en la reunión inmediata siguiente",
+   "En el plazo máximo de un mes"
+  ],
+  "correcta": 1,
+  "cita": "El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente."
+ },
+ {
+  "n": 4043,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a19",
+  "pregunta": "Antelación mínima con la que los miembros de los órganos colegiados de la Administración General del Estado deben recibir la convocatoria con el orden del día",
+  "opciones": [
+   "1 día",
+   "5 días",
+   "2 días",
+   "3 días"
+  ],
+  "correcta": 2,
+  "cita": "Los miembros del órgano colegiado deberán: a) Recibir, con una antelación mínima de dos días, la convocatoria conteniendo el orden del día de las reuniones."
+ },
+ {
+  "n": 4044,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a19",
+  "pregunta": "En los órganos colegiados de la Administración General del Estado, ¿a quién corresponde dirimir con su voto los empates?",
+  "opciones": [
+   "Al Secretario",
+   "Al Vicepresidente",
+   "Al Presidente",
+   "Al miembro de mayor antigüedad"
+  ],
+  "correcta": 2,
+  "cita": "d) Dirimir con su voto los empates, a efectos de adoptar acuerdos, excepto si se trata de los órganos colegiados a que se refiere el artículo 15.2, en los que el voto será dirimente si así lo establecen sus propias normas."
+ },
+ {
+  "n": 4045,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a19",
+  "pregunta": "En caso de vacante, ausencia o enfermedad, el Presidente de un órgano colegiado de la Administración General del Estado será sustituido por el Vicepresidente que corresponda y, en su defecto, por:",
+  "opciones": [
+   "El miembro de menor edad",
+   "El Secretario del órgano",
+   "El miembro de mayor jerarquía, antigüedad y edad, por este orden",
+   "El miembro que designe el Ministro"
+  ],
+  "correcta": 2,
+  "cita": "En casos de vacante, ausencia, enfermedad, u otra causa legal, el Presidente será sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden."
+ },
+ {
+  "n": 4046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a19",
+  "pregunta": "El Secretario de un órgano colegiado de la Administración General del Estado que no sea miembro del mismo asiste a las reuniones:",
+  "opciones": [
+   "Con voz pero sin voto",
+   "Sin voz ni voto",
+   "Con voz y voto",
+   "Con voto pero sin voz"
+  ],
+  "correcta": 0,
+  "cita": "Corresponde al Secretario del órgano colegiado: a) Asistir a las reuniones con voz pero sin voto, y con voz y voto si la Secretaría del órgano la ostenta un miembro del mismo."
+ },
+ {
+  "n": 4047,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a19",
+  "pregunta": "Formulación por escrito del voto particular por los miembros que discrepen del acuerdo mayoritario (órganos colegiados de la Administración General del Estado)",
+  "opciones": [
+   "10 días",
+   "2 días",
+   "3 días",
+   "5 días"
+  ],
+  "correcta": 1,
+  "cita": "Los miembros que discrepen del acuerdo mayoritario podrán formular voto particular por escrito en el plazo de dos días, que se incorporará al texto aprobado."
+ },
+ {
+  "n": 4048,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a19",
+  "pregunta": "¿Quiénes no podrán abstenerse en las votaciones de los órganos colegiados de la Administración General del Estado?",
+  "opciones": [
+   "Las autoridades o personal al servicio de las Administraciones Públicas que sean miembros natos en virtud del cargo que desempeñan",
+   "Los representantes de organizaciones representativas de intereses sociales",
+   "Los miembros designados por su experiencia o conocimientos",
+   "Ningún miembro, pues todos pueden abstenerse"
+  ],
+  "correcta": 0,
+  "cita": "No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas, tengan la condición de miembros natos de órganos colegiados, en virtud del cargo que desempeñan."
+ },
+ {
+  "n": 4049,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a20",
+  "pregunta": "Según el artículo 20.1, los órganos colegiados de la Administración General del Estado están integrados por:",
+  "opciones": [
+   "Dos o más personas",
+   "Cinco o más personas",
+   "Siete o más personas",
+   "Tres o más personas"
+  ],
+  "correcta": 3,
+  "cita": "Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control, y que actúen integrados en la Administración General del Estado o alguno de sus Organismos públicos."
+ },
+ {
+  "n": 4050,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a21",
+  "pregunta": "¿Cómo se denomina el órgano colegiado de la Administración General del Estado cuyos miembros proceden de diferentes Ministerios?",
+  "opciones": [
+   "Órgano colegiado ministerial",
+   "Grupo o comisión de trabajo",
+   "Órgano colegiado interministerial",
+   "Órgano colegiado interadministrativo"
+  ],
+  "correcta": 2,
+  "cita": "Los órganos colegiados de la Administración General del Estado y de sus Organismos públicos, por su composición, se clasifican en: a) Órganos colegiados interministeriales, si sus miembros proceden de diferentes Ministerios."
+ },
+ {
+  "n": 4051,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a22",
+  "pregunta": "La norma de creación de un órgano colegiado interministerial con competencias decisorias cuyo Presidente tenga rango superior al de Director general debe revestir la forma de:",
+  "opciones": [
+   "Orden ministerial",
+   "Orden ministerial conjunta",
+   "Real Decreto",
+   "Resolución del Subsecretario"
+  ],
+  "correcta": 2,
+  "cita": "En los supuestos enunciados en el apartado anterior, la norma de creación deberá revestir la forma de Real Decreto en el caso de los órganos colegiados interministeriales cuyo Presidente tenga rango superior al de Director general;"
+ },
+ {
+  "n": 4052,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a22",
+  "pregunta": "Respecto de los grupos o comisiones de trabajo de la Administración General del Estado, el artículo 22.3 establece que:",
+  "opciones": [
+   "Pueden tener competencias decisorias",
+   "Requieren norma específica publicada en el «Boletín Oficial del Estado»",
+   "Sus acuerdos no podrán tener efectos directos frente a terceros",
+   "Solo pueden crearse por Real Decreto"
+  ],
+  "correcta": 2,
+  "cita": "Sus acuerdos no podrán tener efectos directos frente a terceros."
+ },
+ {
+  "n": 4053,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a23",
+  "pregunta": "¿Cuál de los siguientes es motivo de abstención según el artículo 23.2?",
+  "opciones": [
+   "Haber coincidido con un interesado en una actividad formativa",
+   "Tener parentesco de consanguinidad dentro del cuarto grado con cualquiera de los interesados",
+   "Tener parentesco de afinidad dentro del tercer grado con cualquiera de los interesados",
+   "Tener parentesco de consanguinidad dentro del quinto grado con cualquiera de los interesados"
+  ],
+  "correcta": 1,
+  "cita": "b) Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas"
+ },
+ {
+  "n": 4054,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a23",
+  "pregunta": "¿Hasta qué grado de parentesco por afinidad con cualquiera de los interesados es motivo de abstención?",
+  "opciones": [
+   "Dentro del tercer grado",
+   "Dentro del segundo grado",
+   "Dentro del cuarto grado",
+   "Dentro del primer grado"
+  ],
+  "correcta": 1,
+  "cita": "b) Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores,"
+ },
+ {
+  "n": 4055,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a23",
+  "pregunta": "Haber prestado servicios profesionales a una persona interesada directamente en el asunto es motivo de abstención si se han prestado en:",
+  "opciones": [
+   "Los tres últimos años",
+   "Los dos últimos años",
+   "Los cinco últimos años",
+   "El último año"
+  ],
+  "correcta": 1,
+  "cita": "e) Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto, o haberle prestado en los dos últimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar."
+ },
+ {
+  "n": 4056,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a23",
+  "pregunta": "Quien se encuentre en un motivo de abstención se abstendrá de intervenir en el procedimiento y lo comunicará a:",
+  "opciones": [
+   "El Secretario del órgano colegiado",
+   "Los interesados en el procedimiento",
+   "La Oficina de Conflictos de Intereses",
+   "Su superior inmediato, quien resolverá lo procedente"
+  ],
+  "correcta": 3,
+  "cita": "Las autoridades y el personal al servicio de las Administraciones en quienes se den algunas de las circunstancias señaladas en el apartado siguiente se abstendrán de intervenir en el procedimiento y lo comunicarán a su superior inmediato, quien resolverá lo procedente."
+ },
+ {
+  "n": 4057,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a23",
+  "pregunta": "La actuación de autoridades y personal en quienes concurran motivos de abstención:",
+  "opciones": [
+   "No da lugar a responsabilidad alguna",
+   "No implicará, necesariamente y en todo caso, la invalidez de los actos en que hayan intervenido",
+   "Determina siempre la anulabilidad de los actos",
+   "Determina siempre la nulidad de pleno derecho de los actos"
+  ],
+  "correcta": 1,
+  "cita": "La actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención no implicará, necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido."
+ },
+ {
+  "n": 4058,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a24",
+  "pregunta": "¿En qué momento pueden los interesados promover la recusación?",
+  "opciones": [
+   "Solo en el trámite de audiencia",
+   "Dentro de los diez días siguientes al inicio del procedimiento",
+   "En cualquier momento de la tramitación del procedimiento",
+   "Solo antes de la propuesta de resolución"
+  ],
+  "correcta": 2,
+  "cita": "En los casos previstos en el artículo anterior, podrá promoverse recusación por los interesados en cualquier momento de la tramitación del procedimiento."
+ },
+ {
+  "n": 4059,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a24",
+  "pregunta": "Manifestación del recusado a su inmediato superior sobre si se da o no en él la causa alegada",
+  "opciones": [
+   "En el día siguiente",
+   "En los 5 días siguientes",
+   "En los 3 días siguientes",
+   "En los 10 días siguientes"
+  ],
+  "correcta": 0,
+  "cita": "En el día siguiente el recusado manifestará a su inmediato superior si se da o no en él la causa alegada."
+ },
+ {
+  "n": 4060,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a24",
+  "pregunta": "Resolución del superior cuando el recusado niega la causa de recusación",
+  "opciones": [
+   "1 día",
+   "3 días",
+   "5 días",
+   "10 días"
+  ],
+  "correcta": 1,
+  "cita": "Si el recusado niega la causa de recusación, el superior resolverá en el plazo de tres días, previos los informes y comprobaciones que considere oportunos."
+ },
+ {
+  "n": 4061,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a24",
+  "pregunta": "Contra las resoluciones adoptadas en materia de recusación:",
+  "opciones": [
+   "No cabe recurso, sin perjuicio de alegar la recusación al recurrir el acto que ponga fin al procedimiento",
+   "Cabe recurso potestativo de reposición",
+   "Cabe recurso extraordinario de revisión",
+   "Cabe recurso de alzada"
+  ],
+  "correcta": 0,
+  "cita": "Contra las resoluciones adoptadas en esta materia no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento."
+ },
+ {
+  "n": 4062,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a25",
+  "pregunta": "La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por:",
+  "opciones": [
+   "Una norma con rango de Ley",
+   "Una orden ministerial",
+   "Un reglamento",
+   "Una instrucción u orden de servicio"
+  ],
+  "correcta": 0,
+  "cita": "La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio y de acuerdo con lo establecido en"
+ },
+ {
+  "n": 4063,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a25",
+  "pregunta": "Según el artículo 25.3, los principios de la potestad sancionadora son extensivos al ejercicio por las Administraciones Públicas de:",
+  "opciones": [
+   "Su potestad tributaria",
+   "Su potestad disciplinaria respecto del personal a su servicio",
+   "Sus facultades de dirección en los contratos del sector público",
+   "Su potestad expropiatoria"
+  ],
+  "correcta": 1,
+  "cita": "Las disposiciones de este Capítulo serán extensivas al ejercicio por las Administraciones Públicas de su potestad disciplinaria respecto del personal a su servicio, cualquiera que sea la naturaleza jurídica de la relación de empleo."
+ },
+ {
+  "n": 4064,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a25",
+  "pregunta": "Los principios de la potestad sancionadora NO se aplican respecto de quienes estén vinculados a las Administraciones por relaciones reguladas por:",
+  "opciones": [
+   "La legislación tributaria",
+   "La legislación de función pública",
+   "La legislación de contratos del sector público o la legislación patrimonial de las Administraciones Públicas",
+   "La legislación de tráfico"
+  ],
+  "correcta": 2,
+  "cita": "Las disposiciones de este capítulo no serán de aplicación al ejercicio por las Administraciones Públicas de la potestad sancionadora respecto de quienes estén vinculados a ellas por relaciones reguladas por la legislación de contratos del sector público o por la legislación patrimonial de las Administraciones Públicas."
+ },
+ {
+  "n": 4065,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a26",
+  "pregunta": "Las disposiciones sancionadoras producirán efecto retroactivo:",
+  "opciones": [
+   "En ningún caso",
+   "Siempre",
+   "Solo cuando lo acuerde el órgano sancionador",
+   "En cuanto favorezcan al presunto infractor o al infractor"
+  ],
+  "correcta": 3,
+  "cita": "Las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor, tanto en lo referido a la tipificación de la infracción como a la sanción y a sus"
+ },
+ {
+  "n": 4066,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a27",
+  "pregunta": "Las infracciones administrativas se clasificarán por la Ley en:",
+  "opciones": [
+   "Menos graves, graves y muy graves",
+   "Leves, graves y muy graves",
+   "Leves y graves",
+   "Leves, menos graves y graves"
+  ],
+  "correcta": 1,
+  "cita": "Las infracciones administrativas se clasificarán por la Ley en leves, graves y muy graves."
+ },
+ {
+  "n": 4067,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a27",
+  "pregunta": "Las normas definidoras de infracciones y sanciones:",
+  "opciones": [
+   "Podrán aplicarse por analogía si lo prevé un reglamento",
+   "Se interpretarán siempre de forma extensiva",
+   "Podrán aplicarse por analogía si favorecen al infractor",
+   "No serán susceptibles de aplicación analógica"
+  ],
+  "correcta": 3,
+  "cita": "Las normas definidoras de infracciones y sanciones no serán susceptibles de aplicación analógica."
+ },
+ {
+  "n": 4068,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a28",
+  "pregunta": "Según el artículo 28.1, sólo pueden ser sancionados por infracciones administrativas quienes resulten responsables de las mismas a título de:",
+  "opciones": [
+   "Culpa grave exclusivamente",
+   "Responsabilidad objetiva, sin necesidad de culpa",
+   "Dolo exclusivamente",
+   "Dolo o culpa"
+  ],
+  "correcta": 3,
+  "cita": "las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos, que resulten responsables de los mismos a título de dolo o culpa."
+ },
+ {
+  "n": 4069,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a28",
+  "pregunta": "Cuando el cumplimiento de una obligación establecida por una norma con rango de Ley corresponda a varias personas conjuntamente, responderán de las infracciones y sanciones:",
+  "opciones": [
+   "De forma subsidiaria",
+   "De forma solidaria",
+   "Solo la persona con mayor grado de participación",
+   "De forma mancomunada"
+  ],
+  "correcta": 1,
+  "cita": "Cuando el cumplimiento de una obligación establecida por una norma con rango de Ley corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan."
+ },
+ {
+  "n": 4070,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a29",
+  "pregunta": "Como criterio de graduación de la sanción, la reincidencia exige la comisión, en el término de un año, de:",
+  "opciones": [
+   "Tres o más infracciones leves",
+   "Más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa",
+   "Más de una infracción de cualquier naturaleza, aunque no haya resolución firme",
+   "Una sola infracción de cualquier naturaleza"
+  ],
+  "correcta": 1,
+  "cita": "d) La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa."
+ },
+ {
+  "n": 4071,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a29",
+  "pregunta": "Cuando de la comisión de una infracción derive necesariamente la comisión de otra u otras:",
+  "opciones": [
+   "Se impondrá la sanción de la infracción menos grave",
+   "Se impondrá únicamente la sanción correspondiente a la infracción más grave cometida",
+   "Se impondrán todas las sanciones de forma acumulada",
+   "Se impondrá la sanción más grave incrementada en un grado"
+  ],
+  "correcta": 1,
+  "cita": "Cuando de la comisión de una infracción derive necesariamente la comisión de otra u otras, se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida."
+ },
+ {
+  "n": 4072,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a29",
+  "pregunta": "El establecimiento de sanciones pecuniarias deberá prever que la comisión de las infracciones tipificadas:",
+  "opciones": [
+   "Se sancione siempre en su grado máximo",
+   "No resulte más beneficiosa para el infractor que el cumplimiento de las normas infringidas",
+   "Se exija siempre por la vía de apremio",
+   "Se gradúe únicamente según la capacidad económica del infractor"
+  ],
+  "correcta": 1,
+  "cita": "El establecimiento de sanciones pecuniarias deberá prever que la comisión de las infracciones tipificadas no resulte más beneficioso para el infractor que el cumplimiento de las normas infringidas."
+ },
+ {
+  "n": 4073,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a29",
+  "pregunta": "La realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión, será sancionable como:",
+  "opciones": [
+   "Infracción permanente",
+   "Infracción muy grave en todo caso",
+   "Infracción continuada",
+   "Reincidencia"
+  ],
+  "correcta": 2,
+  "cita": "Será sancionable, como infracción continuada, la realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión."
+ },
+ {
+  "n": 4074,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a30",
+  "pregunta": "Prescripción de las infracciones muy graves, si las leyes que las establecen no fijan plazo",
+  "opciones": [
+   "5 años",
+   "4 años",
+   "3 años",
+   "2 años"
+  ],
+  "correcta": 2,
+  "cita": "Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 4075,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a30",
+  "pregunta": "Prescripción de las infracciones graves, si las leyes que las establecen no fijan plazo",
+  "opciones": [
+   "2 años",
+   "4 años",
+   "3 años",
+   "1 año"
+  ],
+  "correcta": 0,
+  "cita": "Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 4076,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a30",
+  "pregunta": "Prescripción de las infracciones leves, si las leyes que las establecen no fijan plazo",
+  "opciones": [
+   "3 meses",
+   "9 meses",
+   "1 mes",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 4077,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a30",
+  "pregunta": "Prescripción de las sanciones impuestas por faltas leves, si las leyes que las establecen no fijan plazo",
+  "opciones": [
+   "2 años",
+   "1 año",
+   "4 años",
+   "3 años"
+  ],
+  "correcta": 1,
+  "cita": "Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 4078,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a30",
+  "pregunta": "Prescripción de las sanciones impuestas por faltas graves, si las leyes que las establecen no fijan plazo",
+  "opciones": [
+   "4 años",
+   "2 años",
+   "3 años",
+   "1 año"
+  ],
+  "correcta": 1,
+  "cita": "Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 4079,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a30",
+  "pregunta": "En el caso de infracciones continuadas o permanentes, el plazo de prescripción comenzará a correr:",
+  "opciones": [
+   "Desde que la Administración tuvo conocimiento de la infracción",
+   "Desde que finalizó la conducta infractora",
+   "Desde la incoación del procedimiento sancionador",
+   "Desde el día en que se inició la conducta infractora"
+  ],
+  "correcta": 1,
+  "cita": "En el caso de infracciones continuadas o permanentes, el plazo comenzará a correr desde que finalizó la conducta infractora."
+ },
+ {
+  "n": 4080,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a30",
+  "pregunta": "Paralización del expediente sancionador, por causa no imputable al presunto responsable, que hace que se reinicie el plazo de prescripción de la infracción",
+  "opciones": [
+   "Más de 2 meses",
+   "Más de 6 meses",
+   "Más de 3 meses",
+   "Más de 1 mes"
+  ],
+  "correcta": 3,
+  "cita": "Interrumpirá la prescripción la iniciación, con conocimiento del interesado, de un procedimiento administrativo de naturaleza sancionadora, reiniciándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable."
+ },
+ {
+  "n": 4081,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a31",
+  "pregunta": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, en los casos en que se aprecie identidad de:",
+  "opciones": [
+   "Sujeto, hecho y fundamento",
+   "Sujeto y hecho",
+   "Sujeto, hecho y órgano sancionador",
+   "Hecho y fundamento"
+  ],
+  "correcta": 0,
+  "cita": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, en los casos en que se aprecie identidad del sujeto, hecho y fundamento."
+ },
+ {
+  "n": 4082,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a32",
+  "pregunta": "Según el artículo 32.2, para ser indemnizable el daño alegado habrá de ser:",
+  "opciones": [
+   "Evaluable económicamente y causado por un funcionamiento anormal",
+   "Individualizado y superior a la cuantía mínima fijada reglamentariamente",
+   "Efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas",
+   "Efectivo y reconocido por sentencia firme"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso, el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas."
+ },
+ {
+  "n": 4083,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a32",
+  "pregunta": "Según el artículo 32.1, los particulares tienen derecho a ser indemnizados por las lesiones que sean consecuencia del funcionamiento de los servicios públicos:",
+  "opciones": [
+   "Solo anormal",
+   "Normal o anormal, salvo fuerza mayor o daños que el particular tenga el deber jurídico de soportar",
+   "Normal o anormal, incluidos los casos de fuerza mayor",
+   "Solo anormal y cuando haya culpa del funcionario"
+  ],
+  "correcta": 1,
+  "cita": "de toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley."
+ },
+ {
+  "n": 4084,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a32",
+  "pregunta": "La anulación en vía administrativa o por el orden contencioso-administrativo de los actos o disposiciones administrativas:",
+  "opciones": [
+   "Da derecho a indemnización solo si el acto era nulo de pleno derecho",
+   "No presupone, por sí misma, derecho a la indemnización",
+   "Da derecho automáticamente a indemnización",
+   "Impide reclamar cualquier indemnización"
+  ],
+  "correcta": 1,
+  "cita": "La anulación en vía administrativa o por el orden jurisdiccional contencioso administrativo de los actos o disposiciones administrativas no presupone, por sí misma, derecho a la indemnización."
+ },
+ {
+  "n": 4085,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a33",
+  "pregunta": "Cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones se derive responsabilidad, las Administraciones intervinientes responden frente al particular:",
+  "opciones": [
+   "Solo la Administración competente por razón de la materia",
+   "De forma mancomunada",
+   "En proporción a su participación en la financiación",
+   "En todo caso, de forma solidaria"
+  ],
+  "correcta": 3,
+  "cita": "Cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones públicas se derive responsabilidad en los términos previstos en la presente Ley, las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria."
+ },
+ {
+  "n": 4086,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a33",
+  "pregunta": "Exposición de lo procedente por las restantes Administraciones implicadas, consultadas en un procedimiento de responsabilidad patrimonial concurrente",
+  "opciones": [
+   "30 días",
+   "20 días",
+   "15 días",
+   "10 días"
+  ],
+  "correcta": 2,
+  "cita": "Cuando se trate de procedimientos en materia de responsabilidad patrimonial, la Administración Pública competente a la que se refiere el apartado anterior, deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince días, éstas puedan exponer cuanto consideren procedente."
+ },
+ {
+  "n": 4087,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a34",
+  "pregunta": "No serán indemnizables los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según:",
+  "opciones": [
+   "La normativa vigente en el momento de la reclamación",
+   "La jurisprudencia del Tribunal Supremo",
+   "El criterio del órgano instructor",
+   "El estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción de aquéllos"
+  ],
+  "correcta": 3,
+  "cita": "los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción de aquéllos, todo ello sin perjuicio de las prestaciones"
+ },
+ {
+  "n": 4088,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a34",
+  "pregunta": "La cuantía de la indemnización por responsabilidad patrimonial se calculará con referencia al día:",
+  "opciones": [
+   "En que se dicte la resolución",
+   "En que se inició el procedimiento",
+   "En que la lesión efectivamente se produjo",
+   "En que se presentó la reclamación"
+  ],
+  "correcta": 2,
+  "cita": "La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de"
+ },
+ {
+  "n": 4089,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a34",
+  "pregunta": "La cuantía de la indemnización se actualizará a la fecha en que se ponga fin al procedimiento con arreglo a:",
+  "opciones": [
+   "El índice de referencia del mercado hipotecario",
+   "El interés legal del dinero",
+   "El Índice de Garantía de la Competitividad",
+   "El Índice de Precios de Consumo"
+  ],
+  "correcta": 2,
+  "cita": "perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad con arreglo al Índice de Garantía de la Competitividad, fijado por el Instituto Nacional de Estadística, y de los intereses que procedan por demora en el"
+ },
+ {
+  "n": 4090,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a34",
+  "pregunta": "La indemnización podrá sustituirse por una compensación en especie o abonarse mediante pagos periódicos:",
+  "opciones": [
+   "Cuando resulte más adecuado y convenga al interés público, siempre que exista acuerdo con el interesado",
+   "Por decisión unilateral de la Administración",
+   "Solo cuando la cuantía supere los 600.000 euros",
+   "En ningún caso"
+  ],
+  "correcta": 0,
+  "cita": "La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos, cuando resulte más adecuado para lograr la reparación debida y convenga al interés público, siempre que exista acuerdo con el interesado."
+ },
+ {
+  "n": 4091,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a34",
+  "pregunta": "Daños indemnizables, anteriores a la publicación de la sentencia, cuando la lesión deriva de una norma con rango de ley declarada inconstitucional o contraria al Derecho de la Unión Europea",
+  "opciones": [
+   "Los 10 años anteriores",
+   "Los 3 años anteriores",
+   "Los 4 años anteriores",
+   "Los 5 años anteriores"
+  ],
+  "correcta": 3,
+  "cita": "los casos de responsabilidad patrimonial a los que se refiere los apartados 4 y 5 del artículo 32, serán indemnizables los daños producidos en el plazo de los cinco años anteriores a la fecha de la publicación de la sentencia que declare la inconstitucionalidad de la norma con"
+ },
+ {
+  "n": 4092,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a36",
+  "pregunta": "Para hacer efectiva la responsabilidad patrimonial por daños causados por las autoridades y el personal al servicio de las Administraciones, los particulares exigirán las indemnizaciones:",
+  "opciones": [
+   "Directamente a la Administración Pública correspondiente",
+   "Ante la jurisdicción civil frente al empleado público",
+   "Directamente a la autoridad o empleado causante del daño",
+   "A la Administración y al empleado, de forma solidaria"
+  ],
+  "correcta": 0,
+  "cita": "Para hacer efectiva la responsabilidad patrimonial a que se refiere esta Ley, los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio."
+ },
+ {
+  "n": 4093,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a36",
+  "pregunta": "La Administración que hubiera indemnizado a los lesionados exigirá de oficio a sus autoridades y demás personal la responsabilidad en que hubieran incurrido por:",
+  "opciones": [
+   "Dolo, o culpa o negligencia graves",
+   "Cualquier grado de culpa",
+   "Dolo exclusivamente",
+   "Culpa o negligencia leves"
+  ],
+  "correcta": 0,
+  "cita": "La Administración correspondiente, cuando hubiere indemnizado a los lesionados, exigirá de oficio en vía administrativa de sus autoridades y demás personal a su servicio la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento."
+ },
+ {
+  "n": 4094,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a36",
+  "pregunta": "Alegaciones en el procedimiento para exigir responsabilidad patrimonial a las autoridades y personal al servicio de las Administraciones",
+  "opciones": [
+   "5 días",
+   "20 días",
+   "15 días",
+   "10 días"
+  ],
+  "correcta": 2,
+  "cita": "que se notificará a los interesados y que constará, al menos, de los siguientes trámites: a) Alegaciones durante un plazo de quince días."
+ },
+ {
+  "n": 4095,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a36",
+  "pregunta": "Audiencia en el procedimiento para exigir responsabilidad patrimonial a las autoridades y personal al servicio de las Administraciones",
+  "opciones": [
+   "20 días",
+   "5 días",
+   "10 días",
+   "15 días"
+  ],
+  "correcta": 2,
+  "cita": "c) Audiencia durante un plazo de diez días."
+ },
+ {
+  "n": 4096,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a36",
+  "pregunta": "La resolución declaratoria de responsabilidad de las autoridades y personal al servicio de las Administraciones:",
+  "opciones": [
+   "Requiere dictamen del Consejo de Estado para ser firme",
+   "Es recurrible en alzada",
+   "Pondrá fin a la vía administrativa",
+   "Solo es ejecutiva tras sentencia judicial"
+  ],
+  "correcta": 2,
+  "cita": "La resolución declaratoria de responsabilidad pondrá fin a la vía administrativa."
+ },
+ {
+  "n": 4097,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a37",
+  "pregunta": "La exigencia de responsabilidad penal del personal al servicio de las Administraciones Públicas:",
+  "opciones": [
+   "Impide iniciar procedimientos de responsabilidad patrimonial",
+   "No suspenderá los procedimientos de responsabilidad patrimonial, salvo que la determinación de los hechos en el orden penal sea necesaria para fijarla",
+   "Extingue la responsabilidad patrimonial de la Administración",
+   "Suspende siempre los procedimientos de responsabilidad patrimonial"
+  ],
+  "correcta": 1,
+  "cita": "La exigencia de responsabilidad penal del personal al servicio de las Administraciones Públicas no suspenderá los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan, salvo que la determinación de los hechos en el orden jurisdiccional penal sea"
+ },
+ {
+  "n": 4098,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a47",
+  "pregunta": "¿Tienen la consideración de convenios los Protocolos Generales de Actuación que comporten meras declaraciones de intención de contenido general?",
+  "opciones": [
+   "No, siempre que no supongan la formalización de compromisos jurídicos concretos y exigibles",
+   "Sí, cuando los suscriba la Administración General del Estado",
+   "Sí, en todo caso",
+   "Sí, si se publican en el «Boletín Oficial del Estado»"
+  ],
+  "correcta": 0,
+  "cita": "No tienen la consideración de convenios, los Protocolos Generales de Actuación o instrumentos similares que comporten meras declaraciones de intención de contenido general o que"
+ },
+ {
+  "n": 4099,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a47",
+  "pregunta": "¿Cómo se denominan los convenios firmados entre organismos públicos y entidades de derecho público vinculados o dependientes de una misma Administración Pública?",
+  "opciones": [
+   "Convenios intradministrativos",
+   "Convenios interadministrativos",
+   "Protocolos generales de actuación",
+   "Encomiendas de gestión"
+  ],
+  "correcta": 0,
+  "cita": "b) Convenios intradministrativos firmados entre organismos públicos y entidades de derecho público vinculados o dependientes de una misma Administración Pública."
+ },
+ {
+  "n": 4100,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a47",
+  "pregunta": "Según el artículo 47.1, los convenios no podrán tener por objeto:",
+  "opciones": [
+   "La utilización de medios y servicios de otra Administración",
+   "Prestaciones propias de los contratos",
+   "Un fin común de las partes",
+   "Compromisos financieros"
+  ],
+  "correcta": 1,
+  "cita": "Los convenios no podrán tener por objeto prestaciones propias de los contratos."
+ },
+ {
+  "n": 4101,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a48",
+  "pregunta": "Según el artículo 48.1, la suscripción de convenios por las Administraciones Públicas:",
+  "opciones": [
+   "Supone la transferencia del personal adscrito",
+   "No puede suponer cesión de la titularidad de la competencia",
+   "Supone la cesión de la titularidad de la competencia",
+   "Requiere en todo caso una ley habilitante"
+  ],
+  "correcta": 1,
+  "cita": "sus respectivas competencias, podrán suscribir convenios con sujetos de derecho público y privado, sin que ello pueda suponer cesión de la titularidad de la competencia."
+ },
+ {
+  "n": 4102,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a48",
+  "pregunta": "Los convenios se perfeccionan por:",
+  "opciones": [
+   "Su inscripción en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación",
+   "Su publicación en el «Boletín Oficial del Estado»",
+   "La prestación del consentimiento de las partes",
+   "Su aprobación por el Consejo de Ministros"
+  ],
+  "correcta": 2,
+  "cita": "Los convenios se perfeccionan por la prestación del consentimiento de las partes."
+ },
+ {
+  "n": 4103,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a48",
+  "pregunta": "Inscripción de los convenios de la Administración General del Estado en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación, desde su formalización",
+  "opciones": [
+   "15 días hábiles",
+   "5 días hábiles",
+   "3 días hábiles",
+   "10 días hábiles"
+  ],
+  "correcta": 1,
+  "cita": "o entidades de derecho público vinculados o dependientes resultarán eficaces una vez inscritos, en el plazo de 5 días hábiles desde su formalización, en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación del sector público"
+ },
+ {
+  "n": 4104,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a48",
+  "pregunta": "Publicación en el «Boletín Oficial del Estado» de los convenios de la Administración General del Estado, desde su formalización",
+  "opciones": [
+   "15 días hábiles",
+   "5 días hábiles",
+   "20 días hábiles",
+   "10 días hábiles"
+  ],
+  "correcta": 3,
+  "cita": "Asimismo, serán publicados en el plazo de 10 días hábiles desde su formalización en el «Boletín Oficial del Estado», sin perjuicio de su publicación facultativa en el boletín oficial de la comunidad autónoma o de la provincia que corresponda a la otra administración firmante."
+ },
+ {
+  "n": 4105,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a48",
+  "pregunta": "Las aportaciones financieras que se comprometan a realizar los firmantes de un convenio:",
+  "opciones": [
+   "Podrán superar los gastos si se justifica en la memoria",
+   "No podrán ser superiores a los gastos derivados de la ejecución del convenio",
+   "Deberán ser iguales para todos los firmantes",
+   "No podrán superar en ningún caso los 600.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "Las aportaciones financieras que se comprometan a realizar los firmantes no podrán ser superiores a los gastos derivados de la ejecución del convenio."
+ },
+ {
+  "n": 4106,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a49",
+  "pregunta": "A falta de regulación expresa, la modificación del contenido de un convenio requerirá:",
+  "opciones": [
+   "Acuerdo unánime de los firmantes",
+   "Acuerdo de la mayoría de los firmantes",
+   "Decisión de la comisión de seguimiento",
+   "Autorización del Consejo de Ministros"
+  ],
+  "correcta": 0,
+  "cita": "A falta de regulación expresa la modificación del contenido del convenio requerirá acuerdo unánime de los firmantes."
+ },
+ {
+  "n": 4107,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a51",
+  "pregunta": "Según el artículo 51.1, los convenios se extinguen:",
+  "opciones": [
+   "Por el cese del titular del órgano que lo firmó",
+   "Por el cumplimiento de las actuaciones que constituyen su objeto o por incurrir en causa de resolución",
+   "Por el transcurso de cuatro años en todo caso",
+   "Por la revocación unilateral de cualquiera de las partes"
+  ],
+  "correcta": 1,
+  "cita": "Los convenios se extinguen por el cumplimiento de las actuaciones que constituyen su objeto o por incurrir en causa de resolución."
+ },
+ {
+  "n": 4108,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a51",
+  "pregunta": "¿Cuál de las siguientes NO es causa de resolución de los convenios según el artículo 51.2?",
+  "opciones": [
+   "El cambio de titular del órgano firmante",
+   "El acuerdo unánime de todos los firmantes",
+   "La decisión judicial declaratoria de la nulidad del convenio",
+   "El transcurso del plazo de vigencia sin haberse acordado la prórroga"
+  ],
+  "correcta": 0,
+  "cita": "Son causas de resolución: a) El transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo. b) El acuerdo unánime de todos los firmantes. c) El incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes. En este caso, cualquiera de las partes podrá notificar a la parte incumplidora un requerimiento para que cumpla en un determinado plazo con las obligaciones o compromisos que se consideran incumplidos. Este requerimiento será comunicado al responsable del mecanismo de seguimiento, vigilancia y control de la ejecución del convenio y a las demás partes firmantes. Si trascurrido el plazo indicado en el requerimiento persistiera el incumplimiento, la parte que lo dirigió notificará a las partes firmantes la concurrencia de la causa de resolución y se entenderá resuelto el convenio. La resolución del convenio por esta causa podrá conllevar la indemnización de los perjuicios causados si así se hubiera previsto. d) Por decisión judicial declaratoria de la nulidad del convenio."
+ },
+ {
+  "n": 4109,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a53",
+  "pregunta": "Remisión electrónica al Tribunal de Cuentas de los convenios cuyos compromisos económicos superen 600.000 euros, desde su suscripción",
+  "opciones": [
+   "6 meses",
+   "1 mes",
+   "3 meses",
+   "2 meses"
+  ],
+  "correcta": 2,
+  "cita": "Dentro de los tres meses siguientes a la suscripción de cualquier convenio cuyos compromisos económicos asumidos superen los 600.000 euros, estos deberán remitirse electrónicamente al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma, según corresponda."
+ },
+ {
+  "n": 4110,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a53",
+  "pregunta": "Deben remitirse al Tribunal de Cuentas u órgano externo de fiscalización autonómico los convenios cuyos compromisos económicos asumidos superen:",
+  "opciones": [
+   "150.000 euros",
+   "600.000 euros",
+   "1.000.000 de euros",
+   "300.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "Dentro de los tres meses siguientes a la suscripción de cualquier convenio cuyos compromisos económicos asumidos superen los 600.000 euros, estos deberán remitirse electrónicamente al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma, según corresponda."
+ }
+]
