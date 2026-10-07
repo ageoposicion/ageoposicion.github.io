@@ -1,0 +1,1058 @@
+[
+ {
+  "n": 14001,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1",
+  "pregunta": "El derecho fundamental de las personas físicas a la protección de datos personales está amparado por el artículo de la Constitución:",
+  "opciones": [
+   "20.1",
+   "105.b)",
+   "18.4",
+   "16.2"
+  ],
+  "correcta": 2,
+  "cita": "El derecho fundamental de las personas físicas a la protección de datos personales, amparado por el artículo 18.4 de la Constitución, se ejercerá con arreglo a lo establecido en el Reglamento (UE) 2016/679 y en esta ley orgánica."
+ },
+ {
+  "n": 14002,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a2",
+  "pregunta": "¿A cuál de los siguientes tratamientos NO es de aplicación la LOPDGDD según su artículo 2.2?",
+  "opciones": [
+   "A los tratamientos no automatizados de datos destinados a un fichero",
+   "A los tratamientos sometidos a la normativa sobre protección de materias clasificadas",
+   "A los tratamientos realizados por la Administración General del Estado",
+   "A los tratamientos automatizados de datos de clientes de una empresa"
+  ],
+  "correcta": 1,
+  "cita": "c) A los tratamientos sometidos a la normativa sobre protección de materias clasificadas."
+ },
+ {
+  "n": 14003,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3",
+  "pregunta": "Las personas vinculadas al fallecido o sus herederos NO podrán acceder a sus datos personales cuando:",
+  "opciones": [
+   "El fallecido fuera menor de edad",
+   "La persona fallecida lo hubiese prohibido expresamente o así lo establezca una ley",
+   "Hayan transcurrido seis meses desde el fallecimiento",
+   "No sean herederos forzosos"
+  ],
+  "correcta": 1,
+  "cita": "Como excepción, las personas a las que se refiere el párrafo anterior no podrán acceder a los datos del causante, ni solicitar su rectificación o supresión, cuando la persona fallecida lo hubiese prohibido expresamente o así lo establezca una ley."
+ },
+ {
+  "n": 14004,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3",
+  "pregunta": "La prohibición expresa del fallecido de acceder a sus datos NO afecta al derecho de los herederos a acceder:",
+  "opciones": [
+   "A cualquier dato del causante",
+   "A las comunicaciones privadas del causante",
+   "A los datos de carácter patrimonial del causante",
+   "A los datos de salud del causante"
+  ],
+  "correcta": 2,
+  "cita": "Dicha prohibición no afectará al derecho de los herederos a acceder a los datos de carácter patrimonial del causante."
+ },
+ {
+  "n": 14005,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a5",
+  "pregunta": "El deber de confidencialidad de quienes intervienen en el tratamiento de datos:",
+  "opciones": [
+   "Solo afecta al responsable del tratamiento",
+   "Termina al finalizar la relación con el responsable",
+   "Se mantiene aun cuando haya finalizado la relación del obligado con el responsable o encargado",
+   "Dura dos años tras finalizar la relación"
+  ],
+  "correcta": 2,
+  "cita": "Las obligaciones establecidas en los apartados anteriores se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento."
+ },
+ {
+  "n": 14006,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a6",
+  "pregunta": "Se entiende por consentimiento del afectado toda manifestación de voluntad:",
+  "opciones": [
+   "Tácita, salvo oposición",
+   "Expresa y por escrito en todo caso",
+   "Libre y presunta",
+   "Libre, específica, informada e inequívoca"
+  ],
+  "correcta": 3,
+  "cita": "en el artículo 4.11 del Reglamento (UE) 2016/679, se entiende por consentimiento del afectado toda manifestación de voluntad libre, específica, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa, el"
+ },
+ {
+  "n": 14007,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a6",
+  "pregunta": "La ejecución de un contrato:",
+  "opciones": [
+   "Puede condicionarse libremente al consentimiento para cualquier finalidad",
+   "Exige siempre el consentimiento para fines publicitarios",
+   "Requiere autorización de la AEPD",
+   "No puede supeditarse a que el afectado consienta el tratamiento de sus datos para finalidades no relacionadas con la relación contractual"
+  ],
+  "correcta": 3,
+  "cita": "No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de los datos personales para finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación contractual."
+ },
+ {
+  "n": 14008,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a7",
+  "pregunta": "El tratamiento de los datos personales de un menor de edad solo puede fundarse en su propio consentimiento cuando sea mayor de:",
+  "opciones": [
+   "Doce años",
+   "Dieciocho años",
+   "Catorce años",
+   "Dieciséis años"
+  ],
+  "correcta": 2,
+  "cita": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años."
+ },
+ {
+  "n": 14009,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8",
+  "pregunta": "El tratamiento fundado en el cumplimiento de una obligación legal exige que así lo prevea:",
+  "opciones": [
+   "Una norma de Derecho de la Unión Europea o una norma con rango de ley",
+   "Una instrucción de la AEPD",
+   "Una orden ministerial",
+   "Un acuerdo del Consejo de Ministros"
+  ],
+  "correcta": 0,
+  "cita": "al responsable, en los términos previstos en el artículo 6.1.c) del Reglamento (UE) 2016/679, cuando así lo prevea una norma de Derecho de la Unión Europea o una norma con rango de ley, que podrá determinar las condiciones generales del tratamiento y los tipos de datos objeto del"
+ },
+ {
+  "n": 14010,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9",
+  "pregunta": "Para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar la ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico:",
+  "opciones": [
+   "No basta el solo consentimiento del afectado",
+   "Basta con informar al afectado",
+   "Basta el consentimiento verbal del afectado",
+   "Basta la autorización del responsable"
+  ],
+  "correcta": 0,
+  "cita": "del artículo 9.2.a) del Reglamento (UE) 2016/679, a fin de evitar situaciones discriminatorias, el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación"
+ },
+ {
+  "n": 14011,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-3",
+  "pregunta": "Cuando los datos se obtengan del afectado, la información básica que se le facilite deberá contener, al menos:",
+  "opciones": [
+   "Solo la identidad del responsable",
+   "La identidad del responsable, la finalidad del tratamiento y la posibilidad de ejercer los derechos de los artículos 15 a 22 del RGPD",
+   "El nombre del delegado de protección de datos exclusivamente",
+   "El número de registro de la base de datos en la AEPD"
+  ],
+  "correcta": 1,
+  "cita": "La información básica a la que se refiere el apartado anterior deberá contener, al menos: a) La identidad del responsable del tratamiento y de su representante, en su caso. b) La finalidad del tratamiento. c) La posibilidad de ejercer los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679."
+ },
+ {
+  "n": 14012,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-4",
+  "pregunta": "Los derechos reconocidos en los artículos 15 a 22 del RGPD pueden ejercerse:",
+  "opciones": [
+   "Solo mediante abogado",
+   "Solo personalmente",
+   "Solo a través de la AEPD",
+   "Directamente o por medio de representante legal o voluntario"
+  ],
+  "correcta": 3,
+  "cita": "Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, podrán ejercerse directamente o por medio de representante legal o voluntario."
+ },
+ {
+  "n": 14013,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-4",
+  "pregunta": "La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de derechos del afectado recae sobre:",
+  "opciones": [
+   "El afectado",
+   "El responsable del tratamiento",
+   "La AEPD",
+   "El encargado del tratamiento en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de sus derechos formulado por el afectado recaerá sobre el responsable."
+ },
+ {
+  "n": 14014,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-4",
+  "pregunta": "Las actuaciones del responsable del tratamiento para atender las solicitudes de ejercicio de derechos son, con carácter general:",
+  "opciones": [
+   "Sujetas a tasa",
+   "De pago si la solicitud es electrónica",
+   "Sujetas a un canon fijo",
+   "Gratuitas"
+  ],
+  "correcta": 3,
+  "cita": "Serán gratuitas las actuaciones llevadas a cabo por el responsable del tratamiento para atender las solicitudes de ejercicio de estos derechos, sin perjuicio de lo dispuesto en los artículos 12.5 y 15.3 del Reglamento (UE) 2016/679 y en los apartados 3 y 4 del artículo 13 de esta ley orgánica."
+ },
+ {
+  "n": 14015,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a1-5",
+  "pregunta": "Período dentro del cual el ejercicio del derecho de acceso en más de una ocasión puede considerarse repetitivo, salvo causa legítima",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "12 meses",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "A los efectos establecidos en el artículo 12.5 del Reglamento (UE) 2016/679 se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima para ello."
+ },
+ {
+  "n": 14016,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-5",
+  "pregunta": "El derecho de acceso se entenderá otorgado si el responsable facilita al afectado:",
+  "opciones": [
+   "Una copia en papel por correo ordinario",
+   "Un resumen anual de sus datos",
+   "Un sistema de acceso remoto, directo y seguro a los datos que garantice de modo permanente el acceso a su totalidad",
+   "Una cita presencial en sus oficinas"
+  ],
+  "correcta": 2,
+  "cita": "El derecho de acceso se entenderá otorgado si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos personales que garantice, de modo permanente, el acceso a su totalidad."
+ },
+ {
+  "n": 14017,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-6",
+  "pregunta": "Al ejercer el derecho de rectificación, el afectado deberá indicar en su solicitud:",
+  "opciones": [
+   "La finalidad del tratamiento",
+   "A qué datos se refiere y la corrección que haya de realizarse",
+   "El motivo por el que desea la supresión",
+   "Solo su identidad"
+  ],
+  "correcta": 1,
+  "cita": "Al ejercer el derecho de rectificación reconocido en el artículo 16 del Reglamento (UE) 2016/679, el afectado deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse."
+ },
+ {
+  "n": 14018,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-7",
+  "pregunta": "Cuando la supresión derive del ejercicio del derecho de oposición a la mercadotecnia directa, el responsable podrá conservar:",
+  "opciones": [
+   "Ningún dato del afectado",
+   "Los datos de facturación exclusivamente",
+   "Los datos identificativos necesarios para impedir tratamientos futuros con esos fines",
+   "Todos los datos del afectado durante cinco años"
+  ],
+  "correcta": 2,
+  "cita": "Cuando la supresión derive del ejercicio del derecho de oposición con arreglo al artículo 21.2 del Reglamento (UE) 2016/679, el responsable podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros para fines de mercadotecnia directa."
+ },
+ {
+  "n": 14019,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a1-8",
+  "pregunta": "El hecho de que el tratamiento de los datos personales esté limitado:",
+  "opciones": [
+   "Debe comunicarse a la AEPD",
+   "No requiere ninguna constancia",
+   "Debe constar claramente en los sistemas de información del responsable",
+   "Debe publicarse en el BOE"
+  ],
+  "correcta": 2,
+  "cita": "El hecho de que el tratamiento de los datos personales esté limitado debe constar claramente en los sistemas de información del responsable."
+ },
+ {
+  "n": 14020,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a2-2",
+  "pregunta": "Los datos relativos al incumplimiento de obligaciones dinerarias en sistemas comunes de información crediticia solo pueden mantenerse mientras persista el incumplimiento, con el límite máximo de:",
+  "opciones": [
+   "Tres años desde el vencimiento",
+   "Seis años desde la inclusión",
+   "Diez años desde la inclusión",
+   "Cinco años desde el vencimiento de la obligación"
+  ],
+  "correcta": 3,
+  "cita": "d) Que los datos únicamente se mantengan en el sistema mientras persista el incumplimiento, con el límite máximo de cinco años desde la fecha de vencimiento de la obligación dineraria, financiera o de crédito."
+ },
+ {
+  "n": 14021,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a2-4",
+  "pregunta": "Plazo máximo, desde su captación, para suprimir las imágenes de videovigilancia, salvo que deban conservarse para acreditar actos contra personas, bienes o instalaciones",
+  "opciones": [
+   "3 meses",
+   "1 año",
+   "1 mes",
+   "15 días"
+  ],
+  "correcta": 2,
+  "cita": "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
+ },
+ {
+  "n": 14022,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a2-4",
+  "pregunta": "Plazo máximo para poner a disposición de la autoridad competente las imágenes de videovigilancia que acrediten actos contra la integridad de personas, bienes o instalaciones",
+  "opciones": [
+   "96 horas",
+   "72 horas",
+   "48 horas",
+   "24 horas"
+  ],
+  "correcta": 1,
+  "cita": "En tal caso, las imágenes deberán ser puestas a disposición de la autoridad competente en un plazo máximo de setenta y dos horas desde que se tuviera conocimiento de la existencia de la grabación."
+ },
+ {
+  "n": 14023,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a2-4",
+  "pregunta": "El deber de información en los tratamientos de videovigilancia se entiende cumplido mediante:",
+  "opciones": [
+   "La colocación de un dispositivo informativo en lugar suficientemente visible",
+   "La notificación individual a cada persona grabada",
+   "La publicación en el BOE",
+   "La inscripción en un registro de la AEPD"
+  ],
+  "correcta": 0,
+  "cita": "El deber de información previsto en el artículo 12 del Reglamento (UE) 2016/679 se entenderá cumplido mediante la colocación de un dispositivo informativo en lugar suficientemente visible identificando, al menos, la existencia del tratamiento, la identidad del responsable y la"
+ },
+ {
+  "n": 14024,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a2-4",
+  "pregunta": "Según el artículo 22.5, se considera excluido del ámbito de aplicación del RGPD el tratamiento por una persona física de imágenes que solamente capten:",
+  "opciones": [
+   "Las zonas comunes del edificio",
+   "El interior de su propio domicilio",
+   "El interior de su lugar de trabajo",
+   "La vía pública frente a su domicilio"
+  ],
+  "correcta": 1,
+  "cita": "Al amparo del artículo 2.2.c) del Reglamento (UE) 2016/679, se considera excluido de su ámbito de aplicación el tratamiento por una persona física de imágenes que solamente capten el interior de su propio domicilio."
+ },
+ {
+  "n": 14025,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a2-5",
+  "pregunta": "Quienes pretendan realizar comunicaciones de mercadotecnia directa deberán previamente:",
+  "opciones": [
+   "Obtener autorización de la AEPD",
+   "Comunicarlo al Ministerio de Consumo",
+   "Inscribirse en el Registro Mercantil",
+   "Consultar los sistemas de exclusión publicitaria que pudieran afectar a su actuación"
+  ],
+  "correcta": 3,
+  "cita": "Quienes pretendan realizar comunicaciones de mercadotecnia directa, deberán previamente consultar los sistemas de exclusión publicitaria que pudieran afectar a su actuación, excluyendo del tratamiento los datos de los afectados que hubieran manifestado su oposición o negativa al mismo."
+ },
+ {
+  "n": 14026,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a2-8",
+  "pregunta": "El tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público:",
+  "opciones": [
+   "Solo es lícito para datos de personas fallecidas",
+   "Requiere el consentimiento de cada afectado",
+   "Es lícito, con las especialidades de la legislación de patrimonio histórico y archivos",
+   "Está prohibido"
+  ],
+  "correcta": 2,
+  "cita": "Será lícito el tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público, que se someterá a lo dispuesto en el Reglamento (UE) 2016/679 y en la presente ley orgánica con las especialidades que se derivan de lo previsto en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, en el Real Decreto 1708/2011, de 18 de noviembre, por el que se establece el Sistema Español de"
+ },
+ {
+  "n": 14027,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-3",
+  "pregunta": "Los sujetos del artículo 77.1 de la LOPDGDD (entre ellos las Administraciones Públicas) deben hacer público, accesible por medios electrónicos:",
+  "opciones": [
+   "Las contraseñas de acceso a sus sistemas",
+   "El nombre de todos los afectados",
+   "Sus evaluaciones de impacto completas",
+   "Un inventario de sus actividades de tratamiento"
+  ],
+  "correcta": 3,
+  "cita": "Los sujetos enumerados en el artículo 77.1 de esta ley orgánica harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos en el que constará la información establecida en el artículo 30 del Reglamento (UE) 2016/679 y su base legal."
+ },
+ {
+  "n": 14028,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-4",
+  "pregunta": "El responsable del tratamiento está obligado a bloquear los datos cuando:",
+  "opciones": [
+   "Los transfiera a un encargado",
+   "Realice una copia de seguridad",
+   "Reciba una solicitud de acceso",
+   "Proceda a su rectificación o supresión"
+  ],
+  "correcta": 3,
+  "cita": "El responsable del tratamiento estará obligado a bloquear los datos cuando proceda a su rectificación o supresión."
+ },
+ {
+  "n": 14029,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-4",
+  "pregunta": "El bloqueo de los datos consiste en:",
+  "opciones": [
+   "Su cifrado y transferencia a la AEPD",
+   "Su publicación con acceso restringido",
+   "Su destrucción inmediata",
+   "Su identificación y reserva para impedir su tratamiento, salvo su puesta a disposición de jueces, Ministerio Fiscal o Administraciones competentes"
+  ],
+  "correcta": 3,
+  "cita": "El bloqueo de los datos consiste en la identificación y reserva de los mismos, adoptando medidas técnicas y organizativas, para impedir su tratamiento, incluyendo su visualización, excepto para la puesta a disposición de los datos a los jueces y tribunales, el Ministerio Fiscal o las Administraciones Públicas competentes, en particular de las autoridades de protección de datos, para la exigencia de posibles"
+ },
+ {
+  "n": 14030,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-5",
+  "pregunta": "El acceso por un encargado del tratamiento a los datos necesarios para prestar un servicio al responsable:",
+  "opciones": [
+   "No se considera comunicación de datos, si se cumple la normativa",
+   "Está prohibido",
+   "Se considera cesión de datos sujeta a consentimiento",
+   "Requiere autorización previa de la AEPD"
+  ],
+  "correcta": 0,
+  "cita": "El acceso por parte de un encargado de tratamiento a los datos personales que resulten necesarios para la prestación de un servicio al responsable no se considerará comunicación de datos siempre que se cumpla lo establecido en el Reglamento (UE) 2016/679, en la presente ley orgánica y en sus normas de desarrollo."
+ },
+ {
+  "n": 14031,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-5",
+  "pregunta": "Quien figurando como encargado del tratamiento utiliza los datos para sus propias finalidades tiene la consideración de:",
+  "opciones": [
+   "Tercero autorizado",
+   "Encargado del tratamiento",
+   "Responsable del tratamiento",
+   "Delegado de protección de datos"
+  ],
+  "correcta": 2,
+  "cita": "Tendrá asimismo la consideración de responsable del tratamiento quien figurando como encargado utilizase los datos para sus propias finalidades."
+ },
+ {
+  "n": 14032,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-6",
+  "pregunta": "¿Cuál de las siguientes entidades está obligada en todo caso a designar un delegado de protección de datos según el artículo 34.1?",
+  "opciones": [
+   "Las comunidades de propietarios",
+   "Los centros docentes y las Universidades públicas y privadas",
+   "Los profesionales de la salud que ejerzan a título individual",
+   "Cualquier comercio minorista"
+  ],
+  "correcta": 1,
+  "cita": "b) Los centros docentes que ofrezcan enseñanzas en cualquiera de los niveles establecidos en la legislación reguladora del derecho a la educación, así como las Universidades públicas y privadas."
+ },
+ {
+  "n": 14033,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a3-6",
+  "pregunta": "Plazo para comunicar a la AEPD o autoridad autonómica las designaciones, nombramientos y ceses de los delegados de protección de datos",
+  "opciones": [
+   "5 días",
+   "10 días",
+   "1 mes",
+   "15 días"
+  ],
+  "correcta": 1,
+  "cita": "Los responsables y encargados del tratamiento comunicarán en el plazo de diez días a la Agencia Española de Protección de Datos o, en su caso, a las autoridades autonómicas de protección de datos, las designaciones,"
+ },
+ {
+  "n": 14034,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-8",
+  "pregunta": "El delegado de protección de datos que sea persona física integrada en la organización:",
+  "opciones": [
+   "Puede ser cesado libremente por el responsable",
+   "Solo puede ser sancionado por la AEPD",
+   "Depende jerárquicamente del encargado del tratamiento",
+   "No puede ser removido ni sancionado por desempeñar sus funciones salvo dolo o negligencia grave"
+  ],
+  "correcta": 3,
+  "cita": "Cuando se trate de una persona física integrada en la organización del responsable o encargado del tratamiento, el delegado de protección de datos no podrá ser removido ni sancionado por el responsable o el encargado por desempeñar sus funciones salvo que incurriera en dolo o negligencia grave en su ejercicio."
+ },
+ {
+  "n": 14035,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-8",
+  "pregunta": "En el ejercicio de sus funciones, el delegado de protección de datos tendrá acceso a los datos personales y procesos de tratamiento:",
+  "opciones": [
+   "Previa autorización de la AEPD",
+   "Solo a los datos no sensibles",
+   "Sin que pueda oponérsele ningún deber de confidencialidad o secreto",
+   "Solo con autorización judicial"
+  ],
+  "correcta": 2,
+  "cita": "el delegado de protección de datos tendrá acceso a los datos personales y procesos de tratamiento, no pudiendo oponer a este acceso el responsable o el encargado del tratamiento la existencia de cualquier deber de confidencialidad o secreto, incluyendo el previsto en el artículo 5 de esta ley orgánica."
+ },
+ {
+  "n": 14036,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a3-9",
+  "pregunta": "Plazo máximo para que el delegado de protección de datos comunique al afectado la decisión adoptada sobre la reclamación que este le dirija antes de acudir a la AEPD",
+  "opciones": [
+   "3 meses",
+   "15 días",
+   "2 meses",
+   "1 mes"
+  ],
+  "correcta": 2,
+  "cita": "En este caso, el delegado de protección de datos comunicará al afectado la decisión que se hubiera adoptado en el plazo máximo de dos meses a contar desde la recepción de la reclamación."
+ },
+ {
+  "n": 14037,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a3-9",
+  "pregunta": "Plazo para que el delegado de protección de datos responda a la reclamación que le remita la AEPD",
+  "opciones": [
+   "2 meses",
+   "15 días",
+   "3 meses",
+   "1 mes"
+  ],
+  "correcta": 3,
+  "cita": "Cuando el afectado presente una reclamación ante la Agencia Española de Protección de Datos o, en su caso, ante las autoridades autonómicas de protección de datos, aquellas podrán remitir la reclamación al delegado de protección de datos a fin de que este responda en el plazo de un mes."
+ },
+ {
+  "n": 14038,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-10",
+  "pregunta": "Los códigos de conducta regulados por el RGPD:",
+  "opciones": [
+   "Son meramente orientativos para todos",
+   "Solo vinculan a las Administraciones Públicas",
+   "Son vinculantes para quienes se adhieran a ellos",
+   "Son obligatorios para todas las empresas del sector"
+  ],
+  "correcta": 2,
+  "cita": "Los códigos de conducta regulados por la sección 5.ª del Capítulo IV del Reglamento (UE) 2016/679 serán vinculantes para quienes se adhieran a los mismos."
+ },
+ {
+  "n": 14039,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-10",
+  "pregunta": "Los códigos de conducta son aprobados por:",
+  "opciones": [
+   "La Agencia Española de Protección de Datos o, en su caso, la autoridad autonómica competente",
+   "El Comité Europeo de Protección de Datos exclusivamente",
+   "Las asociaciones empresariales que los promuevan",
+   "El Ministerio de Justicia"
+  ],
+  "correcta": 0,
+  "cita": "Los códigos de conducta serán aprobados por la Agencia Española de Protección de Datos o, en su caso, por la autoridad autonómica de protección de datos competente."
+ },
+ {
+  "n": 14040,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a3-11",
+  "pregunta": "La acreditación de las instituciones de certificación del artículo 43.1 del RGPD puede llevarla a cabo:",
+  "opciones": [
+   "El Ministerio de Industria",
+   "La Entidad Nacional de Acreditación (ENAC)",
+   "AENOR",
+   "El Consejo de Transparencia y Buen Gobierno"
+  ],
+  "correcta": 1,
+  "cita": "de las instituciones de certificación a las que se refiere el artículo 43.1 del citado reglamento podrá ser llevada a cabo por la Entidad Nacional de Acreditación (ENAC), que comunicará a la Agencia Española de Protección de Datos y a las autoridades de protección de"
+ },
+ {
+  "n": 14041,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a4-3",
+  "pregunta": "Duración máxima del procedimiento de aprobación de normas corporativas vinculantes por la AEPD",
+  "opciones": [
+   "12 meses",
+   "9 meses",
+   "3 meses",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "El procedimiento se iniciará a instancia de una entidad situada en España y tendrá una duración máxima de nueve meses."
+ },
+ {
+  "n": 14042,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-6",
+  "pregunta": "La Agencia Española de Protección de Datos es:",
+  "opciones": [
+   "Un organismo autónomo",
+   "Una agencia estatal",
+   "Una entidad pública empresarial",
+   "Una autoridad administrativa independiente de ámbito estatal"
+  ],
+  "correcta": 3,
+  "cita": "La Agencia Española de Protección de Datos es una autoridad administrativa independiente de ámbito estatal, de las previstas en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, con"
+ },
+ {
+  "n": 14043,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-6",
+  "pregunta": "La Agencia Española de Protección de Datos se relaciona con el Gobierno a través de:",
+  "opciones": [
+   "El Ministerio de Justicia",
+   "La Presidencia del Gobierno",
+   "El Ministerio del Interior",
+   "El Ministerio de Hacienda"
+  ],
+  "correcta": 0,
+  "cita": "Se relaciona con el Gobierno a través del Ministerio de Justicia."
+ },
+ {
+  "n": 14044,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-6",
+  "pregunta": "En el Comité Europeo de Protección de Datos, el representante común de las autoridades españolas de protección de datos es:",
+  "opciones": [
+   "El Consejo General del Poder Judicial",
+   "La Agencia Española de Protección de Datos",
+   "La autoridad autonómica más antigua",
+   "El Ministerio de Justicia"
+  ],
+  "correcta": 1,
+  "cita": "La Agencia Española de Protección de Datos tendrá la condición de representante común de las autoridades de protección de datos del Reino de España en el Comité Europeo de Protección de Datos."
+ },
+ {
+  "n": 14045,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-8",
+  "pregunta": "La Presidencia de la AEPD puede autorizar modificaciones presupuestarias que no incrementen los gastos de personal hasta un:",
+  "opciones": [
+   "Tres por ciento de la cifra inicial de su presupuesto total de gastos",
+   "Diez por ciento",
+   "Cinco por ciento",
+   "Uno por ciento"
+  ],
+  "correcta": 0,
+  "cita": "Corresponde a la Presidencia de la Agencia Española de Protección de Datos autorizar las modificaciones presupuestarias que impliquen hasta un tres por ciento de la cifra inicial de su presupuesto total de gastos, siempre que no se incrementen los créditos para gastos de personal."
+ },
+ {
+  "n": 14046,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-8",
+  "pregunta": "El personal al servicio de la Agencia Española de Protección de Datos será:",
+  "opciones": [
+   "Exclusivamente laboral",
+   "Exclusivamente funcionario",
+   "Funcionario o laboral",
+   "Personal eventual"
+  ],
+  "correcta": 2,
+  "cita": "El personal al servicio de la Agencia Española de Protección de Datos será funcionario o laboral y se regirá por lo previsto en el texto refundido de la Ley del Estatuto Básico del Empleado"
+ },
+ {
+  "n": 14047,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-10",
+  "pregunta": "La Presidencia de la AEPD está auxiliada por un Adjunto en el que puede delegar sus funciones, excepto:",
+  "opciones": [
+   "Las relacionadas con los procedimientos regulados por el título VIII de la ley",
+   "Las de elaboración del presupuesto",
+   "Las de representación de la Agencia",
+   "Las de gestión de personal"
+  ],
+  "correcta": 0,
+  "cita": "de Protección de Datos estará auxiliada por un Adjunto en el que podrá delegar sus funciones, a excepción de las relacionadas con los procedimientos regulados por el título VIII de esta ley orgánica, y que la sustituirá en el ejercicio de las mismas en los términos previstos en el Estatuto"
+ },
+ {
+  "n": 14048,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-10",
+  "pregunta": "La propuesta de Presidencia y Adjunto de la AEPD debe ser ratificada por la Comisión de Justicia del Congreso en primera votación por mayoría de:",
+  "opciones": [
+   "Mayoría simple",
+   "Cuatro quintos de sus miembros",
+   "Dos tercios de sus miembros",
+   "Tres quintos de sus miembros"
+  ],
+  "correcta": 3,
+  "cita": "de la preceptiva audiencia de los candidatos, deberá ser ratificada por la Comisión de Justicia en votación pública por mayoría de tres quintos de sus miembros en primera votación o, de no alcanzarse ésta, por mayoría absoluta en segunda votación, que se realizará"
+ },
+ {
+  "n": 14049,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a4-10",
+  "pregunta": "Duración del mandato de la Presidencia y del Adjunto de la AEPD (renovable por otro período igual)",
+  "opciones": [
+   "5 años",
+   "4 años",
+   "6 años",
+   "3 años"
+  ],
+  "correcta": 0,
+  "cita": "El mandato de la Presidencia y del Adjunto de la Agencia Española de Protección de Datos tiene una duración de cinco años y puede ser renovado para otro período de igual duración."
+ },
+ {
+  "n": 14050,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-10",
+  "pregunta": "Los actos y disposiciones de la Presidencia de la AEPD ponen fin a la vía administrativa y son recurribles directamente ante:",
+  "opciones": [
+   "El Tribunal Supremo",
+   "El Ministro de Justicia en alzada",
+   "Los Juzgados centrales de lo contencioso-administrativo",
+   "La Sala de lo Contencioso-administrativo de la Audiencia Nacional"
+  ],
+  "correcta": 3,
+  "cita": "Los actos y disposiciones dictados por la Presidencia de la Agencia Española de Protección de Datos ponen fin a la vía administrativa, siendo recurribles, directamente, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional."
+ },
+ {
+  "n": 14051,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-11",
+  "pregunta": "El Consejo Consultivo de la AEPD se reúne cuando lo disponga la Presidencia y, en todo caso:",
+  "opciones": [
+   "Una vez al mes",
+   "Una vez al año",
+   "Una vez al trimestre",
+   "Una vez al semestre"
+  ],
+  "correcta": 3,
+  "cita": "El Consejo Consultivo se reunirá cuando así lo disponga la Presidencia de la Agencia Española de Protección de Datos y, en todo caso, una vez al semestre."
+ },
+ {
+  "n": 14052,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-11",
+  "pregunta": "Las decisiones tomadas por el Consejo Consultivo de la AEPD:",
+  "opciones": [
+   "No tienen en ningún caso carácter vinculante",
+   "Son vinculantes para la Presidencia",
+   "Son vinculantes para las autoridades autonómicas",
+   "Son vinculantes si se adoptan por unanimidad"
+  ],
+  "correcta": 0,
+  "cita": "Las decisiones tomadas por el Consejo Consultivo no tendrán en ningún caso carácter vinculante."
+ },
+ {
+  "n": 14053,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a4-11",
+  "pregunta": "Los miembros del Consejo Consultivo de la AEPD son nombrados por:",
+  "opciones": [
+   "La Presidencia de la AEPD",
+   "Real Decreto del Consejo de Ministros",
+   "Orden del Ministro de Justicia publicada en el BOE",
+   "Las Cortes Generales"
+  ],
+  "correcta": 2,
+  "cita": "Los miembros del Consejo Consultivo serán nombrados por orden del Ministro de Justicia, publicada en el Boletín Oficial del Estado."
+ },
+ {
+  "n": 14054,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a5-3",
+  "pregunta": "Los funcionarios que desarrollan actividades de investigación de la AEPD tienen la consideración de:",
+  "opciones": [
+   "Peritos judiciales",
+   "Personal eventual",
+   "Agentes de la autoridad en el ejercicio de sus funciones",
+   "Policía judicial"
+  ],
+  "correcta": 2,
+  "cita": "Los funcionarios que desarrollen actividades de investigación tendrán la consideración de agentes de la autoridad en el ejercicio de sus funciones, y estarán obligados a guardar secreto sobre las informaciones que conozcan con ocasión de dicho ejercicio, incluso después de haber cesado en él."
+ },
+ {
+  "n": 14055,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a6-6",
+  "pregunta": "Plazo para resolver el procedimiento por falta de atención de una solicitud de ejercicio de derechos, desde la notificación al reclamante del acuerdo de admisión a trámite (si vence, puede considerarla estimada)",
+  "opciones": [
+   "3 meses",
+   "9 meses",
+   "6 meses",
+   "12 meses"
+  ],
+  "correcta": 2,
+  "cita": "En este caso el plazo para resolver el procedimiento será de seis meses a contar desde la fecha en que hubiera sido notificado al reclamante el acuerdo de admisión a trámite."
+ },
+ {
+  "n": 14056,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a6-6",
+  "pregunta": "Duración máxima del procedimiento sancionador ante la AEPD por posible infracción, desde el acuerdo de inicio (transcurrida, caduca)",
+  "opciones": [
+   "9 meses",
+   "6 meses",
+   "12 meses",
+   "18 meses"
+  ],
+  "correcta": 2,
+  "cita": "El procedimiento tendrá una duración máxima de doce meses a contar desde la fecha del acuerdo de inicio."
+ },
+ {
+  "n": 14057,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a6-7",
+  "pregunta": "Plazo para notificar al reclamante la decisión sobre la admisión o inadmisión a trámite de su reclamación ante la AEPD",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "6 meses",
+   "2 meses"
+  ],
+  "correcta": 1,
+  "cita": "La decisión sobre la admisión o inadmisión a trámite, así como la que determine, en su caso, la remisión de la reclamación a la autoridad de control principal que se estime competente, deberá notificarse al reclamante en el plazo de tres meses."
+ },
+ {
+  "n": 14058,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a7-2",
+  "pregunta": "Según el artículo 70.2, el régimen sancionador de la LOPDGDD NO es de aplicación a:",
+  "opciones": [
+   "El delegado de protección de datos",
+   "Las entidades de certificación",
+   "Los responsables de los tratamientos",
+   "Los encargados de los tratamientos"
+  ],
+  "correcta": 0,
+  "cita": "No será de aplicación al delegado de protección de datos el régimen sancionador establecido en este Título."
+ },
+ {
+  "n": 14059,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a7-4",
+  "pregunta": "Plazo de prescripción de las infracciones muy graves de la LOPDGDD",
+  "opciones": [
+   "2 años",
+   "3 años",
+   "5 años",
+   "1 año"
+  ],
+  "correcta": 1,
+  "cita": "En función de lo que establece el artículo 83.5 del Reglamento (UE) 2016/679 se consideran muy graves y prescribirán a los tres años las infracciones que supongan una vulneración sustancial de los artículos mencionados en aquel y,"
+ },
+ {
+  "n": 14060,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a7-5",
+  "pregunta": "Plazo de prescripción de las infracciones graves de la LOPDGDD",
+  "opciones": [
+   "1 año",
+   "3 años",
+   "2 años",
+   "6 meses"
+  ],
+  "correcta": 2,
+  "cita": "En función de lo que establece el artículo 83.4 del Reglamento (UE) 2016/679 se consideran graves y prescribirán a los dos años las infracciones que supongan una vulneración sustancial de los artículos mencionados en aquel y,"
+ },
+ {
+  "n": 14061,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a7-6",
+  "pregunta": "Plazo de prescripción de las infracciones leves de la LOPDGDD",
+  "opciones": [
+   "1 año",
+   "2 años",
+   "3 años",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "Se consideran leves y prescribirán al año las restantes infracciones de carácter meramente formal de los artículos mencionados en los"
+ },
+ {
+  "n": 14062,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a7-8",
+  "pregunta": "Se publica en el BOE la identidad del infractor, la infracción y el importe de la sanción cuando, siendo competente la AEPD, la sanción supere el millón de euros y el infractor sea:",
+  "opciones": [
+   "Un menor de edad",
+   "Una persona jurídica",
+   "Una persona física",
+   "Una Administración Pública"
+  ],
+  "correcta": 1,
+  "cita": "la sanción impuesta cuando la autoridad competente sea la Agencia Española de Protección de Datos, la sanción fuese superior a un millón de euros y el infractor sea una persona jurídica."
+ },
+ {
+  "n": 14063,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a7-9",
+  "pregunta": "Cuando una Administración Pública comete una infracción de la LOPDGDD, la autoridad de protección de datos dicta resolución:",
+  "opciones": [
+   "Declarando la infracción y estableciendo las medidas para que cese la conducta o se corrijan sus efectos",
+   "Remitiendo el asunto al Tribunal de Cuentas",
+   "Archivando el procedimiento por tratarse de una Administración",
+   "Imponiendo en todo caso una multa económica"
+  ],
+  "correcta": 0,
+  "cita": "artículos 72 a 74 de esta ley orgánica, la autoridad de protección de datos que resulte competente dictará resolución declarando la infracción y estableciendo, en su caso, las medidas que proceda adoptar para que cese la conducta o se corrijan los efectos de la infracción que se hubiese cometido, con"
+ },
+ {
+  "n": 14064,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a7-10",
+  "pregunta": "Plazo de prescripción de las sanciones por importe igual o inferior a 40.000 euros",
+  "opciones": [
+   "3 años",
+   "6 meses",
+   "2 años",
+   "1 año"
+  ],
+  "correcta": 3,
+  "cita": "Las sanciones impuestas en aplicación del Reglamento (UE) 2016/679 y de esta ley orgánica prescriben en los siguientes plazos: a) Las sanciones por importe igual o inferior a 40.000 euros, prescriben en el plazo de un año."
+ },
+ {
+  "n": 14065,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a7-10",
+  "pregunta": "Plazo de prescripción de las sanciones por importe comprendido entre 40.001 y 300.000 euros",
+  "opciones": [
+   "1 año",
+   "4 años",
+   "2 años",
+   "3 años"
+  ],
+  "correcta": 2,
+  "cita": "b) Las sanciones por importe comprendido entre 40.001 y 300.000 euros prescriben a los dos años."
+ },
+ {
+  "n": 14066,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "LOPDGDD",
+  "articulo": "a7-10",
+  "pregunta": "Plazo de prescripción de las sanciones por importe superior a 300.000 euros",
+  "opciones": [
+   "5 años",
+   "3 años",
+   "2 años",
+   "4 años"
+  ],
+  "correcta": 1,
+  "cita": "c) Las sanciones por un importe superior a 300.000 euros prescriben a los tres años."
+ }
+]
