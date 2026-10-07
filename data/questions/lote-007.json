@@ -1,0 +1,2242 @@
+[
+ {
+  "n": 7001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a1",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los fundamentos de actuación del artículo 1.3 del TREBEP?",
+  "opciones": [
+   "Jerarquía en la atribución, ordenación y desempeño de las funciones y tareas",
+   "Transparencia",
+   "Libre designación en el acceso al empleo público",
+   "Igualdad, mérito y capacidad en el acceso y en la promoción profesional"
+  ],
+  "correcta": 2,
+  "cita": "Este Estatuto refleja, del mismo modo, los siguientes fundamentos de actuación: a) Servicio a los ciudadanos y a los intereses generales. b) Igualdad, mérito y capacidad en el acceso y en la promoción profesional. c) Sometimiento pleno a la ley y al Derecho. d) Igualdad de trato entre mujeres y hombres. e) Objetividad, profesionalidad e imparcialidad en el servicio garantizadas con la inamovilidad en la condición de funcionario de carrera. f) Eficacia en la planificación y gestión de los recursos humanos. g) Desarrollo y cualificación profesional permanente de los empleados públicos. h) Transparencia. i) Evaluación y responsabilidad en la gestión. j) Jerarquía en la atribución, ordenación y desempeño de las funciones y tareas. k) Negociación colectiva y participación, a través de los representantes, en la determinación de las condiciones de empleo. l) Cooperación entre las Administraciones Públicas en la regulación y gestión del empleo público."
+ },
+ {
+  "n": 7002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a2",
+  "pregunta": "Según el artículo 2.5, el TREBEP respecto del personal de las Administraciones Públicas no incluido en su ámbito de aplicación tiene carácter:",
+  "opciones": [
+   "Supletorio",
+   "Preferente",
+   "Obligatorio",
+   "Excluyente"
+  ],
+  "correcta": 0,
+  "cita": "El presente Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación."
+ },
+ {
+  "n": 7003,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a4",
+  "pregunta": "¿A cuál de los siguientes colectivos solo se aplica el TREBEP directamente cuando así lo disponga su legislación específica?",
+  "opciones": [
+   "Personal de las Universidades Públicas",
+   "Personal funcionario de la Administración General del Estado",
+   "Personal funcionario de las entidades locales",
+   "Personal militar de las Fuerzas Armadas"
+  ],
+  "correcta": 3,
+  "cita": "Las disposiciones de este Estatuto sólo se aplicarán directamente cuando así lo disponga su legislación específica al siguiente personal: a) Personal funcionario de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas. b) Personal funcionario de los demás Órganos Constitucionales del Estado y de los órganos estatutarios de las comunidades autónomas. c) Jueces, Magistrados, Fiscales y demás personal funcionario al servicio de la Administración de Justicia. d) Personal militar de las Fuerzas Armadas."
+ },
+ {
+  "n": 7004,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a8",
+  "pregunta": "Según el artículo 8.2, ¿cuál de los siguientes NO es una clase de empleado público?",
+  "opciones": [
+   "Personal laboral",
+   "Personal directivo de libre designación",
+   "Personal eventual",
+   "Funcionarios interinos"
+  ],
+  "correcta": 1,
+  "cita": "Los empleados públicos se clasifican en: a) Funcionarios de carrera. b) Funcionarios interinos. c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal. d) Personal eventual."
+ },
+ {
+  "n": 7005,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a9",
+  "pregunta": "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas corresponde:",
+  "opciones": [
+   "Exclusivamente a los funcionarios públicos",
+   "A los funcionarios y al personal laboral fijo",
+   "Al personal eventual de confianza",
+   "A cualquier empleado público"
+  ],
+  "correcta": 0,
+  "cita": "o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca."
+ },
+ {
+  "n": 7006,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a9",
+  "pregunta": "Los funcionarios de carrera están vinculados a una Administración Pública por:",
+  "opciones": [
+   "Una relación de confianza o asesoramiento especial",
+   "Un contrato de trabajo por tiempo indefinido",
+   "Un contrato administrativo de servicios",
+   "Una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente"
+  ],
+  "correcta": 3,
+  "cita": "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente."
+ },
+ {
+  "n": 7007,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Duración máxima del nombramiento de funcionario interino por exceso o acumulación de tareas",
+  "opciones": [
+   "6 meses dentro de un periodo de 12 meses",
+   "12 meses dentro de un periodo de 24 meses",
+   "9 meses dentro de un periodo de 18 meses",
+   "9 meses dentro de un periodo de 12 meses"
+  ],
+  "correcta": 2,
+  "cita": "d) El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses."
+ },
+ {
+  "n": 7008,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Duración máxima de los programas de carácter temporal que justifican el nombramiento de funcionarios interinos (ampliable hasta doce meses más por las leyes de Función Pública)",
+  "opciones": [
+   "1 año",
+   "4 años",
+   "3 años",
+   "2 años"
+  ],
+  "correcta": 2,
+  "cita": "c) La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto."
+ },
+ {
+  "n": 7009,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Transcurso desde el nombramiento de un funcionario interino en plaza vacante tras el cual, con carácter general, se produce el fin de la relación de interinidad",
+  "opciones": [
+   "2 años",
+   "5 años",
+   "4 años",
+   "3 años"
+  ],
+  "correcta": 3,
+  "cita": "No obstante, transcurridos tres años desde el nombramiento del personal funcionario interino se producirá el fin de la relación de interinidad, y la vacante solo podrá ser ocupada por personal funcionario de carrera, salvo que el"
+ },
+ {
+  "n": 7010,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Los procedimientos de selección del personal funcionario interino se rigen por los principios de:",
+  "opciones": [
+   "Antigüedad y experiencia previa",
+   "Confianza y libre designación",
+   "Igualdad, mérito y capacidad exclusivamente",
+   "Igualdad, mérito, capacidad, publicidad y celeridad"
+  ],
+  "correcta": 3,
+  "cita": "Los procedimientos de selección del personal funcionario interino serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura inmediata del puesto."
+ },
+ {
+  "n": 7011,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "La finalización de la relación de interinidad por cobertura reglada del puesto por personal funcionario de carrera se produce:",
+  "opciones": [
+   "Con derecho a ser nombrado funcionario de carrera",
+   "Sin derecho a compensación alguna",
+   "Con una indemnización de veinte días por año trabajado",
+   "Con una indemnización de doce días por año trabajado"
+  ],
+  "correcta": 1,
+  "cita": "de oficio la finalización de la relación de interinidad por cualquiera de las siguientes causas, además de por las previstas en el artículo 63, sin derecho a compensación alguna: a) Por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera"
+ },
+ {
+  "n": 7012,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a11",
+  "pregunta": "El contrato de trabajo del personal laboral de las Administraciones Públicas debe formalizarse:",
+  "opciones": [
+   "Mediante acta de toma de posesión",
+   "Por escrito",
+   "Verbalmente o por escrito, indistintamente",
+   "Mediante nombramiento publicado en el boletín oficial"
+  ],
+  "correcta": 1,
+  "cita": "Es personal laboral el que en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas."
+ },
+ {
+  "n": 7013,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a12",
+  "pregunta": "El personal eventual realiza exclusivamente funciones:",
+  "opciones": [
+   "Expresamente calificadas como de confianza o asesoramiento especial",
+   "De ejecución de programas temporales",
+   "Directivas profesionales",
+   "Propias de los funcionarios de carrera, por razones de urgencia"
+  ],
+  "correcta": 0,
+  "cita": "Es personal eventual el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin."
+ },
+ {
+  "n": 7014,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a12",
+  "pregunta": "El cese del personal eventual tendrá lugar, en todo caso:",
+  "opciones": [
+   "Al finalizar cada ejercicio presupuestario",
+   "Cuando se produzca el de la autoridad a la que preste la función de confianza o asesoramiento",
+   "Cuando lo acuerde la Mesa General de Negociación",
+   "A los cuatro años de su nombramiento"
+  ],
+  "correcta": 1,
+  "cita": "El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento."
+ },
+ {
+  "n": 7015,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a12",
+  "pregunta": "Según el artículo 12.4, la condición de personal eventual:",
+  "opciones": [
+   "Da derecho a la condición de funcionario tras cuatro años",
+   "Computa como servicio para la promoción interna",
+   "No podrá constituir mérito para el acceso a la Función Pública o para la promoción interna",
+   "Constituye mérito preferente para el acceso a la Función Pública"
+  ],
+  "correcta": 2,
+  "cita": "La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna."
+ },
+ {
+  "n": 7016,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a13",
+  "pregunta": "La determinación de las condiciones de empleo del personal directivo:",
+  "opciones": [
+   "Se fija en el convenio colectivo único",
+   "No tiene la consideración de materia objeto de negociación colectiva",
+   "Se negocia en las Mesas Sectoriales",
+   "Es materia de negociación obligatoria en la Mesa General"
+  ],
+  "correcta": 1,
+  "cita": "La determinación de las condiciones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva a los efectos de esta ley."
+ },
+ {
+  "n": 7017,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a13",
+  "pregunta": "Cuando el personal directivo profesional reúna la condición de personal laboral, estará sometido a:",
+  "opciones": [
+   "El convenio colectivo del personal laboral",
+   "La relación laboral de carácter especial de alta dirección",
+   "El régimen estatutario de los funcionarios de carrera",
+   "El régimen del personal eventual"
+  ],
+  "correcta": 1,
+  "cita": "Cuando el personal directivo reúna la condición de personal laboral estará sometido a la relación laboral de carácter especial de alta dirección."
+ },
+ {
+  "n": 7018,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a14",
+  "pregunta": "¿Cuál de los siguientes es un derecho individual de los empleados públicos según el artículo 14?",
+  "opciones": [
+   "Al planteamiento de conflictos colectivos de trabajo",
+   "A la inamovilidad en la condición de funcionario de carrera",
+   "A la libertad sindical",
+   "Al ejercicio de la huelga"
+  ],
+  "correcta": 1,
+  "cita": "Los empleados públicos tienen los siguientes derechos de carácter individual en correspondencia con la naturaleza jurídica de su relación de servicio: a) A la inamovilidad en la condición de funcionario de carrera."
+ },
+ {
+  "n": 7019,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a15",
+  "pregunta": "¿Cuál de los siguientes es un derecho individual que se ejerce de forma colectiva según el artículo 15?",
+  "opciones": [
+   "A la libertad de expresión",
+   "A la formación continua",
+   "Al ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad",
+   "A la inamovilidad en la condición de funcionario de carrera"
+  ],
+  "correcta": 2,
+  "cita": "Los empleados públicos tienen los siguientes derechos individuales que se ejercen de forma colectiva: a) A la libertad sindical. b) A la negociación colectiva y a la participación en la determinación de las condiciones de trabajo. c) Al ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad."
+ },
+ {
+  "n": 7020,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a16",
+  "pregunta": "¿En qué consiste la carrera horizontal?",
+  "opciones": [
+   "En el ascenso a un cuerpo o escala de un Subgrupo superior",
+   "En la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo",
+   "En el acceso a cuerpos o escalas del mismo Subgrupo",
+   "En el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión"
+  ],
+  "correcta": 1,
+  "cita": "otras, en la aplicación aislada o simultánea de alguna o algunas de las siguientes modalidades: a) Carrera horizontal, que consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo y de conformidad con lo establecido en la letra b) del artículo 17 y en el apartado 3 del artículo"
+ },
+ {
+  "n": 7021,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a16",
+  "pregunta": "¿Cómo se denomina el ascenso desde un cuerpo o escala de un Subgrupo a otro superior?",
+  "opciones": [
+   "Promoción interna vertical",
+   "Carrera vertical",
+   "Promoción interna horizontal",
+   "Carrera horizontal"
+  ],
+  "correcta": 0,
+  "cita": "c) Promoción interna vertical, que consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior, de acuerdo con lo establecido en el artículo 18."
+ },
+ {
+  "n": 7022,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a16",
+  "pregunta": "¿Cómo se denomina el acceso a cuerpos o escalas del mismo Subgrupo profesional?",
+  "opciones": [
+   "Promoción interna horizontal",
+   "Movilidad interadministrativa",
+   "Carrera horizontal",
+   "Promoción interna vertical"
+  ],
+  "correcta": 0,
+  "cita": "d) Promoción interna horizontal, que consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional, de acuerdo con lo dispuesto en el artículo 18."
+ },
+ {
+  "n": 7023,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a16",
+  "pregunta": "La carrera vertical consiste en:",
+  "opciones": [
+   "El ascenso en la estructura de puestos de trabajo por los procedimientos de provisión",
+   "La progresión de grado o escalón sin cambiar de puesto",
+   "El cambio de Administración Pública",
+   "El ascenso a un cuerpo de un Subgrupo superior"
+  ],
+  "correcta": 0,
+  "cita": "b) Carrera vertical, que consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos en el capítulo III del título V de este Estatuto."
+ },
+ {
+  "n": 7024,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a18",
+  "pregunta": "Antigüedad mínima de servicio activo en el Subgrupo inferior exigida para participar en la promoción interna",
+  "opciones": [
+   "1 año",
+   "2 años",
+   "3 años",
+   "5 años"
+  ],
+  "correcta": 1,
+  "cita": "Los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y superar las correspondientes pruebas selectivas."
+ },
+ {
+  "n": 7025,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a19",
+  "pregunta": "La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en:",
+  "opciones": [
+   "El propio TREBEP exclusivamente",
+   "El Estatuto de los Trabajadores o en los convenios colectivos",
+   "Las leyes de Función Pública exclusivamente",
+   "Las relaciones de puestos de trabajo"
+  ],
+  "correcta": 1,
+  "cita": "La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos."
+ },
+ {
+  "n": 7026,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a20",
+  "pregunta": "Según el artículo 20.1, la evaluación del desempeño es el procedimiento mediante el cual se mide y valora:",
+  "opciones": [
+   "Exclusivamente la antigüedad del empleado",
+   "Los méritos académicos del empleado",
+   "La conducta profesional y el rendimiento o el logro de resultados",
+   "La adecuación del puesto a la relación de puestos de trabajo"
+  ],
+  "correcta": 2,
+  "cita": "La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados."
+ },
+ {
+  "n": 7027,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a20",
+  "pregunta": "La continuidad en un puesto de trabajo obtenido por concurso quedará vinculada a:",
+  "opciones": [
+   "La negociación en la Mesa Sectorial",
+   "La antigüedad en el puesto",
+   "La voluntad del superior jerárquico",
+   "La evaluación del desempeño, con audiencia al interesado y resolución motivada"
+  ],
+  "correcta": 3,
+  "cita": "La continuidad en un puesto de trabajo obtenido por concurso quedará vinculada a la evaluación del desempeño de acuerdo con los sistemas de evaluación que cada Administración Pública determine, dándose audiencia al interesado, y por la correspondiente resolución motivada."
+ },
+ {
+  "n": 7028,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a22",
+  "pregunta": "Las retribuciones de los funcionarios de carrera se clasifican en:",
+  "opciones": [
+   "Fijas y variables",
+   "Básicas y complementarias",
+   "Ordinarias y extraordinarias",
+   "Básicas, complementarias y diferidas"
+  ],
+  "correcta": 1,
+  "cita": "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias."
+ },
+ {
+  "n": 7029,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a22",
+  "pregunta": "¿Cuántas pagas extraordinarias al año perciben los funcionarios de carrera?",
+  "opciones": [
+   "Dos",
+   "Una",
+   "Cuatro",
+   "Tres"
+  ],
+  "correcta": 0,
+  "cita": "Las pagas extraordinarias serán dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo aquéllas a las que se refieren los apartados c) y d) del artículo 24."
+ },
+ {
+  "n": 7030,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a22",
+  "pregunta": "Las retribuciones complementarias retribuyen:",
+  "opciones": [
+   "Las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados",
+   "Las aportaciones a planes de pensiones",
+   "Exclusivamente la antigüedad en el servicio",
+   "La adscripción del cuerpo a un Subgrupo y la antigüedad"
+  ],
+  "correcta": 0,
+  "cita": "Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario."
+ },
+ {
+  "n": 7031,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a23",
+  "pregunta": "Las retribuciones básicas de los funcionarios están integradas única y exclusivamente por:",
+  "opciones": [
+   "El sueldo y los trienios",
+   "Los trienios y la productividad",
+   "El sueldo, los trienios y el complemento de destino",
+   "El sueldo y el complemento específico"
+  ],
+  "correcta": 0,
+  "cita": "Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por: a) El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo."
+ },
+ {
+  "n": 7032,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a23",
+  "pregunta": "Los trienios consisten en una cantidad, igual para cada Subgrupo o Grupo, por cada:",
+  "opciones": [
+   "Seis años de servicio",
+   "Dos años de servicio",
+   "Tres años de servicio",
+   "Cinco años de servicio"
+  ],
+  "correcta": 2,
+  "cita": "b) Los trienios, que consisten en una cantidad, que será igual para cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo, por cada tres años de servicio."
+ },
+ {
+  "n": 7033,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a23",
+  "pregunta": "¿Dónde se fijan las retribuciones básicas de los funcionarios?",
+  "opciones": [
+   "En la Ley de Presupuestos Generales del Estado",
+   "En los convenios colectivos",
+   "En la ley de Función Pública de cada Comunidad Autónoma",
+   "En la relación de puestos de trabajo"
+  ],
+  "correcta": 0,
+  "cita": "Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por: a) El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo."
+ },
+ {
+  "n": 7034,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a24",
+  "pregunta": "Según el artículo 24, ¿cuál de los siguientes es un factor para fijar las retribuciones complementarias?",
+  "opciones": [
+   "La adscripción del cuerpo o escala a un Subgrupo",
+   "El número de trienios reconocidos",
+   "La edad del funcionario",
+   "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo"
+  ],
+  "correcta": 3,
+  "cita": "de los funcionarios se establecerán por las correspondientes leyes de cada Administración Pública atendiendo, entre otros, a los siguientes factores: a) La progresión alcanzada por el funcionario dentro del sistema de carrera administrativa. b) La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo o las condiciones en que se desarrolla el trabajo. c) El grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo y el rendimiento o resultados obtenidos. d) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo."
+ },
+ {
+  "n": 7035,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a26",
+  "pregunta": "Las retribuciones de los funcionarios en prácticas se corresponderán, como mínimo, con:",
+  "opciones": [
+   "El salario mínimo interprofesional",
+   "Las retribuciones íntegras del puesto que vayan a ocupar",
+   "Las del Subgrupo inmediatamente inferior",
+   "Las del sueldo del Subgrupo o Grupo en que aspiren a ingresar"
+  ],
+  "correcta": 3,
+  "cita": "Las Administraciones Públicas determinarán las retribuciones de los funcionarios en prácticas que, como mínimo, se corresponderán a las del sueldo del Subgrupo o Grupo, en el supuesto de que éste no tenga Subgrupo, en que aspiren a ingresar."
+ },
+ {
+  "n": 7036,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a29",
+  "pregunta": "Las cantidades destinadas a financiar aportaciones a planes de pensiones de empleo o contratos de seguro colectivos tendrán la consideración de:",
+  "opciones": [
+   "Retribución complementaria",
+   "Acción social",
+   "Indemnización por razón del servicio",
+   "Retribución diferida"
+  ],
+  "correcta": 3,
+  "cita": "Las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán a todos los efectos la consideración de retribución diferida."
+ },
+ {
+  "n": 7037,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a30",
+  "pregunta": "La deducción proporcional de haberes por la parte de jornada no realizada:",
+  "opciones": [
+   "No tiene carácter sancionador",
+   "Solo procede en caso de huelga",
+   "Requiere la previa instrucción de un expediente disciplinario",
+   "Tiene carácter de sanción disciplinaria leve"
+  ],
+  "correcta": 0,
+  "cita": "Sin perjuicio de la sanción disciplinaria que pueda corresponder, la parte de jornada no realizada dará lugar a la deducción proporcional de haberes, que no tendrá carácter sancionador."
+ },
+ {
+  "n": 7038,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a31",
+  "pregunta": "¿Quiénes están legitimados para interponer recursos contra las resoluciones de los órganos de selección según el artículo 31.6?",
+  "opciones": [
+   "El Defensor del Pueblo exclusivamente",
+   "Solo los aspirantes que hayan participado en el proceso",
+   "Las organizaciones sindicales más representativas en el ámbito de la Función Pública",
+   "Las Juntas de Personal exclusivamente"
+  ],
+  "correcta": 2,
+  "cita": "Las organizaciones sindicales más representativas en el ámbito de la Función Pública están legitimadas para la interposición de recursos en vía administrativa y jurisdiccional contra las resoluciones de los órganos de selección."
+ },
+ {
+  "n": 7039,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a33",
+  "pregunta": "Además de las más representativas, están legitimados para estar presentes en las Mesas de Negociación los sindicatos que hayan obtenido, en las elecciones a Delegados y Juntas de Personal de su ámbito:",
+  "opciones": [
+   "El 15 por 100 o más de los representantes",
+   "El 20 por 100 o más de los representantes",
+   "El 10 por 100 o más de los representantes",
+   "El 5 por 100 o más de los representantes"
+  ],
+  "correcta": 2,
+  "cita": "a nivel estatal, las organizaciones sindicales más representativas de comunidad autónoma, así como los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal, en las unidades electorales comprendidas en"
+ },
+ {
+  "n": 7040,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a35",
+  "pregunta": "En la composición numérica de las Mesas de Negociación, ninguna de las partes puede superar:",
+  "opciones": [
+   "Veinticinco miembros",
+   "Veinte miembros",
+   "Diez miembros",
+   "Quince miembros"
+  ],
+  "correcta": 3,
+  "cita": "En las normas de desarrollo del presente Estatuto se establecerá la composición numérica de las Mesas correspondientes a sus ámbitos, sin que ninguna de las partes pueda superar el número de quince miembros."
+ },
+ {
+  "n": 7041,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a37",
+  "pregunta": "¿Cuál de las siguientes materias está excluida de la obligatoriedad de la negociación según el artículo 37.2?",
+  "opciones": [
+   "Los poderes de dirección y control propios de la relación jerárquica",
+   "Los criterios generales sobre ofertas de empleo público",
+   "La determinación y aplicación de las retribuciones complementarias de los funcionarios",
+   "Los criterios generales de acción social"
+  ],
+  "correcta": 0,
+  "cita": "Quedan excluidas de la obligatoriedad de la negociación, las materias siguientes: a) Las decisiones de las Administraciones Públicas que afecten a sus potestades de organización. Cuando las consecuencias de las decisiones de las Administraciones Públicas que afecten a sus potestades de organización tengan repercusión sobre condiciones de trabajo de los funcionarios públicos contempladas en el apartado anterior, procederá la negociación de dichas condiciones con las organizaciones sindicales a que se refiere este Estatuto. b) La regulación del ejercicio de los derechos de los ciudadanos y de los usuarios de los servicios públicos, así como el procedimiento de formación de los actos y disposiciones administrativas. c) La determinación de condiciones de trabajo del personal directivo. d) Los poderes de dirección y control propios de la relación jerárquica."
+ },
+ {
+  "n": 7042,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a38",
+  "pregunta": "Salvo acuerdo en contrario, los Pactos y Acuerdos:",
+  "opciones": [
+   "Se prorrogan por períodos de tres años",
+   "Se extinguen automáticamente al año de su firma",
+   "Se prorrogarán de año en año si no mediara denuncia expresa de una de las partes",
+   "Se prorrogan hasta la firma de un nuevo convenio, sin posibilidad de denuncia"
+  ],
+  "correcta": 2,
+  "cita": "Salvo acuerdo en contrario, los Pactos y Acuerdos se prorrogarán de año en año si no mediara denuncia expresa de una de las partes."
+ },
+ {
+  "n": 7043,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a38",
+  "pregunta": "Los Acuerdos ratificados que traten sobre materias sometidas a reserva de ley:",
+  "opciones": [
+   "Modifican automáticamente la ley",
+   "Carecen de eficacia directa",
+   "Se elevan a reglamento por la Mesa General",
+   "Son directamente aplicables al personal"
+  ],
+  "correcta": 1,
+  "cita": "Si los Acuerdos ratificados tratan sobre materias sometidas a reserva de ley que, en consecuencia, sólo pueden ser determinadas definitivamente por las Cortes Generales o las asambleas legislativas de las comunidades autónomas, su contenido carecerá de eficacia directa."
+ },
+ {
+  "n": 7044,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a39",
+  "pregunta": "¿Cuáles son los órganos específicos de representación de los funcionarios?",
+  "opciones": [
+   "Los Comités de Empresa y los Delegados Sindicales",
+   "Los Delegados de Personal y las Juntas de Personal",
+   "Las Mesas de Negociación",
+   "Las Comisiones Paritarias"
+  ],
+  "correcta": 1,
+  "cita": "Los órganos específicos de representación de los funcionarios son los Delegados de Personal y las Juntas de Personal."
+ },
+ {
+  "n": 7045,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a39",
+  "pregunta": "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de:",
+  "opciones": [
+   "100 funcionarios",
+   "6 funcionarios",
+   "50 funcionarios",
+   "30 funcionarios"
+  ],
+  "correcta": 2,
+  "cita": "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios."
+ },
+ {
+  "n": 7046,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a39",
+  "pregunta": "En las unidades electorales de 31 a 49 funcionarios, ¿cuántos Delegados de Personal se eligen?",
+  "opciones": [
+   "Tres",
+   "Cinco",
+   "Uno",
+   "Dos"
+  ],
+  "correcta": 0,
+  "cita": "Hasta 30 funcionarios se elegirá un Delegado, y de 31 a 49 se elegirán tres, que ejercerán su representación conjunta y mancomunadamente."
+ },
+ {
+  "n": 7047,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a39",
+  "pregunta": "¿Cuántos representantes tiene una Junta de Personal en una unidad electoral de 50 a 100 funcionarios?",
+  "opciones": [
+   "7",
+   "5",
+   "9",
+   "3"
+  ],
+  "correcta": 1,
+  "cita": "Cada Junta de Personal se compone de un número de representantes, en función del número de funcionarios de la Unidad electoral correspondiente, de acuerdo con la siguiente escala, en coherencia con lo establecido en el Estatuto de los Trabajadores: De 50 a 100 funcionarios: 5."
+ },
+ {
+  "n": 7048,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a41",
+  "pregunta": "Crédito de horas mensuales de los representantes en unidades electorales de hasta 100 funcionarios:",
+  "opciones": [
+   "10 horas",
+   "15 horas",
+   "20 horas",
+   "30 horas"
+  ],
+  "correcta": 1,
+  "cita": "d) Un crédito de horas mensuales dentro de la jornada de trabajo y retribuidas como de trabajo efectivo, de acuerdo con la siguiente escala: Hasta 100 funcionarios: 15."
+ },
+ {
+  "n": 7049,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a42",
+  "pregunta": "Mandato de los miembros de las Juntas de Personal y de los Delegados de Personal",
+  "opciones": [
+   "3 años",
+   "5 años",
+   "4 años",
+   "2 años"
+  ],
+  "correcta": 2,
+  "cita": "El mandato de los miembros de las Juntas de Personal y de los Delegados de Personal, en su caso, será de cuatro años, pudiendo ser reelegidos."
+ },
+ {
+  "n": 7050,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a44",
+  "pregunta": "¿Mediante qué sistema se eligen las Juntas de Personal?",
+  "opciones": [
+   "Listas cerradas y sistema proporcional corregido",
+   "Listas abiertas y sistema mayoritario",
+   "Listas abiertas y sistema proporcional",
+   "Listas cerradas y sistema mayoritario"
+  ],
+  "correcta": 0,
+  "cita": "d) Las Juntas de Personal se elegirán mediante listas cerradas a través de un sistema proporcional corregido, y los Delegados de Personal mediante listas abiertas y sistema mayoritario."
+ },
+ {
+  "n": 7051,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a44",
+  "pregunta": "¿Mediante qué sistema se eligen los Delegados de Personal?",
+  "opciones": [
+   "Listas cerradas y sistema proporcional corregido",
+   "Listas abiertas y sistema mayoritario",
+   "Listas cerradas y sistema mayoritario",
+   "Designación sindical directa"
+  ],
+  "correcta": 1,
+  "cita": "d) Las Juntas de Personal se elegirán mediante listas cerradas a través de un sistema proporcional corregido, y los Delegados de Personal mediante listas abiertas y sistema mayoritario."
+ },
+ {
+  "n": 7052,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a46",
+  "pregunta": "Los empleados públicos pueden convocar una reunión si su número no es inferior al:",
+  "opciones": [
+   "10 por 100 del colectivo convocado",
+   "40 por 100 del colectivo convocado",
+   "25 por 100 del colectivo convocado",
+   "50 por 100 del colectivo convocado"
+  ],
+  "correcta": 1,
+  "cita": "d) Los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado."
+ },
+ {
+  "n": 7053,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a4-2",
+  "pregunta": "Según el artículo 47 bis, la prestación del servicio mediante teletrabajo:",
+  "opciones": [
+   "No requiere autorización expresa",
+   "Es obligatoria cuando lo decida la Administración",
+   "Sustituye en todo caso a la modalidad presencial",
+   "Habrá de ser expresamente autorizada, será compatible con la modalidad presencial y tendrá carácter voluntario y reversible, salvo supuestos excepcionales"
+  ],
+  "correcta": 3,
+  "cita": "La prestación del servicio mediante teletrabajo habrá de ser expresamente autorizada y será compatible con la modalidad presencial."
+ },
+ {
+  "n": 7054,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a4-2",
+  "pregunta": "En el teletrabajo, ¿quién proporciona y mantiene los medios tecnológicos necesarios para la actividad?",
+  "opciones": [
+   "El empleado y la Administración a partes iguales",
+   "El propio empleado",
+   "La Administración",
+   "Las organizaciones sindicales"
+  ],
+  "correcta": 2,
+  "cita": "La Administración proporcionará y mantendrá a las personas que trabajen en esta modalidad, los medios tecnológicos necesarios para su actividad."
+ },
+ {
+  "n": 7055,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Permiso por accidente o enfermedad graves, hospitalización o intervención quirúrgica con reposo domiciliario del cónyuge o de un pariente de primer grado",
+  "opciones": [
+   "4 días hábiles",
+   "3 días hábiles",
+   "5 días hábiles",
+   "2 días hábiles"
+  ],
+  "correcta": 2,
+  "cita": "distinta de las anteriores que conviva con el funcionario o funcionaria en el mismo domicilio y que requiera el cuidado efectivo de aquella, cinco días hábiles."
+ },
+ {
+  "n": 7056,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Permiso por accidente o enfermedad graves, hospitalización o intervención quirúrgica con reposo domiciliario de un familiar dentro del segundo grado",
+  "opciones": [
+   "3 días hábiles",
+   "2 días hábiles",
+   "5 días hábiles",
+   "4 días hábiles"
+  ],
+  "correcta": 3,
+  "cita": "Cuando se trate de accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario, de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de cuatro días hábiles."
+ },
+ {
+  "n": 7057,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Permiso por fallecimiento del cónyuge o familiar de primer grado, cuando el suceso se produzca en la misma localidad",
+  "opciones": [
+   "3 días hábiles",
+   "2 días hábiles",
+   "4 días hábiles",
+   "5 días hábiles"
+  ],
+  "correcta": 0,
+  "cita": "Cuando se trate de fallecimiento del cónyuge, pareja de hecho o familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles, cuando sea en distinta localidad."
+ },
+ {
+  "n": 7058,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Permiso por fallecimiento de familiar dentro del segundo grado, cuando se produzca en distinta localidad",
+  "opciones": [
+   "5 días hábiles",
+   "4 días hábiles",
+   "3 días hábiles",
+   "2 días hábiles"
+  ],
+  "correcta": 1,
+  "cita": "En el caso de fallecimiento de familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de dos días hábiles cuando se produzca en la misma localidad y de cuatro días hábiles cuando sea en distinta localidad."
+ },
+ {
+  "n": 7059,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Permiso por traslado de domicilio sin cambio de residencia",
+  "opciones": [
+   "2 días",
+   "4 días",
+   "1 día",
+   "3 días"
+  ],
+  "correcta": 2,
+  "cita": "b) Por traslado de domicilio sin cambio de residencia, un día."
+ },
+ {
+  "n": 7060,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Permiso por asuntos particulares, al año",
+  "opciones": [
+   "6 días",
+   "8 días",
+   "3 días",
+   "5 días"
+  ],
+  "correcta": 0,
+  "cita": "k) Por asuntos particulares, seis días al año."
+ },
+ {
+  "n": 7061,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Permiso por matrimonio o registro o constitución formalizada de pareja de hecho",
+  "opciones": [
+   "22 días",
+   "15 días",
+   "10 días",
+   "20 días"
+  ],
+  "correcta": 1,
+  "cita": "l) Por matrimonio o registro o constitución formalizada por documento público de pareja de hecho, quince días."
+ },
+ {
+  "n": 7062,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "El permiso por lactancia de un hijo menor de doce meses da derecho a:",
+  "opciones": [
+   "Una hora de ausencia del trabajo, que podrá dividirse en dos fracciones",
+   "Dos horas diarias de ausencia",
+   "Una reducción del 50 % de la jornada",
+   "Media hora diaria de ausencia"
+  ],
+  "correcta": 0,
+  "cita": "f) Por lactancia de un hijo menor de doce meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones."
+ },
+ {
+  "n": 7063,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "En caso de nacimiento de hijos prematuros que deban permanecer hospitalizados, el funcionario tiene derecho a ausentarse del trabajo, con retribuciones íntegras, durante un máximo de:",
+  "opciones": [
+   "Dos horas diarias",
+   "Tres horas diarias",
+   "Media jornada",
+   "Una hora diaria"
+  ],
+  "correcta": 0,
+  "cita": "g) Por nacimiento de hijos prematuros o que por cualquier otra causa deban permanecer hospitalizados a continuación del parto, la funcionaria o el funcionario tendrá derecho a ausentarse del trabajo durante un máximo de dos horas diarias percibiendo las retribuciones íntegras."
+ },
+ {
+  "n": 7064,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "Para atender el cuidado de un familiar de primer grado por enfermedad muy grave, el funcionario puede solicitar una reducción retribuida de la jornada de hasta el cincuenta por ciento durante un plazo máximo de:",
+  "opciones": [
+   "Tres meses",
+   "Quince días",
+   "Un mes",
+   "Dos meses"
+  ],
+  "correcta": 2,
+  "cita": "i) Por ser preciso atender el cuidado de un familiar de primer grado, el funcionario tendrá derecho a solicitar una reducción de hasta el cincuenta por ciento de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un mes."
+ },
+ {
+  "n": 7065,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a48",
+  "pregunta": "La reducción de jornada por guarda legal del artículo 48.h) procede, entre otros supuestos, cuando el funcionario tenga el cuidado directo de algún menor de:",
+  "opciones": [
+   "Ocho años",
+   "Catorce años",
+   "Doce años",
+   "Diez años"
+  ],
+  "correcta": 2,
+  "cita": "h) Por razones de guarda legal, cuando el funcionario tenga el cuidado directo de algún menor de doce años, de persona mayor que requiera especial dedicación, o de una persona con discapacidad que no"
+ },
+ {
+  "n": 7066,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a49",
+  "pregunta": "Duración del permiso por nacimiento para la madre biológica (caso general, sin monoparentalidad)",
+  "opciones": [
+   "16 semanas",
+   "20 semanas",
+   "19 semanas",
+   "17 semanas"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso se concederán los siguientes permisos con las correspondientes condiciones mínimas: a) Permiso por nacimiento para la madre biológica: tendrá una duración de diecinueve semanas."
+ },
+ {
+  "n": 7067,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a49",
+  "pregunta": "Duración del permiso por nacimiento para la madre biológica en el supuesto de monoparentalidad",
+  "opciones": [
+   "26 semanas",
+   "38 semanas",
+   "32 semanas",
+   "28 semanas"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso se concederán los siguientes permisos con las correspondientes condiciones mínimas: a) Permiso por nacimiento para la madre biológica: tendrá una duración de diecinueve semanas. En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas."
+ },
+ {
+  "n": 7068,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a49",
+  "pregunta": "Semanas obligatorias e ininterrumpidas, inmediatamente posteriores al parto, del permiso por nacimiento para la madre biológica",
+  "opciones": [
+   "6 semanas",
+   "10 semanas",
+   "4 semanas",
+   "8 semanas"
+  ],
+  "correcta": 0,
+  "cita": "El permiso por el cuidado de menor se distribuye de la siguiente manera: 1.º Seis semanas ininterrumpidas inmediatamente posteriores al parto, serán obligatorias y habrán de disfrutarse a jornada completa."
+ },
+ {
+  "n": 7069,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a49",
+  "pregunta": "Duración máxima del permiso parental (no retribuido) para el cuidado de hijo hasta que cumpla ocho años",
+  "opciones": [
+   "12 semanas",
+   "6 semanas",
+   "4 semanas",
+   "8 semanas"
+  ],
+  "correcta": 3,
+  "cita": "a un año, hasta el momento en que el menor cumpla ocho años: no tendrá carácter retribuido y tendrá una duración no superior a ocho semanas, continuas o discontinuas, podrá disfrutarse a tiempo completo, o en régimen de jornada a tiempo"
+ },
+ {
+  "n": 7070,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a49",
+  "pregunta": "La funcionaria víctima de violencia de género o sexual que reduzca su jornada mantendrá sus retribuciones íntegras cuando la reducción sea de:",
+  "opciones": [
+   "Un tercio o menos",
+   "La mitad o menos",
+   "Un cuarto o menos",
+   "Cualquier duración"
+  ],
+  "correcta": 0,
+  "cita": "En el supuesto enunciado en el párrafo anterior, la funcionaria pública mantendrá sus retribuciones íntegras cuando reduzca su jornada en un tercio o menos."
+ },
+ {
+  "n": 7071,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a49",
+  "pregunta": "En el permiso por cuidado de hijo menor afectado por cáncer u otra enfermedad grave, la reducción de jornada debe ser de, al menos:",
+  "opciones": [
+   "Un cuarto de la jornada",
+   "Un tercio de la jornada",
+   "La mitad de la duración de la jornada",
+   "Dos horas diarias"
+  ],
+  "correcta": 2,
+  "cita": "adoptantes, guardadoras con fines de adopción o acogedoras de carácter permanente trabajen, a una reducción de la jornada de trabajo de al menos la mitad de la duración de aquélla, percibiendo las retribuciones íntegras con cargo a los presupuestos del órgano o entidad donde"
+ },
+ {
+  "n": 7072,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a50",
+  "pregunta": "Los funcionarios tienen derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de:",
+  "opciones": [
+   "Veinte días hábiles",
+   "Veintidós días hábiles",
+   "Treinta días naturales",
+   "Veinticinco días hábiles"
+  ],
+  "correcta": 1,
+  "cita": "Los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor."
+ },
+ {
+  "n": 7073,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a50",
+  "pregunta": "A efectos del cómputo de las vacaciones de los funcionarios:",
+  "opciones": [
+   "Los domingos se consideran días hábiles",
+   "Se computan días naturales",
+   "No se consideran días hábiles los sábados, sin perjuicio de las adaptaciones para horarios especiales",
+   "Los sábados se consideran días hábiles"
+  ],
+  "correcta": 2,
+  "cita": "A los efectos de lo previsto en el presente artículo, no se considerarán como días hábiles los sábados, sin perjuicio de las adaptaciones que se establezcan para los horarios especiales."
+ },
+ {
+  "n": 7074,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a50",
+  "pregunta": "El período de vacaciones anuales retribuidas de los funcionarios públicos:",
+  "opciones": [
+   "Puede sustituirse por días de asuntos particulares",
+   "No puede ser sustituido por una cuantía económica, salvo en los casos de conclusión de la relación de servicios por causas ajenas a su voluntad",
+   "Puede sustituirse por una compensación económica a petición del funcionario",
+   "Puede acumularse indefinidamente a años posteriores"
+  ],
+  "correcta": 1,
+  "cita": "El período de vacaciones anuales retribuidas de los funcionarios públicos no puede ser sustituido por una cuantía económica."
+ },
+ {
+  "n": 7075,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a50",
+  "pregunta": "Límite, desde el final del año en que se originen, para disfrutar las vacaciones que no pudieron disfrutarse por incapacidad temporal, maternidad o riesgo durante el embarazo o la lactancia",
+  "opciones": [
+   "6 meses",
+   "24 meses",
+   "18 meses",
+   "12 meses"
+  ],
+  "correcta": 2,
+  "cita": "el periodo vacacional se podrá disfrutar aunque haya terminado el año natural a que correspondan y siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se hayan originado."
+ },
+ {
+  "n": 7076,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a52",
+  "pregunta": "Los principios y reglas del Código de Conducta de los empleados públicos:",
+  "opciones": [
+   "Solo se aplican al personal directivo",
+   "Informarán la interpretación y aplicación del régimen disciplinario",
+   "Sustituyen al régimen disciplinario",
+   "Carecen de efectos jurídicos"
+  ],
+  "correcta": 1,
+  "cita": "Los principios y reglas establecidos en este capítulo informarán la interpretación y aplicación del régimen disciplinario de los empleados públicos."
+ },
+ {
+  "n": 7077,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a54",
+  "pregunta": "Según los principios de conducta, los empleados públicos obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que:",
+  "opciones": [
+   "No se den por escrito",
+   "Constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso lo pondrán en conocimiento de los órganos de inspección",
+   "Afecten a su horario de trabajo",
+   "No estén de acuerdo con ellas"
+  ],
+  "correcta": 1,
+  "cita": "Obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes."
+ },
+ {
+  "n": 7078,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a54",
+  "pregunta": "Según el artículo 54.6, los empleados públicos rechazarán cualquier regalo, favor o servicio en condiciones ventajosas que:",
+  "opciones": [
+   "Vaya más allá de los usos habituales, sociales y de cortesía",
+   "No se haya declarado previamente",
+   "Proceda de otra Administración",
+   "Supere los 50 euros"
+  ],
+  "correcta": 0,
+  "cita": "Se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía, sin perjuicio de lo establecido en el Código Penal."
+ },
+ {
+  "n": 7079,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a55",
+  "pregunta": "¿Cuál de los siguientes NO es un principio de los procedimientos de selección del artículo 55.2?",
+  "opciones": [
+   "Imparcialidad y profesionalidad de los miembros de los órganos de selección",
+   "Preferencia de los aspirantes con experiencia en la Administración",
+   "Publicidad de las convocatorias y de sus bases",
+   "Agilidad, sin perjuicio de la objetividad, en los procesos de selección"
+  ],
+  "correcta": 1,
+  "cita": "mediante procedimientos en los que se garanticen los principios constitucionales antes expresados, así como los establecidos a continuación: a) Publicidad de las convocatorias y de sus bases. b) Transparencia. c) Imparcialidad y profesionalidad de los miembros de los órganos de selección. d) Independencia y discrecionalidad técnica en la actuación de los órganos de selección. e) Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar. f) Agilidad, sin perjuicio de la objetividad, en los procesos de selección."
+ },
+ {
+  "n": 7080,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a56",
+  "pregunta": "Edad mínima para participar en los procesos selectivos de acceso al empleo público:",
+  "opciones": [
+   "Dieciocho años cumplidos",
+   "Diecisiete años cumplidos",
+   "Dieciséis años cumplidos",
+   "Veintiún años cumplidos"
+  ],
+  "correcta": 2,
+  "cita": "c) Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa."
+ },
+ {
+  "n": 7081,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a56",
+  "pregunta": "Una edad máxima de acceso al empleo público distinta de la edad de jubilación forzosa solo puede establecerse:",
+  "opciones": [
+   "Por la convocatoria de cada proceso selectivo",
+   "Por orden ministerial",
+   "Por real decreto",
+   "Por ley"
+  ],
+  "correcta": 3,
+  "cita": "Sólo por ley podrá establecerse otra edad máxima, distinta de la edad de jubilación forzosa, para el acceso al empleo público."
+ },
+ {
+  "n": 7082,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a57",
+  "pregunta": "Los nacionales de los Estados miembros de la Unión Europea pueden acceder como personal funcionario a los empleos públicos en igualdad de condiciones que los españoles, con excepción de:",
+  "opciones": [
+   "Todos los del Grupo A",
+   "Ninguno",
+   "Todos los de la Administración General del Estado",
+   "Aquellos que impliquen una participación en el ejercicio del poder público o en la salvaguardia de los intereses del Estado o de las Administraciones Públicas"
+  ],
+  "correcta": 3,
+  "cita": "como personal funcionario, en igualdad de condiciones que los españoles a los empleos públicos, con excepción de aquellos que directa o indirectamente impliquen una participación en el ejercicio del poder público o en las funciones que tienen por objeto la salvaguardia de los intereses del Estado o de las"
+ },
+ {
+  "n": 7083,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a57",
+  "pregunta": "Los extranjeros con residencia legal en España pueden acceder a las Administraciones Públicas:",
+  "opciones": [
+   "En ningún caso",
+   "Solo como personal eventual",
+   "Como personal funcionario, en igualdad de condiciones que los españoles",
+   "Como personal laboral, en igualdad de condiciones que los españoles"
+  ],
+  "correcta": 3,
+  "cita": "Los extranjeros a los que se refieren los apartados anteriores, así como los extranjeros con residencia legal en España podrán acceder a las Administraciones Públicas, como personal laboral, en igualdad de condiciones que los españoles."
+ },
+ {
+  "n": 7084,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a57",
+  "pregunta": "La exención del requisito de nacionalidad para el acceso a la condición de funcionario por razones de interés general solo puede establecerse por:",
+  "opciones": [
+   "Ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas",
+   "Real decreto del Consejo de Ministros",
+   "Acuerdo de la Mesa General de Negociación",
+   "La convocatoria del proceso selectivo"
+  ],
+  "correcta": 0,
+  "cita": "Sólo por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas podrá eximirse del requisito de la nacionalidad por razones de interés general para el acceso a la condición de personal funcionario."
+ },
+ {
+  "n": 7085,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a59",
+  "pregunta": "En las ofertas de empleo público se reservará para personas con discapacidad un cupo no inferior al:",
+  "opciones": [
+   "Diez por ciento de las vacantes",
+   "Cinco por ciento de las vacantes",
+   "Siete por ciento de las vacantes",
+   "Dos por ciento de las vacantes"
+  ],
+  "correcta": 2,
+  "cita": "En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, considerando como tales las definidas en el"
+ },
+ {
+  "n": 7086,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a59",
+  "pregunta": "De la reserva para personas con discapacidad, ¿qué porcentaje mínimo de las plazas ofertadas se destina a personas que acrediten discapacidad intelectual?",
+  "opciones": [
+   "El uno por ciento",
+   "El tres por ciento",
+   "El cinco por ciento",
+   "El dos por ciento"
+  ],
+  "correcta": 3,
+  "cita": "La reserva del mínimo del siete por ciento se realizará de manera que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad."
+ },
+ {
+  "n": 7087,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a60",
+  "pregunta": "¿Quiénes NO pueden formar parte de los órganos de selección?",
+  "opciones": [
+   "El personal de elección o de designación política, los funcionarios interinos y el personal eventual",
+   "El personal laboral fijo",
+   "Los funcionarios de carrera del Subgrupo A1",
+   "Los funcionarios de carrera de otras Administraciones"
+  ],
+  "correcta": 0,
+  "cita": "El personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección."
+ },
+ {
+  "n": 7088,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a60",
+  "pregunta": "La pertenencia a los órganos de selección será siempre:",
+  "opciones": [
+   "En representación de la Administración convocante",
+   "En representación de las organizaciones sindicales",
+   "A propuesta de las Juntas de Personal",
+   "A título individual, sin que pueda ostentarse en representación o por cuenta de nadie"
+  ],
+  "correcta": 3,
+  "cita": "La pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie."
+ },
+ {
+  "n": 7089,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a61",
+  "pregunta": "¿Cuáles son los sistemas selectivos de los funcionarios de carrera?",
+  "opciones": [
+   "La oposición, el concurso-oposición y el concurso, indistintamente",
+   "La oposición exclusivamente",
+   "El concurso y la libre designación",
+   "La oposición y el concurso-oposición; el concurso solo con carácter excepcional y en virtud de ley"
+  ],
+  "correcta": 3,
+  "cita": "Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición que deberán incluir, en todo caso, una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación."
+ },
+ {
+  "n": 7090,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a61",
+  "pregunta": "En los procesos selectivos que incluyan valoración de méritos, dicha valoración:",
+  "opciones": [
+   "Tendrá siempre el mismo peso que las pruebas de capacidad",
+   "Determinará por sí sola el resultado del proceso",
+   "Solo podrá computar la antigüedad",
+   "Tendrá una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado del proceso selectivo"
+  ],
+  "correcta": 3,
+  "cita": "Los procesos selectivos que incluyan, además de las preceptivas pruebas de capacidad, la valoración de méritos de los aspirantes sólo podrán otorgar a dicha valoración una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado del proceso selectivo."
+ },
+ {
+  "n": 7091,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a61",
+  "pregunta": "¿Pueden los órganos de selección proponer el acceso a la condición de funcionario de un número de aprobados superior al de plazas convocadas?",
+  "opciones": [
+   "Sí, hasta un diez por ciento más",
+   "Sí, en todo caso",
+   "Sí, si hay empate en la puntuación",
+   "No, excepto cuando así lo prevea la propia convocatoria"
+  ],
+  "correcta": 3,
+  "cita": "Los órganos de selección no podrán proponer el acceso a la condición de funcionario de un número superior de aprobados al de plazas convocadas, excepto cuando así lo prevea la propia convocatoria."
+ },
+ {
+  "n": 7092,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a61",
+  "pregunta": "¿Cuáles son los sistemas selectivos del personal laboral fijo?",
+  "opciones": [
+   "La libre designación",
+   "Solo la oposición",
+   "Solo el concurso de méritos",
+   "La oposición, el concurso-oposición o el concurso de valoración de méritos"
+  ],
+  "correcta": 3,
+  "cita": "Los sistemas selectivos de personal laboral fijo serán los de oposición, concurso-oposición, con las características establecidas en el apartado anterior, o concurso de valoración de méritos."
+ },
+ {
+  "n": 7093,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a62",
+  "pregunta": "¿Cuál de los siguientes NO es uno de los requisitos sucesivos para adquirir la condición de funcionario de carrera (artículo 62)?",
+  "opciones": [
+   "La toma de posesión dentro del plazo que se establezca",
+   "La superación del proceso selectivo",
+   "El acto de acatamiento de la Constitución",
+   "La superación de un período de evaluación del desempeño de un año"
+  ],
+  "correcta": 3,
+  "cita": "La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos: a) Superación del proceso selectivo. b) Nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente. c) Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico. d) Toma de posesión dentro del plazo que se establezca."
+ },
+ {
+  "n": 7094,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a63",
+  "pregunta": "¿Cuál de las siguientes NO es causa de pérdida de la condición de funcionario de carrera según el artículo 63?",
+  "opciones": [
+   "La pena de inhabilitación absoluta o especial para cargo público que tuviere carácter firme",
+   "La sanción de suspensión firme de funciones",
+   "La jubilación total del funcionario",
+   "La renuncia a la condición de funcionario"
+  ],
+  "correcta": 1,
+  "cita": "Son causas de pérdida de la condición de funcionario de carrera: a) La renuncia a la condición de funcionario. b) La pérdida de la nacionalidad. c) La jubilación total del funcionario. d) La sanción disciplinaria de separación del servicio que tuviere carácter firme. e) La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviere carácter firme."
+ },
+ {
+  "n": 7095,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a64",
+  "pregunta": "No podrá ser aceptada la renuncia a la condición de funcionario cuando:",
+  "opciones": [
+   "Esté sujeto a expediente disciplinario o se haya dictado contra él auto de procesamiento o de apertura de juicio oral por algún delito",
+   "Tenga menos de cinco años de servicios",
+   "Esté en situación de excedencia",
+   "No la haya comunicado con un mes de antelación"
+  ],
+  "correcta": 0,
+  "cita": "No podrá ser aceptada la renuncia cuando el funcionario esté sujeto a expediente disciplinario o haya sido dictado en su contra auto de procesamiento o de apertura de juicio oral por la comisión de algún delito."
+ },
+ {
+  "n": 7096,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a64",
+  "pregunta": "La renuncia a la condición de funcionario:",
+  "opciones": [
+   "Inhabilita para volver a ingresar en la Administración",
+   "No inhabilita para ingresar de nuevo en la Administración a través del procedimiento de selección establecido",
+   "Solo permite reingresar como personal laboral",
+   "Inhabilita durante cinco años"
+  ],
+  "correcta": 1,
+  "cita": "La renuncia a la condición de funcionario no inhabilita para ingresar de nuevo en la Administración Pública a través del procedimiento de selección establecido."
+ },
+ {
+  "n": 7097,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a66",
+  "pregunta": "La pena de inhabilitación especial firme produce la pérdida de la condición de funcionario respecto de:",
+  "opciones": [
+   "Los empleos o cargos especificados en la sentencia",
+   "Ningún empleo, solo suspende sus funciones",
+   "Los empleos de la misma Administración",
+   "Todos los empleos o cargos que tuviere"
+  ],
+  "correcta": 0,
+  "cita": "La pena principal o accesoria de inhabilitación especial cuando hubiere adquirido firmeza la sentencia que la imponga produce la pérdida de la condición de funcionario respecto de aquellos empleos o cargos especificados en la sentencia."
+ },
+ {
+  "n": 7098,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a67",
+  "pregunta": "Con carácter general, la jubilación forzosa se declarará de oficio al cumplir el funcionario:",
+  "opciones": [
+   "Sesenta y cinco años",
+   "Setenta años",
+   "Sesenta y siete años",
+   "Sesenta años"
+  ],
+  "correcta": 0,
+  "cita": "La jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad."
+ },
+ {
+  "n": 7099,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a67",
+  "pregunta": "La prolongación de la permanencia en el servicio activo puede solicitarse, como máximo, hasta que se cumplan:",
+  "opciones": [
+   "Sesenta y siete años",
+   "Sesenta y ocho años",
+   "Setenta años",
+   "Setenta y dos años"
+  ],
+  "correcta": 2,
+  "cita": "No obstante, en los términos de las leyes de Función Pública que se dicten en desarrollo de este Estatuto, se podrá solicitar la prolongación de la permanencia en el servicio activo como máximo hasta que se cumpla setenta años de edad."
+ },
+ {
+  "n": 7100,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a68",
+  "pregunta": "En caso de extinción de la relación de servicios por pérdida de la nacionalidad o jubilación por incapacidad permanente, desaparecida la causa, la rehabilitación solicitada:",
+  "opciones": [
+   "Le será concedida",
+   "Requiere informe favorable del Consejo de Estado",
+   "Podrá concederse con carácter excepcional",
+   "Requiere superar un nuevo proceso selectivo"
+  ],
+  "correcta": 0,
+  "cita": "En caso de extinción de la relación de servicios como consecuencia de pérdida de la nacionalidad o jubilación por incapacidad permanente para el servicio, el interesado, una vez desaparecida la causa objetiva que la motivó, podrá solicitar la rehabilitación de su condición de funcionario, que le será concedida."
+ },
+ {
+  "n": 7101,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a70",
+  "pregunta": "La Oferta de empleo público comporta la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un:",
+  "opciones": [
+   "Veinte por cien adicional",
+   "Cinco por cien adicional",
+   "Quince por cien adicional",
+   "Diez por cien adicional"
+  ],
+  "correcta": 3,
+  "cita": "de personal, lo que comportará la obligación de convocar los correspondientes procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional, fijando el plazo máximo para la convocatoria de los mismos."
+ },
+ {
+  "n": 7102,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a70",
+  "pregunta": "Plazo improrrogable para la ejecución de la oferta de empleo público",
+  "opciones": [
+   "4 años",
+   "2 años",
+   "3 años",
+   "1 año"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso, la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años."
+ },
+ {
+  "n": 7103,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a70",
+  "pregunta": "La Oferta de empleo público se aprobará:",
+  "opciones": [
+   "Cada tres años por las Cortes Generales",
+   "Cada dos años por el Ministerio competente, sin publicación",
+   "Anualmente por la Mesa General de Negociación",
+   "Anualmente por los órganos de Gobierno de las Administraciones Públicas, y se publicará en el Diario oficial correspondiente"
+  ],
+  "correcta": 3,
+  "cita": "La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, deberá ser publicada en el Diario oficial correspondiente."
+ },
+ {
+  "n": 7104,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a74",
+  "pregunta": "¿Qué deben comprender, al menos, las relaciones de puestos de trabajo?",
+  "opciones": [
+   "El nombre de los funcionarios que ocupan cada puesto",
+   "Únicamente la denominación de los puestos y su titular",
+   "La denominación de los puestos, los grupos de clasificación, los cuerpos o escalas, los sistemas de provisión y las retribuciones complementarias",
+   "Las retribuciones básicas y los trienios de cada titular"
+  ],
+  "correcta": 2,
+  "cita": "a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares que comprenderán, al menos, la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas, en su caso, a que estén adscritos, los sistemas de provisión y las"
+ },
+ {
+  "n": 7105,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a75",
+  "pregunta": "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por:",
+  "opciones": [
+   "Real decreto",
+   "Ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas",
+   "Orden ministerial",
+   "Acuerdo de la Mesa General de Negociación"
+  ],
+  "correcta": 1,
+  "cita": "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas."
+ },
+ {
+  "n": 7106,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a76",
+  "pregunta": "¿Qué titulación se exige para el acceso a los cuerpos o escalas del Subgrupo C1?",
+  "opciones": [
+   "Título de Graduado en Educación Secundaria Obligatoria",
+   "Título universitario de Grado",
+   "Título de Técnico Superior",
+   "Título de Bachiller o Técnico"
+  ],
+  "correcta": 3,
+  "cita": "C1: Título de Bachiller o Técnico."
+ },
+ {
+  "n": 7107,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a76",
+  "pregunta": "¿Qué titulación se exige para el acceso a los cuerpos o escalas del Grupo B?",
+  "opciones": [
+   "Título de Graduado en Educación Secundaria Obligatoria",
+   "Título de Técnico Superior",
+   "Título universitario de Grado",
+   "Título de Bachiller o Técnico"
+  ],
+  "correcta": 1,
+  "cita": "Para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de Técnico Superior."
+ },
+ {
+  "n": 7108,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a78",
+  "pregunta": "Según el artículo 78.2, la provisión de puestos de trabajo se llevará a cabo por los procedimientos de:",
+  "opciones": [
+   "Oposición y concurso-oposición",
+   "Concurso y comisión de servicios",
+   "Libre designación y redistribución de efectivos",
+   "Concurso y libre designación con convocatoria pública"
+  ],
+  "correcta": 3,
+  "cita": "La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública."
+ },
+ {
+  "n": 7109,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a79",
+  "pregunta": "¿Cuál es el procedimiento normal de provisión de puestos de trabajo?",
+  "opciones": [
+   "La comisión de servicios",
+   "La redistribución de efectivos",
+   "El concurso",
+   "La libre designación"
+  ],
+  "correcta": 2,
+  "cita": "El concurso, como procedimiento normal de provisión de puestos de trabajo, consistirá en la valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos por órganos colegiados de carácter técnico."
+ },
+ {
+  "n": 7110,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a80",
+  "pregunta": "La libre designación con convocatoria pública consiste en:",
+  "opciones": [
+   "La apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos del puesto",
+   "El sorteo entre los candidatos que reúnan los requisitos",
+   "La adjudicación del puesto por antigüedad",
+   "La valoración de méritos por órganos colegiados de carácter técnico"
+  ],
+  "correcta": 0,
+  "cita": "La libre designación con convocatoria pública consiste en la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto."
+ },
+ {
+  "n": 7111,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a80",
+  "pregunta": "Los titulares de puestos provistos por libre designación con convocatoria pública:",
+  "opciones": [
+   "Solo pueden ser cesados previo expediente disciplinario",
+   "Son inamovibles en el puesto durante dos años",
+   "Podrán ser cesados discrecionalmente, debiendo asignárseles otro puesto conforme al sistema de carrera",
+   "Quedan en excedencia forzosa al ser cesados"
+  ],
+  "correcta": 2,
+  "cita": "Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente."
+ },
+ {
+  "n": 7112,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a82",
+  "pregunta": "El traslado de la funcionaria víctima de violencia de género o sexual a otro puesto de análogas características:",
+  "opciones": [
+   "Tendrá la consideración de traslado forzoso, sin necesidad de que sea vacante de necesaria cobertura",
+   "Tendrá la consideración de traslado voluntario",
+   "Solo procede a vacantes de necesaria cobertura",
+   "Requiere concurso de méritos"
+  ],
+  "correcta": 0,
+  "cita": "de trabajo propio de su cuerpo, escala o categoría profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura."
+ },
+ {
+  "n": 7113,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a85",
+  "pregunta": "¿Cuál de las siguientes NO es una situación administrativa de los funcionarios de carrera del artículo 85.1?",
+  "opciones": [
+   "Suspensión de funciones",
+   "Servicio en otras Administraciones Públicas",
+   "Reserva de puesto",
+   "Servicios especiales"
+  ],
+  "correcta": 2,
+  "cita": "Los funcionarios de carrera se hallarán en alguna de las siguientes situaciones: a) Servicio activo. b) Servicios especiales. c) Servicio en otras Administraciones Públicas. d) Excedencia. e) Suspensión de funciones."
+ },
+ {
+  "n": 7114,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a87",
+  "pregunta": "Un funcionario de carrera que sea nombrado alto cargo de la Administración será declarado en situación de:",
+  "opciones": [
+   "Servicio en otras Administraciones Públicas",
+   "Servicios especiales",
+   "Excedencia voluntaria por interés particular",
+   "Servicio activo"
+  ],
+  "correcta": 1,
+  "cita": "Los funcionarios de carrera serán declarados en situación de servicios especiales: a) Cuando sean designados miembros del Gobierno o de los órganos de gobierno de las comunidades autónomas y ciudades de Ceuta y Melilla, miembros de las Instituciones de la Unión Europea o de las"
+ },
+ {
+  "n": 7115,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a87",
+  "pregunta": "Para pasar a servicios especiales por misión en organismos internacionales, gobiernos o entidades públicas extranjeras, la misión debe tener un período determinado superior a:",
+  "opciones": [
+   "Seis meses",
+   "Un año",
+   "Dos años",
+   "Tres meses"
+  ],
+  "correcta": 0,
+  "cita": "b) Cuando sean autorizados para realizar una misión por periodo determinado superior a seis meses en organismos internacionales, gobiernos o entidades públicas extranjeras o en programas de cooperación internacional."
+ },
+ {
+  "n": 7116,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a87",
+  "pregunta": "Los funcionarios en situación de servicios especiales perciben:",
+  "opciones": [
+   "Ambas retribuciones acumuladas",
+   "Las retribuciones de su puesto de funcionario de carrera",
+   "Ninguna retribución",
+   "Las retribuciones del puesto o cargo que desempeñen, sin perjuicio del derecho a percibir los trienios reconocidos"
+  ],
+  "correcta": 3,
+  "cita": "Quienes se encuentren en situación de servicios especiales percibirán las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento."
+ },
+ {
+  "n": 7117,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "Servicios efectivos mínimos inmediatamente anteriores exigidos, con carácter general, para obtener la excedencia voluntaria por interés particular",
+  "opciones": [
+   "2 años",
+   "5 años",
+   "3 años",
+   "1 año"
+  ],
+  "correcta": 1,
+  "cita": "Los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de cinco años inmediatamente anteriores."
+ },
+ {
+  "n": 7118,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "La excedencia voluntaria por interés particular no podrá declararse cuando:",
+  "opciones": [
+   "Lo deniegue la Junta de Personal",
+   "Al funcionario se le instruya expediente disciplinario",
+   "El funcionario tenga hijos menores",
+   "El funcionario esté en su primer año de servicio"
+  ],
+  "correcta": 1,
+  "cita": "No podrá declararse cuando al funcionario público se le instruya expediente disciplinario."
+ },
+ {
+  "n": 7119,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "Durante la excedencia voluntaria por interés particular, el funcionario:",
+  "opciones": [
+   "No devenga retribuciones ni se le computa el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social",
+   "Percibe las retribuciones básicas",
+   "Computa el tiempo a efectos de trienios",
+   "Tiene reserva del puesto durante dos años"
+  ],
+  "correcta": 0,
+  "cita": "Quienes se encuentren en situación de excedencia por interés particular no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que les sea de aplicación."
+ },
+ {
+  "n": 7120,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "La excedencia voluntaria por agrupación familiar:",
+  "opciones": [
+   "Da derecho a reserva del puesto durante dos años",
+   "Computa a efectos de trienios",
+   "Exige cinco años de servicios previos",
+   "Puede concederse sin el requisito de haber prestado un período mínimo de servicios efectivos"
+  ],
+  "correcta": 3,
+  "cita": "Podrá concederse la excedencia voluntaria por agrupación familiar sin el requisito de haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante el periodo establecido a los funcionarios"
+ },
+ {
+  "n": 7121,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "Duración máxima de la excedencia para atender al cuidado de cada hijo",
+  "opciones": [
+   "3 años",
+   "2 años",
+   "1 año",
+   "4 años"
+  ],
+  "correcta": 0,
+  "cita": "Los funcionarios de carrera tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, o de cada menor sujeto a guarda con fines"
+ },
+ {
+  "n": 7122,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "Reserva del puesto de trabajo desempeñado durante la excedencia por cuidado de familiares (como mínimo)",
+  "opciones": [
+   "6 meses",
+   "2 años",
+   "1 año",
+   "3 años"
+  ],
+  "correcta": 1,
+  "cita": "El puesto de trabajo desempeñado se reservará, al menos, durante dos años."
+ },
+ {
+  "n": 7123,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "El tiempo de permanencia en la excedencia por cuidado de familiares:",
+  "opciones": [
+   "No es computable a ningún efecto",
+   "Es computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social",
+   "Solo es computable si dura menos de un año",
+   "Solo es computable a efectos de Seguridad Social"
+  ],
+  "correcta": 1,
+  "cita": "El tiempo de permanencia en esta situación será computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social que sea de aplicación."
+ },
+ {
+  "n": 7124,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "Reserva del puesto de trabajo durante la excedencia por razón de violencia de género o sexual (período inicial, prorrogable)",
+  "opciones": [
+   "2 primeros meses",
+   "6 primeros meses",
+   "3 primeros meses",
+   "12 primeros meses"
+  ],
+  "correcta": 1,
+  "cita": "Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñarán, siendo computable dicho período a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social que sea de aplicación."
+ },
+ {
+  "n": 7125,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a89",
+  "pregunta": "Percepción de retribuciones íntegras al inicio de la excedencia por razón de violencia de género o sexual",
+  "opciones": [
+   "2 primeros meses",
+   "6 primeros meses",
+   "3 primeros meses",
+   "1 primer mes"
+  ],
+  "correcta": 0,
+  "cita": "Durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo."
+ },
+ {
+  "n": 7126,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a90",
+  "pregunta": "La suspensión de funciones determina la pérdida del puesto de trabajo cuando exceda de:",
+  "opciones": [
+   "Dos años",
+   "Tres meses",
+   "Un año",
+   "Seis meses"
+  ],
+  "correcta": 3,
+  "cita": "La suspensión determinará la pérdida del puesto de trabajo cuando exceda de seis meses."
+ },
+ {
+  "n": 7127,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a90",
+  "pregunta": "Duración máxima de la suspensión firme por sanción disciplinaria",
+  "opciones": [
+   "6 años",
+   "4 años",
+   "5 años",
+   "3 años"
+  ],
+  "correcta": 0,
+  "cita": "La suspensión firme por sanción disciplinaria no podrá exceder de seis años."
+ },
+ {
+  "n": 7128,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a93",
+  "pregunta": "Los funcionarios o el personal laboral que indujeren a otros a la realización de actos constitutivos de falta disciplinaria:",
+  "opciones": [
+   "Solo responden si la falta es muy grave",
+   "Incurren en una falta leve en todo caso",
+   "Incurrirán en la misma responsabilidad que éstos",
+   "No incurren en responsabilidad alguna"
+  ],
+  "correcta": 2,
+  "cita": "Los funcionarios públicos o el personal laboral que indujeren a otros a la realización de actos o conductas constitutivos de falta disciplinaria incurrirán en la misma responsabilidad que éstos."
+ },
+ {
+  "n": 7129,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a94",
+  "pregunta": "Cuando de la instrucción de un procedimiento disciplinario resulten indicios fundados de criminalidad:",
+  "opciones": [
+   "Se archivará el procedimiento definitivamente",
+   "Se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal",
+   "Se impondrá la sanción de separación del servicio",
+   "Se continuará el procedimiento hasta su resolución"
+  ],
+  "correcta": 1,
+  "cita": "Cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad, se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal."
+ },
+ {
+  "n": 7130,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a95",
+  "pregunta": "¿Cuál de las siguientes es una falta muy grave según el artículo 95.2?",
+  "opciones": [
+   "El abandono del servicio",
+   "El descuido en el ejercicio de las funciones",
+   "El retraso injustificado en el horario",
+   "La incorrección con los compañeros"
+  ],
+  "correcta": 0,
+  "cita": "Son faltas muy graves: a) El incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía de las comunidades autónomas y ciudades de Ceuta y Melilla, en el ejercicio de la función pública. b) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, identidad sexual, características sexuales, lengua, opinión, lugar de nacimiento o vecindad, sexo o cualquier otra condición o circunstancia personal o social, así como el acoso por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, expresión de género, características sexuales, y el acoso moral y sexual. c) El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que tienen encomendadas."
+ },
+ {
+  "n": 7131,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a95",
+  "pregunta": "Las faltas graves serán establecidas por:",
+  "opciones": [
+   "Reglamento de cada Ministerio",
+   "La Mesa General de Negociación",
+   "Ley de las Cortes Generales o de la asamblea legislativa autonómica, o por los convenios colectivos para el personal laboral",
+   "El propio TREBEP, en una lista cerrada"
+  ],
+  "correcta": 2,
+  "cita": "Las faltas graves serán establecidas por ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral, atendiendo a las siguientes circunstancias: a) El grado en que se haya vulnerado la legalidad."
+ },
+ {
+  "n": 7132,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a96",
+  "pregunta": "La sanción de separación del servicio de los funcionarios:",
+  "opciones": [
+   "Solo puede imponerse a funcionarios interinos",
+   "Puede imponerse por cualquier falta",
+   "Puede imponerse por faltas graves o muy graves",
+   "Sólo podrá sancionar la comisión de faltas muy graves"
+  ],
+  "correcta": 3,
+  "cita": "Por razón de las faltas cometidas podrán imponerse las siguientes sanciones: a) Separación del servicio de los funcionarios, que en el caso de los funcionarios interinos comportará la revocación de su nombramiento, y que sólo podrá sancionar la comisión de faltas muy graves."
+ },
+ {
+  "n": 7133,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a96",
+  "pregunta": "¿En qué consiste la sanción de demérito?",
+  "opciones": [
+   "En la pérdida de un trienio",
+   "En el traslado a otra localidad",
+   "En la penalización a efectos de carrera, promoción o movilidad voluntaria",
+   "En la suspensión de empleo y sueldo"
+  ],
+  "correcta": 2,
+  "cita": "e) Demérito, que consistirá en la penalización a efectos de carrera, promoción o movilidad voluntaria."
+ },
+ {
+  "n": 7134,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a97",
+  "pregunta": "Prescripción de las faltas muy graves (TREBEP)",
+  "opciones": [
+   "4 años",
+   "6 años",
+   "2 años",
+   "3 años"
+  ],
+  "correcta": 3,
+  "cita": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 7135,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a97",
+  "pregunta": "Prescripción de las faltas leves (TREBEP)",
+  "opciones": [
+   "1 mes",
+   "6 meses",
+   "3 meses",
+   "9 meses"
+  ],
+  "correcta": 1,
+  "cita": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 7136,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a97",
+  "pregunta": "Prescripción de las sanciones impuestas por faltas leves (TREBEP)",
+  "opciones": [
+   "4 años",
+   "3 años",
+   "2 años",
+   "1 año"
+  ],
+  "correcta": 3,
+  "cita": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 7137,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a97",
+  "pregunta": "El plazo de prescripción de las sanciones disciplinarias comenzará a contarse:",
+  "opciones": [
+   "Desde la firmeza de la resolución sancionadora",
+   "Desde la notificación de la propuesta de resolución",
+   "Desde la comisión de la falta",
+   "Desde la incoación del expediente"
+  ],
+  "correcta": 0,
+  "cita": "El de las sanciones, desde la firmeza de la resolución sancionadora."
+ },
+ {
+  "n": 7138,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a98",
+  "pregunta": "La imposición de sanciones por faltas leves se llevará a cabo:",
+  "opciones": [
+   "Por procedimiento sumario con audiencia al interesado",
+   "Por el procedimiento ordinario con instructor y secretario",
+   "Sin procedimiento alguno",
+   "Por resolución del Ministerio Fiscal"
+  ],
+  "correcta": 0,
+  "cita": "La imposición de sanciones por faltas leves se llevará a cabo por procedimiento sumario con audiencia al interesado."
+ },
+ {
+  "n": 7139,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a98",
+  "pregunta": "La suspensión provisional como medida cautelar en un expediente disciplinario no podrá exceder, salvo paralización imputable al interesado, de:",
+  "opciones": [
+   "2 años",
+   "1 año",
+   "3 meses",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 6 meses, salvo en caso de paralización del procedimiento imputable al interesado."
+ },
+ {
+  "n": 7140,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a98",
+  "pregunta": "Durante la suspensión provisional, el funcionario suspenso tiene derecho a percibir:",
+  "opciones": [
+   "Solo los trienios",
+   "Las retribuciones íntegras",
+   "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo",
+   "Ninguna retribución"
+  ],
+  "correcta": 2,
+  "cita": "El funcionario suspenso provisional tendrá derecho a percibir durante la suspensión las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo."
+ }
+]
