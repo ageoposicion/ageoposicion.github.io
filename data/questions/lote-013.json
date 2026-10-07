@@ -1,0 +1,802 @@
+[
+ {
+  "n": 13001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a1",
+  "pregunta": "La LO 1/2004 actúa contra la violencia que se ejerce sobre las mujeres por parte de quienes sean o hayan sido sus cónyuges o estén o hayan estado ligados a ellas por relaciones similares de afectividad:",
+  "opciones": [
+   "Solo si existe convivencia",
+   "Aun sin convivencia",
+   "Solo si existe matrimonio",
+   "Solo si la relación sigue vigente"
+  ],
+  "correcta": 1,
+  "cita": "parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia."
+ },
+ {
+  "n": 13002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a1",
+  "pregunta": "Según el artículo 1.3, la violencia de género comprende:",
+  "opciones": [
+   "Solo la violencia ejercida en el domicilio familiar",
+   "Solo la violencia física con resultado de lesiones",
+   "Solo los actos constitutivos de delito grave",
+   "Todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad"
+  ],
+  "correcta": 3,
+  "cita": "La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad."
+ },
+ {
+  "n": 13003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a1",
+  "pregunta": "La violencia de género de la LO 1/2004 comprende también la que, con el objetivo de causar perjuicio o daño a las mujeres, se ejerza sobre:",
+  "opciones": [
+   "Sus bienes exclusivamente",
+   "Sus familiares o allegados menores de edad",
+   "Sus compañeros de trabajo",
+   "Cualquier tercero"
+  ],
+  "correcta": 1,
+  "cita": "La violencia de género a que se refiere esta Ley también comprende la violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de las personas indicadas en el apartado primero."
+ },
+ {
+  "n": 13004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a2",
+  "pregunta": "¿Cuál de los siguientes es uno de los fines de la LO 1/2004 según su artículo 2?",
+  "opciones": [
+   "Suprimir los juzgados especializados",
+   "Garantizar derechos económicos para las mujeres víctimas de violencia de género, con el fin de facilitar su integración social",
+   "Excluir a las trabajadoras por cuenta propia de sus derechos",
+   "Limitar la asistencia jurídica gratuita a los casos de condena firme"
+  ],
+  "correcta": 1,
+  "cita": "e) Garantizar derechos económicos para las mujeres víctimas de violencia de género, con el fin de facilitar su integración social."
+ },
+ {
+  "n": 13005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a2",
+  "pregunta": "Según el artículo 2.k), las medidas de la LO 1/2004 deben respetar el principio de:",
+  "opciones": [
+   "Territorialidad",
+   "Transversalidad",
+   "Subsidiariedad",
+   "Gradualidad"
+  ],
+  "correcta": 1,
+  "cita": "k) Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género."
+ },
+ {
+  "n": 13006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a3",
+  "pregunta": "El Plan Estatal de Sensibilización y Prevención de la Violencia de Género tiene carácter:",
+  "opciones": [
+   "Anual",
+   "Experimental",
+   "Cuatrienal",
+   "Permanente"
+  ],
+  "correcta": 3,
+  "cita": "manera inmediata a la entrada en vigor de esta ley, con la consiguiente dotación presupuestaria, se pondrá en marcha un Plan Estatal de Sensibilización y Prevención de la Violencia de Género con carácter permanente que como mínimo recoja los siguientes elementos: a) Que introduzca en el escenario social las"
+ },
+ {
+  "n": 13007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a3",
+  "pregunta": "El Informe anual de evaluación del Plan Estatal de Sensibilización y Prevención de la Violencia de Género se remite a:",
+  "opciones": [
+   "El Defensor del Pueblo",
+   "Las Comunidades Autónomas exclusivamente",
+   "El Consejo General del Poder Judicial",
+   "Las Cortes Generales"
+  ],
+  "correcta": 3,
+  "cita": "La Delegación del Gobierno contra la Violencia de Género, oída la Comisión a la que se refiere el párrafo anterior, elaborará el Informe anual de evaluación del Plan Estatal de Sensibilización y Prevención de la Violencia de Género y lo remitirá a las Cortes Generales."
+ },
+ {
+  "n": 13008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a3",
+  "pregunta": "Las campañas de información y sensibilización contra la violencia de género se realizarán garantizando el acceso a ellas de:",
+  "opciones": [
+   "Las personas con discapacidad",
+   "Solo las mujeres mayores de edad",
+   "Solo los centros educativos",
+   "Solo las personas residentes en zonas urbanas"
+  ],
+  "correcta": 0,
+  "cita": "Las campañas de información y sensibilización contra esta forma de violencia se realizarán de manera que se garantice el acceso a las mismas de las personas con discapacidad."
+ },
+ {
+  "n": 13009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a4",
+  "pregunta": "Según el artículo 4, las Universidades incluirán y fomentarán en todos los ámbitos académicos la formación, docencia e investigación en igualdad de género y no discriminación de forma:",
+  "opciones": [
+   "Solo en los programas de doctorado",
+   "Exclusivamente en los estudios de Derecho",
+   "Optativa",
+   "Transversal"
+  ],
+  "correcta": 3,
+  "cita": "Las Universidades incluirán y fomentarán en todos los ámbitos académicos la formación, docencia e investigación en igualdad de género y no discriminación de forma transversal."
+ },
+ {
+  "n": 13010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a5",
+  "pregunta": "Las Administraciones competentes deberán prever, respecto de los hijos afectados por un cambio de residencia derivado de actos de violencia de género:",
+  "opciones": [
+   "Su escolarización inmediata",
+   "Su escolarización en centros privados",
+   "Su escolarización en el curso siguiente",
+   "Una beca de comedor exclusivamente"
+  ],
+  "correcta": 0,
+  "cita": "Las Administraciones competentes deberán prever la escolarización inmediata de los hijos que se vean afectados por un cambio de residencia derivada de actos de violencia de género."
+ },
+ {
+  "n": 13011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a6",
+  "pregunta": "Las Administraciones educativas velarán para que en todos los materiales educativos:",
+  "opciones": [
+   "Se eliminen los estereotipos sexistas o discriminatorios",
+   "Se use exclusivamente el masculino genérico",
+   "Se supriman las referencias a la familia",
+   "Se incluya un capítulo sobre derecho penal"
+  ],
+  "correcta": 0,
+  "cita": "Con el fin de garantizar la efectiva igualdad entre hombres y mujeres, las Administraciones educativas velarán para que en todos los materiales educativos se eliminen los estereotipos sexistas o discriminatorios y para que fomenten el igual valor de hombres y mujeres."
+ },
+ {
+  "n": 13012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a8",
+  "pregunta": "En el Consejo Escolar del Estado se asegurará la representación de:",
+  "opciones": [
+   "Las asociaciones de víctimas de cualquier delito",
+   "La Delegación del Gobierno contra la Violencia de Género exclusivamente",
+   "Las Fuerzas y Cuerpos de Seguridad del Estado",
+   "El Instituto de la Mujer y las organizaciones que defiendan los intereses de las mujeres con implantación en todo el territorio nacional"
+  ],
+  "correcta": 3,
+  "cita": "Con el mismo fin, en el Consejo Escolar del Estado se asegurará la representación del Instituto de la Mujer y de las organizaciones que defiendan los intereses de las mujeres, con implantación en todo el territorio nacional."
+ },
+ {
+  "n": 13013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a9",
+  "pregunta": "Velar por el cumplimiento de los principios y valores educativos destinados a fomentar la igualdad real entre mujeres y hombres corresponde a:",
+  "opciones": [
+   "Las asociaciones de padres y madres",
+   "Los servicios de inspección educativa",
+   "El Ministerio Fiscal",
+   "Los Consejos Escolares exclusivamente"
+  ],
+  "correcta": 1,
+  "cita": "Los servicios de inspección educativa velarán por el cumplimiento y aplicación de los principios y valores recogidos en este capítulo en el sistema educativo destinados a fomentar la igualdad real entre mujeres y hombres."
+ },
+ {
+  "n": 13014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a10",
+  "pregunta": "Según la LO 1/2004, se considera ilícita la publicidad que:",
+  "opciones": [
+   "Se emita en horario infantil",
+   "Se dirija exclusivamente a mujeres",
+   "Utilice la imagen de cualquier persona sin su consentimiento",
+   "Utilice la imagen de la mujer con carácter vejatorio o discriminatorio"
+  ],
+  "correcta": 3,
+  "cita": "De acuerdo con lo establecido en la Ley 34/1988, de 11 de noviembre, General de Publicidad, se considerará ilícita la publicidad que utilice la imagen de la mujer con carácter vejatorio o discriminatorio."
+ },
+ {
+  "n": 13015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a12",
+  "pregunta": "¿Cuál de los siguientes NO está legitimado para ejercitar la acción de cesación de publicidad ilícita por utilizar en forma vejatoria la imagen de la mujer?",
+  "opciones": [
+   "El Instituto de la Mujer u órgano equivalente de cada Comunidad Autónoma",
+   "Las asociaciones que tengan como objetivo único la defensa de los intereses de la mujer",
+   "Cualquier particular, aunque no le afecte",
+   "El Ministerio Fiscal"
+  ],
+  "correcta": 2,
+  "cita": "La Delegación Especial del Gobierno contra la Violencia sobre la Mujer , el Instituto de la Mujer u órgano equivalente de cada Comunidad Autónoma, el Ministerio Fiscal y las Asociaciones que tengan como objetivo único la defensa de los intereses de la mujer estarán legitimados para ejercitar ante los Tribunales la acción de cesación de publicidad ilícita por utilizar en forma vejatoria la imagen de la mujer, en los términos de la"
+ },
+ {
+  "n": 13016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a13",
+  "pregunta": "La Administración pública promoverá, en relación con los medios de comunicación y la publicidad:",
+  "opciones": [
+   "La censura previa de los contenidos",
+   "La prohibición de informar sobre violencia de género",
+   "Sanciones penales a los medios de comunicación",
+   "Acuerdos de autorregulación con mecanismos de control preventivo y de resolución extrajudicial de controversias"
+  ],
+  "correcta": 3,
+  "cita": "La Administración pública promoverá acuerdos de autorregulación que, contando con mecanismos de control preventivo y de resolución extrajudicial de controversias eficaces, contribuyan al cumplimiento de la legislación publicitaria."
+ },
+ {
+  "n": 13017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a14",
+  "pregunta": "En la difusión de informaciones relativas a la violencia sobre la mujer, los medios de comunicación tendrán especial cuidado en:",
+  "opciones": [
+   "La identificación de la víctima",
+   "La hora de emisión",
+   "La extensión de la noticia",
+   "El tratamiento gráfico de las informaciones"
+  ],
+  "correcta": 3,
+  "cita": "En particular, se tendrá especial cuidado en el tratamiento gráfico de las informaciones."
+ },
+ {
+  "n": 13018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a15",
+  "pregunta": "Las Administraciones sanitarias promoverán actuaciones de los profesionales sanitarios para la detección precoz de la violencia de género en el seno de:",
+  "opciones": [
+   "El Consejo Interterritorial del Sistema Nacional de Salud",
+   "La Conferencia Sectorial de Igualdad",
+   "Los colegios de médicos",
+   "El Observatorio Estatal de Violencia sobre la Mujer"
+  ],
+  "correcta": 0,
+  "cita": "Las Administraciones sanitarias, en el seno del Consejo Interterritorial del Sistema Nacional de Salud, promoverán e impulsarán actuaciones de los profesionales sanitarios para la detección precoz de la violencia de género y propondrán"
+ },
+ {
+  "n": 13019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a16",
+  "pregunta": "La Comisión contra la Violencia de Género del Consejo Interterritorial del Sistema Nacional de Salud remite su informe anual a:",
+  "opciones": [
+   "El Ministerio Fiscal",
+   "El Defensor del Pueblo",
+   "Las Cortes Generales",
+   "El Observatorio Estatal de la Violencia sobre la Mujer y al Pleno del Consejo Interterritorial"
+  ],
+  "correcta": 3,
+  "cita": "La Comisión emitirá un informe anual que será remitido al Observatorio Estatal de la Violencia sobre la Mujer y al Pleno del Consejo Interterritorial."
+ },
+ {
+  "n": 13020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a16",
+  "pregunta": "La Comisión contra la Violencia de Género del Consejo Interterritorial del Sistema Nacional de Salud está compuesta por:",
+  "opciones": [
+   "Representantes del Ministerio del Interior",
+   "Asociaciones de víctimas exclusivamente",
+   "Representantes de todas las Comunidades Autónomas con competencia en la materia",
+   "Jueces de violencia sobre la mujer"
+  ],
+  "correcta": 2,
+  "cita": "La Comisión contra la Violencia de Género del Consejo Interterritorial del Sistema Nacional de Salud estará compuesta por representantes de todas las Comunidades Autónomas con competencia en la materia."
+ },
+ {
+  "n": 13021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a17",
+  "pregunta": "Los servicios de información y orientación, atención psicosocial inmediata y asesoramiento jurídico 24 horas a las víctimas de violencias contra las mujeres tienen carácter de:",
+  "opciones": [
+   "Servicios complementarios",
+   "Servicios esenciales",
+   "Servicios voluntarios",
+   "Servicios de pago"
+  ],
+  "correcta": 1,
+  "cita": "jurídica, psicológica y social destinadas a las víctimas de violencias contra las mujeres tendrán carácter de servicios esenciales."
+ },
+ {
+  "n": 13022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a18",
+  "pregunta": "La información a las mujeres víctimas de violencia de género que desconozcan el castellano:",
+  "opciones": [
+   "Solo se facilitará por escrito",
+   "Solo se facilitará en castellano",
+   "Deberá ser accesible para ellas, o en su caso en la otra lengua oficial de su territorio de residencia",
+   "Solo se facilitará si aportan intérprete propio"
+  ],
+  "correcta": 2,
+  "cita": "La información deberá ser accesible para las mujeres que desconozcan el castellano o, en su caso, la otra lengua oficial de su territorio de residencia."
+ },
+ {
+  "n": 13023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a19",
+  "pregunta": "La organización de los servicios sociales de atención a las víctimas responde a los principios de:",
+  "opciones": [
+   "Subsidiariedad y territorialidad",
+   "Atención permanente, actuación urgente, especialización de prestaciones y multidisciplinariedad profesional",
+   "Centralización y jerarquía",
+   "Gratuidad, voluntariedad y confidencialidad exclusivamente"
+  ],
+  "correcta": 1,
+  "cita": "La organización de estos servicios por parte de las comunidades autónomas y las Corporaciones Locales responderá a los principios de atención permanente, actuación urgente, especialización de prestaciones y multidisciplinariedad profesional."
+ },
+ {
+  "n": 13024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a19",
+  "pregunta": "Tienen también derecho a la asistencia social integral a través de los servicios sociales:",
+  "opciones": [
+   "Solo los menores que hayan sufrido lesiones físicas",
+   "Los menores bajo la patria potestad o guarda y custodia de la persona agredida, o que convivan en contextos de violencia de género",
+   "Los ascendientes de la víctima exclusivamente",
+   "Los agresores condenados"
+  ],
+  "correcta": 1,
+  "cita": "También tendrán derecho a la asistencia social integral a través de estos servicios sociales los menores que se encuentren bajo la patria potestad o guarda y custodia de la persona agredida, o convivan en contextos familiares en los que se cometen actos de violencia de género."
+ },
+ {
+  "n": 13025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a1-2",
+  "pregunta": "El Sistema Público de Salud garantiza a las mujeres víctimas de violencia de género y a sus hijos e hijas el derecho a la atención sanitaria, con especial atención:",
+  "opciones": [
+   "Exclusivamente de urgencias",
+   "Psicológica y psiquiátrica",
+   "Odontológica",
+   "Estética"
+  ],
+  "correcta": 1,
+  "cita": "víctimas de violencia de género, así como a sus hijos e hijas, el derecho a la atención sanitaria, con especial atención psicológica y psiquiátrica, y al seguimiento de la evolución de su estado de salud hasta su total recuperación, en lo"
+ },
+ {
+  "n": 13026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a20",
+  "pregunta": "Las víctimas de violencia de género tienen derecho a recibir asesoramiento jurídico gratuito:",
+  "opciones": [
+   "Solo si acreditan insuficiencia de recursos",
+   "En el momento inmediatamente previo a la interposición de la denuncia",
+   "Solo una vez dictada sentencia",
+   "Solo tras la interposición de la denuncia"
+  ],
+  "correcta": 1,
+  "cita": "Las víctimas de violencia de género tienen derecho a recibir asesoramiento jurídico gratuito en el momento inmediatamente previo a la interposición de la denuncia, y a la defensa y representación gratuitas por abogado y procurador en todos los procesos y"
+ },
+ {
+  "n": 13027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a20",
+  "pregunta": "Las víctimas de violencia de género pueden personarse como acusación particular:",
+  "opciones": [
+   "Nunca, solo actúa el Ministerio Fiscal",
+   "Solo antes de la fase de instrucción",
+   "En cualquier momento del procedimiento, sin que ello permita retrotraer las actuaciones ya practicadas",
+   "Solo en el plazo de diez días desde la denuncia"
+  ],
+  "correcta": 2,
+  "cita": "Las víctimas de violencia de género podrán personarse como acusación particular en cualquier momento del procedimiento si bien ello no permitirá retrotraer ni reiterar las actuaciones ya practicadas antes de su personación, ni podrá suponer una merma del derecho de defensa del acusado."
+ },
+ {
+  "n": 13028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a20",
+  "pregunta": "El derecho a la asistencia jurídica gratuita de la víctima asiste también, en caso de fallecimiento de esta, a:",
+  "opciones": [
+   "Nadie, se extingue con la víctima",
+   "Cualquier familiar hasta el cuarto grado",
+   "Sus causahabientes, siempre que no fueran partícipes en los hechos",
+   "Las asociaciones de víctimas"
+  ],
+  "correcta": 2,
+  "cita": "Este derecho asistirá también a los causahabientes en caso de fallecimiento de la víctima, siempre que no fueran partícipes en los hechos."
+ },
+ {
+  "n": 13029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a21",
+  "pregunta": "La suspensión y la extinción del contrato de trabajo de la trabajadora víctima de violencia de género:",
+  "opciones": [
+   "No dan derecho a prestación por desempleo",
+   "Solo dan derecho a una indemnización de la empresa",
+   "Dan lugar a situación legal de desempleo",
+   "Equivalen a una baja voluntaria"
+  ],
+  "correcta": 2,
+  "cita": "social, la suspensión y la extinción del contrato de trabajo previstas en el apartado anterior darán lugar a situación legal de desempleo."
+ },
+ {
+  "n": 13030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a21",
+  "pregunta": "Las empresas que formalicen contratos de interinidad para sustituir a trabajadoras víctimas de violencia de género que hayan suspendido su contrato tienen derecho a una bonificación de las cuotas empresariales por contingencias comunes del:",
+  "opciones": [
+   "100 por 100",
+   "50 por 100",
+   "75 por 100",
+   "25 por 100"
+  ],
+  "correcta": 0,
+  "cita": "de trabajo o ejercitado su derecho a la movilidad geográfica o al cambio de centro de trabajo, tendrán derecho a una bonificación del 100 por 100 de las cuotas empresariales a la Seguridad Social por contingencias comunes, durante todo el período de suspensión de la"
+ },
+ {
+  "n": 13031,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOVG",
+  "articulo": "a21",
+  "pregunta": "Duración de la bonificación de cuotas por el contrato de interinidad en los supuestos de movilidad geográfica o cambio de centro de trabajo de la trabajadora víctima",
+  "opciones": [
+   "18 meses",
+   "3 meses",
+   "12 meses",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "por contingencias comunes, durante todo el período de suspensión de la trabajadora sustituida o durante seis meses en los supuestos de movilidad geográfica o cambio de centro de trabajo."
+ },
+ {
+  "n": 13032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a21",
+  "pregunta": "Las ausencias o faltas de puntualidad al trabajo motivadas por la situación derivada de la violencia de género:",
+  "opciones": [
+   "Se consideran injustificadas en todo caso",
+   "Se justifican pero no se remuneran",
+   "Se consideran justificadas y serán remuneradas cuando así lo determinen los servicios sociales de atención o de salud",
+   "Solo se justifican con sentencia firme"
+  ],
+  "correcta": 2,
+  "cita": "al trabajo motivadas por la situación física o psicológica derivada de la violencia de género se considerarán justificadas y serán remuneradas, cuando así lo determinen los servicios sociales de atención o servicios de salud, según proceda, sin perjuicio de que dichas ausencias sean comunicadas por la trabajadora a la"
+ },
+ {
+  "n": 13033,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOVG",
+  "articulo": "a21",
+  "pregunta": "Período durante el que se suspende la obligación de cotizar a las trabajadoras por cuenta propia víctimas de violencia de género que cesen en su actividad",
+  "opciones": [
+   "3 meses",
+   "12 meses",
+   "6 meses",
+   "24 meses"
+  ],
+  "correcta": 2,
+  "cita": "de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, y se les suspenderá la obligación de cotización durante un período de seis meses, que les serán considerados como de cotización efectiva a efectos de las prestaciones de Seguridad"
+ },
+ {
+  "n": 13034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a22",
+  "pregunta": "El programa de acción específico de empleo para las víctimas de violencia de género se dirige a las víctimas:",
+  "opciones": [
+   "Que hayan obtenido sentencia firme",
+   "Con contrato indefinido",
+   "Mayores de 45 años exclusivamente",
+   "Inscritas como demandantes de empleo"
+  ],
+  "correcta": 3,
+  "cita": "En el marco de los planes anuales de empleo a los que se refiere el artículo 11 del texto refundido de la Ley de Empleo, aprobado por Real Decreto Legislativo 3/2015, de 23 de octubre, se desarrollará un programa de acción específico para las víctimas de violencia de género inscritas como demandantes de empleo."
+ },
+ {
+  "n": 13035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a24",
+  "pregunta": "La funcionaria víctima de violencia de género tiene derecho, en los términos de su legislación específica, a:",
+  "opciones": [
+   "Una indemnización a cargo de la Administración",
+   "La reducción o reordenación de su tiempo de trabajo, la movilidad geográfica de centro de trabajo y la excedencia",
+   "La jubilación anticipada",
+   "El ascenso automático de nivel"
+  ],
+  "correcta": 1,
+  "cita": "La funcionaria víctima de violencia de género tendrá derecho a la reducción o a la reordenación de su tiempo de trabajo, a la movilidad geográfica de centro de trabajo y a la excedencia en los términos que se determinen en su legislación específica."
+ },
+ {
+  "n": 13036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a25",
+  "pregunta": "Las ausencias totales o parciales al trabajo de una funcionaria motivadas por la situación física o psicológica derivada de la violencia de género:",
+  "opciones": [
+   "Se consideran justificadas en los términos de su legislación específica",
+   "Requieren autorización previa del superior",
+   "Se consideran falta leve",
+   "Se descuentan de sus vacaciones"
+  ],
+  "correcta": 0,
+  "cita": "Las ausencias totales o parciales al trabajo motivadas por la situación física o psicológica derivada de la violencia de género sufrida por una mujer funcionaria se considerarán justificadas en los términos que se determine en su legislación específica."
+ },
+ {
+  "n": 13037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a27",
+  "pregunta": "La ayuda de pago único del artículo 27 se reconoce a las víctimas que carezcan de rentas superiores, en cómputo mensual, al:",
+  "opciones": [
+   "75 por 100 del IPREM",
+   "100 por 100 del salario mínimo interprofesional",
+   "75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias",
+   "50 por 100 del salario mínimo interprofesional"
+  ],
+  "correcta": 2,
+  "cita": "Cuando las víctimas de violencia de género careciesen de rentas superiores, en cómputo mensual, al 75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias, recibirán una ayuda de pago único,"
+ },
+ {
+  "n": 13038,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOVG",
+  "articulo": "a27",
+  "pregunta": "Importe, con carácter general, de la ayuda de pago único a víctimas de violencia de género, expresado en meses de subsidio por desempleo",
+  "opciones": [
+   "12 meses",
+   "3 meses",
+   "18 meses",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "El importe de esta ayuda será equivalente al de seis meses de subsidio por desempleo."
+ },
+ {
+  "n": 13039,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOVG",
+  "articulo": "a27",
+  "pregunta": "Importe de la ayuda de pago único, en meses de subsidio por desempleo, cuando la víctima tenga reconocida una discapacidad igual o superior al 33 por 100",
+  "opciones": [
+   "24 meses",
+   "18 meses",
+   "12 meses",
+   "6 meses"
+  ],
+  "correcta": 2,
+  "cita": "Cuando la víctima de la violencia ejercida contra la mujer tuviera reconocida oficialmente una discapacidad en grado igual o superior al 33 por 100, el importe será equivalente a doce meses de subsidio por desempleo."
+ },
+ {
+  "n": 13040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a27",
+  "pregunta": "Las ayudas de pago único a víctimas de violencia de género se financian con cargo a:",
+  "opciones": [
+   "Los presupuestos de las entidades locales",
+   "Las multas impuestas a los agresores",
+   "Las cuotas de la Seguridad Social",
+   "Los Presupuestos Generales del Estado"
+  ],
+  "correcta": 3,
+  "cita": "Estas ayudas, financiadas con cargo a los Presupuestos Generales del Estado, serán concedidas por las Administraciones competentes en materia de servicios sociales."
+ },
+ {
+  "n": 13041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a28",
+  "pregunta": "En el acceso a viviendas protegidas y residencias públicas para mayores, las mujeres víctimas de violencia de género son consideradas:",
+  "opciones": [
+   "Colectivos sin preferencia especial",
+   "Colectivos excluidos",
+   "Colectivos con reserva del 50 % de las plazas",
+   "Colectivos prioritarios"
+  ],
+  "correcta": 3,
+  "cita": "Las mujeres víctimas de violencia de género serán consideradas colectivos prioritarios en el acceso a viviendas protegidas y residencias públicas para mayores, en los términos que determine la legislación aplicable."
+ },
+ {
+  "n": 13042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a2-2",
+  "pregunta": "El derecho a la reparación de las víctimas de violencia de género comprende, entre otros elementos:",
+  "opciones": [
+   "Las acciones de reparación simbólica y las garantías de no repetición",
+   "La condena penal del agresor exclusivamente",
+   "Solo la indemnización económica",
+   "Solo la asistencia psicológica"
+  ],
+  "correcta": 0,
+  "cita": "Las víctimas de violencia de género tienen derecho a la reparación, lo que comprende la compensación económica por los daños y perjuicios derivados de la violencia, las medidas necesarias para su completa recuperación física, psíquica y social, las acciones de reparación simbólica y las garantías de no repetición."
+ },
+ {
+  "n": 13043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a2-3",
+  "pregunta": "La indemnización por los daños y perjuicios a la víctima de violencia de género será satisfecha por:",
+  "opciones": [
+   "Las Comunidades Autónomas",
+   "La persona o personas civil o penalmente responsables",
+   "El Consorcio de Compensación de Seguros",
+   "La Administración General del Estado en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "La indemnización será satisfecha por la o las personas civil o penalmente responsables, de acuerdo con la normativa vigente."
+ },
+ {
+  "n": 13044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a29",
+  "pregunta": "La elaboración de la Macroencuesta de Violencia contra las Mujeres corresponde a:",
+  "opciones": [
+   "La Delegación del Gobierno contra la Violencia de Género",
+   "El Consejo General del Poder Judicial",
+   "El Observatorio Estatal de Violencia sobre la Mujer",
+   "El Instituto Nacional de Estadística"
+  ],
+  "correcta": 0,
+  "cita": "La Delegación del Gobierno contra la Violencia de Género, adscrita al Ministerio de Igualdad o al departamento con competencias en la materia, formulará las políticas públicas en relación con la violencia de género a desarrollar por el Gobierno y elaborará la Macroencuesta de Violencia contra las Mujeres."
+ },
+ {
+  "n": 13045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a29",
+  "pregunta": "La persona titular de la Delegación del Gobierno contra la Violencia de Género:",
+  "opciones": [
+   "Solo puede intervenir en procesos penales con condena firme",
+   "Está legitimada ante los órganos jurisdiccionales para intervenir en defensa de los derechos e intereses tutelados por la ley",
+   "Solo puede actuar como testigo",
+   "No puede intervenir ante los órganos jurisdiccionales"
+  ],
+  "correcta": 1,
+  "cita": "La persona titular de la Delegación del Gobierno contra la Violencia de Género estará legitimada ante los órganos jurisdiccionales para intervenir en defensa de los derechos y de los intereses tutelados en esta ley en colaboración y coordinación con las administraciones con competencias en la materia."
+ },
+ {
+  "n": 13046,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a30",
+  "pregunta": "Al Observatorio Estatal de Violencia sobre la Mujer, órgano colegiado, le corresponde:",
+  "opciones": [
+   "La instrucción de las causas penales por violencia de género",
+   "La dirección de las unidades policiales especializadas",
+   "El asesoramiento, evaluación, colaboración institucional, elaboración de informes y estudios, y propuestas de actuación en materia de violencia de género",
+   "La concesión de las ayudas de pago único"
+  ],
+  "correcta": 2,
+  "cita": "Se constituirá el Observatorio Estatal de Violencia sobre la Mujer, como órgano colegiado adscrito al Ministerio de Trabajo y Asuntos Sociales, al que corresponderá el asesoramiento, evaluación, colaboración institucional, elaboración de informes y estudios, y propuestas de actuación en materia de violencia de género."
+ },
+ {
+  "n": 13047,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a30",
+  "pregunta": "El Observatorio Estatal de Violencia sobre la Mujer remite al Gobierno y a las Comunidades Autónomas un informe sobre la evolución de la violencia sobre la mujer con periodicidad:",
+  "opciones": [
+   "Trimestral",
+   "Anual",
+   "Bienal",
+   "Semestral"
+  ],
+  "correcta": 1,
+  "cita": "Estatal de Violencia sobre la Mujer remitirá al Gobierno y a las Comunidades Autónomas, con periodicidad anual, un informe sobre la evolución de la violencia ejercida sobre la mujer en los términos a que se refiere el artículo 1 de la presente Ley, con determinación de los tipos"
+ },
+ {
+  "n": 13048,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a30",
+  "pregunta": "Los datos contenidos en los informes, estudios y propuestas del Observatorio Estatal de Violencia sobre la Mujer se consignarán:",
+  "opciones": [
+   "Desagregados por sexo",
+   "Por provincias exclusivamente",
+   "Solo respecto de las víctimas mortales",
+   "De forma anónima y agregada sin distinción de sexo"
+  ],
+  "correcta": 0,
+  "cita": "En cualquier caso, los datos contenidos en dichos informes, estudios y propuestas se consignarán desagregados por sexo."
+ },
+ {
+  "n": 13049,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a31",
+  "pregunta": "El Gobierno establecerá en las Fuerzas y Cuerpos de Seguridad del Estado:",
+  "opciones": [
+   "Unidades especializadas en la prevención de la violencia de género y en el control de la ejecución de las medidas judiciales",
+   "Juzgados de guardia propios",
+   "Una fiscalía especializada",
+   "Centros de acogida para víctimas"
+  ],
+  "correcta": 0,
+  "cita": "El Gobierno establecerá, en las Fuerzas y Cuerpos de Seguridad del Estado, unidades especializadas en la prevención de la violencia de género y en el control de la ejecución de las medidas judiciales adoptadas."
+ },
+ {
+  "n": 13050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOVG",
+  "articulo": "a32",
+  "pregunta": "Los planes de colaboración que elaboren los poderes públicos contra la violencia de género deberán implicar, entre otros, a:",
+  "opciones": [
+   "Las administraciones sanitarias, la Administración de Justicia, las Fuerzas y Cuerpos de Seguridad y los servicios sociales y organismos de igualdad",
+   "Solo a las Fuerzas y Cuerpos de Seguridad",
+   "Solo a la Administración de Justicia",
+   "Solo a las asociaciones de mujeres"
+  ],
+  "correcta": 0,
+  "cita": "de sus actuaciones en la prevención, asistencia y persecución de los actos de violencia de género, que deberán implicar a las administraciones sanitarias, la Administración de Justicia, las Fuerzas y Cuerpos de Seguridad y los servicios sociales y organismos de igualdad."
+ }
+]
