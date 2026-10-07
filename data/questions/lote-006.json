@@ -1,0 +1,1282 @@
+[
+ {
+  "n": 6001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a2",
+  "pregunta": "Según el artículo 2.1.g), el título I se aplica a las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades del artículo sea superior al:",
+  "opciones": [
+   "50 por 100",
+   "75 por 100",
+   "25 por 100",
+   "40 por 100"
+  ],
+  "correcta": 0,
+  "cita": "g) Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en este artículo sea superior al 50 por 100."
+ },
+ {
+  "n": 6002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a2",
+  "pregunta": "A efectos del título I de la Ley 19/2013, se entiende por Administraciones Públicas los organismos y entidades incluidos en:",
+  "opciones": [
+   "Las letras a) a d) del artículo 2.1",
+   "Las letras a) a f) del artículo 2.1",
+   "Únicamente la letra a) del artículo 2.1",
+   "Todas las letras del artículo 2.1"
+  ],
+  "correcta": 0,
+  "cita": "A los efectos de lo previsto en este título, se entiende por Administraciones Públicas los organismos y entidades incluidos en las letras a) a d) del apartado anterior."
+ },
+ {
+  "n": 6003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a2",
+  "pregunta": "Las corporaciones de Derecho Público están sujetas al título I de la Ley 19/2013:",
+  "opciones": [
+   "En todas sus actividades",
+   "Solo en materia de contratos",
+   "En lo relativo a sus actividades sujetas a Derecho Administrativo",
+   "En ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "e) Las corporaciones de Derecho Público, en lo relativo a sus actividades sujetas a Derecho Administrativo."
+ },
+ {
+  "n": 6004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a3",
+  "pregunta": "Las obligaciones de publicidad activa se aplican a las entidades privadas que perciban durante un año ayudas o subvenciones públicas por una cuantía superior a:",
+  "opciones": [
+   "50.000 euros",
+   "60.000 euros",
+   "150.000 euros",
+   "100.000 euros"
+  ],
+  "correcta": 3,
+  "cita": "b) Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros."
+ },
+ {
+  "n": 6005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a3",
+  "pregunta": "También están sujetas a publicidad activa las entidades privadas en las que, al menos, cierto porcentaje del total de sus ingresos anuales tenga carácter de ayuda o subvención pública (con un mínimo de 5.000 euros). ¿Qué porcentaje?",
+  "opciones": [
+   "El 50 %",
+   "El 30 %",
+   "El 25 %",
+   "El 40 %"
+  ],
+  "correcta": 3,
+  "cita": "b) Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros."
+ },
+ {
+  "n": 6006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a3",
+  "pregunta": "¿Están sujetos a las obligaciones de publicidad activa los partidos políticos, las organizaciones sindicales y las organizaciones empresariales?",
+  "opciones": [
+   "Solo los partidos políticos",
+   "Solo si perciben subvenciones superiores a 100.000 euros",
+   "No",
+   "Sí, en todo caso, según el artículo 3"
+  ],
+  "correcta": 3,
+  "cita": "Las disposiciones del capítulo II de este título serán también aplicables a: a) Los partidos políticos, organizaciones sindicales y organizaciones empresariales."
+ },
+ {
+  "n": 6007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a4",
+  "pregunta": "La obligación de suministrar información a la Administración (artículo 4) se extiende a los adjudicatarios de contratos del sector público:",
+  "opciones": [
+   "En todo caso y sin limitación",
+   "Solo a petición del Consejo de Transparencia y Buen Gobierno",
+   "En los términos previstos en el respectivo contrato",
+   "Solo si el contrato supera los 100.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "Esta obligación se extenderá a los adjudicatarios de contratos del sector público en los términos previstos en el respectivo contrato."
+ },
+ {
+  "n": 6008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a5",
+  "pregunta": "Cuando la información sujeta a publicidad activa contenga datos especialmente protegidos, la publicidad:",
+  "opciones": [
+   "Se realizará íntegramente",
+   "Requiere la autorización del Consejo de Transparencia y Buen Gobierno",
+   "Sólo se llevará a cabo previa disociación de los mismos",
+   "Está prohibida"
+  ],
+  "correcta": 2,
+  "cita": "A este respecto, cuando la información contuviera datos especialmente protegidos, la publicidad sólo se llevará a cabo previa disociación de los mismos."
+ },
+ {
+  "n": 6009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a5",
+  "pregunta": "Las entidades sin ánimo de lucro con fines exclusivamente sociales o culturales podrán cumplir sus obligaciones de transparencia con los medios electrónicos de la Administración de la que reciban la mayor parte de sus ayudas si su presupuesto es inferior a:",
+  "opciones": [
+   "30.000 euros",
+   "5.000 euros",
+   "50.000 euros",
+   "100.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "de entidades sin ánimo de lucro que persigan exclusivamente fines de interés social o cultural y cuyo presupuesto sea inferior a 50.000 euros, el cumplimiento de las obligaciones derivadas de esta Ley podrá realizarse utilizando los medios"
+ },
+ {
+  "n": 6010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a5",
+  "pregunta": "Según el artículo 5.5, toda la información objeto de publicidad activa será:",
+  "opciones": [
+   "Accesible solo con certificado electrónico",
+   "Comprensible, de acceso fácil y gratuito",
+   "De acceso gratuito solo para los interesados",
+   "De acceso previo pago de una tasa"
+  ],
+  "correcta": 1,
+  "cita": "Toda la información será comprensible, de acceso fácil y gratuito y estará a disposición de las personas con discapacidad en una modalidad suministrada por medios o en formatos adecuados de manera que resulten accesibles y comprensibles, conforme al principio de accesibilidad universal y diseño para todos."
+ },
+ {
+  "n": 6011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a6",
+  "pregunta": "En el ámbito de la Administración General del Estado, ¿a quién corresponde evaluar el cumplimiento de los planes y programas anuales y plurianuales que deben publicarse?",
+  "opciones": [
+   "A la Intervención General de la Administración del Estado",
+   "Al Consejo de Transparencia y Buen Gobierno",
+   "Al Tribunal de Cuentas",
+   "A las inspecciones generales de servicios"
+  ],
+  "correcta": 3,
+  "cita": "En el ámbito de la Administración General del Estado corresponde a las inspecciones generales de servicios la evaluación del cumplimiento de estos planes y programas."
+ },
+ {
+  "n": 6012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a6",
+  "pregunta": "Según el artículo 6.1, el organigrama actualizado que deben publicar los sujetos obligados identificará:",
+  "opciones": [
+   "A los responsables de los diferentes órganos y su perfil y trayectoria profesional",
+   "Solo a los altos cargos con rango de Ministro",
+   "A todos los empleados públicos y sus retribuciones",
+   "A los representantes sindicales"
+  ],
+  "correcta": 0,
+  "cita": "A estos efectos, incluirán un organigrama actualizado que identifique a los responsables de los diferentes órganos y su perfil y trayectoria profesional."
+ },
+ {
+  "n": 6013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a7",
+  "pregunta": "¿Cuándo deben publicarse los Anteproyectos de Ley y los proyectos de Decretos Legislativos?",
+  "opciones": [
+   "Tras su publicación en el «Boletín Oficial del Estado»",
+   "Al iniciarse su elaboración, en todo caso",
+   "Cuando se soliciten los dictámenes a los órganos consultivos correspondientes (o en su aprobación, si no hay dictamen preceptivo)",
+   "Tras la emisión de todos los dictámenes"
+  ],
+  "correcta": 2,
+  "cita": "b) Los Anteproyectos de Ley y los proyectos de Decretos Legislativos cuya iniciativa les corresponda, cuando se soliciten los dictámenes a los órganos consultivos correspondientes."
+ },
+ {
+  "n": 6014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a7",
+  "pregunta": "Cuando sea preceptiva la solicitud de dictámenes, los proyectos de Reglamentos se publicarán:",
+  "opciones": [
+   "Al inicio de su elaboración",
+   "Tras su aprobación definitiva",
+   "Una vez solicitados los dictámenes, sin que ello suponga necesariamente la apertura de un trámite de audiencia pública",
+   "Tras la emisión de los dictámenes"
+  ],
+  "correcta": 2,
+  "cita": "Cuando sea preceptiva la solicitud de dictámenes, la publicación se producirá una vez que estos hayan sido solicitados a los órganos consultivos correspondientes sin que ello suponga, necesariamente, la apertura de un trámite de audiencia pública."
+ },
+ {
+  "n": 6015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a8",
+  "pregunta": "La información relativa a los contratos menores podrá publicarse:",
+  "opciones": [
+   "Semestralmente",
+   "Trimestralmente",
+   "Mensualmente",
+   "Anualmente"
+  ],
+  "correcta": 1,
+  "cita": "La publicación de la información relativa a los contratos menores podrá realizarse trimestralmente."
+ },
+ {
+  "n": 6016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a8",
+  "pregunta": "¿Qué retribuciones deben hacerse públicas según el artículo 8.1.f)?",
+  "opciones": [
+   "Las de los funcionarios del subgrupo A1",
+   "Las percibidas anualmente por los altos cargos y máximos responsables de las entidades",
+   "Las de todos los empleados públicos",
+   "Únicamente las de los miembros del Gobierno"
+  ],
+  "correcta": 1,
+  "cita": "f) Las retribuciones percibidas anualmente por los altos cargos y máximos responsables de las entidades incluidas en el ámbito de la aplicación de este título."
+ },
+ {
+  "n": 6017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a8",
+  "pregunta": "Al publicar las declaraciones anuales de bienes y actividades de los representantes locales:",
+  "opciones": [
+   "Se publicará la dirección exacta de los inmuebles",
+   "Solo se publicarán si el representante lo consiente",
+   "Se omitirán los datos relativos a la localización concreta de los bienes inmuebles",
+   "Se omitirá el valor de los bienes"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso, se omitirán los datos relativos a la localización concreta de los bienes inmuebles y se garantizará la privacidad y seguridad de sus titulares."
+ },
+ {
+  "n": 6018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a8",
+  "pregunta": "Según el artículo 8.3, las Administraciones Públicas publicarán la relación de:",
+  "opciones": [
+   "Todos sus bienes muebles",
+   "Los bienes inmuebles arrendados a particulares",
+   "Sus vehículos oficiales",
+   "Los bienes inmuebles que sean de su propiedad o sobre los que ostenten algún derecho real"
+  ],
+  "correcta": 3,
+  "cita": "Las Administraciones Públicas publicarán la relación de los bienes inmuebles que sean de su propiedad o sobre los que ostenten algún derecho real."
+ },
+ {
+  "n": 6019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a9",
+  "pregunta": "El cumplimiento por la Administración General del Estado de las obligaciones de publicidad activa será objeto de control por:",
+  "opciones": [
+   "El Consejo de Transparencia y Buen Gobierno",
+   "La Agencia Española de Protección de Datos",
+   "El Tribunal de Cuentas",
+   "El Defensor del Pueblo"
+  ],
+  "correcta": 0,
+  "cita": "El cumplimiento por la Administración General del Estado de las obligaciones contenidas en este capítulo será objeto de control por parte del Consejo de Transparencia y Buen Gobierno."
+ },
+ {
+  "n": 6020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a9",
+  "pregunta": "El incumplimiento reiterado de las obligaciones de publicidad activa tendrá la consideración de:",
+  "opciones": [
+   "Infracción muy grave",
+   "Infracción grave a efectos del régimen disciplinario",
+   "Mera irregularidad sin consecuencias",
+   "Infracción leve"
+  ],
+  "correcta": 1,
+  "cita": "El incumplimiento reiterado de las obligaciones de publicidad activa reguladas en este capítulo tendrá la consideración de infracción grave a los efectos de aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora."
+ },
+ {
+  "n": 6021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a10",
+  "pregunta": "Según el artículo 10.2, el Portal de la Transparencia incluirá la información de la Administración General del Estado:",
+  "opciones": [
+   "Únicamente de carácter económico",
+   "Únicamente relativa a los altos cargos",
+   "Cuyo acceso se solicite con mayor frecuencia",
+   "Que determine el Defensor del Pueblo"
+  ],
+  "correcta": 2,
+  "cita": "El Portal de la Transparencia incluirá, en los términos que se establezcan reglamentariamente, la información de la Administración General del Estado, cuyo acceso se solicite con mayor frecuencia."
+ },
+ {
+  "n": 6022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a11",
+  "pregunta": "¿Cuál de los siguientes NO es uno de los principios técnicos del Portal de la Transparencia enumerados en el artículo 11?",
+  "opciones": [
+   "Confidencialidad",
+   "Accesibilidad",
+   "Reutilización",
+   "Interoperabilidad"
+  ],
+  "correcta": 0,
+  "cita": "publicada de acuerdo con las prescripciones técnicas que se establezcan reglamentariamente que deberán adecuarse a los siguientes principios: a) Accesibilidad: se proporcionará información estructurada sobre los documentos y recursos de información con vistas a facilitar la identificación y búsqueda de la información. b) Interoperabilidad: la información publicada será conforme al Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto 4/2010, de 8 enero, así como a las normas técnicas de interoperabilidad. c) Reutilización: se fomentará que la información sea publicada en formatos que permita su reutilización, de"
+ },
+ {
+  "n": 6023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a12",
+  "pregunta": "¿Quiénes tienen derecho a acceder a la información pública según el artículo 12?",
+  "opciones": [
+   "Todas las personas",
+   "Solo los ciudadanos españoles",
+   "Solo los mayores de edad nacionales de la Unión Europea",
+   "Solo los interesados en un procedimiento"
+  ],
+  "correcta": 0,
+  "cita": "Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley."
+ },
+ {
+  "n": 6024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a12",
+  "pregunta": "El derecho de acceso a la información pública se ejerce en los términos previstos en el artículo de la Constitución:",
+  "opciones": [
+   "23.1",
+   "105.b)",
+   "103.1",
+   "20.1.d)"
+  ],
+  "correcta": 1,
+  "cita": "Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley."
+ },
+ {
+  "n": 6025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a13",
+  "pregunta": "Según el artículo 13, se entiende por información pública:",
+  "opciones": [
+   "Solo los documentos de procedimientos ya finalizados",
+   "Los contenidos o documentos, en cualquier formato o soporte, que obren en poder de los sujetos obligados y hayan sido elaborados o adquiridos en el ejercicio de sus funciones",
+   "Solo los documentos en formato electrónico",
+   "Solo los documentos publicados en el «Boletín Oficial del Estado»"
+  ],
+  "correcta": 1,
+  "cita": "Se entiende por información pública los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación de este título y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones."
+ },
+ {
+  "n": 6026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a14",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los límites al derecho de acceso del artículo 14.1?",
+  "opciones": [
+   "La protección del medio ambiente",
+   "La eficacia de la gestión administrativa",
+   "La seguridad pública",
+   "Los intereses económicos y comerciales"
+  ],
+  "correcta": 1,
+  "cita": "El derecho de acceso podrá ser limitado cuando acceder a la información suponga un perjuicio para: a) La seguridad nacional. b) La defensa. c) Las relaciones exteriores. d) La seguridad pública. e) La prevención, investigación y sanción de los ilícitos penales, administrativos o disciplinarios. f) La igualdad de las partes en los procesos judiciales y la tutela judicial efectiva. g) Las funciones administrativas de vigilancia, inspección y control. h) Los intereses económicos y comerciales. i) La política económica y monetaria. j) El secreto profesional y la propiedad intelectual e industrial. k) La garantía de la confidencialidad o el secreto requerido en procesos de toma de decisión. l) La protección del medio ambiente."
+ },
+ {
+  "n": 6027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a14",
+  "pregunta": "Según el artículo 14.2, la aplicación de los límites al derecho de acceso será:",
+  "opciones": [
+   "Discrecional del órgano, sin necesidad de motivación",
+   "Automática cuando concurra cualquiera de ellos",
+   "Justificada y proporcionada a su objeto y finalidad de protección, atendiendo a las circunstancias del caso concreto",
+   "Acordada siempre por el Consejo de Transparencia y Buen Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "La aplicación de los límites será justificada y proporcionada a su objeto y finalidad de protección y atenderá a las circunstancias del caso concreto, especialmente a la concurrencia de un interés público o privado superior que justifique el acceso."
+ },
+ {
+  "n": 6028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a15",
+  "pregunta": "Si la información solicitada contuviera datos personales que revelen la ideología, afiliación sindical, religión o creencias, el acceso únicamente se podrá autorizar:",
+  "opciones": [
+   "Previa ponderación del interés público en la divulgación",
+   "Si lo ampara una norma con rango de ley",
+   "Con el consentimiento expreso y por escrito del afectado, salvo que este hubiese hecho manifiestamente públicos los datos antes de la solicitud",
+   "En ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "contuviera datos personales que revelen la ideología, afiliación sindical, religión o creencias, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a"
+ },
+ {
+  "n": 6029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a15",
+  "pregunta": "Con carácter general, se concederá el acceso a la información que contenga datos:",
+  "opciones": [
+   "Meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano",
+   "De carácter económico de los particulares",
+   "Relativos a la comisión de infracciones administrativas",
+   "Relativos a la salud de los empleados públicos"
+  ],
+  "correcta": 0,
+  "cita": "derechos constitucionalmente protegidos sobre el interés público en la divulgación que lo impida, se concederá el acceso a información que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano."
+ },
+ {
+  "n": 6030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a15",
+  "pregunta": "Las cautelas del artículo 15 sobre datos personales no serán aplicables si el acceso se efectúa:",
+  "opciones": [
+   "Por un investigador acreditado",
+   "Con autorización del superior jerárquico",
+   "Por vía electrónica",
+   "Previa disociación de los datos personales, de modo que se impida la identificación de las personas afectadas"
+  ],
+  "correcta": 3,
+  "cita": "No será aplicable lo establecido en los apartados anteriores si el acceso se efectúa previa disociación de los datos de carácter personal de modo que se impida la identificación de las personas afectadas."
+ },
+ {
+  "n": 6031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a16",
+  "pregunta": "Cuando la aplicación de alguno de los límites del artículo 14 no afecte a la totalidad de la información:",
+  "opciones": [
+   "Se denegará el acceso a toda la información",
+   "Se concederá el acceso total",
+   "Se suspenderá el procedimiento",
+   "Se concederá el acceso parcial, previa omisión de la información afectada, salvo que resulte una información distorsionada o sin sentido"
+  ],
+  "correcta": 3,
+  "cita": "En los casos en que la aplicación de alguno de los límites previstos en el artículo 14 no afecte a la totalidad de la información, se concederá el acceso parcial previa omisión de la información afectada por el límite salvo que de ello resulte una información distorsionada o que carezca de sentido."
+ },
+ {
+  "n": 6032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a17",
+  "pregunta": "¿Está obligado el solicitante a motivar su solicitud de acceso a la información?",
+  "opciones": [
+   "No, aunque puede exponer sus motivos, que podrán tenerse en cuenta al resolver",
+   "Sí, en todo caso",
+   "Sí, si es una persona jurídica",
+   "Sí, cuando la información afecte a terceros"
+  ],
+  "correcta": 0,
+  "cita": "El solicitante no está obligado a motivar su solicitud de acceso a la información."
+ },
+ {
+  "n": 6033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a17",
+  "pregunta": "¿A quién debe dirigirse la solicitud de acceso a la información pública?",
+  "opciones": [
+   "Al Consejo de Transparencia y Buen Gobierno",
+   "Al Defensor del Pueblo",
+   "Al Portal de la Transparencia, en todo caso",
+   "Al titular del órgano administrativo o entidad que posea la información"
+  ],
+  "correcta": 3,
+  "cita": "El procedimiento para el ejercicio del derecho de acceso se iniciará con la presentación de la correspondiente solicitud, que deberá dirigirse al titular del órgano administrativo o entidad que posea la información."
+ },
+ {
+  "n": 6034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a17",
+  "pregunta": "La ausencia de motivación de la solicitud de acceso:",
+  "opciones": [
+   "Obliga a requerir su subsanación",
+   "No será por sí sola causa de rechazo de la solicitud",
+   "Determina su desestimación",
+   "Es causa de inadmisión"
+  ],
+  "correcta": 1,
+  "cita": "No obstante, la ausencia de motivación no será por si sola causa de rechazo de la solicitud."
+ },
+ {
+  "n": 6035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a18",
+  "pregunta": "¿Cuál de las siguientes NO es una causa de inadmisión de las solicitudes de acceso del artículo 18, sino un límite del artículo 14?",
+  "opciones": [
+   "Que la divulgación requiera una acción previa de reelaboración",
+   "Que el acceso suponga un perjuicio para la seguridad pública",
+   "Que la solicitud sea manifiestamente repetitiva o tenga un carácter abusivo",
+   "Que se refiera a información en curso de elaboración o de publicación general"
+  ],
+  "correcta": 1,
+  "cita": "Se inadmitirán a trámite, mediante resolución motivada, las solicitudes: a) Que se refieran a información que esté en curso de elaboración o de publicación general. b) Referidas a información que tenga carácter auxiliar o de apoyo como la contenida en notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas. c) Relativas a información para cuya divulgación sea necesaria una acción previa de reelaboración. d) Dirigidas a un órgano en cuyo poder no obre la información cuando se desconozca el competente. e) Que sean manifiestamente repetitivas o tengan un carácter abusivo no justificado con la finalidad de transparencia de esta Ley."
+ },
+ {
+  "n": 6036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a18",
+  "pregunta": "Si se inadmite una solicitud por dirigirse a un órgano en cuyo poder no obra la información y se desconoce el competente, la resolución deberá:",
+  "opciones": [
+   "Requerir al solicitante que identifique el órgano competente",
+   "Indicar el órgano que, a juicio del que inadmite, es competente para conocer de la solicitud",
+   "Remitir la solicitud al Consejo de Transparencia y Buen Gobierno",
+   "Archivar sin más la solicitud"
+  ],
+  "correcta": 1,
+  "cita": "En el caso en que se inadmita la solicitud por concurrir la causa prevista en la letra d) del apartado anterior, el órgano que acuerde la inadmisión deberá indicar en la resolución el órgano que, a su juicio, es competente para conocer de la solicitud."
+ },
+ {
+  "n": 6037,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a19",
+  "pregunta": "Concreción por el solicitante de la información pedida, cuando la solicitud no la identifique suficientemente",
+  "opciones": [
+   "5 días",
+   "15 días",
+   "10 días",
+   "20 días"
+  ],
+  "correcta": 2,
+  "cita": "Cuando la solicitud no identifique de forma suficiente la información, se pedirá al solicitante que la concrete en un plazo de diez días, con indicación de que, en caso de no hacerlo, se le tendrá por desistido, así como de la suspensión del plazo para dictar resolución."
+ },
+ {
+  "n": 6038,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a19",
+  "pregunta": "Alegaciones de los terceros cuyos derechos o intereses pudieran verse afectados por la información solicitada",
+  "opciones": [
+   "15 días",
+   "10 días",
+   "20 días",
+   "5 días"
+  ],
+  "correcta": 0,
+  "cita": "Si la información solicitada pudiera afectar a derechos o intereses de terceros, debidamente identificados, se les concederá un plazo de quince días para que puedan realizar las alegaciones que estimen oportunas."
+ },
+ {
+  "n": 6039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a20",
+  "pregunta": "El plazo para resolver la solicitud de acceso podrá ampliarse:",
+  "opciones": [
+   "Por otro mes, si el volumen o la complejidad de la información lo hacen necesario, previa notificación al solicitante",
+   "Por quince días más",
+   "Por tres meses más",
+   "No puede ampliarse en ningún caso"
+  ],
+  "correcta": 0,
+  "cita": "Este plazo podrá ampliarse por otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante."
+ },
+ {
+  "n": 6040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a20",
+  "pregunta": "Transcurrido el plazo máximo para resolver una solicitud de acceso sin resolución expresa notificada, la solicitud se entenderá:",
+  "opciones": [
+   "Archivada por desistimiento",
+   "Estimada",
+   "Desestimada",
+   "Caducada"
+  ],
+  "correcta": 2,
+  "cita": "Transcurrido el plazo máximo para resolver sin que se haya dictado y notificado resolución expresa se entenderá que la solicitud ha sido desestimada."
+ },
+ {
+  "n": 6041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a20",
+  "pregunta": "Las resoluciones dictadas en materia de acceso a la información pública:",
+  "opciones": [
+   "Solo son recurribles ante el Defensor del Pueblo",
+   "No son recurribles",
+   "Son recurribles directamente ante la jurisdicción contencioso-administrativa, sin perjuicio de la reclamación potestativa del artículo 24",
+   "Solo son recurribles en alzada"
+  ],
+  "correcta": 2,
+  "cita": "Las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24."
+ },
+ {
+  "n": 6042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a20",
+  "pregunta": "El incumplimiento reiterado de la obligación de resolver en plazo las solicitudes de acceso tendrá la consideración de:",
+  "opciones": [
+   "Infracción grave a efectos del régimen disciplinario",
+   "Infracción muy grave",
+   "Infracción leve",
+   "Mera irregularidad sin consecuencias"
+  ],
+  "correcta": 0,
+  "cita": "El incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción grave a los efectos de la aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora."
+ },
+ {
+  "n": 6043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a20",
+  "pregunta": "¿Cuál de las siguientes resoluciones de acceso NO tiene que ser motivada según el artículo 20.2?",
+  "opciones": [
+   "La que conceda el acceso total, en la modalidad solicitada y sin oposición de terceros",
+   "La que conceda el acceso parcial",
+   "La que permita el acceso habiendo oposición de un tercero",
+   "La que deniegue el acceso"
+  ],
+  "correcta": 0,
+  "cita": "Serán motivadas las resoluciones que denieguen el acceso, las que concedan el acceso parcial o a través de una modalidad distinta a la solicitada y las que permitan el acceso cuando haya habido oposición de un tercero."
+ },
+ {
+  "n": 6044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a22",
+  "pregunta": "El acceso a la información se realizará:",
+  "opciones": [
+   "Preferentemente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado expresamente otro medio",
+   "Siempre de forma presencial",
+   "Siempre en papel",
+   "Por correo certificado"
+  ],
+  "correcta": 0,
+  "cita": "El acceso a la información se realizará preferentemente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado expresamente otro medio."
+ },
+ {
+  "n": 6045,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a22",
+  "pregunta": "Otorgamiento del acceso a la información cuando no pueda darse en el momento de la notificación de la resolución",
+  "opciones": [
+   "No superior a 5 días",
+   "No superior a 15 días",
+   "No superior a 10 días",
+   "No superior a 20 días"
+  ],
+  "correcta": 2,
+  "cita": "Cuando no pueda darse el acceso en el momento de la notificación de la resolución deberá otorgarse, en cualquier caso, en un plazo no superior a diez días."
+ },
+ {
+  "n": 6046,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a22",
+  "pregunta": "Según el artículo 22.4, el acceso a la información pública es:",
+  "opciones": [
+   "Gratuito, aunque la expedición de copias o la trasposición a otro formato puede dar lugar a exacciones",
+   "Sujeto siempre al pago de una tasa",
+   "Gratuito solo para las personas físicas",
+   "Gratuito, incluida en todo caso la expedición de copias"
+  ],
+  "correcta": 0,
+  "cita": "El acceso a la información será gratuito. No obstante, la expedición de copias o la trasposición de la información a un formato diferente al original podrá dar lugar a la exigencia de exacciones en los términos previstos en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, o, en su"
+ },
+ {
+  "n": 6047,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a22",
+  "pregunta": "Si ha existido oposición de tercero, el acceso a la información:",
+  "opciones": [
+   "Se producirá a los diez días de la resolución",
+   "Se producirá en el momento de la notificación",
+   "Requiere el consentimiento del tercero",
+   "Sólo tendrá lugar cuando haya transcurrido el plazo para interponer recurso contencioso-administrativo sin que se haya formalizado, o haya sido resuelto confirmando el derecho"
+  ],
+  "correcta": 3,
+  "cita": "Si ha existido oposición de tercero, el acceso sólo tendrá lugar cuando, habiéndose concedido dicho acceso, haya transcurrido el plazo para interponer recurso contencioso administrativo sin que se haya formalizado o haya sido resuelto confirmando el derecho a recibir la información."
+ },
+ {
+  "n": 6048,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a22",
+  "pregunta": "Si la información solicitada ya ha sido publicada, la resolución:",
+  "opciones": [
+   "Deberá desestimar la solicitud",
+   "Deberá inadmitir la solicitud",
+   "Deberá entregar en todo caso una copia certificada",
+   "Podrá limitarse a indicar al solicitante cómo puede acceder a ella"
+  ],
+  "correcta": 3,
+  "cita": "Si la información ya ha sido publicada, la resolución podrá limitarse a indicar al solicitante cómo puede acceder a ella."
+ },
+ {
+  "n": 6049,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a23",
+  "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno tiene la consideración de:",
+  "opciones": [
+   "Requisito obligatorio previo al recurso contencioso-administrativo",
+   "Complementaria del recurso de reposición",
+   "Sustitutiva de los recursos administrativos",
+   "Recurso de alzada impropio"
+  ],
+  "correcta": 2,
+  "cita": "La reclamación prevista en el artículo siguiente tendrá la consideración de sustitutiva de los recursos administrativos de conformidad con lo dispuesto en el artículo 107.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común."
+ },
+ {
+  "n": 6050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a23",
+  "pregunta": "Contra las resoluciones en materia de acceso dictadas por los órganos del artículo 2.1.f) (Casa del Rey, Congreso, Senado, Tribunal Constitucional, CGPJ, etc.):",
+  "opciones": [
+   "Cabe reclamación ante el Consejo de Transparencia y Buen Gobierno",
+   "Sólo cabe recurso contencioso-administrativo",
+   "Cabe recurso de alzada",
+   "No cabe recurso alguno"
+  ],
+  "correcta": 1,
+  "cita": "No obstante lo dispuesto en el apartado anterior, contra las resoluciones dictadas por los órganos previstos en el artículo 2.1.f) sólo cabrá la interposición de recurso contencioso-administrativo."
+ },
+ {
+  "n": 6051,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a24",
+  "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno tiene carácter:",
+  "opciones": [
+   "Potestativo y previo a la impugnación en vía contencioso-administrativa",
+   "Posterior al recurso contencioso-administrativo",
+   "Obligatorio",
+   "Subsidiario del recurso de alzada"
+  ],
+  "correcta": 0,
+  "cita": "Frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa."
+ },
+ {
+  "n": 6052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a24",
+  "pregunta": "¿A quién comunica el Presidente del Consejo de Transparencia y Buen Gobierno las resoluciones que dicte sobre reclamaciones?",
+  "opciones": [
+   "Al Tribunal de Cuentas",
+   "Al Defensor del Pueblo",
+   "A la Agencia Española de Protección de Datos",
+   "Al Ministerio Fiscal"
+  ],
+  "correcta": 1,
+  "cita": "El Presidente del Consejo de Transparencia y Buen Gobierno comunicará al Defensor del Pueblo las resoluciones que dicte en aplicación de este artículo."
+ },
+ {
+  "n": 6053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a25",
+  "pregunta": "A efectos del título II (buen gobierno), se consideran altos cargos de la Administración General del Estado:",
+  "opciones": [
+   "Los que determine el Consejo de Transparencia y Buen Gobierno",
+   "Los Subdirectores generales, en todo caso",
+   "Todos los funcionarios del subgrupo A1",
+   "Los que tengan tal consideración en aplicación de la normativa en materia de conflictos de intereses"
+  ],
+  "correcta": 3,
+  "cita": "A estos efectos, se considerarán altos cargos los que tengan tal consideración en aplicación de la normativa en materia de conflictos de intereses."
+ },
+ {
+  "n": 6054,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a26",
+  "pregunta": "Según el artículo 26.2.b), los altos cargos no aceptarán para sí regalos que:",
+  "opciones": [
+   "Superen los usos habituales, sociales o de cortesía",
+   "No hayan sido declarados al Consejo de Transparencia y Buen Gobierno",
+   "Superen los 100 euros",
+   "Procedan de otras Administraciones"
+  ],
+  "correcta": 0,
+  "cita": "6.º No aceptarán para sí regalos que superen los usos habituales, sociales o de cortesía, ni favores o servicios en condiciones ventajosas que puedan condicionar el desarrollo de sus funciones."
+ },
+ {
+  "n": 6055,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a26",
+  "pregunta": "Los obsequios de mayor relevancia institucional recibidos por los altos cargos:",
+  "opciones": [
+   "Podrán conservarse si se declaran",
+   "Se incorporarán al patrimonio de la Administración Pública correspondiente",
+   "Deberán devolverse al donante",
+   "Se subastarán con fines benéficos"
+  ],
+  "correcta": 1,
+  "cita": "En el caso de obsequios de una mayor relevancia institucional se procederá a su incorporación al patrimonio de la Administración Pública correspondiente."
+ },
+ {
+  "n": 6056,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a26",
+  "pregunta": "¿Cuál de los siguientes figura entre los principios generales de buen gobierno del artículo 26.2.a)?",
+  "opciones": [
+   "Respetar el principio de imparcialidad, con un criterio independiente y ajeno a todo interés particular",
+   "Seguir las instrucciones de su partido político",
+   "Guardar reserva frente a los órganos de control",
+   "Priorizar los intereses de su propio departamento"
+  ],
+  "correcta": 0,
+  "cita": "3.º Respetarán el principio de imparcialidad, de modo que mantengan un criterio independiente y ajeno a todo interés particular."
+ },
+ {
+  "n": 6057,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a28",
+  "pregunta": "Los compromisos de gastos, reconocimiento de obligaciones y ordenación de pagos sin crédito suficiente constituyen, cuando sean culpables:",
+  "opciones": [
+   "Faltas disciplinarias leves",
+   "Infracciones leves",
+   "Infracciones graves",
+   "Infracciones muy graves"
+  ],
+  "correcta": 3,
+  "cita": "Constituyen infracciones muy graves las siguientes conductas cuando sean culpables: a) La incursión en alcance en la administración de los fondos públicos cuando la conducta no sea subsumible en ninguno de los tipos que se contemplan en las letras siguientes. b) La administración de los recursos y demás derechos de la Hacienda Pública sin sujeción a las disposiciones que regulan su liquidación, recaudación o ingreso en el Tesoro. c) Los compromisos de gastos, reconocimiento de obligaciones y ordenación de pagos sin crédito suficiente para realizarlos o con infracción de lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o"
+ },
+ {
+  "n": 6058,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a29",
+  "pregunta": "Según el artículo 29, el incumplimiento del deber de respeto a la Constitución y a los Estatutos de Autonomía en el ejercicio de sus funciones es una infracción:",
+  "opciones": [
+   "Muy grave",
+   "En materia de conflicto de intereses",
+   "Grave",
+   "Leve"
+  ],
+  "correcta": 0,
+  "cita": "Son infracciones muy graves: a) El incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía de las Comunidades Autónomas y Ciudades de Ceuta y Melilla, en el ejercicio de sus funciones."
+ },
+ {
+  "n": 6059,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a29",
+  "pregunta": "Según el artículo 29, el abuso de autoridad en el ejercicio del cargo es una infracción:",
+  "opciones": [
+   "Grave",
+   "Leve",
+   "Muy grave",
+   "En materia de gestión económico-presupuestaria"
+  ],
+  "correcta": 0,
+  "cita": "Son infracciones graves: a) El abuso de autoridad en el ejercicio del cargo."
+ },
+ {
+  "n": 6060,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a29",
+  "pregunta": "Según el artículo 29, la intervención de un alto cargo en un procedimiento administrativo cuando concurra alguna causa de abstención es una infracción:",
+  "opciones": [
+   "Leve",
+   "Grave",
+   "No tipificada en la Ley 19/2013",
+   "Muy grave"
+  ],
+  "correcta": 1,
+  "cita": "Son infracciones graves: a) El abuso de autoridad en el ejercicio del cargo. b) La intervención en un procedimiento administrativo cuando se dé alguna de las causas de abstención legalmente señaladas."
+ },
+ {
+  "n": 6061,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a29",
+  "pregunta": "Según el artículo 29, la incorrección con los superiores, compañeros o subordinados es una infracción:",
+  "opciones": [
+   "Grave",
+   "Leve",
+   "Muy grave",
+   "No tipificada en la Ley 19/2013"
+  ],
+  "correcta": 1,
+  "cita": "Son infracciones leves: a) La incorrección con los superiores, compañeros o subordinados."
+ },
+ {
+  "n": 6062,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a30",
+  "pregunta": "Las infracciones leves del título II de la Ley 19/2013 serán sancionadas con:",
+  "opciones": [
+   "Una amonestación",
+   "La destitución del cargo",
+   "Una multa",
+   "La declaración del incumplimiento y su publicación en el «Boletín Oficial del Estado»"
+  ],
+  "correcta": 0,
+  "cita": "Las infracciones leves serán sancionadas con una amonestación."
+ },
+ {
+  "n": 6063,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a30",
+  "pregunta": "Período durante el cual los sancionados por una infracción muy grave no podrán ser nombrados alto cargo o asimilado",
+  "opciones": [
+   "Entre 1 y 3 años",
+   "Entre 3 y 5 años",
+   "Entre 5 y 10 años",
+   "Entre 10 y 15 años"
+  ],
+  "correcta": 2,
+  "cita": "Los sancionados por la comisión de una infracción muy grave serán destituidos del cargo que ocupen salvo que ya hubiesen cesado y no podrán ser nombrados para ocupar ningún puesto de alto cargo o asimilado durante un periodo de entre cinco y diez años con arreglo a los criterios previstos en el apartado siguiente."
+ },
+ {
+  "n": 6064,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a30",
+  "pregunta": "Cuando las infracciones del título II pudieran ser constitutivas de delito, la Administración:",
+  "opciones": [
+   "Continuará el procedimiento sancionador en paralelo",
+   "Archivará definitivamente el procedimiento",
+   "Remitirá los hechos al Consejo de Transparencia y Buen Gobierno",
+   "Pondrá los hechos en conocimiento del Fiscal General del Estado y se abstendrá de seguir el procedimiento mientras no termine el proceso penal"
+  ],
+  "correcta": 3,
+  "cita": "Cuando las infracciones pudieran ser constitutivas de delito, la Administración pondrá los hechos en conocimiento del Fiscal General del Estado y se abstendrá de seguir el procedimiento mientras la autoridad judicial no dicte una resolución que ponga fin al proceso penal."
+ },
+ {
+  "n": 6065,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a31",
+  "pregunta": "En los procedimientos sancionadores del título II dirigidos contra altos cargos de la Administración General del Estado, la instrucción corresponde a:",
+  "opciones": [
+   "El Tribunal de Cuentas",
+   "La Inspección General de Servicios",
+   "El Consejo de Transparencia y Buen Gobierno",
+   "La Oficina de Conflictos de Intereses"
+  ],
+  "correcta": 3,
+  "cita": "En los supuestos previstos en las letras a) y b) del apartado anterior, la instrucción de los correspondientes procedimientos corresponderá a la Oficina de Conflictos de Intereses."
+ },
+ {
+  "n": 6066,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a31",
+  "pregunta": "Cuando el alto cargo sea miembro del Gobierno o Secretario de Estado, la imposición de las sanciones del título II corresponde a:",
+  "opciones": [
+   "El Consejo de Ministros",
+   "El Presidente del Gobierno",
+   "El Tribunal Supremo",
+   "El Consejo de Transparencia y Buen Gobierno"
+  ],
+  "correcta": 0,
+  "cita": "La competencia para la imposición de sanciones corresponderá: a) Al Consejo de Ministros cuando el alto cargo tenga la condición de miembro del Gobierno o Secretario de Estado."
+ },
+ {
+  "n": 6067,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a31",
+  "pregunta": "Las resoluciones dictadas en el procedimiento sancionador del título II son recurribles ante:",
+  "opciones": [
+   "El Tribunal Constitucional",
+   "El Consejo de Ministros, en alzada",
+   "El Consejo de Transparencia y Buen Gobierno",
+   "El orden jurisdiccional contencioso-administrativo"
+  ],
+  "correcta": 3,
+  "cita": "Las resoluciones que se dicten en aplicación del procedimiento sancionador regulado en este título serán recurribles ante el orden jurisdiccional contencioso-administrativo."
+ },
+ {
+  "n": 6068,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a32",
+  "pregunta": "Prescripción de las infracciones muy graves de buen gobierno (Ley 19/2013)",
+  "opciones": [
+   "4 años",
+   "3 años",
+   "5 años",
+   "2 años"
+  ],
+  "correcta": 2,
+  "cita": "El plazo de prescripción de las infracciones previstas en este título será de cinco años para las infracciones muy graves, tres años para las graves y un año para las leves."
+ },
+ {
+  "n": 6069,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a32",
+  "pregunta": "Prescripción de las infracciones graves de buen gobierno (Ley 19/2013)",
+  "opciones": [
+   "5 años",
+   "3 años",
+   "2 años",
+   "1 año"
+  ],
+  "correcta": 1,
+  "cita": "El plazo de prescripción de las infracciones previstas en este título será de cinco años para las infracciones muy graves, tres años para las graves y un año para las leves."
+ },
+ {
+  "n": 6070,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a32",
+  "pregunta": "Prescripción de las infracciones leves de buen gobierno (Ley 19/2013)",
+  "opciones": [
+   "3 años",
+   "1 año",
+   "5 años",
+   "2 años"
+  ],
+  "correcta": 1,
+  "cita": "El plazo de prescripción de las infracciones previstas en este título será de cinco años para las infracciones muy graves, tres años para las graves y un año para las leves."
+ },
+ {
+  "n": 6071,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a33",
+  "pregunta": "Según el artículo 33.2, el Consejo de Transparencia y Buen Gobierno:",
+  "opciones": [
+   "Depende jerárquicamente del Defensor del Pueblo",
+   "Es un órgano de las Cortes Generales",
+   "Tiene personalidad jurídica propia y plena capacidad de obrar, y actúa con autonomía y plena independencia",
+   "Es un órgano sin personalidad jurídica integrado en un Ministerio"
+  ],
+  "correcta": 2,
+  "cita": "El Consejo de Transparencia y Buen Gobierno tiene personalidad jurídica propia y plena capacidad de obrar. Actúa con autonomía y plena independencia en el cumplimiento de sus fines."
+ },
+ {
+  "n": 6072,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a35",
+  "pregunta": "¿Qué órganos componen el Consejo de Transparencia y Buen Gobierno?",
+  "opciones": [
+   "El Consejo Rector y el Director",
+   "El Presidente y el Vicepresidente",
+   "La Comisión de Transparencia y Buen Gobierno y el Presidente",
+   "El Pleno y la Comisión Permanente"
+  ],
+  "correcta": 2,
+  "cita": "El Consejo de Transparencia y Buen Gobierno estará compuesto por los siguientes órganos: a) La Comisión de Transparencia y Buen Gobierno. b) El Presidente del Consejo de Transparencia y Buen Gobierno que lo será también de su Comisión."
+ },
+ {
+  "n": 6073,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a36",
+  "pregunta": "¿Cuál de los siguientes NO forma parte de la Comisión de Transparencia y Buen Gobierno según el artículo 36.2?",
+  "opciones": [
+   "Un representante de la Agencia Española de Protección de Datos",
+   "Un representante del Consejo General del Poder Judicial",
+   "Un representante del Tribunal de Cuentas",
+   "Un Diputado"
+  ],
+  "correcta": 1,
+  "cita": "Dicha Comisión estará compuesta por: a) El Presidente. b) Un Diputado. c) Un Senador. d) Un representante del Tribunal de Cuentas. e) Un representante del Defensor del Pueblo. f) Un representante de la Agencia Española de Protección de Datos. g) Un representante de la Secretaría de Estado de Administraciones Públicas. h) Un representante de la Autoridad Independiente de Responsabilidad Fiscal."
+ },
+ {
+  "n": 6074,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a36",
+  "pregunta": "La condición de miembro de la Comisión de Transparencia y Buen Gobierno:",
+  "opciones": [
+   "Da derecho a una retribución fijada por ley para todos sus miembros",
+   "Exige dedicación exclusiva",
+   "Es incompatible con cualquier otro cargo público",
+   "No exige dedicación exclusiva ni da derecho a remuneración, salvo lo previsto para el Presidente"
+  ],
+  "correcta": 3,
+  "cita": "La condición de miembro de la Comisión del Consejo de Transparencia y Buen Gobierno no exigirá dedicación exclusiva ni dará derecho a remuneración con excepción de lo previsto en el artículo siguiente."
+ },
+ {
+  "n": 6075,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a36",
+  "pregunta": "¿Con qué periodicidad mínima convoca la Comisión de Transparencia y Buen Gobierno a los representantes de los organismos autonómicos con funciones similares?",
+  "opciones": [
+   "Al menos una vez al año",
+   "Al menos dos veces al año",
+   "Una vez por legislatura",
+   "Al menos una vez al trimestre"
+  ],
+  "correcta": 0,
+  "cita": "Al menos una vez al año, la Comisión de Transparencia y Buen Gobierno convocará a los representantes de los organismos que, con funciones similares a las desarrolladas por ella, hayan sido creados por las Comunidades Autónomas en ejercicio de sus competencias."
+ },
+ {
+  "n": 6076,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "L19",
+  "articulo": "a37",
+  "pregunta": "Mandato, no renovable, del Presidente del Consejo de Transparencia y Buen Gobierno",
+  "opciones": [
+   "5 años",
+   "6 años",
+   "3 años",
+   "4 años"
+  ],
+  "correcta": 0,
+  "cita": "El Presidente del Consejo de Transparencia y Buen Gobierno será nombrado por un período no renovable de cinco años mediante Real Decreto, a propuesta del titular del Ministerio de Hacienda y Administraciones"
+ },
+ {
+  "n": 6077,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a37",
+  "pregunta": "La Comisión competente del Congreso refrenda el nombramiento del Presidente del Consejo de Transparencia y Buen Gobierno por:",
+  "opciones": [
+   "Mayoría simple",
+   "Mayoría de tres quintos",
+   "Mayoría de dos tercios",
+   "Mayoría absoluta"
+  ],
+  "correcta": 3,
+  "cita": "El Congreso, a través de la Comisión competente y por acuerdo adoptado por mayoría absoluta, deberá refrendar el nombramiento del candidato propuesto en el plazo de un mes natural desde la recepción de la correspondiente comunicación."
+ },
+ {
+  "n": 6078,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a38",
+  "pregunta": "Según el artículo 38.2, ¿a quién corresponde conocer de las reclamaciones que se presenten en aplicación del artículo 24?",
+  "opciones": [
+   "A la Comisión de Transparencia y Buen Gobierno",
+   "Al Defensor del Pueblo",
+   "Al Presidente del Consejo de Transparencia y Buen Gobierno",
+   "Al Consejo de Estado"
+  ],
+  "correcta": 2,
+  "cita": "El Presidente del Consejo de Transparencia y Buen Gobierno ejercerá las siguientes funciones: a) Adoptar criterios de interpretación uniforme de las obligaciones contenidas en esta Ley. b) Velar por el cumplimiento de las obligaciones de publicidad contenidas en el capítulo II del título I de acuerdo con lo previsto en el artículo 9 de esta Ley. c) Conocer de las reclamaciones que se presenten en aplicación del artículo 24 de esta Ley."
+ },
+ {
+  "n": 6079,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a38",
+  "pregunta": "La memoria anual en la que el Consejo de Transparencia y Buen Gobierno evalúa el grado de aplicación de la Ley se presenta ante:",
+  "opciones": [
+   "Las Cortes Generales",
+   "El Gobierno",
+   "El Tribunal de Cuentas",
+   "El Defensor del Pueblo"
+  ],
+  "correcta": 0,
+  "cita": "Para ello, elaborará anualmente una memoria en la que se incluirá información sobre el cumplimiento de las obligaciones previstas y que será presentada ante las Cortes Generales."
+ },
+ {
+  "n": 6080,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "L19",
+  "articulo": "a38",
+  "pregunta": "¿Qué función tiene el Consejo de Transparencia y Buen Gobierno respecto de los proyectos normativos estatales que desarrollen la Ley 19/2013 o estén relacionados con su objeto?",
+  "opciones": [
+   "Aprobarlos",
+   "Vetarlos",
+   "Informarlos preceptivamente",
+   "Informarlos con carácter facultativo"
+  ],
+  "correcta": 2,
+  "cita": "c) Informar preceptivamente los proyectos normativos de carácter estatal que desarrollen esta Ley o que estén relacionados con su objeto."
+ }
+]
