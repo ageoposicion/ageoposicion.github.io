@@ -1,0 +1,3 @@
+Preguntas verificadas: 0
+Por bloque: {}
+Rechazadas: 0
