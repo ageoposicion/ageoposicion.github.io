@@ -84,3 +84,13 @@ Muestra (semilla 7007): 24004, 24010, 24011, 24020, 24022, 24033, 24034, 24036, 
 26023, 26025, 27005, 27011, 27016.
 
 Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
+
+## Revisión 8 (tras los lotes 28, 29 y 30) · 8-10-2026
+
+Muestra (semilla 8008): 28005, 28008, 28009, 28012, 28014, 28017, 28018, 28019, 28026, 28034, 28039,
+28042, 29002, 29005, 29009, 29010, 29012, 29014, 29022, 29024, 29025, 30001, 30005, 30009, 30011,
+30012, 30013, 30019, 30023, 30026.
+
+Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
+En el RD 203/2021 se evitan los nombres de ministerios (han cambiado desde 2021); en la LGSS se evita la
+edad ordinaria de jubilación del art. 205.1.a), que todavía se aplica de forma gradual.
