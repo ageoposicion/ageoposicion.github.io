@@ -104,3 +104,10 @@ Muestra (semilla 9009): 31003, 31007, 31010, 31016, 31017, 31019, 31021, 31022, 
 Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
 MUFACE, Clases Pasivas y el RD 208/1996 se descargaron del BOE el 8-10-2026 (identificadores
 BOE-A-2000-12140, BOE-A-1987-12636 y BOE-A-1996-4997; títulos comprobados).
+
+## Correcciones de la usuaria (desde 8-10-2026)
+
+La app tiene un botón «✏️ Editar» en cada pregunta. Las correcciones se guardan en
+`data/correcciones.json` y la app las aplica siempre por encima del banco (por número de pregunta).
+Al preparar nuevos lotes o revisiones se leerán esas correcciones y, si una pregunta se regenera,
+la corrección de la usuaria sigue teniendo prioridad.
