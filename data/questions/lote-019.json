@@ -1,0 +1,450 @@
+[
+ {
+  "n": 19001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aprimero",
+  "pregunta": "Procede la declaración de los estados de alarma, excepción o sitio cuando:",
+  "opciones": [
+   "Se produzca cualquier alteración del orden público",
+   "Circunstancias extraordinarias hagan imposible el mantenimiento de la normalidad mediante los poderes ordinarios de las autoridades competentes",
+   "Lo acuerde el Consejo de Seguridad Nacional",
+   "Lo solicite la mayoría absoluta del Congreso"
+  ],
+  "correcta": 1,
+  "cita": "Procederá la declaración de los estados de alarma, excepción o sitio cuando circunstancias extraordinarias hiciesen imposible el mantenimiento de la normalidad mediante los poderes ordinarios de las Autoridades competentes."
+ },
+ {
+  "n": 19002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aprimero",
+  "pregunta": "La declaración de los estados de alarma, excepción y sitio:",
+  "opciones": [
+   "Suspende la actividad del Tribunal Constitucional",
+   "Disuelve automáticamente el Congreso",
+   "Suspende la actividad de las Cortes Generales",
+   "No interrumpe el normal funcionamiento de los poderes constitucionales del Estado"
+  ],
+  "correcta": 3,
+  "cita": "La declaración de los estados de alarma, excepción y sitio no interrumpe el normal funcionamiento de los poderes constitucionales del Estado."
+ },
+ {
+  "n": 19003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "asegundo",
+  "pregunta": "La declaración de los estados de alarma, excepción o sitio entra en vigor:",
+  "opciones": [
+   "Desde su comunicación al Congreso",
+   "Desde el instante mismo de su publicación en el «Boletín Oficial del Estado»",
+   "A los veinte días de su publicación",
+   "Al día siguiente de su publicación"
+  ],
+  "correcta": 1,
+  "cita": "La declaración de los estados de alarma, excepción o sitio será publicada de inmediato en el «Boletín Oficial del Estado», y difundida obligatoriamente por todos los medios de comunicación públicos y por los privados que se determinen, y entrará en vigor desde el instante mismo de su publicación en aquél."
+ },
+ {
+  "n": 19004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atercero",
+  "pregunta": "Los actos y disposiciones de la Administración adoptados durante la vigencia de los estados de alarma, excepción y sitio:",
+  "opciones": [
+   "No son impugnables",
+   "Son impugnables en vía jurisdiccional de conformidad con las leyes",
+   "Solo son impugnables una vez finalizado el estado",
+   "Solo son impugnables ante el Tribunal Constitucional"
+  ],
+  "correcta": 1,
+  "cita": "Los actos y disposiciones de la Administración Pública adoptados durante la vigencia de los estados de alarma, excepción y sitio serán impugnables en vía jurisdiccional de conformidad con lo dispuesto en las leyes."
+ },
+ {
+  "n": 19005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "acuao",
+  "pregunta": "¿Cuál de las siguientes NO es una de las alteraciones graves de la normalidad que permiten declarar el estado de alarma según el artículo cuarto?",
+  "opciones": [
+   "Crisis sanitarias, como epidemias",
+   "Situaciones de desabastecimiento de productos de primera necesidad",
+   "Catástrofes como terremotos o inundaciones",
+   "Una insurrección contra la integridad territorial de España"
+  ],
+  "correcta": 3,
+  "cita": "de la Constitución podrá declarar el estado de alarma, en todo o parte del territorio nacional, cuando se produzca alguna de las siguientes alteraciones graves de la normalidad. a) Catástrofes, calamidades o desgracias públicas, tales como terremotos, inundaciones, incendios urbanos y forestales o accidentes de gran magnitud. b) Crisis sanitarias, tales como epidemias y situaciones de contaminación graves. c) Paralización de servicios públicos esenciales para la comunidad, cuando no se garantice lo dispuesto en los artículos veintiocho, dos, y treinta y siete, dos, de la Constitución, y concurra alguna de las demás circunstancia o situaciones contenidas en este artículo. d) Situaciones de desabastecimiento de productos de primera necesidad."
+ },
+ {
+  "n": 19006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aquinto",
+  "pregunta": "Cuando los supuestos del estado de alarma afecten exclusivamente al territorio de una Comunidad Autónoma, puede solicitar al Gobierno su declaración:",
+  "opciones": [
+   "El Delegado del Gobierno",
+   "El Presidente de la Comunidad Autónoma",
+   "El Parlamento autonómico",
+   "Cualquier alcalde afectado"
+  ],
+  "correcta": 1,
+  "cita": "Cuando los supuestos a que se refiere el artículo anterior afecten exclusivamente a todo, o parte del ámbito territorial de una Comunidad Autónoma, el Presidente de la misma, podrá solicitar del Gobierno la declaración de estado de alarma."
+ },
+ {
+  "n": 19007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "asexto",
+  "pregunta": "La declaración del estado de alarma se lleva a cabo mediante:",
+  "opciones": [
+   "Resolución del Congreso de los Diputados",
+   "Real Decreto del Presidente del Gobierno",
+   "Decreto acordado en Consejo de Ministros",
+   "Ley orgánica"
+  ],
+  "correcta": 2,
+  "cita": "La declaración del estado de alarma se llevará a cabo mediante decreto acordado en Consejo de Ministros."
+ },
+ {
+  "n": 19008,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOAES",
+  "articulo": "asexto",
+  "pregunta": "Duración máxima del estado de alarma fijada en el decreto de declaración (prorrogable solo con autorización expresa del Congreso)",
+  "opciones": [
+   "30 días",
+   "15 días",
+   "60 días",
+   "10 días"
+  ],
+  "correcta": 1,
+  "cita": "En el decreto se determinará el ámbito territorial, la duración y los efectos del estado de alarma, que no podrá exceder de quince días."
+ },
+ {
+  "n": 19009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "asexto",
+  "pregunta": "La prórroga del estado de alarma requiere:",
+  "opciones": [
+   "Autorización del Senado",
+   "Acuerdo del Consejo de Ministros",
+   "Dictamen del Consejo de Estado",
+   "Autorización expresa del Congreso de los Diputados"
+  ],
+  "correcta": 3,
+  "cita": "Sólo se podrá prorrogar con autorización expresa del Congreso de los Diputados, que en este caso podrá establecer el alcance y las condiciones vigentes durante la prórroga."
+ },
+ {
+  "n": 19010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aseptimo",
+  "pregunta": "A los efectos del estado de alarma, la Autoridad competente es:",
+  "opciones": [
+   "El Gobierno o, por delegación, el Presidente de la Comunidad Autónoma cuando afecte solo a su territorio",
+   "El Jefe del Estado Mayor de la Defensa",
+   "El Congreso de los Diputados",
+   "El Ministro del Interior en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "A los efectos del estado de alarma la Autoridad competente será el Gobierno o, por delegación de éste, el Presidente de la Comunidad Autónoma cuando la declaración afecte exclusivamente a todo o parte del territorio de una Comunidad."
+ },
+ {
+  "n": 19011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aoctavo",
+  "pregunta": "De la declaración del estado de alarma el Gobierno da cuenta a:",
+  "opciones": [
+   "El Senado",
+   "El Congreso de los Diputados",
+   "El Rey",
+   "El Tribunal Constitucional"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno dará cuenta al Congreso de los Diputados de la declaración del estado de alarma y le suministrará la información que le sea requerida."
+ },
+ {
+  "n": 19012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aonce",
+  "pregunta": "Durante el estado de alarma, la intervención y ocupación transitoria de industrias, fábricas o locales puede acordarse:",
+  "opciones": [
+   "Solo con autorización judicial",
+   "Solo respecto de bienes públicos",
+   "Con excepción de domicilios privados",
+   "Incluidos los domicilios privados"
+  ],
+  "correcta": 2,
+  "cita": "c) Intervenir y ocupar transitoriamente industrias, fábricas, talleres, explotaciones o locales de cualquier naturaleza, con excepción de domicilios privados, dando cuenta de ello a los Ministerios interesados."
+ },
+ {
+  "n": 19013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aonce",
+  "pregunta": "¿Cuál de las siguientes medidas puede acordar el decreto de declaración del estado de alarma?",
+  "opciones": [
+   "Suspender la libertad de expresión",
+   "Suspender el derecho de reunión",
+   "Detener personas durante diez días",
+   "Limitar la circulación o permanencia de personas o vehículos en horas y lugares determinados"
+  ],
+  "correcta": 3,
+  "cita": "alarma, o los sucesivos que durante su vigencia se dicten, podrán acordar las medidas siguientes: a) Limitar la circulación o permanencia de personas o vehículos en horas y lugares determinados, o condicionarlas al cumplimiento de ciertos requisitos."
+ },
+ {
+  "n": 19014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atrece",
+  "pregunta": "Para declarar el estado de excepción, el Gobierno debe:",
+  "opciones": [
+   "Solicitar previamente autorización del Congreso de los Diputados",
+   "Dar cuenta al Congreso en el plazo de quince días",
+   "Obtener la propuesta del Rey",
+   "Obtener autorización del Senado"
+  ],
+  "correcta": 0,
+  "cita": "el Gobierno, de acuerdo con el apartado tres del artículo ciento dieciséis de la Constitución, podrá solicitar del Congreso de los Diputados autorización para declarar el estado de excepción."
+ },
+ {
+  "n": 19016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atrece",
+  "pregunta": "Los derechos cuya suspensión se solicite en el estado de excepción no pueden ser otros que los enumerados en:",
+  "opciones": [
+   "El artículo 53.2 de la Constitución",
+   "El artículo 116.2 de la Constitución",
+   "El artículo 55.1 de la Constitución",
+   "El Título I completo de la Constitución"
+  ],
+  "correcta": 2,
+  "cita": "efectos del estado de excepción, con mención expresa de los derechos cuya suspensión se solicita, que no podrán ser otros que los enumerados en el apartado uno del artículo cincuenta y cinco de la Constitución."
+ },
+ {
+  "n": 19017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atrece",
+  "pregunta": "Ante la solicitud de autorización del estado de excepción, el Congreso:",
+  "opciones": [
+   "Solo puede aprobarla o rechazarla en bloque",
+   "Debe remitirla al Senado",
+   "Puede aprobarla en sus propios términos o introducir modificaciones",
+   "Solo emite un informe no vinculante"
+  ],
+  "correcta": 2,
+  "cita": "El Congreso debatirá la solicitud de autorización remitida por el Gobierno, pudiendo aprobarla en sus propios términos o introducir modificaciones en la misma."
+ },
+ {
+  "n": 19018,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOAES",
+  "articulo": "aquince",
+  "pregunta": "Duración máxima de la prórroga del estado de excepción",
+  "opciones": [
+   "10 días",
+   "60 días",
+   "15 días",
+   "30 días"
+  ],
+  "correcta": 3,
+  "cita": "Si persistieran las circunstancias que dieron lugar a la declaración del estado de excepción, el Gobierno podrá solicitar del Congreso de los Diputados la prórroga de aquél, que no podrá exceder de treinta días."
+ },
+ {
+  "n": 19019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aquince",
+  "pregunta": "El Gobierno puede poner fin al estado de excepción antes de que finalice su período:",
+  "opciones": [
+   "Solo con autorización previa del Congreso",
+   "No puede, debe agotarse el período",
+   "Solo con autorización del Senado",
+   "Mediante decreto acordado en Consejo de Ministros, dando cuenta inmediatamente al Congreso"
+  ],
+  "correcta": 3,
+  "cita": "El Gobierno, mediante decreto acordado en Consejo de Ministros, podrá poner fin al estado de excepción antes de que finalice el período para el que fue declarado, dando cuenta de ello inmediatamente al Congreso de los Diputados."
+ },
+ {
+  "n": 19020,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOAES",
+  "articulo": "adieciseis",
+  "pregunta": "Duración máxima de la detención acordada por la Autoridad gubernativa durante el estado de excepción",
+  "opciones": [
+   "5 días",
+   "15 días",
+   "10 días",
+   "72 horas"
+  ],
+  "correcta": 2,
+  "cita": "La detención no podrá exceder de diez días y los detenidos disfrutarán de los derechos que les reconoce el artículo diecisiete, tres, de la Constitución."
+ },
+ {
+  "n": 19021,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOAES",
+  "articulo": "adieciseis",
+  "pregunta": "Plazo para comunicar al juez competente la detención practicada durante el estado de excepción",
+  "opciones": [
+   "12 horas",
+   "72 horas",
+   "24 horas",
+   "48 horas"
+  ],
+  "correcta": 2,
+  "cita": "La detención habrá de ser comunicada al juez competente en el plazo de veinticuatro horas."
+ },
+ {
+  "n": 19022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aveinte",
+  "pregunta": "Durante el estado de excepción, la Autoridad gubernativa puede exigir a personas determinadas que comuniquen todo desplazamiento fuera de su localidad de residencia con una antelación de:",
+  "opciones": [
+   "Cinco días",
+   "Dos días",
+   "Un día",
+   "Tres días"
+  ],
+  "correcta": 1,
+  "cita": "Cuando ello resulte necesario, la Autoridad gubernativa podrá exigir a personas determinadas que comuniquen, con una antelación de dos días, todo desplazamiento fuera de la localidad en que tengan su residencia habitual."
+ },
+ {
+  "n": 19023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aveintiuno",
+  "pregunta": "La suspensión de publicaciones y emisiones durante el estado de excepción:",
+  "opciones": [
+   "Solo afecta a publicaciones extranjeras",
+   "No puede llevar aparejado ningún tipo de censura previa",
+   "Permite la censura previa",
+   "Requiere autorización judicial"
+  ],
+  "correcta": 1,
+  "cita": "El ejercicio de las potestades a que se refiere el apartado anterior no podrá llevar aparejado ningún tipo de censura previa."
+ },
+ {
+  "n": 19024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "aveintidos",
+  "pregunta": "Durante el estado de excepción, las reuniones orgánicas de partidos políticos, sindicatos y asociaciones empresariales conforme a sus fines y Estatutos:",
+  "opciones": [
+   "Pueden prohibirse libremente",
+   "Requieren autorización previa",
+   "No pueden ser prohibidas, disueltas ni sometidas a autorización previa",
+   "Solo pueden celebrarse en locales públicos"
+  ],
+  "correcta": 2,
+  "cita": "les asignen los artículos sexto y séptimo de la Constitución, y de acuerdo con sus Estatutos, no podrán ser prohibidas, disueltas ni sometidas a autorización previa."
+ },
+ {
+  "n": 19025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atreintaydos",
+  "pregunta": "El estado de sitio procede cuando se produzca o amenace producirse:",
+  "opciones": [
+   "Una huelga en servicios esenciales",
+   "Una catástrofe natural",
+   "Una insurrección o acto de fuerza contra la soberanía, independencia, integridad territorial u ordenamiento constitucional de España",
+   "Una epidemia grave"
+  ],
+  "correcta": 2,
+  "cita": "Cuando se produzca o amenace producirse una insurrección o acto de fuerza contra la soberanía o independencia de España, su integridad territorial o el ordenamiento constitucional, que no pueda resolverse por otros"
+ },
+ {
+  "n": 19026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atreintaydos",
+  "pregunta": "La declaración del estado de sitio corresponde, a propuesta del Gobierno, a:",
+  "opciones": [
+   "Las Cortes Generales en sesión conjunta",
+   "El Congreso de los Diputados",
+   "El Consejo de Ministros",
+   "El Senado"
+  ],
+  "correcta": 1,
+  "cita": "con lo dispuesto en el apartado cuatro del artículo ciento dieciséis de la Constitución, podrá proponer al Congreso de los Diputados la declaración de estado de sitio."
+ },
+ {
+  "n": 19027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atreintaydos",
+  "pregunta": "La declaración del estado de sitio puede autorizar, además de lo previsto para los estados de alarma y excepción:",
+  "opciones": [
+   "La disolución del Congreso",
+   "La suspensión de la tutela judicial efectiva",
+   "La suspensión temporal de las garantías jurídicas del detenido del artículo 17.3 de la Constitución",
+   "La suspensión del derecho a la vida"
+  ],
+  "correcta": 2,
+  "cita": "La declaración podrá autorizar, además de lo previsto para los estados de alarma y excepción, la suspensión temporal de las garantías jurídicas del detenido que se reconocen en el apartado tres del artículo diecisiete de la Constitución."
+ },
+ {
+  "n": 19028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atreintaytres",
+  "pregunta": "En el estado de sitio, ejecuta las medidas en el territorio afectado, bajo la dirección del Gobierno:",
+  "opciones": [
+   "El Delegado del Gobierno",
+   "El Ministro del Interior",
+   "El Presidente de la Comunidad Autónoma",
+   "La Autoridad militar designada por el Gobierno"
+  ],
+  "correcta": 3,
+  "cita": "A efectos de lo dispuesto en el párrafo anterior, el Gobierno designará la Autoridad militar que, bajo su dirección, haya de ejecutar las medidas que procedan en el territorio a que el estado de sitio se refiera."
+ },
+ {
+  "n": 19029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOAES",
+  "articulo": "atreintaycinco",
+  "pregunta": "En la declaración del estado de sitio, el Congreso de los Diputados puede determinar:",
+  "opciones": [
+   "La destitución del Gobierno",
+   "La disolución de los partidos políticos",
+   "La suspensión de las elecciones",
+   "Los delitos que durante su vigencia quedan sometidos a la Jurisdicción Militar"
+  ],
+  "correcta": 3,
+  "cita": "En la declaración del estado de sitio el Congreso de los Diputados podrá determinar los delitos que durante su vigencia quedan sometidos a la Jurisdicción Militar."
+ }
+]

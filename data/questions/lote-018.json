@@ -1,0 +1,642 @@
+[
+ {
+  "n": 18001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aprimero",
+  "pregunta": "Según su ley orgánica, el Defensor del Pueblo es:",
+  "opciones": [
+   "El alto comisionado del Gobierno para la defensa de los ciudadanos",
+   "Un órgano dependiente del Ministerio de Justicia",
+   "Un órgano del Poder Judicial",
+   "El alto comisionado de las Cortes Generales designado por éstas para la defensa de los derechos del Título I de la Constitución"
+  ],
+  "correcta": 3,
+  "cita": "El Defensor del Pueblo es el alto comisionado de las Cortes Generales designado por éstas para la defensa de los derechos comprendidos en el Título I de la Constitución, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales."
+ },
+ {
+  "n": 18002,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LODP",
+  "articulo": "asegundo",
+  "pregunta": "Duración del mandato del Defensor del Pueblo",
+  "opciones": [
+   "6 años",
+   "5 años",
+   "9 años",
+   "4 años"
+  ],
+  "correcta": 1,
+  "cita": "El Defensor del Pueblo será elegido por las Cortes Generales para un periodo de cinco años, y se dirigirá a las mismas a través de los Presidentes del Congreso y del senado, respectivamente."
+ },
+ {
+  "n": 18003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "asegundo",
+  "pregunta": "La Comisión de las Cortes encargada de relacionarse con el Defensor del Pueblo es:",
+  "opciones": [
+   "La Diputación Permanente",
+   "La Comisión Constitucional del Congreso",
+   "La Comisión de Peticiones del Senado",
+   "Una Comisión Mixta Congreso-Senado"
+  ],
+  "correcta": 3,
+  "cita": "Se designará en las Cortes Generales una Comisión Mixta Congreso-Senado encargada de relacionarse con el Defensor del Pueblo e informar a los respectivos Plenos en cuantas ocasiones sea necesario."
+ },
+ {
+  "n": 18004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "asegundo",
+  "pregunta": "Para ser designado Defensor del Pueblo, el candidato debe obtener en el Congreso una votación favorable de:",
+  "opciones": [
+   "Las tres quintas partes de sus miembros, y ser ratificado después por la misma mayoría del Senado",
+   "La mayoría simple de ambas Cámaras en sesión conjunta",
+   "La mayoría absoluta del Congreso exclusivamente",
+   "Las dos terceras partes de cada Cámara"
+  ],
+  "correcta": 0,
+  "cita": "Será designado quien obtuviese una votación favorable de las tres quintas partes de los miembros del Congreso y posteriormente, en un plazo máximo de veinte días, fuese ratificado por esta misma mayoría del Senado."
+ },
+ {
+  "n": 18005,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LODP",
+  "articulo": "asegundo",
+  "pregunta": "Plazo máximo para que el Senado ratifique al Defensor del Pueblo elegido por el Congreso",
+  "opciones": [
+   "10 días",
+   "30 días",
+   "20 días",
+   "15 días"
+  ],
+  "correcta": 2,
+  "cita": "Será designado quien obtuviese una votación favorable de las tres quintas partes de los miembros del Congreso y posteriormente, en un plazo máximo de veinte días, fuese ratificado por esta misma mayoría del Senado."
+ },
+ {
+  "n": 18006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "asegundo",
+  "pregunta": "Si no se alcanzan las mayorías iniciales y se formulan nuevas propuestas, la designación queda realizada cuando, tras obtener tres quintos en el Congreso, se alcance en el Senado:",
+  "opciones": [
+   "Las tres quintas partes",
+   "Las dos terceras partes",
+   "La mayoría absoluta",
+   "La mayoría simple"
+  ],
+  "correcta": 2,
+  "cita": "En tales casos, una vez conseguida la mayoría de los tres quintos en el Congreso, la designación quedará realizada al alcanzarse la mayoría absoluta del Senado."
+ },
+ {
+  "n": 18007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "atercero",
+  "pregunta": "Puede ser elegido Defensor del Pueblo:",
+  "opciones": [
+   "Solo un Diputado o Senador",
+   "Solo un licenciado en Derecho con diez años de ejercicio",
+   "Cualquier ciudadano de la Unión Europea residente en España",
+   "Cualquier español mayor de edad en pleno disfrute de sus derechos civiles y políticos"
+  ],
+  "correcta": 3,
+  "cita": "Podrá ser elegido Defensor del Pueblo cualquier español mayor de edad que se encuentre en el pleno disfrute de sus derechos civiles y políticos."
+ },
+ {
+  "n": 18008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "acuao",
+  "pregunta": "El Defensor del Pueblo toma posesión de su cargo:",
+  "opciones": [
+   "Ante el Pleno del Congreso",
+   "Ante el Rey",
+   "Ante el Tribunal Constitucional",
+   "Ante las Mesas de ambas Cámaras reunidas conjuntamente"
+  ],
+  "correcta": 3,
+  "cita": "El Defensor del Pueblo tomará posesión de su cargo ante las Mesas de ambas Cámaras reunidas conjuntamente, prestando juramento o promesa de fiel desempeño de su función."
+ },
+ {
+  "n": 18009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aquinto",
+  "pregunta": "¿Cuál de las siguientes NO es causa de cese del Defensor del Pueblo según el artículo quinto?",
+  "opciones": [
+   "La expiración del plazo de su nombramiento",
+   "La disolución de las Cortes Generales",
+   "La condena por sentencia firme por delito doloso",
+   "La renuncia"
+  ],
+  "correcta": 1,
+  "cita": "El Defensor del Pueblo cesará por alguna de las siguientes causas: Uno) Por renuncia. Dos) Por expiración del plazo de su nombramiento. Tres) Por muerte o por incapacidad sobrevenida. Cuatro) Por actuar con notoria negligencia en el cumplimiento de las obligaciones y deberes del cargo. Cinco) Por haber sido condenado, mediante sentencia firme, por delito doloso."
+ },
+ {
+  "n": 18010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aquinto",
+  "pregunta": "En los casos de muerte, renuncia y expiración del plazo del mandato, la vacante del Defensor del Pueblo la declara:",
+  "opciones": [
+   "El Presidente del Congreso",
+   "La Comisión Mixta Congreso-Senado",
+   "El Rey",
+   "El Presidente del Senado"
+  ],
+  "correcta": 0,
+  "cita": "La vacante en el cargo se declarará por el Presidente del Congreso en los casos de muerte, renuncia y expiración del plazo del mandato."
+ },
+ {
+  "n": 18011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aquinto",
+  "pregunta": "En caso de cese por actuar con notoria negligencia, la decisión se adopta:",
+  "opciones": [
+   "Por el Presidente del Congreso",
+   "Por mayoría absoluta del Congreso",
+   "Por el Tribunal Supremo",
+   "Por mayoría de las tres quintas partes de los componentes de cada Cámara, mediante debate y previa audiencia del interesado"
+  ],
+  "correcta": 3,
+  "cita": "En los demás casos se decidirá, por mayoría de las tres quintas partes de los componentes de cada Cámara, mediante debate y previa audiencia del interesado."
+ },
+ {
+  "n": 18012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aquinto",
+  "pregunta": "Mientras las Cortes no designen nuevo Defensor del Pueblo tras su muerte, cese o incapacidad, desempeñan sus funciones interinamente:",
+  "opciones": [
+   "El asesor más antiguo",
+   "La Comisión Mixta Congreso-Senado",
+   "El Presidente del Congreso",
+   "Los Adjuntos al Defensor del Pueblo, en su propio orden"
+  ],
+  "correcta": 3,
+  "cita": "En los casos de muerte, cese o incapacidad temporal o definitiva del Defensor del Pueblo y en tanto no procedan las Cortes Generales a una nueva designación desempeñarán sus funciones, interinamente, en su propio orden, los Adjuntos al Defensor del Pueblo."
+ },
+ {
+  "n": 18013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "asexto",
+  "pregunta": "El Defensor del Pueblo:",
+  "opciones": [
+   "Recibe instrucciones de la Comisión Mixta Congreso-Senado",
+   "Actúa bajo la dirección del Ministerio Fiscal",
+   "Está sujeto a las instrucciones del Presidente del Congreso",
+   "No está sujeto a mandato imperativo alguno ni recibe instrucciones de ninguna autoridad"
+  ],
+  "correcta": 3,
+  "cita": "El Defensor del Pueblo no estará sujeto a mandato imperativo alguno."
+ },
+ {
+  "n": 18014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "asexto",
+  "pregunta": "La decisión sobre la inculpación, prisión, procesamiento y juicio del Defensor del Pueblo corresponde exclusivamente a:",
+  "opciones": [
+   "El Tribunal Constitucional",
+   "El Tribunal Superior de Justicia de Madrid",
+   "La Audiencia Nacional",
+   "La Sala de lo Penal del Tribunal Supremo"
+  ],
+  "correcta": 3,
+  "cita": "En los demás casos, y mientras permanezca en el ejercicio de sus funciones, el Defensor del Pueblo no podrá ser detenido ni retenido sino en caso de flagrante delito, correspondiendo la decisión sobre su inculpación, prisión, procesamiento y juicio exclusivamente a la Sala de lo Penal del Tribunal Supremo."
+ },
+ {
+  "n": 18015,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LODP",
+  "articulo": "aseptimo",
+  "pregunta": "Plazo, desde su nombramiento y antes de tomar posesión, para que el Defensor del Pueblo cese en toda situación de incompatibilidad (si no, se entiende que no acepta)",
+  "opciones": [
+   "10 días",
+   "5 días",
+   "15 días",
+   "1 mes"
+  ],
+  "correcta": 0,
+  "cita": "El Defensor del Pueblo deberá cesar, dentro de los diez días siguientes a su nombramiento y antes de tomar posesión, en toda situación de incompatibilidad que pudiera afectarle, entendiéndose en caso contrario que no acepta el nombramiento."
+ },
+ {
+  "n": 18016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aseptimo",
+  "pregunta": "La condición de Defensor del Pueblo es incompatible, entre otros, con:",
+  "opciones": [
+   "La afiliación a un partido político",
+   "La condición de español",
+   "El disfrute de los derechos civiles",
+   "La residencia fuera de Madrid"
+  ],
+  "correcta": 0,
+  "cita": "propaganda política; con la permanencia en el servicio activo de cualquier Administración pública; con la afiliación a un partido político o el desempeño de funciones directivas en un partido político o en un sindicato, asociación o"
+ },
+ {
+  "n": 18017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aoctavo",
+  "pregunta": "El Defensor del Pueblo está auxiliado por:",
+  "opciones": [
+   "Un único Adjunto",
+   "Tres Adjuntos",
+   "Un Vicedefensor y un Secretario General",
+   "Un Adjunto Primero y un Adjunto Segundo"
+  ],
+  "correcta": 3,
+  "cita": "El Defensor del Pueblo estará auxiliado por un Adjunto Primero y un Adjunto Segundo, en los que podrá delegar sus funciones y que le sustituirán por su orden, en el ejercicio de las mismas, en los supuestos de imposibilidad temporal y en los de cese."
+ },
+ {
+  "n": 18018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aoctavo",
+  "pregunta": "Los Adjuntos del Defensor del Pueblo son nombrados y separados por:",
+  "opciones": [
+   "El Presidente del Congreso",
+   "El Gobierno",
+   "El Defensor del Pueblo, previa conformidad de las Cámaras",
+   "Las Cortes Generales por mayoría de tres quintos"
+  ],
+  "correcta": 2,
+  "cita": "El Defensor del Pueblo nombrará y separará a sus Adjuntos previa conformidad de las Cámaras en la forma que determinen sus Reglamentos."
+ },
+ {
+  "n": 18019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "anoveno",
+  "pregunta": "Las investigaciones del Defensor del Pueblo pueden iniciarse:",
+  "opciones": [
+   "De oficio o a petición de parte",
+   "Solo de oficio",
+   "Solo a petición de las Cortes",
+   "Solo a petición de parte"
+  ],
+  "correcta": 0,
+  "cita": "El Defensor del Pueblo podrá iniciar y proseguir de oficio o a petición de parte, cualquier investigación conducente al esclarecimiento de los actos y resoluciones de la"
+ },
+ {
+  "n": 18020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "adiez",
+  "pregunta": "Pueden dirigirse al Defensor del Pueblo:",
+  "opciones": [
+   "Solo las personas residentes en España",
+   "Solo los ciudadanos españoles mayores de edad",
+   "Solo quienes hayan agotado la vía administrativa",
+   "Toda persona natural o jurídica que invoque un interés legítimo, sin restricción alguna"
+  ],
+  "correcta": 3,
+  "cita": "Podrá dirigirse al Defensor del Pueblo toda persona natural o jurídica que invoque un interés legítimo, sin restricción alguna."
+ },
+ {
+  "n": 18021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "adiez",
+  "pregunta": "¿Quién NO puede presentar quejas ante el Defensor del Pueblo?",
+  "opciones": [
+   "Una autoridad administrativa en asuntos de su competencia",
+   "Un extranjero no residente",
+   "Una persona internada en un centro penitenciario",
+   "Un menor de edad"
+  ],
+  "correcta": 0,
+  "cita": "No podrá presentar quejas ante el Defensor del Pueblo ninguna autoridad administrativa en asuntos de su competencia."
+ },
+ {
+  "n": 18022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aonce",
+  "pregunta": "Cuando las Cortes Generales no estén reunidas, hayan sido disueltas o haya expirado su mandato, el Defensor del Pueblo se dirige a:",
+  "opciones": [
+   "El Gobierno",
+   "El Rey",
+   "Las Diputaciones Permanentes de las Cámaras",
+   "Las Mesas de las Cámaras"
+  ],
+  "correcta": 2,
+  "cita": "En las situaciones previstas en el apartado anterior, el Defensor del Pueblo se dirigirá a las Diputaciones Permanentes de las Cámaras."
+ },
+ {
+  "n": 18023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aonce",
+  "pregunta": "La declaración de los estados de excepción o de sitio:",
+  "opciones": [
+   "Suspende el derecho a presentar quejas",
+   "No interrumpe la actividad del Defensor del Pueblo ni el derecho de los ciudadanos a acceder a él",
+   "Suspende la actividad del Defensor del Pueblo",
+   "Traslada sus funciones al Ministerio Fiscal"
+  ],
+  "correcta": 1,
+  "cita": "La declaración de los estados de excepción o de sitio no interrumpirán la actividad del Defensor del Pueblo, ni el derecho de los ciudadanos de acceder al mismo, sin perjuicio de lo dispuesto en el artículo cincuenta y cinco de la Constitución."
+ },
+ {
+  "n": 18024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "atrece",
+  "pregunta": "Cuando el Defensor del Pueblo reciba quejas sobre el funcionamiento de la Administración de Justicia, deberá dirigirlas:",
+  "opciones": [
+   "Al Tribunal Constitucional",
+   "Al Tribunal Supremo",
+   "Al Ministerio de Justicia",
+   "Al Ministerio Fiscal o al Consejo General del Poder Judicial, según el tipo de reclamación"
+  ],
+  "correcta": 3,
+  "cita": "el Defensor del Pueblo reciba quejas referidas al funcionamiento de la Administración de Justicia, deberá dirigirlas al Ministerio Fiscal para que éste investigue su realidad y adopte las medidas oportunas con arreglo a la ley, o bien dé traslado de las mismas al Consejo General del Poder Judicial, según el tipo de reclamación de que se trate; todo ello sin perjuicio de la referencia que en su"
+ },
+ {
+  "n": 18025,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LODP",
+  "articulo": "aquince",
+  "pregunta": "Plazo máximo para presentar una queja ante el Defensor del Pueblo, desde que se tuvo conocimiento de los hechos",
+  "opciones": [
+   "3 meses",
+   "1 año",
+   "2 años",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "Toda queja se presentará firmada por el interesado, con indicación de su nombre, apellidos y domicilio, en escrito razonado en papel común y en el plazo máximo de un año, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma."
+ },
+ {
+  "n": 18026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aquince",
+  "pregunta": "Las actuaciones del Defensor del Pueblo son para el interesado:",
+  "opciones": [
+   "Gratuitas, pero con asistencia letrada obligatoria",
+   "De pago si la queja es desestimada",
+   "Gratuitas, sin que sea preceptiva la asistencia de Letrado ni de Procurador",
+   "Sujetas a tasa"
+  ],
+  "correcta": 2,
+  "cita": "Todas las actuaciones del Defensor del Pueblo son gratuitas para el interesado y no será preceptiva la asistencia de Letrado ni de Procurador."
+ },
+ {
+  "n": 18027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "adieciseis",
+  "pregunta": "La correspondencia dirigida al Defensor del Pueblo desde centros de detención, internamiento o custodia:",
+  "opciones": [
+   "Debe remitirse a través del Ministerio Fiscal",
+   "Puede ser revisada por el director del centro",
+   "Requiere autorización judicial",
+   "No puede ser objeto de censura de ningún tipo"
+  ],
+  "correcta": 3,
+  "cita": "La correspondencia dirigida al Defensor del Pueblo y que sea remitida desde cualquier centro de detención, internamiento o custodia de las personas no podrá ser objeto de censura de ningún tipo."
+ },
+ {
+  "n": 18028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "adiecisiete",
+  "pregunta": "El Defensor del Pueblo rechazará en todo caso:",
+  "opciones": [
+   "Las quejas anónimas",
+   "Las quejas de menores",
+   "Las quejas de extranjeros",
+   "Las quejas sobre la Administración local"
+  ],
+  "correcta": 0,
+  "cita": "El Defensor del Pueblo rechazará las quejas anónimas y podrá rechazar aquellas en las que advierta mala fe, carencia de fundamento, inexistencia de pretensión, así como aquellas otras cuya tramitación irrogue perjuicio al legítimo derecho de tercera persona."
+ },
+ {
+  "n": 18029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "adiecisiete",
+  "pregunta": "El Defensor del Pueblo no entrará en el examen individual de las quejas:",
+  "opciones": [
+   "Sobre las que esté pendiente resolución judicial",
+   "Referidas a Comunidades Autónomas",
+   "Que afecten a la Administración militar",
+   "Presentadas por personas jurídicas"
+  ],
+  "correcta": 0,
+  "cita": "El Defensor del Pueblo no entrará en el examen individual de aquellas quejas sobre las que esté pendiente resolución judicial y lo suspenderá si, iniciada su actuación, se interpusiere por persona interesada demanda o recurso ante las Tribunales ordinarios o el Tribunal Constitucional."
+ },
+ {
+  "n": 18030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "adiecisiete",
+  "pregunta": "Las decisiones del Defensor del Pueblo de rechazar quejas:",
+  "opciones": [
+   "Son recurribles en reposición",
+   "No son susceptibles de recurso",
+   "Son recurribles ante el Tribunal Constitucional",
+   "Son recurribles en alzada ante la Comisión Mixta"
+  ],
+  "correcta": 1,
+  "cita": "Sus decisiones no serán susceptibles de recurso."
+ },
+ {
+  "n": 18031,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LODP",
+  "articulo": "adieciocho",
+  "pregunta": "Plazo máximo, ampliable, para que el organismo afectado remita informe escrito al Defensor del Pueblo tras admitirse una queja",
+  "opciones": [
+   "20 días",
+   "10 días",
+   "1 mes",
+   "15 días"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso dará cuenta del contenido sustancial de la solicitud al Organismo o a la Dependencia administrativa procedente con el fin de que por su Jefe en el plazo máximo de quince días, se remita informe escrito."
+ },
+ {
+  "n": 18032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "adiecinueve",
+  "pregunta": "Todos los poderes públicos están obligados a auxiliar al Defensor del Pueblo en sus investigaciones con carácter:",
+  "opciones": [
+   "Preferente y urgente",
+   "Ordinario",
+   "Voluntario",
+   "Subsidiario"
+  ],
+  "correcta": 0,
+  "cita": "Todos los poderes públicos están obligados a auxiliar, con carácter preferente y urgente, al Defensor del Pueblo en sus investigaciones e inspecciones."
+ },
+ {
+  "n": 18033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aveintidos",
+  "pregunta": "La no remisión al Defensor del Pueblo de documentos clasificados como secretos debe acordarla:",
+  "opciones": [
+   "El Centro Nacional de Inteligencia",
+   "El Ministro competente",
+   "El Consejo de Ministros",
+   "La Comisión Mixta Congreso-Senado"
+  ],
+  "correcta": 2,
+  "cita": "En este último supuesto la no remisión de dichos documentos deberá ser acordada por el Consejo de Ministros y se acompañará una certificación acreditativa del acuerdo denegatorio."
+ },
+ {
+  "n": 18034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aveinticinco",
+  "pregunta": "Cuando el Defensor del Pueblo tenga conocimiento de hechos presumiblemente delictivos, lo pondrá de inmediato en conocimiento de:",
+  "opciones": [
+   "El juzgado de guardia",
+   "El Ministro de Justicia",
+   "La Policía Judicial",
+   "El Fiscal General del Estado"
+  ],
+  "correcta": 3,
+  "cita": "Cuando el Defensor del Pueblo, en razón del ejercicio de las funciones propias de su cargo, tenga conocimiento de una conducta o hechos presumiblemente delictivos lo pondrá de inmediato en conocimiento del Fiscal General del Estado."
+ },
+ {
+  "n": 18035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aveintiocho",
+  "pregunta": "Respecto de los actos y resoluciones de la Administración, el Defensor del Pueblo:",
+  "opciones": [
+   "No es competente para modificarlos o anularlos, aunque puede sugerir la modificación de los criterios utilizados",
+   "Puede suspender su ejecución",
+   "Puede modificarlos con autorización de las Cortes",
+   "Puede anularlos si son ilegales"
+  ],
+  "correcta": 0,
+  "cita": "El Defensor del Pueblo, aun no siendo competente para modificar o anular los actos y resoluciones de la Administración Pública, podrá, sin embargo, sugerir la modificación de los criterios utilizados para la producción de aquéllos."
+ },
+ {
+  "n": 18036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "aveintinueve",
+  "pregunta": "El Defensor del Pueblo está legitimado para interponer:",
+  "opciones": [
+   "La cuestión de inconstitucionalidad",
+   "Los recursos de inconstitucionalidad y de amparo",
+   "Solo el recurso de amparo",
+   "Los recursos contencioso-administrativos en nombre de los ciudadanos"
+  ],
+  "correcta": 1,
+  "cita": "El Defensor del Pueblo está legitimado para interponer los recursos de inconstitucionalidad y de amparo, de acuerdo con lo dispuesto en la Constitución y en la Ley Orgánica del Tribunal Constitucional."
+ },
+ {
+  "n": 18037,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LODP",
+  "articulo": "atreinta",
+  "pregunta": "Plazo máximo para que las autoridades y funcionarios respondan por escrito a las advertencias, recomendaciones o sugerencias del Defensor del Pueblo",
+  "opciones": [
+   "2 meses",
+   "10 días",
+   "1 mes",
+   "15 días"
+  ],
+  "correcta": 2,
+  "cita": "En todos los casos, las autoridades y los funcionarios vendrán obligados a responder por escrito en término no superior al de un mes."
+ },
+ {
+  "n": 18038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "atreintaydos",
+  "pregunta": "El Defensor del Pueblo da cuenta de su gestión a las Cortes Generales mediante un informe con periodicidad:",
+  "opciones": [
+   "Anual",
+   "Trimestral",
+   "Bienal",
+   "Semestral"
+  ],
+  "correcta": 0,
+  "cita": "El Defensor del Pueblo dará cuenta anualmente a las Cortes Generales de la gestión realizada en un informe que presentará ante las mismas cuando se hallen reunidas en periodo ordinario de sesiones."
+ },
+ {
+  "n": 18039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "atreintaytres",
+  "pregunta": "En el informe anual del Defensor del Pueblo:",
+  "opciones": [
+   "Figuran los nombres de todos los reclamantes",
+   "Se incluyen las quejas anónimas",
+   "No se da cuenta de las quejas rechazadas",
+   "No constarán datos personales que permitan la pública identificación de los interesados"
+  ],
+  "correcta": 3,
+  "cita": "En el informe no constarán datos personales que permitan la pública identificación de los interesados en el procedimiento investigador, sin perjuicio de lo dispuesto en el artículo veinticuatro punto uno."
+ },
+ {
+  "n": 18040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LODP",
+  "articulo": "atreintaysiete",
+  "pregunta": "La dotación económica para el funcionamiento del Defensor del Pueblo constituye una partida dentro de:",
+  "opciones": [
+   "El presupuesto del Ministerio de Justicia",
+   "El presupuesto de la Presidencia del Gobierno",
+   "Los Presupuestos de las Cortes Generales",
+   "El presupuesto del Tribunal Constitucional"
+  ],
+  "correcta": 2,
+  "cita": "La dotación económica necesaria para el funcionamiento de la institución constituirá una partida dentro de los Presupuestos de las Cortes Generales."
+ }
+]
