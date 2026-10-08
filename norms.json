@@ -1,27 +1,114 @@
 {
- "CE":       {"id":"BOE-A-1978-31229","nombre":"Constitución Española"},
- "L39":      {"id":"BOE-A-2015-10565","nombre":"Ley 39/2015"},
- "L40":      {"id":"BOE-A-2015-10566","nombre":"Ley 40/2015"},
- "TREBEP":   {"id":"BOE-A-2015-11719","nombre":"TREBEP (RDL 5/2015)"},
- "LCSP":     {"id":"BOE-A-2017-12902","nombre":"Ley 9/2017"},
- "L19":      {"id":"BOE-A-2013-12887","nombre":"Ley 19/2013"},
- "LGP":      {"id":"BOE-A-2003-21614","nombre":"Ley 47/2003 (General Presupuestaria)"},
- "LOPDGDD":  {"id":"BOE-A-2018-16673","nombre":"LO 3/2018 (protección de datos)"},
- "LOI":      {"id":"BOE-A-2007-6115","nombre":"LO 3/2007 (igualdad)"},
- "LOVG":     {"id":"BOE-A-2004-21760","nombre":"LO 1/2004 (violencia de género)"},
- "LJCA":     {"id":"BOE-A-1998-16718","nombre":"Ley 29/1998 (jurisdicción contencioso-administrativa)"},
- "LGOB":     {"id":"BOE-A-1997-25336","nombre":"Ley 50/1997 (del Gobierno)"},
- "LBRL":     {"id":"BOE-A-1985-5392","nombre":"Ley 7/1985 (bases del régimen local)"},
- "LOTC":     {"id":"BOE-A-1979-23709","nombre":"LO 2/1979 (Tribunal Constitucional)"},
- "LODP":     {"id":"BOE-A-1981-10325","nombre":"LO 3/1981 (Defensor del Pueblo)"},
- "LOAES":    {"id":"BOE-A-1981-12774","nombre":"LO 4/1981 (estados de alarma, excepción y sitio)"},
- "LOPJ":     {"id":"BOE-A-1985-12666","nombre":"LO 6/1985 (del Poder Judicial)"},
- "LINC":     {"id":"BOE-A-1985-151","nombre":"Ley 53/1984 (incompatibilidades)"},
- "LGS":      {"id":"BOE-A-2003-20977","nombre":"Ley 38/2003 (General de Subvenciones)"},
- "LIGT":     {"id":"BOE-A-2022-11589","nombre":"Ley 15/2022 (igualdad de trato y no discriminación)"},
- "LTRANS":   {"id":"BOE-A-2023-5366","nombre":"Ley 4/2023 (personas trans y derechos LGTBI)"},
- "LGDPD":    {"id":"BOE-A-2013-12632","nombre":"RDL 1/2013 (derechos de las personas con discapacidad)"},
- "LDEP":     {"id":"BOE-A-2006-21990","nombre":"Ley 39/2006 (dependencia)"},
- "LGSS":     {"id":"BOE-A-2015-11724","nombre":"RDL 8/2015 (Ley General de la Seguridad Social)"},
- "RDAE":     {"id":"BOE-A-2021-5032","nombre":"RD 203/2021 (actuación por medios electrónicos)"}
+  "CE": {
+    "id": "BOE-A-1978-31229",
+    "nombre": "Constitución Española"
+  },
+  "L39": {
+    "id": "BOE-A-2015-10565",
+    "nombre": "Ley 39/2015"
+  },
+  "L40": {
+    "id": "BOE-A-2015-10566",
+    "nombre": "Ley 40/2015"
+  },
+  "TREBEP": {
+    "id": "BOE-A-2015-11719",
+    "nombre": "TREBEP (RDL 5/2015)"
+  },
+  "LCSP": {
+    "id": "BOE-A-2017-12902",
+    "nombre": "Ley 9/2017"
+  },
+  "L19": {
+    "id": "BOE-A-2013-12887",
+    "nombre": "Ley 19/2013"
+  },
+  "LGP": {
+    "id": "BOE-A-2003-21614",
+    "nombre": "Ley 47/2003 (General Presupuestaria)"
+  },
+  "LOPDGDD": {
+    "id": "BOE-A-2018-16673",
+    "nombre": "LO 3/2018 (protección de datos)"
+  },
+  "LOI": {
+    "id": "BOE-A-2007-6115",
+    "nombre": "LO 3/2007 (igualdad)"
+  },
+  "LOVG": {
+    "id": "BOE-A-2004-21760",
+    "nombre": "LO 1/2004 (violencia de género)"
+  },
+  "LJCA": {
+    "id": "BOE-A-1998-16718",
+    "nombre": "Ley 29/1998 (jurisdicción contencioso-administrativa)"
+  },
+  "LGOB": {
+    "id": "BOE-A-1997-25336",
+    "nombre": "Ley 50/1997 (del Gobierno)"
+  },
+  "LBRL": {
+    "id": "BOE-A-1985-5392",
+    "nombre": "Ley 7/1985 (bases del régimen local)"
+  },
+  "LOTC": {
+    "id": "BOE-A-1979-23709",
+    "nombre": "LO 2/1979 (Tribunal Constitucional)"
+  },
+  "LODP": {
+    "id": "BOE-A-1981-10325",
+    "nombre": "LO 3/1981 (Defensor del Pueblo)"
+  },
+  "LOAES": {
+    "id": "BOE-A-1981-12774",
+    "nombre": "LO 4/1981 (estados de alarma, excepción y sitio)"
+  },
+  "LOPJ": {
+    "id": "BOE-A-1985-12666",
+    "nombre": "LO 6/1985 (del Poder Judicial)"
+  },
+  "LINC": {
+    "id": "BOE-A-1985-151",
+    "nombre": "Ley 53/1984 (incompatibilidades)"
+  },
+  "LGS": {
+    "id": "BOE-A-2003-20977",
+    "nombre": "Ley 38/2003 (General de Subvenciones)"
+  },
+  "LIGT": {
+    "id": "BOE-A-2022-11589",
+    "nombre": "Ley 15/2022 (igualdad de trato y no discriminación)"
+  },
+  "LTRANS": {
+    "id": "BOE-A-2023-5366",
+    "nombre": "Ley 4/2023 (personas trans y derechos LGTBI)"
+  },
+  "LGDPD": {
+    "id": "BOE-A-2013-12632",
+    "nombre": "RDL 1/2013 (derechos de las personas con discapacidad)"
+  },
+  "LDEP": {
+    "id": "BOE-A-2006-21990",
+    "nombre": "Ley 39/2006 (dependencia)"
+  },
+  "LGSS": {
+    "id": "BOE-A-2015-11724",
+    "nombre": "RDL 8/2015 (Ley General de la Seguridad Social)"
+  },
+  "RDAE": {
+    "id": "BOE-A-2021-5032",
+    "nombre": "RD 203/2021 (actuación por medios electrónicos)"
+  },
+  "MUFACE": {
+    "id": "BOE-A-2000-12140",
+    "nombre": "RDLeg 4/2000 (Seguridad Social de los Funcionarios Civiles del Estado)"
+  },
+  "LCLP": {
+    "id": "BOE-A-1987-12636",
+    "nombre": "RDLeg 670/1987 (Clases Pasivas del Estado)"
+  },
+  "RDINF": {
+    "id": "BOE-A-1996-4997",
+    "nombre": "RD 208/1996 (información administrativa y atención al ciudadano)"
+  }
 }
