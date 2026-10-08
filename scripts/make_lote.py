@@ -9,6 +9,7 @@ NOTA = re.compile(r'Se modifica|Se añade|Se suprime|Se deroga|Redactado|Téngas
 INICIO = re.compile(r'(?:[.;]) (?=[A-ZÁÉÍÓÚÑ¿«"0-9]|[a-z]\) )')   # comienzo de frase, apartado o letra
 FIN = re.compile(r'[.;](?= [A-ZÁÉÍÓÚÑ¿«"0-9]| [a-z]\) |$)')
 MAX = 320
+RA = re.compile(r'Redacción anterior')
 def norm(s):  # misma normalización que build_bank.py
     s = unicodedata.normalize('NFKC', s or '').lower()
     s = s.replace('“', '"').replace('”', '"').replace('«', '"').replace('»', '"').replace('’', "'").replace('–', '-').replace('—', '-')
@@ -19,7 +20,13 @@ def patron(a):
 def cita(txt, ancla):
     p = patron(ancla); ms = list(p.finditer(txt))
     if not ms: raise ValueError('ancla no encontrada: %r' % ancla)
-    if len(ms) > 1: raise ValueError('ancla ambigua (%d apariciones): %r' % (len(ms), ancla))
+    if len(ms) > 1:
+        # Si las demás apariciones están dentro de una «Redacción anterior» (texto ya no vigente que el BOE
+        # reproduce tras el vigente), vale la primera; en otro caso la ancla es ambigua.
+        ra = [m.start() for m in RA.finditer(txt)]
+        if not (ra and ms[0].end() <= ra[0] and all(m.start() >= ra[0] for m in ms[1:])):
+            raise ValueError('ancla ambigua (%d apariciones): %r' % (len(ms), ancla))
+        ms = ms[:1]
     i, j = ms[0].span()
     ss = [m.end() for m in INICIO.finditer(txt) if m.end() <= i]
     s = ss[-1] if ss else 0

@@ -1,0 +1,834 @@
+[
+ {
+  "n": 17001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a1",
+  "pregunta": "Según el artículo 1 de la Ley del Gobierno, el Gobierno se compone de:",
+  "opciones": [
+   "El Presidente, los Ministros y los Subsecretarios",
+   "El Presidente y los Ministros con cartera exclusivamente",
+   "El Presidente, los Ministros y los Secretarios de Estado",
+   "El Presidente, el Vicepresidente o Vicepresidentes, en su caso, y los Ministros"
+  ],
+  "correcta": 3,
+  "cita": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros."
+ },
+ {
+  "n": 17002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a1",
+  "pregunta": "Los miembros del Gobierno se reúnen en:",
+  "opciones": [
+   "Consejo de Ministros y Comisión General de Secretarios de Estado y Subsecretarios",
+   "Pleno del Gobierno y Consejo de Estado",
+   "Consejo de Ministros y en Comisiones Delegadas del Gobierno",
+   "Consejo de Ministros exclusivamente"
+  ],
+  "correcta": 2,
+  "cita": "Los miembros del Gobierno se reúnen en Consejo de Ministros y en Comisiones Delegadas del Gobierno."
+ },
+ {
+  "n": 17003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a2",
+  "pregunta": "¿Cuál de las siguientes funciones corresponde al Presidente del Gobierno según el artículo 2?",
+  "opciones": [
+   "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado",
+   "Aprobar los Reales Decretos-leyes",
+   "Interponer el recurso de inconstitucionalidad",
+   "Declarar el estado de alarma"
+  ],
+  "correcta": 2,
+  "cita": "i) Interponer el recurso de inconstitucionalidad."
+ },
+ {
+  "n": 17004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a2",
+  "pregunta": "Proponer al Rey la disolución del Congreso, del Senado o de las Cortes Generales corresponde al Presidente del Gobierno:",
+  "opciones": [
+   "Previa autorización del Congreso de los Diputados",
+   "Sin necesidad de trámite previo alguno",
+   "Previa deliberación del Consejo de Ministros",
+   "Previo dictamen del Consejo de Estado"
+  ],
+  "correcta": 2,
+  "cita": "c) Proponer al Rey, previa deliberación del Consejo de Ministros, la disolución del Congreso, del Senado o de las Cortes Generales."
+ },
+ {
+  "n": 17005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a2",
+  "pregunta": "Proponer al Rey la convocatoria de un referéndum consultivo corresponde al Presidente del Gobierno:",
+  "opciones": [
+   "Previo informe del Tribunal Constitucional",
+   "Previa autorización del Congreso de los Diputados",
+   "Previa autorización del Senado",
+   "Previa deliberación del Consejo de Ministros exclusivamente"
+  ],
+  "correcta": 1,
+  "cita": "e) Proponer al Rey la convocatoria de un referéndum consultivo, previa autorización del Congreso de los Diputados."
+ },
+ {
+  "n": 17006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a2",
+  "pregunta": "Crear, modificar y suprimir los Departamentos Ministeriales y las Secretarías de Estado corresponde:",
+  "opciones": [
+   "Al Consejo de Ministros, por Real Decreto",
+   "Al Presidente del Gobierno, por Real Decreto",
+   "Al Ministro de Hacienda, por orden",
+   "A las Cortes Generales, por ley"
+  ],
+  "correcta": 1,
+  "cita": "j) Crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales, así como las Secretarías de Estado, Asimismo, le corresponde la aprobación de la estructura orgánica de la Presidencia del Gobierno."
+ },
+ {
+  "n": 17007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a2",
+  "pregunta": "Resolver los conflictos de atribuciones que surjan entre los diferentes Ministerios corresponde a:",
+  "opciones": [
+   "El Presidente del Gobierno",
+   "El Tribunal Supremo",
+   "El Consejo de Ministros",
+   "La Comisión General de Secretarios de Estado y Subsecretarios"
+  ],
+  "correcta": 0,
+  "cita": "l) Resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios."
+ },
+ {
+  "n": 17008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a3",
+  "pregunta": "El Vicepresidente del Gobierno que asume la titularidad de un Departamento Ministerial:",
+  "opciones": [
+   "Pierde la condición de Vicepresidente",
+   "No puede refrendar actos del Rey",
+   "Pasa a ser Secretario de Estado",
+   "Ostenta además la condición de Ministro"
+  ],
+  "correcta": 3,
+  "cita": "El Vicepresidente que asuma la titularidad de un Departamento Ministerial, ostentará, además, la condición de Ministro."
+ },
+ {
+  "n": 17009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a4",
+  "pregunta": "Además de los Ministros titulares de un Departamento, pueden existir:",
+  "opciones": [
+   "Viceministros",
+   "Ministros interinos nombrados por las Cortes",
+   "Ministros adjuntos con rango de Secretario de Estado",
+   "Ministros sin cartera, con la responsabilidad de determinadas funciones gubernamentales"
+  ],
+  "correcta": 3,
+  "cita": "Además de los Ministros titulares de un Departamento, podrán existir Ministros sin cartera, a los que se les atribuirá la responsabilidad de determinadas funciones gubernamentales."
+ },
+ {
+  "n": 17011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a5",
+  "pregunta": "¿Cuál de las siguientes funciones corresponde al Consejo de Ministros según el artículo 5?",
+  "opciones": [
+   "Proponer el nombramiento de los Ministros",
+   "Plantear la cuestión de confianza",
+   "Interponer el recurso de inconstitucionalidad",
+   "Aprobar los Reales Decretos-leyes y los Reales Decretos Legislativos"
+  ],
+  "correcta": 3,
+  "cita": "c) Aprobar los Reales Decretos-leyes y los Reales Decretos Legislativos."
+ },
+ {
+  "n": 17012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a5",
+  "pregunta": "Según el artículo 5, el Consejo de Ministros puede declarar:",
+  "opciones": [
+   "Los estados de alarma, excepción y sitio",
+   "Los estados de alarma y de excepción, y proponer al Congreso la declaración del estado de sitio",
+   "Solo el estado de alarma",
+   "El estado de sitio, previa autorización del Senado"
+  ],
+  "correcta": 1,
+  "cita": "f) Declarar los estados de alarma y de excepción y proponer al Congreso de los Diputados la declaración del estado de sitio."
+ },
+ {
+  "n": 17013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a5",
+  "pregunta": "El Consejo de Ministros aprueba los reglamentos para el desarrollo y ejecución de las leyes:",
+  "opciones": [
+   "Previo informe del Tribunal Supremo",
+   "Previo dictamen del Consejo de Estado",
+   "Sin necesidad de dictamen alguno",
+   "Previa autorización de las Cortes Generales"
+  ],
+  "correcta": 1,
+  "cita": "h) Aprobar los reglamentos para el desarrollo y la ejecución de las leyes, previo dictamen del Consejo de Estado, así como las demás disposiciones reglamentarias que procedan."
+ },
+ {
+  "n": 17014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a5",
+  "pregunta": "A las reuniones del Consejo de Ministros pueden asistir, cuando sean convocados:",
+  "opciones": [
+   "Los Presidentes de las Comunidades Autónomas",
+   "Los Subsecretarios en todo caso",
+   "Los portavoces de los grupos parlamentarios",
+   "Los Secretarios de Estado y, excepcionalmente, otros altos cargos"
+  ],
+  "correcta": 3,
+  "cita": "A las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello, sin perjuicio de lo dispuesto en los tratados internacionales válidamente celebrados por España."
+ },
+ {
+  "n": 17015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a6",
+  "pregunta": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno se acuerda:",
+  "opciones": [
+   "Por el Ministro de la Presidencia",
+   "Por las Cortes Generales mediante ley",
+   "Por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno",
+   "Por el Presidente del Gobierno mediante orden"
+  ],
+  "correcta": 2,
+  "cita": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno."
+ },
+ {
+  "n": 17016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a7",
+  "pregunta": "Según la Ley del Gobierno, los Secretarios de Estado son:",
+  "opciones": [
+   "Órganos directivos de la AGE",
+   "Órganos de apoyo político sin competencias propias",
+   "Miembros del Gobierno",
+   "Órganos superiores de la AGE, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica"
+  ],
+  "correcta": 3,
+  "cita": "Los Secretarios de Estado son órganos superiores de la Administración General del Estado, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica de un Departamento o de la Presidencia del Gobierno."
+ },
+ {
+  "n": 17017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a8",
+  "pregunta": "La Comisión General de Secretarios de Estado y Subsecretarios está presidida por:",
+  "opciones": [
+   "El Subsecretario de la Presidencia",
+   "Un Vicepresidente del Gobierno o, en su defecto, el Ministro de la Presidencia",
+   "El Secretario de Estado más antiguo",
+   "El Presidente del Gobierno"
+  ],
+  "correcta": 1,
+  "cita": "La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia."
+ },
+ {
+  "n": 17018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a8",
+  "pregunta": "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios la ejerce:",
+  "opciones": [
+   "El Subsecretario de la Presidencia",
+   "El Abogado General del Estado",
+   "El Ministro de la Presidencia",
+   "El Director del Secretariado del Gobierno en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por el Subsecretario de la Presidencia."
+ },
+ {
+  "n": 17019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a8",
+  "pregunta": "La Comisión General de Secretarios de Estado y Subsecretarios:",
+  "opciones": [
+   "Aprueba los nombramientos de altos cargos",
+   "No puede en ningún caso adoptar decisiones o acuerdos por delegación del Gobierno",
+   "Sus deliberaciones son públicas",
+   "Adopta acuerdos por delegación del Consejo de Ministros"
+  ],
+  "correcta": 1,
+  "cita": "En ningún caso la Comisión podrá adoptar decisiones o acuerdos por delegación del Gobierno."
+ },
+ {
+  "n": 17020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a8",
+  "pregunta": "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios son:",
+  "opciones": [
+   "Reservadas",
+   "Publicadas en el BOE",
+   "Retransmitidas",
+   "Públicas"
+  ],
+  "correcta": 0,
+  "cita": "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios serán reservadas."
+ },
+ {
+  "n": 17021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a9",
+  "pregunta": "El órgano de apoyo del Consejo de Ministros, de las Comisiones Delegadas y de la Comisión General de Secretarios de Estado y Subsecretarios es:",
+  "opciones": [
+   "El Secretariado del Gobierno",
+   "El Gabinete de la Presidencia",
+   "La Abogacía General del Estado",
+   "El Consejo de Estado"
+  ],
+  "correcta": 0,
+  "cita": "El Secretariado del Gobierno, como órgano de apoyo del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios, ejercerá las siguientes funciones: a) La asistencia al Ministro-Secretario del Consejo de Ministros."
+ },
+ {
+  "n": 17022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a10",
+  "pregunta": "Los miembros de los Gabinetes:",
+  "opciones": [
+   "Pueden dictar cualquier acto administrativo del Ministerio",
+   "Tienen la condición de alto cargo",
+   "Son funcionarios de carrera en todo caso",
+   "Realizan tareas de confianza y asesoramiento especial, sin poder adoptar actos o resoluciones de los órganos de la AGE"
+  ],
+  "correcta": 3,
+  "cita": "Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los"
+ },
+ {
+  "n": 17023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a11",
+  "pregunta": "¿Cuál de los siguientes NO es un requisito para ser miembro del Gobierno según el artículo 11?",
+  "opciones": [
+   "Ser mayor de edad",
+   "Ser Diputado o Senador",
+   "Ser español",
+   "Disfrutar de los derechos de sufragio activo y pasivo"
+  ],
+  "correcta": 1,
+  "cita": "Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para"
+ },
+ {
+  "n": 17024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a12",
+  "pregunta": "Los Vicepresidentes y Ministros son nombrados y separados por:",
+  "opciones": [
+   "El Congreso de los Diputados",
+   "El Presidente del Gobierno",
+   "El Rey, a propuesta del Congreso",
+   "El Rey, a propuesta del Presidente del Gobierno"
+  ],
+  "correcta": 3,
+  "cita": "Los Vicepresidentes y Ministros serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno."
+ },
+ {
+  "n": 17025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a12",
+  "pregunta": "En el nombramiento de las personas titulares de Vicepresidencias y Ministerios, cada uno de los sexos debe suponer en su conjunto como mínimo:",
+  "opciones": [
+   "El cincuenta por ciento",
+   "El cuarenta por ciento",
+   "El treinta por ciento",
+   "El veinticinco por ciento"
+  ],
+  "correcta": 1,
+  "cita": "En el nombramiento de las personas titulares de las Vicepresidencias y los Ministerios se garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento en su conjunto."
+ },
+ {
+  "n": 17026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a12",
+  "pregunta": "La separación de los Ministros sin cartera lleva aparejada:",
+  "opciones": [
+   "La extinción de dichos órganos",
+   "Su integración en la Presidencia",
+   "Su mantenimiento hasta nuevo nombramiento",
+   "Su conversión en Secretarías de Estado"
+  ],
+  "correcta": 0,
+  "cita": "La separación de los Ministros sin cartera llevará aparejada la extinción de dichos órganos."
+ },
+ {
+  "n": 17027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a13",
+  "pregunta": "En caso de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno son asumidas:",
+  "opciones": [
+   "Por el Presidente del Congreso",
+   "Por el Ministro de la Presidencia en todo caso",
+   "Por el Ministro de mayor edad",
+   "Por los Vicepresidentes según su orden de prelación y, en su defecto, por los Ministros según el orden de precedencia de los Departamentos"
+  ],
+  "correcta": 3,
+  "cita": "En los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos."
+ },
+ {
+  "n": 17028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a13",
+  "pregunta": "La suplencia de los Ministros para el despacho ordinario de los asuntos se determina por:",
+  "opciones": [
+   "Acuerdo del Consejo de Ministros, recayendo en el Subsecretario",
+   "Orden del propio Ministro, recayendo en un Secretario de Estado",
+   "Ley",
+   "Real Decreto del Presidente del Gobierno, recayendo en otro miembro del Gobierno"
+  ],
+  "correcta": 3,
+  "cita": "La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por Real Decreto del Presidente del Gobierno, debiendo recaer, en todo caso, en otro miembro del Gobierno."
+ },
+ {
+  "n": 17029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a14",
+  "pregunta": "Los miembros del Gobierno NO pueden ejercer:",
+  "opciones": [
+   "El refrendo de los actos del Rey",
+   "La dirección de su Departamento",
+   "El mandato parlamentario",
+   "Otras funciones representativas que las propias del mandato parlamentario, ni actividad profesional o mercantil alguna"
+  ],
+  "correcta": 3,
+  "cita": "Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna."
+ },
+ {
+  "n": 17030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a15",
+  "pregunta": "Los Secretarios de Estado son nombrados y separados por:",
+  "opciones": [
+   "Orden del Ministro del Departamento",
+   "Real Decreto del Consejo de Ministros, a propuesta del Presidente o del miembro del Gobierno a cuyo Departamento pertenezcan",
+   "Real Decreto del Presidente del Gobierno",
+   "El Rey, a propuesta del Presidente"
+  ],
+  "correcta": 1,
+  "cita": "Los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros, aprobado a propuesta del Presidente del Gobierno o del miembro del Gobierno a cuyo Departamento pertenezcan."
+ },
+ {
+  "n": 17031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a16",
+  "pregunta": "Los Directores de Gabinete de los Secretarios de Estado son nombrados por:",
+  "opciones": [
+   "El propio Secretario de Estado sin trámite alguno",
+   "Real Decreto del Consejo de Ministros",
+   "Resolución del Subsecretario",
+   "Orden Ministerial, previo conocimiento del Consejo de Ministros"
+  ],
+  "correcta": 3,
+  "cita": "Los Directores de Gabinete de los Secretarios de Estado serán nombrados por Orden Ministerial, previo conocimiento del Consejo de Ministros."
+ },
+ {
+  "n": 17032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a16",
+  "pregunta": "Los funcionarios que se incorporan a los Gabinetes pasan, salvo que opten por permanecer en servicio activo, a la situación de:",
+  "opciones": [
+   "Excedencia voluntaria",
+   "Servicios especiales",
+   "Suspensión de funciones",
+   "Servicio en otras Administraciones Públicas"
+  ],
+  "correcta": 1,
+  "cita": "Los funcionarios que se incorporen a los Gabinetes a que se refiere este artículo pasarán a la situación de servicios especiales, salvo que opten por permanecer en la situación de servicio activo en su Administración de origen."
+ },
+ {
+  "n": 17033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a18",
+  "pregunta": "En el Consejo de Ministros actúa como Secretario:",
+  "opciones": [
+   "El Vicepresidente primero",
+   "El Ministro de la Presidencia",
+   "El Director del Secretariado del Gobierno",
+   "El Subsecretario de la Presidencia"
+  ],
+  "correcta": 1,
+  "cita": "El Presidente del Gobierno convoca y preside las reuniones del Consejo de Ministros, actuando como Secretario el Ministro de la Presidencia."
+ },
+ {
+  "n": 17034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a18",
+  "pregunta": "Las reuniones del Consejo de Ministros pueden tener carácter:",
+  "opciones": [
+   "Decisorio o deliberante",
+   "Público o reservado",
+   "Ordinario o urgente exclusivamente",
+   "Consultivo exclusivamente"
+  ],
+  "correcta": 0,
+  "cita": "Las reuniones del Consejo de Ministros podrán tener carácter decisorio o deliberante."
+ },
+ {
+  "n": 17035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a18",
+  "pregunta": "En el acta de las sesiones del Consejo de Ministros figuran exclusivamente:",
+  "opciones": [
+   "Los votos particulares",
+   "El contenido íntegro de las deliberaciones",
+   "Las circunstancias de tiempo y lugar, la relación de asistentes, los acuerdos adoptados y los informes presentados",
+   "Las opiniones de cada Ministro"
+  ],
+  "correcta": 2,
+  "cita": "De las sesiones del Consejo de Ministros se levantará acta en la que figurarán, exclusivamente, las circunstancias relativas al tiempo y lugar de su celebración, la relación de asistentes, los acuerdos adoptados y los informes presentados."
+ },
+ {
+  "n": 17036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a20",
+  "pregunta": "¿Cuál de las siguientes competencias NO es en ningún caso delegable según el artículo 20.3?",
+  "opciones": [
+   "Las funciones administrativas del Consejo de Ministros en las Comisiones Delegadas",
+   "Las de los Ministros en favor de los Secretarios de Estado",
+   "Las del Presidente del Gobierno en favor de los Vicepresidentes",
+   "Las atribuidas directamente por la Constitución"
+  ],
+  "correcta": 3,
+  "cita": "No son en ningún caso delegables las siguientes competencias: a) Las atribuidas directamente por la Constitución."
+ },
+ {
+  "n": 17037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a20",
+  "pregunta": "Contra el acuerdo de avocación del Consejo de Ministros:",
+  "opciones": [
+   "No cabe recurso, aunque puede impugnarse en el que se interponga contra la decisión adoptada",
+   "Cabe recurso de reposición",
+   "Cabe recurso ante el Tribunal Constitucional",
+   "Cabe recurso de alzada ante el Presidente"
+  ],
+  "correcta": 0,
+  "cita": "Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la decisión adoptada."
+ },
+ {
+  "n": 17038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a21",
+  "pregunta": "El Gobierno cesa, entre otros supuestos:",
+  "opciones": [
+   "Al aprobarse la Ley de Presupuestos",
+   "Tras la celebración de elecciones generales",
+   "Al cumplirse dos años de mandato",
+   "Por la dimisión de un Ministro"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente."
+ },
+ {
+  "n": 17039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a21",
+  "pregunta": "El Gobierno cesante continúa en funciones:",
+  "opciones": [
+   "Hasta la investidura del nuevo Presidente",
+   "Hasta la toma de posesión del nuevo Gobierno",
+   "Durante un máximo de dos meses",
+   "Hasta la constitución de las nuevas Cortes"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno, con las limitaciones establecidas en esta Ley."
+ },
+ {
+  "n": 17040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a21",
+  "pregunta": "¿Cuál de las siguientes facultades NO puede ejercer el Presidente del Gobierno en funciones?",
+  "opciones": [
+   "Representar al Gobierno",
+   "Convocar y presidir el Consejo de Ministros",
+   "Plantear la cuestión de confianza",
+   "Impartir instrucciones a los Ministros"
+  ],
+  "correcta": 2,
+  "cita": "b) Plantear la cuestión de confianza."
+ },
+ {
+  "n": 17041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a21",
+  "pregunta": "El Gobierno en funciones NO puede:",
+  "opciones": [
+   "Adoptar medidas urgentes debidamente acreditadas",
+   "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado",
+   "Despachar los asuntos públicos ordinarios",
+   "Facilitar el traspaso de poderes"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno en funciones no podrá ejercer las siguientes facultades: a) Aprobar el Proyecto de Ley de Presupuestos Generales del Estado."
+ },
+ {
+  "n": 17042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a21",
+  "pregunta": "Mientras el Gobierno esté en funciones como consecuencia de elecciones generales, las delegaciones legislativas otorgadas por las Cortes:",
+  "opciones": [
+   "Quedan en suspenso",
+   "Se transfieren al Congreso",
+   "Se extinguen definitivamente",
+   "Se mantienen vigentes"
+  ],
+  "correcta": 0,
+  "cita": "Las delegaciones legislativas otorgadas por las Cortes Generales quedarán en suspenso durante todo el tiempo que el Gobierno esté en funciones como consecuencia de la celebración de elecciones generales."
+ },
+ {
+  "n": 17043,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a23",
+  "pregunta": "Las disposiciones de entrada en vigor de leyes o reglamentos del Gobierno que impongan nuevas obligaciones a quienes desempeñen una actividad económica o profesional preverán su vigencia:",
+  "opciones": [
+   "El 2 de enero o el 1 de julio siguientes a su aprobación",
+   "A los veinte días de su publicación",
+   "Al día siguiente de su publicación",
+   "El 1 de enero o el 1 de julio"
+  ],
+  "correcta": 0,
+  "cita": "que desempeñen una actividad económica o profesional como consecuencia del ejercicio de ésta, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación."
+ },
+ {
+  "n": 17044,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a24",
+  "pregunta": "Las disposiciones y resoluciones de los Ministros revisten la forma de:",
+  "opciones": [
+   "Instrucciones",
+   "Órdenes Ministeriales",
+   "Reales Decretos",
+   "Acuerdos"
+  ],
+  "correcta": 1,
+  "cita": "f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros."
+ },
+ {
+  "n": 17045,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a24",
+  "pregunta": "Cuando una disposición o resolución afecte a varios Departamentos, reviste la forma de:",
+  "opciones": [
+   "Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros interesados",
+   "Acuerdo de la Comisión General de Secretarios de Estado y Subsecretarios",
+   "Real Decreto del Presidente del Gobierno",
+   "Orden conjunta de todos los Ministros firmada por el más antiguo"
+  ],
+  "correcta": 0,
+  "cita": "Cuando la disposición o resolución afecte a varios Departamentos revestirá la forma de Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros interesados."
+ },
+ {
+  "n": 17046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a24",
+  "pregunta": "Según el artículo 24.2, en la jerarquía de los reglamentos, las disposiciones aprobadas por Orden Ministerial están:",
+  "opciones": [
+   "Por debajo de las aprobadas por Real Decreto del Presidente o acordado en Consejo de Ministros",
+   "Por encima de las leyes",
+   "Al mismo nivel que los Reales Decretos",
+   "Por encima de los Reales Decretos"
+  ],
+  "correcta": 0,
+  "cita": "Los reglamentos se ordenarán según la siguiente jerarquía: 1.º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o acordado en el Consejo de Ministros. 2.º Disposiciones aprobadas por Orden Ministerial."
+ },
+ {
+  "n": 17047,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a25",
+  "pregunta": "El Plan Anual Normativo contiene:",
+  "opciones": [
+   "Los proyectos de las Comunidades Autónomas",
+   "Las iniciativas legislativas o reglamentarias que vayan a elevarse para su aprobación en el año siguiente",
+   "Las normas aprobadas el año anterior",
+   "Las sentencias que anulan reglamentos"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente."
+ },
+ {
+  "n": 17048,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a25",
+  "pregunta": "El Ministro de la Presidencia eleva el Plan Anual Normativo al Consejo de Ministros para su aprobación:",
+  "opciones": [
+   "Antes del 31 de diciembre",
+   "Antes del 30 de abril",
+   "Antes del 31 de marzo",
+   "Antes del 1 de octubre"
+  ],
+  "correcta": 1,
+  "cita": "El Ministro de la Presidencia elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril."
+ },
+ {
+  "n": 17049,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LGOB",
+  "articulo": "a26",
+  "pregunta": "Plazo mínimo de la consulta pública previa en la elaboración de anteproyectos de ley y reglamentos",
+  "opciones": [
+   "30 días naturales",
+   "20 días naturales",
+   "10 días naturales",
+   "15 días naturales"
+  ],
+  "correcta": 3,
+  "cita": "La consulta pública deberá realizarse de tal forma que todos los potenciales destinatarios de la norma tengan la posibilidad de emitir su opinión, para lo cual deberá proporcionarse un tiempo suficiente, que en ningún caso será inferior a quince días naturales."
+ },
+ {
+  "n": 17050,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a27",
+  "pregunta": "La tramitación urgente de una iniciativa normativa en la AGE implica que los plazos del procedimiento de elaboración:",
+  "opciones": [
+   "Se mantienen, pero tiene preferencia",
+   "Se reducen a un tercio",
+   "Se suprimen",
+   "Se reducen a la mitad de su duración"
+  ],
+  "correcta": 3,
+  "cita": "La tramitación por vía de urgencia implicará que: a) Los plazos previstos para la realización de los trámites del procedimiento de elaboración, establecidos en ésta o en otra norma, se reducirán a la mitad de su duración."
+ },
+ {
+  "n": 17051,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LGOB",
+  "articulo": "a27",
+  "pregunta": "Duración del trámite de audiencia o información pública en la tramitación urgente de iniciativas normativas",
+  "opciones": [
+   "5 días",
+   "10 días",
+   "15 días",
+   "7 días"
+  ],
+  "correcta": 3,
+  "cita": "b) No será preciso el trámite de consulta pública previsto en el artículo 26.2, sin perjuicio de la realización de los trámites de audiencia pública o de información pública sobre el texto a los que se refiere el artículo 26.6, cuyo plazo de realización será de siete días."
+ },
+ {
+  "n": 17052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a29",
+  "pregunta": "Todos los actos y omisiones del Gobierno están sometidos al control político de:",
+  "opciones": [
+   "El Consejo de Estado",
+   "El Tribunal Supremo",
+   "El Tribunal Constitucional",
+   "Las Cortes Generales"
+  ],
+  "correcta": 3,
+  "cita": "Todos los actos y omisiones del Gobierno están sometidos al control político de las Cortes Generales."
+ },
+ {
+  "n": 17053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LGOB",
+  "articulo": "a29",
+  "pregunta": "Los actos, la inactividad y las vías de hecho del Gobierno son impugnables ante:",
+  "opciones": [
+   "La jurisdicción civil",
+   "El Defensor del Pueblo",
+   "La jurisdicción contencioso-administrativa",
+   "El Consejo de Estado"
+  ],
+  "correcta": 2,
+  "cita": "Los actos, la inactividad y las actuaciones materiales que constituyan una vía de hecho del Gobierno y de los órganos y autoridades regulados en la presente Ley son impugnables ante la jurisdicción contencioso-administrativa, de conformidad con lo dispuesto en su Ley reguladora."
+ }
+]
