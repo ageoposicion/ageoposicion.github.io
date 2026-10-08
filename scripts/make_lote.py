@@ -43,8 +43,10 @@ def main(spec_path):
         if os.path.abspath(f) == os.path.abspath(out_path): continue
         for q in json.load(open(f, encoding='utf-8')): previas[norm(q['pregunta'])] = os.path.basename(f)
     res, errores, vistos = [], [], set()
-    for k, (bloque, tipo, art, preg, ok, malas, ancla) in enumerate(S.PREGUNTAS):
+    for k, entrada in enumerate(S.PREGUNTAS):
         n = S.INICIO + k
+        if isinstance(entrada, str): continue   # pregunta retirada: se conserva su hueco para no renumerar
+        bloque, tipo, art, preg, ok, malas, ancla = entrada
         try:
             if art not in boe: raise ValueError('artículo inexistente: ' + art)
             if len(malas) != 3: raise ValueError('hacen falta 3 distractores')

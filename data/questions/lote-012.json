@@ -1,7 +1,7 @@
 [
  {
   "n": 12001,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a1",
@@ -17,7 +17,7 @@
  },
  {
   "n": 12002,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a2",
@@ -33,7 +33,7 @@
  },
  {
   "n": 12003,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a3",
@@ -49,7 +49,7 @@
  },
  {
   "n": 12004,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a4",
@@ -65,7 +65,7 @@
  },
  {
   "n": 12005,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a5",
@@ -81,7 +81,7 @@
  },
  {
   "n": 12006,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a6",
@@ -97,7 +97,7 @@
  },
  {
   "n": 12007,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a6",
@@ -113,7 +113,7 @@
  },
  {
   "n": 12008,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a6",
@@ -129,7 +129,7 @@
  },
  {
   "n": 12009,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a7",
@@ -145,7 +145,7 @@
  },
  {
   "n": 12010,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a7",
@@ -161,7 +161,7 @@
  },
  {
   "n": 12011,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a8",
@@ -177,7 +177,7 @@
  },
  {
   "n": 12012,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a9",
@@ -193,7 +193,7 @@
  },
  {
   "n": 12013,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a10",
@@ -209,7 +209,7 @@
  },
  {
   "n": 12014,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a11",
@@ -225,7 +225,7 @@
  },
  {
   "n": 12015,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a11",
@@ -241,7 +241,7 @@
  },
  {
   "n": 12016,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a12",
@@ -257,7 +257,7 @@
  },
  {
   "n": 12017,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a12",
@@ -273,7 +273,7 @@
  },
  {
   "n": 12018,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a13",
@@ -289,7 +289,7 @@
  },
  {
   "n": 12019,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a13",
@@ -305,7 +305,7 @@
  },
  {
   "n": 12020,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a14",
@@ -321,7 +321,7 @@
  },
  {
   "n": 12021,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a14",
@@ -337,7 +337,7 @@
  },
  {
   "n": 12022,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a15",
@@ -353,7 +353,7 @@
  },
  {
   "n": 12023,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a16",
@@ -369,7 +369,7 @@
  },
  {
   "n": 12024,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a17",
@@ -385,7 +385,7 @@
  },
  {
   "n": 12025,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a18",
@@ -401,7 +401,7 @@
  },
  {
   "n": 12026,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a19",
@@ -417,7 +417,7 @@
  },
  {
   "n": 12027,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a20",
@@ -433,7 +433,7 @@
  },
  {
   "n": 12028,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a21",
@@ -449,7 +449,7 @@
  },
  {
   "n": 12029,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a22",
@@ -465,7 +465,7 @@
  },
  {
   "n": 12030,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a43",
@@ -481,7 +481,7 @@
  },
  {
   "n": 12031,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a45",
@@ -497,7 +497,7 @@
  },
  {
   "n": 12032,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a46",
@@ -513,7 +513,7 @@
  },
  {
   "n": 12033,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a46",
@@ -529,7 +529,7 @@
  },
  {
   "n": 12034,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a47",
@@ -545,7 +545,7 @@
  },
  {
   "n": 12035,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a49",
@@ -561,7 +561,7 @@
  },
  {
   "n": 12036,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a50",
@@ -577,7 +577,7 @@
  },
  {
   "n": 12037,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a50",
@@ -593,7 +593,7 @@
  },
  {
   "n": 12038,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a51",
@@ -609,7 +609,7 @@
  },
  {
   "n": 12039,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a53",
@@ -625,7 +625,7 @@
  },
  {
   "n": 12040,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a54",
@@ -641,7 +641,7 @@
  },
  {
   "n": 12041,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a55",
@@ -657,7 +657,7 @@
  },
  {
   "n": 12042,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a57",
@@ -673,7 +673,7 @@
  },
  {
   "n": 12043,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a58",
@@ -689,7 +689,7 @@
  },
  {
   "n": 12044,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a59",
@@ -705,7 +705,7 @@
  },
  {
   "n": 12045,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a60",
@@ -721,7 +721,7 @@
  },
  {
   "n": 12046,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a60",
@@ -737,7 +737,7 @@
  },
  {
   "n": 12047,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a61",
@@ -753,7 +753,7 @@
  },
  {
   "n": 12048,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a62",
@@ -769,7 +769,7 @@
  },
  {
   "n": 12049,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a62",
@@ -785,7 +785,7 @@
  },
  {
   "n": 12050,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a63",
@@ -801,7 +801,7 @@
  },
  {
   "n": 12051,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a64",
@@ -817,7 +817,7 @@
  },
  {
   "n": 12052,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a64",
@@ -833,7 +833,7 @@
  },
  {
   "n": 12053,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a66",
@@ -849,7 +849,7 @@
  },
  {
   "n": 12054,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a76",
@@ -865,7 +865,7 @@
  },
  {
   "n": 12055,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a77",
@@ -881,7 +881,7 @@
  },
  {
   "n": 12056,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a77",
@@ -897,7 +897,7 @@
  },
  {
   "n": 12057,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOI",
   "articulo": "a78",

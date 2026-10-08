@@ -1,7 +1,7 @@
 [
  {
   "n": 13001,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a1",
@@ -17,7 +17,7 @@
  },
  {
   "n": 13002,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a1",
@@ -33,7 +33,7 @@
  },
  {
   "n": 13003,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a1",
@@ -49,7 +49,7 @@
  },
  {
   "n": 13004,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a2",
@@ -65,7 +65,7 @@
  },
  {
   "n": 13005,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a2",
@@ -81,7 +81,7 @@
  },
  {
   "n": 13006,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a3",
@@ -97,7 +97,7 @@
  },
  {
   "n": 13007,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a3",
@@ -113,7 +113,7 @@
  },
  {
   "n": 13008,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a3",
@@ -129,7 +129,7 @@
  },
  {
   "n": 13009,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a4",
@@ -145,7 +145,7 @@
  },
  {
   "n": 13010,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a5",
@@ -161,7 +161,7 @@
  },
  {
   "n": 13011,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a6",
@@ -177,7 +177,7 @@
  },
  {
   "n": 13012,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a8",
@@ -193,7 +193,7 @@
  },
  {
   "n": 13013,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a9",
@@ -209,7 +209,7 @@
  },
  {
   "n": 13014,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a10",
@@ -225,7 +225,7 @@
  },
  {
   "n": 13015,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a12",
@@ -241,7 +241,7 @@
  },
  {
   "n": 13016,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a13",
@@ -257,7 +257,7 @@
  },
  {
   "n": 13017,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a14",
@@ -273,7 +273,7 @@
  },
  {
   "n": 13018,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a15",
@@ -289,7 +289,7 @@
  },
  {
   "n": 13019,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a16",
@@ -305,7 +305,7 @@
  },
  {
   "n": 13020,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a16",
@@ -321,7 +321,7 @@
  },
  {
   "n": 13021,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a17",
@@ -337,7 +337,7 @@
  },
  {
   "n": 13022,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a18",
@@ -353,7 +353,7 @@
  },
  {
   "n": 13023,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a19",
@@ -369,7 +369,7 @@
  },
  {
   "n": 13024,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a19",
@@ -385,7 +385,7 @@
  },
  {
   "n": 13025,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a1-2",
@@ -401,7 +401,7 @@
  },
  {
   "n": 13026,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a20",
@@ -417,7 +417,7 @@
  },
  {
   "n": 13027,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a20",
@@ -433,7 +433,7 @@
  },
  {
   "n": 13028,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a20",
@@ -449,7 +449,7 @@
  },
  {
   "n": 13029,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a21",
@@ -465,7 +465,7 @@
  },
  {
   "n": 13030,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a21",
@@ -481,7 +481,7 @@
  },
  {
   "n": 13031,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "plazo",
   "norma": "LOVG",
   "articulo": "a21",
@@ -497,7 +497,7 @@
  },
  {
   "n": 13032,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a21",
@@ -513,7 +513,7 @@
  },
  {
   "n": 13033,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "plazo",
   "norma": "LOVG",
   "articulo": "a21",
@@ -529,7 +529,7 @@
  },
  {
   "n": 13034,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a22",
@@ -545,7 +545,7 @@
  },
  {
   "n": 13035,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a24",
@@ -561,7 +561,7 @@
  },
  {
   "n": 13036,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a25",
@@ -577,7 +577,7 @@
  },
  {
   "n": 13037,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a27",
@@ -593,7 +593,7 @@
  },
  {
   "n": 13038,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "plazo",
   "norma": "LOVG",
   "articulo": "a27",
@@ -609,7 +609,7 @@
  },
  {
   "n": 13039,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "plazo",
   "norma": "LOVG",
   "articulo": "a27",
@@ -625,7 +625,7 @@
  },
  {
   "n": 13040,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a27",
@@ -641,7 +641,7 @@
  },
  {
   "n": 13041,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a28",
@@ -657,7 +657,7 @@
  },
  {
   "n": 13042,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a2-2",
@@ -673,7 +673,7 @@
  },
  {
   "n": 13043,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a2-3",
@@ -689,7 +689,7 @@
  },
  {
   "n": 13044,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a29",
@@ -705,7 +705,7 @@
  },
  {
   "n": 13045,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a29",
@@ -721,7 +721,7 @@
  },
  {
   "n": 13046,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a30",
@@ -737,7 +737,7 @@
  },
  {
   "n": 13047,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a30",
@@ -753,7 +753,7 @@
  },
  {
   "n": 13048,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a30",
@@ -769,7 +769,7 @@
  },
  {
   "n": 13049,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a31",
@@ -785,7 +785,7 @@
  },
  {
   "n": 13050,
-  "bloque": "I",
+  "bloque": "III",
   "tipo": "test",
   "norma": "LOVG",
   "articulo": "a32",
