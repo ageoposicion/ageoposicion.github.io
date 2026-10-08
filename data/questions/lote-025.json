@@ -1,0 +1,498 @@
+[
+ {
+  "n": 25001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a1",
+  "pregunta": "La Ley 4/2023 tiene por finalidad garantizar y promover el derecho a la igualdad real y efectiva de:",
+  "opciones": [
+   "Solo las personas trans mayores de edad",
+   "Las personas lesbianas, gais, trans, bisexuales e intersexuales (LGTBI) y de sus familias",
+   "Las personas con discapacidad",
+   "Las víctimas de violencia de género"
+  ],
+  "correcta": 1,
+  "cita": "Esta Ley tiene por finalidad garantizar y promover el derecho a la igualdad real y efectiva de las personas lesbianas, gais, trans, bisexuales e intersexuales (en adelante, LGTBI), así como de sus familias."
+ },
+ {
+  "n": 25002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a2",
+  "pregunta": "La Ley 4/2023 se aplica a toda persona física o jurídica, pública o privada, que resida, se encuentre o actúe en territorio español:",
+  "opciones": [
+   "Solo si tiene nacionalidad española",
+   "Cualquiera que fuera su nacionalidad o situación administrativa",
+   "Solo si es una Administración pública",
+   "Solo si reside legalmente en España"
+  ],
+  "correcta": 1,
+  "cita": "o jurídica, de carácter público o privado, que resida, se encuentre o actúe en territorio español, cualquiera que fuera su nacionalidad, origen racial o étnico, religión, domicilio, residencia, edad, estado civil o situación administrativa, en los términos y con el alcance que se contemplan en esta ley y en el resto del ordenamiento"
+ },
+ {
+  "n": 25003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a3",
+  "pregunta": "Según la Ley 4/2023, la situación en que una disposición, criterio o práctica aparentemente neutros ocasiona una desventaja particular por razón de orientación sexual o identidad sexual es:",
+  "opciones": [
+   "Acoso discriminatorio",
+   "Discriminación por error",
+   "Discriminación indirecta",
+   "Discriminación directa"
+  ],
+  "correcta": 2,
+  "cita": "b) Discriminación indirecta: Se produce cuando una disposición, criterio o práctica aparentemente neutros ocasiona o puede ocasionar a una o varias personas una desventaja particular con respecto a otras por razón de orientación sexual, e identidad sexual, expresión de género o características sexuales."
+ },
+ {
+  "n": 25004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a3",
+  "pregunta": "La discriminación que se funda en una apreciación incorrecta acerca de las características de la persona discriminada se denomina:",
+  "opciones": [
+   "Discriminación por error",
+   "Discriminación indirecta",
+   "Discriminación múltiple",
+   "Discriminación por asociación"
+  ],
+  "correcta": 0,
+  "cita": "La discriminación por error es aquella que se funda en una apreciación incorrecta acerca de las características de la persona o personas discriminadas."
+ },
+ {
+  "n": 25005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a3",
+  "pregunta": "Según la Ley 4/2023, la denegación de ajustes razonables a las personas con discapacidad se considera:",
+  "opciones": [
+   "Discriminación indirecta",
+   "Una infracción leve en todo caso",
+   "Discriminación directa",
+   "Un trato diferenciado lícito"
+  ],
+  "correcta": 2,
+  "cita": "Se considerará discriminación directa la denegación de ajustes razonables a las personas con discapacidad."
+ },
+ {
+  "n": 25006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a9",
+  "pregunta": "El Consejo de Participación de las Personas LGTBI depende:",
+  "opciones": [
+   "De las Cortes Generales",
+   "Del Ministerio de Trabajo",
+   "Del Defensor del Pueblo",
+   "Del Ministerio de Igualdad, a través de la Secretaría de Estado de Igualdad y contra la Violencia de Género"
+  ],
+  "correcta": 3,
+  "cita": "El Consejo dependerá del Ministerio de Igualdad a través de la Secretaría de Estado de Igualdad y contra la Violencia de Género."
+ },
+ {
+  "n": 25007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a9",
+  "pregunta": "El Consejo de Participación de las Personas LGTBI presenta una memoria de su actividad con carácter:",
+  "opciones": [
+   "Anual",
+   "Bienal",
+   "Semestral",
+   "Trimestral"
+  ],
+  "correcta": 2,
+  "cita": "El Consejo presentará una memoria con carácter semestral, detallando su actividad, reuniones y actuaciones conforme a la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno."
+ },
+ {
+  "n": 25008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a1-7",
+  "pregunta": "Deben contar con un conjunto planificado de medidas para la igualdad de las personas LGTBI, con un protocolo frente al acoso, las empresas de más de:",
+  "opciones": [
+   "Diez personas trabajadoras",
+   "Cincuenta personas trabajadoras",
+   "Doscientas cincuenta personas trabajadoras",
+   "Cien personas trabajadoras"
+  ],
+  "correcta": 1,
+  "cita": "Las empresas de más de cincuenta personas trabajadoras deberán contar, en el plazo de doce meses a partir de la entrada en vigor de la presente ley, con un conjunto"
+ },
+ {
+  "n": 25009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a1-9",
+  "pregunta": "La Ley 4/2023 prohíbe las terapias de conversión destinadas a modificar la orientación o identidad sexual o la expresión de género:",
+  "opciones": [
+   "Salvo que cuenten con el consentimiento de la persona interesada",
+   "Solo cuando se presten en centros públicos",
+   "Incluso si cuentan con el consentimiento de la persona interesada o de su representante legal",
+   "Solo cuando se apliquen a menores de edad"
+  ],
+  "correcta": 2,
+  "cita": "Se prohíbe la práctica de métodos, programas y terapias de aversión, conversión o contracondicionamiento, en cualquier forma, destinados a modificar la orientación o identidad sexual o la expresión de género de las personas, incluso si cuentan con el consentimiento de la persona interesada o de su representante legal."
+ },
+ {
+  "n": 25010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-5",
+  "pregunta": "Puede solicitar por sí misma ante el Registro Civil la rectificación de la mención registral relativa al sexo toda persona de nacionalidad española mayor de:",
+  "opciones": [
+   "Doce años",
+   "Dieciséis años",
+   "Dieciocho años",
+   "Catorce años"
+  ],
+  "correcta": 1,
+  "cita": "Toda persona de nacionalidad española mayor de dieciséis años podrá solicitar por sí misma ante el Registro Civil la rectificación de la mención registral relativa al sexo."
+ },
+ {
+  "n": 25011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-5",
+  "pregunta": "Las personas menores de dieciséis años y mayores de catorce pueden solicitar la rectificación registral del sexo:",
+  "opciones": [
+   "Solo a través del Ministerio Fiscal",
+   "No pueden solicitarla",
+   "Por sí mismas, asistidas en el procedimiento por sus representantes legales",
+   "Solo mediante autorización judicial"
+  ],
+  "correcta": 2,
+  "cita": "Las personas menores de dieciséis años y mayores de catorce podrán presentar la solicitud por sí mismas, asistidas en el procedimiento por sus representantes legales."
+ },
+ {
+  "n": 25012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-5",
+  "pregunta": "Las personas menores de catorce años y mayores de doce, para modificar la mención registral del sexo, pueden:",
+  "opciones": [
+   "Solicitarlo solo a través de sus progenitores, sin intervención judicial",
+   "Solicitar la autorización judicial conforme a la Ley de Jurisdicción Voluntaria",
+   "Presentar la solicitud por sí solas ante el Registro Civil",
+   "Solicitarlo al Ministerio de Igualdad"
+  ],
+  "correcta": 1,
+  "cita": "Las personas menores de catorce años y mayores de doce podrán solicitar la autorización judicial para la modificación de la mención registral del sexo en los términos del capítulo I bis del título II de la Ley 15/2015, de 2 de julio, de Jurisdicción Voluntaria."
+ },
+ {
+  "n": 25013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-6",
+  "pregunta": "El ejercicio del derecho a la rectificación registral de la mención relativa al sexo:",
+  "opciones": [
+   "Requiere dos años de tratamiento hormonal",
+   "Requiere informe psicológico favorable",
+   "Requiere informe médico de un centro público",
+   "En ningún caso puede condicionarse a la previa exhibición de informe médico o psicológico"
+  ],
+  "correcta": 3,
+  "cita": "El ejercicio del derecho a la rectificación registral de la mención relativa al sexo en ningún caso podrá estar condicionado a la previa exhibición de informe médico o psicológico relativo a la disconformidad con el sexo mencionado en la inscripción de nacimiento, ni a la"
+ },
+ {
+  "n": 25014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-6",
+  "pregunta": "La solicitud de rectificación registral de la mención relativa al sexo puede presentarse ante la persona encargada de:",
+  "opciones": [
+   "Cualquier Oficina del Registro Civil",
+   "La Oficina del Registro Civil del lugar de nacimiento exclusivamente",
+   "El Juzgado de Primera Instancia",
+   "La Comisaría de Policía que expida el DNI"
+  ],
+  "correcta": 0,
+  "cita": "La solicitud de iniciación de procedimiento para la rectificación registral de la mención relativa al sexo podrá presentarse por la persona legitimada ante la persona encargada de cualquier Oficina del Registro Civil."
+ },
+ {
+  "n": 25015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-8",
+  "pregunta": "La resolución que acuerda la rectificación de la mención registral del sexo tiene efectos constitutivos a partir de:",
+  "opciones": [
+   "Su inscripción en el Registro Civil",
+   "Su publicación en el BOE",
+   "La expedición del nuevo DNI",
+   "La presentación de la solicitud"
+  ],
+  "correcta": 0,
+  "cita": "La resolución que acuerde la rectificación de la mención registral del sexo tendrá efectos constitutivos a partir de su inscripción en el Registro Civil."
+ },
+ {
+  "n": 25016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-8",
+  "pregunta": "La rectificación registral del sexo, respecto del régimen jurídico aplicable a efectos de la Ley Orgánica 1/2004 de violencia de género anterior a la inscripción:",
+  "opciones": [
+   "No lo altera",
+   "Lo sustituye por el régimen del nuevo sexo con efectos retroactivos",
+   "Lo suspende durante seis meses",
+   "Lo deja sin efecto"
+  ],
+  "correcta": 0,
+  "cita": "La rectificación de la mención registral relativa al sexo y, en su caso, el cambio de nombre, no alterarán el régimen jurídico que, con anterioridad a la inscripción del cambio registral, fuera aplicable a la persona a los efectos de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral"
+ },
+ {
+  "n": 25017,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LTRANS",
+  "articulo": "a4-9",
+  "pregunta": "Tiempo desde la inscripción de la rectificación registral del sexo tras el cual puede recuperarse la mención registral anterior",
+  "opciones": [
+   "3 meses",
+   "1 año",
+   "2 años",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "Transcurridos seis meses desde la inscripción en el Registro Civil de la rectificación de la mención registral relativa al sexo, las personas que hubieran promovido dicha rectificación"
+ },
+ {
+  "n": 25018,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-10",
+  "pregunta": "Las personas trans menores de edad, hayan iniciado o no el procedimiento de rectificación registral del sexo:",
+  "opciones": [
+   "No pueden cambiar de nombre hasta la mayoría de edad",
+   "Solo pueden usar un nombre social sin inscripción",
+   "Tienen derecho a obtener la inscripción registral del cambio de nombre por razones de identidad sexual",
+   "Solo pueden cambiar de nombre con autorización judicial"
+  ],
+  "correcta": 2,
+  "cita": "de edad, hayan iniciado o no el procedimiento de rectificación de la mención relativa al sexo, tienen derecho a obtener la inscripción registral del cambio de nombre por razones de identidad sexual, cumpliendo con los requisitos establecidos en la Ley 20/2011, de 21 de julio, del Registro Civil."
+ },
+ {
+  "n": 25019,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a4-11",
+  "pregunta": "Tras la rectificación registral del sexo, en el nuevo documento nacional de identidad:",
+  "opciones": [
+   "Se asigna un número nuevo",
+   "Se conserva el mismo número",
+   "Se suprime el número",
+   "Se añade una letra al número anterior"
+  ],
+  "correcta": 1,
+  "cita": "En todo caso, se conservará el mismo número del documento nacional de identidad."
+ },
+ {
+  "n": 25020,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a6-6",
+  "pregunta": "Las cláusulas de los contratos que vulneren el derecho a la no discriminación por razón de orientación sexual o identidad sexual:",
+  "opciones": [
+   "Son anulables a instancia de parte",
+   "Solo dan lugar a indemnización",
+   "Son válidas si las firmaron ambas partes",
+   "Son nulas y se tienen por no puestas"
+  ],
+  "correcta": 3,
+  "cita": "Las cláusulas de los contratos y negocios jurídicos que vulneren el derecho a la no discriminación por razón de orientación sexual, identidad sexual, expresión de género o características sexuales serán nulas y se tendrán por no puestas."
+ },
+ {
+  "n": 25021,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a6-8",
+  "pregunta": "Cuando quien alega discriminación por razón de orientación o identidad sexual aporta indicios fundados de su existencia:",
+  "opciones": [
+   "Debe probar plenamente la discriminación",
+   "El procedimiento se archiva",
+   "Debe aportar informe del Ministerio Fiscal",
+   "Corresponde a la parte demandada aportar una justificación objetiva y razonable, suficientemente probada"
+  ],
+  "correcta": 3,
+  "cita": "expresión de género o características sexuales y aporte indicios fundados sobre su existencia, corresponderá a la parte demandada o a quien se impute la situación discriminatoria la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad."
+ },
+ {
+  "n": 25022,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a6-5",
+  "pregunta": "Con el consentimiento expreso de las partes, puede actuar como órgano de mediación o conciliación en casos de discriminación LGTBI:",
+  "opciones": [
+   "El Defensor del Pueblo",
+   "La Autoridad Independiente para la Igualdad de Trato y la No Discriminación",
+   "La Inspección de Trabajo",
+   "El Consejo de Participación de las Personas LGTBI"
+  ],
+  "correcta": 1,
+  "cita": "Con el consentimiento expreso de las partes, la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, podrá actuar como órgano de mediación o conciliación en los términos previstos en la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación."
+ },
+ {
+  "n": 25023,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a7-9",
+  "pregunta": "En la Administración General del Estado, el procedimiento sancionador de la Ley 4/2023 se inicia:",
+  "opciones": [
+   "Siempre a instancia de la persona afectada",
+   "De oficio o a instancia de parte, indistintamente",
+   "Siempre de oficio",
+   "Solo por denuncia del Ministerio Fiscal"
+  ],
+  "correcta": 2,
+  "cita": "En el ámbito de la Administración General del Estado, el procedimiento se iniciará siempre de oficio, correspondiendo la instrucción a la Dirección General de Diversidad Sexual y Derechos LGTBI, y el órgano competente para resolver el procedimiento será la persona titular del Ministerio de Igualdad."
+ },
+ {
+  "n": 25024,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a7-9",
+  "pregunta": "En la Administración General del Estado, cuando se trate de infracciones muy graves y la sanción propuesta exceda de 100.000 euros, es competente para resolver:",
+  "opciones": [
+   "La Dirección General de Diversidad Sexual y Derechos LGTBI",
+   "El Consejo de Ministros",
+   "La persona titular del Ministerio de Igualdad",
+   "El Presidente del Gobierno"
+  ],
+  "correcta": 1,
+  "cita": "No obstante, cuando se trate de infracciones muy graves y el importe de la sanción propuesta exceda los 100.000 euros, será competente el Consejo de Ministros."
+ },
+ {
+  "n": 25025,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LTRANS",
+  "articulo": "a7-10",
+  "pregunta": "Plazo máximo para notificar la resolución del procedimiento sancionador de la Ley 4/2023",
+  "opciones": [
+   "3 meses",
+   "1 año",
+   "18 meses",
+   "6 meses"
+  ],
+  "correcta": 3,
+  "cita": "El plazo máximo en que deberá notificarse la resolución del procedimiento sancionador será de seis meses."
+ },
+ {
+  "n": 25026,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a7-11",
+  "pregunta": "Según la Ley 4/2023, el acoso discriminatorio por razón de orientación e identidad sexual, cuando no constituya infracción penal, es infracción:",
+  "opciones": [
+   "Leve",
+   "No constituye infracción administrativa",
+   "Muy grave",
+   "Grave"
+  ],
+  "correcta": 2,
+  "cita": "Son infracciones administrativas muy graves: a) El acoso discriminatorio, cuando no constituya infracción penal, por razón de orientación e identidad sexual, expresión de género o características sexuales."
+ },
+ {
+  "n": 25027,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a7-11",
+  "pregunta": "Utilizar o emitir expresiones vejatorias por razón de orientación e identidad sexual en la prestación de servicios públicos o privados es, según la Ley 4/2023, infracción:",
+  "opciones": [
+   "Leve",
+   "Grave",
+   "No constituye infracción",
+   "Muy grave"
+  ],
+  "correcta": 0,
+  "cita": "Son infracciones administrativas leves: a) Utilizar o emitir expresiones vejatorias contra las personas por razón de su orientación e identidad sexual, expresión de género o características sexuales en la prestación de servicios públicos o privados."
+ },
+ {
+  "n": 25028,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a8-2",
+  "pregunta": "Las infracciones leves de la Ley 4/2023 se sancionan con:",
+  "opciones": [
+   "Cierre del establecimiento",
+   "Multa de 10.001 a 150.000 euros",
+   "Apercibimiento o multa de 200 a 2.000 euros",
+   "Multa de 2.001 a 10.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "Las infracciones leves serán sancionadas con apercibimiento o con multa de 200 a 2.000 euros."
+ },
+ {
+  "n": 25029,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LTRANS",
+  "articulo": "a8-2",
+  "pregunta": "Las infracciones muy graves de la Ley 4/2023 se sancionan con multa de:",
+  "opciones": [
+   "10.001 a 150.000 euros",
+   "200 a 2.000 euros",
+   "2.001 a 10.000 euros",
+   "150.001 a 600.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "Las infracciones muy graves serán sancionadas con multa de 10.001 a 150.000 euros."
+ },
+ {
+  "n": 25030,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LTRANS",
+  "articulo": "a8-3",
+  "pregunta": "Plazo de prescripción de las infracciones muy graves de la Ley 4/2023",
+  "opciones": [
+   "3 años",
+   "4 años",
+   "5 años",
+   "2 años"
+  ],
+  "correcta": 0,
+  "cita": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los nueve meses."
+ },
+ {
+  "n": 25031,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LTRANS",
+  "articulo": "a8-3",
+  "pregunta": "Plazo de prescripción de las infracciones leves de la Ley 4/2023",
+  "opciones": [
+   "6 meses",
+   "9 meses",
+   "1 año",
+   "3 meses"
+  ],
+  "correcta": 1,
+  "cita": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los nueve meses."
+ }
+]
