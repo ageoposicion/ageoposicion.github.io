@@ -1,0 +1,722 @@
+[
+ {
+  "n": 24001,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a2",
+  "pregunta": "Uno de los requisitos para que una disposición dineraria sea subvención según la Ley 38/2003 es que la entrega se realice:",
+  "opciones": [
+   "Sin contraprestación directa de los beneficiarios",
+   "Mediante contrato administrativo",
+   "Siempre a favor de personas privadas",
+   "A cambio de una contraprestación equivalente"
+  ],
+  "correcta": 0,
+  "cita": "3 de esta ley, a favor de personas públicas o privadas, y que cumpla los siguientes requisitos: a) Que la entrega se realice sin contraprestación directa de los beneficiarios."
+ },
+ {
+  "n": 24002,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a4",
+  "pregunta": "¿Cuál de los siguientes queda excluido del ámbito de aplicación de la Ley General de Subvenciones?",
+  "opciones": [
+   "Las subvenciones concedidas en régimen de concurrencia competitiva",
+   "Las subvenciones concedidas por las entidades locales",
+   "Las subvenciones nominativas de los Presupuestos Generales del Estado",
+   "Los premios que se otorguen sin la previa solicitud del beneficiario"
+  ],
+  "correcta": 3,
+  "cita": "Quedan excluidos del ámbito de aplicación de esta ley: a) Los premios que se otorguen sin la previa solicitud del beneficiario."
+ },
+ {
+  "n": 24003,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a8",
+  "pregunta": "Con carácter previo al establecimiento de subvenciones, los órganos que las propongan deben concretar sus objetivos, plazos, costes y fuentes de financiación en:",
+  "opciones": [
+   "La memoria de análisis de impacto normativo",
+   "Un plan estratégico de subvenciones",
+   "El presupuesto por programas",
+   "La Base de Datos Nacional de Subvenciones"
+  ],
+  "correcta": 1,
+  "cita": "o cualesquiera entes que propongan el establecimiento de subvenciones, con carácter previo, deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación,"
+ },
+ {
+  "n": 24004,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a8",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios de gestión de las subvenciones del artículo 8.3 de la Ley 38/2003?",
+  "opciones": [
+   "Eficacia en el cumplimiento de los objetivos",
+   "Discrecionalidad en la selección de beneficiarios",
+   "Publicidad, transparencia y concurrencia",
+   "Eficiencia en la asignación y utilización de los recursos públicos"
+  ],
+  "correcta": 1,
+  "cita": "las subvenciones a que se refiere esta ley se realizará de acuerdo con los siguientes principios: a) Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación. b) Eficacia en el cumplimiento de los objetivos fijados por la Administración otorgante. c) Eficiencia en la asignación y utilización de los recursos públicos."
+ },
+ {
+  "n": 24005,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a9",
+  "pregunta": "Con carácter previo al otorgamiento de las subvenciones deben aprobarse:",
+  "opciones": [
+   "Las resoluciones de reintegro",
+   "Las normas que establezcan las bases reguladoras de concesión",
+   "Las cuentas justificativas",
+   "Los convenios con todos los beneficiarios"
+  ],
+  "correcta": 1,
+  "cita": "Con carácter previo al otorgamiento de las subvenciones, deberán aprobarse las normas que establezcan las bases reguladoras de concesión en los términos establecidos en esta ley."
+ },
+ {
+  "n": 24006,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a10",
+  "pregunta": "En la Administración General del Estado son órganos competentes para conceder subvenciones, en sus respectivos ámbitos y previa consignación presupuestaria:",
+  "opciones": [
+   "Los Delegados del Gobierno",
+   "Los Ministros y los Secretarios de Estado",
+   "Los Subdirectores Generales",
+   "Solo el Consejo de Ministros"
+  ],
+  "correcta": 1,
+  "cita": "Los Ministros y los Secretarios de Estado en la Administración General del Estado y los presidentes o directores de los organismos y las entidades públicas vinculados o"
+ },
+ {
+  "n": 24007,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a10",
+  "pregunta": "La concesión de subvenciones de cuantía superior a 12 millones de euros requiere la previa autorización de:",
+  "opciones": [
+   "El Consejo de Ministros o, si así lo establece su normativa reguladora, la Comisión Delegada del Gobierno para Asuntos Económicos",
+   "Las Cortes Generales",
+   "El Ministro de Hacienda",
+   "La Intervención General de la Administración del Estado"
+  ],
+  "correcta": 0,
+  "cita": "No obstante lo dispuesto en el apartado anterior, la concesión de subvenciones de cuantía superior a 12 millones de euros requerirá la previa autorización del Consejo de Ministros o, en el caso de que así lo establezca la normativa reguladora de la subvención, de la Comisión"
+ },
+ {
+  "n": 24008,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a11",
+  "pregunta": "Según la Ley 38/2003, tiene la consideración de beneficiario de subvenciones:",
+  "opciones": [
+   "El órgano que instruye el procedimiento",
+   "La persona que haya de realizar la actividad que fundamentó su otorgamiento o que se encuentre en la situación que legitima su concesión",
+   "Cualquier persona que presente solicitud",
+   "La entidad que entrega y distribuye los fondos en nombre del órgano concedente"
+  ],
+  "correcta": 1,
+  "cita": "Tendrá la consideración de beneficiario de subvenciones la persona que haya de realizar la actividad que fundamentó su otorgamiento o que se encuentre en la situación que legitima su concesión."
+ },
+ {
+  "n": 24009,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a12",
+  "pregunta": "Los fondos públicos que la entidad colaboradora entrega y distribuye a los beneficiarios:",
+  "opciones": [
+   "Pasan a ser ingresos propios de la entidad",
+   "Se integran en su patrimonio",
+   "En ningún caso se consideran integrantes de su patrimonio",
+   "Se integran en su patrimonio hasta que se justifiquen"
+  ],
+  "correcta": 2,
+  "cita": "Estos fondos, en ningún caso, se considerarán integrantes de su patrimonio."
+ },
+ {
+  "n": 24010,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a14",
+  "pregunta": "La obtención de otras subvenciones que financien las actividades subvencionadas debe comunicarse por el beneficiario:",
+  "opciones": [
+   "No es necesario comunicarla",
+   "En el plazo de un año",
+   "Tan pronto como se conozca y, en todo caso, antes de la justificación de la aplicación dada a los fondos",
+   "Solo al finalizar la actividad"
+  ],
+  "correcta": 2,
+  "cita": "Esta comunicación deberá efectuarse tan pronto como se conozca y, en todo caso, con anterioridad a la justificación de la aplicación dada a los fondos percibidos."
+ },
+ {
+  "n": 24011,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a14",
+  "pregunta": "El beneficiario debe acreditar que se halla al corriente de sus obligaciones tributarias y frente a la Seguridad Social:",
+  "opciones": [
+   "Solo si se lo pide la Intervención",
+   "Con anterioridad a dictarse la propuesta de resolución de concesión",
+   "Al presentar la cuenta justificativa",
+   "Después de cobrar la subvención"
+  ],
+  "correcta": 1,
+  "cita": "e) Acreditar con anterioridad a dictarse la propuesta de resolución de concesión que se halla al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social, en la forma que"
+ },
+ {
+  "n": 24012,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGS",
+  "articulo": "a16",
+  "pregunta": "Plazo máximo de vigencia inicial del convenio de colaboración entre el órgano concedente y la entidad colaboradora",
+  "opciones": [
+   "2 años",
+   "4 años",
+   "6 años",
+   "5 años"
+  ],
+  "correcta": 1,
+  "cita": "El convenio de colaboración no podrá tener un plazo de vigencia superior a cuatro años, si bien podrá preverse en el mismo su modificación y su prórroga por mutuo acuerdo de las partes"
+ },
+ {
+  "n": 24013,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGS",
+  "articulo": "a16",
+  "pregunta": "Duración total máxima del convenio de colaboración con la entidad colaboradora, incluidas sus prórrogas (salvo subsidiación de préstamos)",
+  "opciones": [
+   "4 años",
+   "8 años",
+   "6 años",
+   "10 años"
+  ],
+  "correcta": 2,
+  "cita": "sin que la duración total de las prórrogas pueda ser superior a la vigencia del período inicial y sin que en conjunto la duración total del convenio de colaboración pueda exceder de seis años."
+ },
+ {
+  "n": 24014,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a17",
+  "pregunta": "En la Administración General del Estado, las bases reguladoras de la concesión de subvenciones se aprueban por:",
+  "opciones": [
+   "Resolución de la Intervención General",
+   "Orden ministerial",
+   "Real Decreto-ley",
+   "Ley ordinaria"
+  ],
+  "correcta": 1,
+  "cita": "Las citadas bases se aprobarán por orden ministerial, de acuerdo con el procedimiento previsto en el artículo 24 de la Ley 50/1997, de 27 de noviembre,"
+ },
+ {
+  "n": 24015,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a18",
+  "pregunta": "Opera como sistema nacional de publicidad de subvenciones:",
+  "opciones": [
+   "La Base de Datos Nacional de Subvenciones",
+   "El Portal de la Transparencia exclusivamente",
+   "La Plataforma de Contratación del Sector Público",
+   "El Registro Central de Personal"
+  ],
+  "correcta": 0,
+  "cita": "La Base de Datos Nacional de Subvenciones operará como sistema nacional de publicidad de subvenciones."
+ },
+ {
+  "n": 24016,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a19",
+  "pregunta": "El importe de las subvenciones, aisladamente o en concurrencia con otras ayudas o ingresos:",
+  "opciones": [
+   "En ningún caso puede superar el coste de la actividad subvencionada",
+   "Puede superar el coste si lo prevén las bases",
+   "Debe ser igual al 50 por ciento del coste",
+   "Puede superar el coste hasta en un 10 por ciento"
+  ],
+  "correcta": 0,
+  "cita": "El importe de las subvenciones en ningún caso podrá ser de tal cuantía que, aisladamente o en concurrencia con otras subvenciones, ayudas, ingresos o recursos, supere el coste de la actividad subvencionada."
+ },
+ {
+  "n": 24017,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a20",
+  "pregunta": "El órgano responsable de la administración y custodia de la Base de Datos Nacional de Subvenciones es:",
+  "opciones": [
+   "La Intervención General de la Administración del Estado",
+   "La Agencia Estatal de Administración Tributaria",
+   "El Tribunal de Cuentas",
+   "La Dirección General de Presupuestos"
+  ],
+  "correcta": 0,
+  "cita": "La Intervención General de la Administración del Estado es el órgano responsable de la administración y custodia de la BDNS y adoptará las medidas necesarias para garantizar la confidencialidad y seguridad de la información."
+ },
+ {
+  "n": 24018,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a22",
+  "pregunta": "El procedimiento ordinario de concesión de subvenciones se tramita en régimen de:",
+  "opciones": [
+   "Adjudicación negociada",
+   "Concurrencia competitiva",
+   "Sorteo público",
+   "Concesión directa"
+  ],
+  "correcta": 1,
+  "cita": "El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva."
+ },
+ {
+  "n": 24019,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a22",
+  "pregunta": "En régimen de concurrencia competitiva, la propuesta de concesión se formula al órgano concedente por:",
+  "opciones": [
+   "El propio solicitante",
+   "Un órgano colegiado a través del órgano instructor",
+   "La entidad colaboradora",
+   "La Intervención Delegada"
+  ],
+  "correcta": 1,
+  "cita": "En este supuesto, y sin perjuicio de las especialidades que pudieran derivarse de la capacidad de autoorganización de las Administraciones públicas, la propuesta de concesión se formulará al órgano concedente por un órgano colegiado a través del órgano instructor."
+ },
+ {
+  "n": 24020,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a22",
+  "pregunta": "Pueden concederse de forma directa, entre otras, las subvenciones:",
+  "opciones": [
+   "Que soliciten más de diez interesados",
+   "Previstas nominativamente en los Presupuestos",
+   "Cuyo importe supere los 12 millones de euros",
+   "Convocadas en el Boletín Oficial del Estado"
+  ],
+  "correcta": 1,
+  "cita": "Podrán concederse de forma directa las siguientes subvenciones: a) Las previstas nominativamente en los Presupuestos Generales del Estado, de las Comunidades Autónomas o de las Entidades Locales, en los términos recogidos en los convenios y en la normativa reguladora de estas subvenciones."
+ },
+ {
+  "n": 24021,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a23",
+  "pregunta": "El procedimiento para la concesión de subvenciones se inicia:",
+  "opciones": [
+   "Siempre a solicitud del interesado",
+   "Por denuncia",
+   "De oficio o a solicitud, indistintamente",
+   "Siempre de oficio"
+  ],
+  "correcta": 3,
+  "cita": "El procedimiento para la concesión de subvenciones se inicia siempre de oficio."
+ },
+ {
+  "n": 24022,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGS",
+  "articulo": "a24",
+  "pregunta": "Plazo general de emisión de los informes pedidos durante la instrucción del procedimiento de concesión de subvenciones",
+  "opciones": [
+   "2 meses",
+   "15 días",
+   "1 mes",
+   "10 días"
+  ],
+  "correcta": 3,
+  "cita": "El plazo para su emisión será de 10 días, salvo que el órgano instructor, atendiendo a las características del informe solicitado o del propio procedimiento, solicite su emisión en un plazo menor o mayor, sin que en este último caso pueda exceder de dos meses."
+ },
+ {
+  "n": 24023,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGS",
+  "articulo": "a25",
+  "pregunta": "Plazo máximo para resolver y notificar el procedimiento de concesión de subvenciones, salvo ley o normativa de la Unión Europea que establezca otro mayor",
+  "opciones": [
+   "2 meses",
+   "3 meses",
+   "6 meses",
+   "1 año"
+  ],
+  "correcta": 2,
+  "cita": "El plazo máximo para resolver y notificar la resolución del procedimiento no podrá exceder de seis meses, salvo que una norma con rango de ley establezca un plazo mayor o así venga previsto en la normativa de la Unión Europea."
+ },
+ {
+  "n": 24024,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a25",
+  "pregunta": "El vencimiento del plazo máximo sin haberse notificado la resolución de concesión de la subvención:",
+  "opciones": [
+   "Legitima a los interesados para entenderla desestimada por silencio administrativo",
+   "Obliga a conceder la subvención por el importe solicitado",
+   "Produce la caducidad del procedimiento",
+   "Supone la concesión de la subvención por silencio positivo"
+  ],
+  "correcta": 0,
+  "cita": "El vencimiento del plazo máximo sin haberse notificado la resolución legitima a los interesados para entender desestimada por silencio administrativo la solicitud de concesión de la subvención."
+ },
+ {
+  "n": 24025,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a28",
+  "pregunta": "El instrumento habitual para canalizar las subvenciones previstas nominativamente en los Presupuestos Generales del Estado es:",
+  "opciones": [
+   "El convenio",
+   "La encomienda de gestión",
+   "El contrato de servicios",
+   "La orden de bases"
+  ],
+  "correcta": 0,
+  "cita": "Los convenios serán el instrumento habitual para canalizar las subvenciones previstas nominativamente en los Presupuestos Generales del Estado, o en los de las corporaciones locales, sin perjuicio de lo que a este respecto establezca su normativa reguladora."
+ },
+ {
+  "n": 24026,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a29",
+  "pregunta": "Si las bases reguladoras no fijan otro porcentaje, el beneficiario puede subcontratar la actividad subvencionada hasta:",
+  "opciones": [
+   "El 25 por ciento",
+   "El 50 por ciento del importe de la actividad subvencionada",
+   "El 100 por ciento",
+   "El 20 por ciento"
+  ],
+  "correcta": 1,
+  "cita": "En el supuesto de que tal previsión no figure, el beneficiario podrá subcontratar hasta un porcentaje que no exceda del 50 por ciento del importe de la actividad subvencionada."
+ },
+ {
+  "n": 24027,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a29",
+  "pregunta": "La subcontratación debe celebrarse por escrito y autorizarse previamente por la entidad concedente cuando exceda del 20 por ciento del importe de la subvención y dicho importe sea superior a:",
+  "opciones": [
+   "100.000 euros",
+   "60.000 euros",
+   "30.000 euros",
+   "15.000 euros"
+  ],
+  "correcta": 1,
+  "cita": "Cuando la actividad concertada con terceros exceda del 20 por ciento del importe de la subvención y dicho importe sea superior a 60.000 euros, la subcontratación estará sometida al cumplimiento de los siguientes requisitos: a) Que el contrato se celebre por escrito."
+ },
+ {
+  "n": 24028,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a30",
+  "pregunta": "La justificación de una subvención puede revestir la forma de:",
+  "opciones": [
+   "Solo declaración responsable del beneficiario",
+   "Cuenta justificativa del gasto realizado, módulos o estados contables, según la normativa reguladora",
+   "Solo certificado del Alcalde",
+   "Únicamente informe de auditoría"
+  ],
+  "correcta": 1,
+  "cita": "de concesión de la subvención se documentará de la manera que se determine reglamentariamente, pudiendo revestir la forma de cuenta justificativa del gasto realizado o acreditarse dicho gasto por módulos o mediante la presentación de estados contables, según se disponga en la normativa reguladora."
+ },
+ {
+  "n": 24029,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGS",
+  "articulo": "a30",
+  "pregunta": "Plazo máximo de presentación de la cuenta justificativa, a falta de previsión en las bases, desde la finalización del plazo para realizar la actividad",
+  "opciones": [
+   "1 mes",
+   "2 meses",
+   "3 meses",
+   "6 meses"
+  ],
+  "correcta": 2,
+  "cita": "financiadas con la subvención y su coste, con el desglose de cada uno de los gastos incurridos, y su presentación se realizará, como máximo, en el plazo de tres meses desde la finalización del plazo para la realización de la actividad."
+ },
+ {
+  "n": 24030,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a31",
+  "pregunta": "Cuando las bases no establecen plazo concreto, los gastos subvencionables deben realizarse:",
+  "opciones": [
+   "En el plazo de un mes desde la concesión",
+   "Antes de que finalice el año natural en que se haya concedido la subvención",
+   "En los cuatro años siguientes a la concesión",
+   "Antes de presentar la solicitud"
+  ],
+  "correcta": 1,
+  "cita": "Cuando no se haya establecido un plazo concreto, los gastos deberán realizarse antes de que finalice el año natural en que se haya concedido la subvención."
+ },
+ {
+  "n": 24031,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a31",
+  "pregunta": "El coste de adquisición de los gastos subvencionables:",
+  "opciones": [
+   "Puede superar el valor de mercado hasta un 20 por ciento",
+   "Debe ser inferior al 50 por ciento del valor de mercado",
+   "En ningún caso puede ser superior al valor de mercado",
+   "Lo fija libremente el beneficiario"
+  ],
+  "correcta": 2,
+  "cita": "En ningún caso el coste de adquisición de los gastos subvencionables podrá ser superior al valor de mercado."
+ },
+ {
+  "n": 24032,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a31",
+  "pregunta": "Cuando el gasto subvencionable supera las cuantías del contrato menor, el beneficiario debe solicitar con carácter previo, como regla general, como mínimo:",
+  "opciones": [
+   "Dos ofertas",
+   "Cinco ofertas",
+   "Una oferta y un informe técnico",
+   "Tres ofertas de diferentes proveedores"
+  ],
+  "correcta": 3,
+  "cita": "en la Ley 30/2007, de 30 de octubre, de Contratos del Sector público para el contrato menor, el beneficiario deberá solicitar como mínimo tres ofertas de diferentes proveedores, con carácter previo a la contracción del compromiso para la obra, la prestación del servicio o la"
+ },
+ {
+  "n": 24033,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a34",
+  "pregunta": "La resolución de concesión de la subvención conlleva:",
+  "opciones": [
+   "El reconocimiento de la obligación",
+   "La ordenación del pago",
+   "La aprobación del gasto",
+   "El compromiso del gasto correspondiente"
+  ],
+  "correcta": 3,
+  "cita": "La resolución de concesión de la subvención conllevará el compromiso del gasto correspondiente."
+ },
+ {
+  "n": 24034,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a34",
+  "pregunta": "Con carácter general, el pago de la subvención se realiza:",
+  "opciones": [
+   "Previa justificación por el beneficiario de la realización de la actividad",
+   "En el momento de la solicitud",
+   "Al año de la concesión, sin justificación",
+   "Siempre por anticipado"
+  ],
+  "correcta": 0,
+  "cita": "El pago de la subvención se realizará previa justificación, por el beneficiario, de la realización de la actividad, proyecto, objetivo o adopción del comportamiento para el que se concedió en los términos establecidos en la normativa reguladora de la subvención."
+ },
+ {
+  "n": 24035,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a36",
+  "pregunta": "Es causa de nulidad de la resolución de concesión de una subvención, además de las generales de nulidad:",
+  "opciones": [
+   "La subcontratación del 30 por ciento de la actividad",
+   "El retraso en la justificación",
+   "La falta de publicación en la BDNS",
+   "La carencia o insuficiencia de crédito"
+  ],
+  "correcta": 3,
+  "cita": "b) La carencia o insuficiencia de crédito, de conformidad con lo establecido en el artículo 60 de la Ley General Presupuestaria y las demás normas de igual carácter de las Administraciones públicas sujetas a esta ley."
+ },
+ {
+  "n": 24036,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a37",
+  "pregunta": "¿Cuál de las siguientes es causa de reintegro de la subvención?",
+  "opciones": [
+   "La comunicación de otras ayudas antes de la justificación",
+   "El cobro de la subvención mediante transferencia",
+   "La concesión por concurrencia competitiva",
+   "El incumplimiento de la obligación de justificación o la justificación insuficiente"
+  ],
+  "correcta": 3,
+  "cita": "c) Incumplimiento de la obligación de justificación o la justificación insuficiente, en los términos establecidos en el artículo 30 de esta ley, y en su caso, en las normas reguladoras de la subvención."
+ },
+ {
+  "n": 24037,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a38",
+  "pregunta": "Las cantidades a reintegrar en materia de subvenciones tienen la consideración de:",
+  "opciones": [
+   "Deudas civiles entre particulares",
+   "Ingresos de derecho privado",
+   "Ingresos de derecho público",
+   "Tasas"
+  ],
+  "correcta": 2,
+  "cita": "Las cantidades a reintegrar tendrán la consideración de ingresos de derecho público, resultando de aplicación para su cobranza lo previsto en la Ley General Presupuestaria."
+ },
+ {
+  "n": 24038,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a38",
+  "pregunta": "Salvo que la Ley de Presupuestos establezca otro, el interés de demora aplicable en materia de subvenciones es:",
+  "opciones": [
+   "El interés legal del dinero sin incremento",
+   "El interés legal del dinero incrementado en un 25 por ciento",
+   "El doble del interés legal del dinero",
+   "El interés legal del dinero incrementado en un 10 por ciento"
+  ],
+  "correcta": 1,
+  "cita": "El interés de demora aplicable en materia de subvenciones será el interés legal del dinero incrementado en un 25 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente."
+ },
+ {
+  "n": 24039,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGS",
+  "articulo": "a39",
+  "pregunta": "Plazo de prescripción del derecho de la Administración a reconocer o liquidar el reintegro de una subvención",
+  "opciones": [
+   "5 años",
+   "4 años",
+   "2 años",
+   "10 años"
+  ],
+  "correcta": 1,
+  "cita": "Prescribirá a los cuatro años el derecho de la Administración a reconocer o liquidar el reintegro."
+ },
+ {
+  "n": 24040,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a40",
+  "pregunta": "Los administradores de las sociedades mercantiles que consintieran los incumplimientos responden de la obligación de reintegro:",
+  "opciones": [
+   "No responden en ningún caso",
+   "Mancomunadamente",
+   "Subsidiariamente",
+   "Solidariamente"
+  ],
+  "correcta": 2,
+  "cita": "Responderán subsidiariamente de la obligación de reintegro los administradores de las sociedades mercantiles, o aquellos que ostenten la representación legal de otras personas jurídicas, que no realizasen"
+ },
+ {
+  "n": 24041,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a41",
+  "pregunta": "Es competente para exigir el reintegro de subvenciones mediante la resolución del procedimiento:",
+  "opciones": [
+   "El órgano concedente",
+   "La Intervención General de la Administración del Estado",
+   "El Tribunal de Cuentas",
+   "La Agencia Tributaria"
+  ],
+  "correcta": 0,
+  "cita": "El órgano concedente será el competente para exigir del beneficiario o entidad colaboradora el reintegro de subvenciones mediante la resolución del procedimiento regulado en este capítulo, cuando aprecie"
+ },
+ {
+  "n": 24042,
+  "bloque": "V",
+  "tipo": "plazo",
+  "norma": "LGS",
+  "articulo": "a42",
+  "pregunta": "Plazo máximo para resolver y notificar el procedimiento de reintegro de subvenciones, desde el acuerdo de iniciación",
+  "opciones": [
+   "6 meses",
+   "3 meses",
+   "4 años",
+   "12 meses"
+  ],
+  "correcta": 3,
+  "cita": "El plazo máximo para resolver y notificar la resolución del procedimiento de reintegro será de 12 meses desde la fecha del acuerdo de iniciación."
+ },
+ {
+  "n": 24043,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a42",
+  "pregunta": "Si transcurre el plazo para resolver el procedimiento de reintegro sin resolución expresa notificada:",
+  "opciones": [
+   "Se produce la caducidad del procedimiento",
+   "Se prorroga automáticamente seis meses",
+   "Se entiende condonada la deuda definitivamente",
+   "Se entiende estimado el reintegro"
+  ],
+  "correcta": 0,
+  "cita": "Si transcurre el plazo para resolver sin que se haya notificado resolución expresa, se producirá la caducidad del procedimiento, sin perjuicio de continuar las actuaciones hasta su terminación y sin que se considere interrumpida la prescripción por las actuaciones realizadas hasta la finalización del citado plazo."
+ },
+ {
+  "n": 24044,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a42",
+  "pregunta": "La resolución del procedimiento de reintegro de subvenciones:",
+  "opciones": [
+   "Pone fin a la vía administrativa",
+   "Es recurrible en alzada ante el Ministro",
+   "Requiere ratificación del Consejo de Ministros",
+   "Solo es eficaz tras su aprobación por el Tribunal de Cuentas"
+  ],
+  "correcta": 0,
+  "cita": "La resolución del procedimiento de reintegro pondrá fin a la vía administrativa."
+ },
+ {
+  "n": 24045,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGS",
+  "articulo": "a44",
+  "pregunta": "La competencia para el ejercicio del control financiero de las subvenciones de la Administración General del Estado corresponde a:",
+  "opciones": [
+   "La Intervención General de la Administración del Estado",
+   "El órgano concedente exclusivamente",
+   "El Defensor del Pueblo",
+   "La Dirección General del Tesoro"
+  ],
+  "correcta": 0,
+  "cita": "La competencia para el ejercicio del control financiero de subvenciones corresponderá a la Intervención General de la Administración del Estado, sin perjuicio de las funciones que la Constitución y las leyes atribuyan al Tribunal de Cuentas y de lo dispuesto en el artículo 6 de esta ley."
+ }
+]
