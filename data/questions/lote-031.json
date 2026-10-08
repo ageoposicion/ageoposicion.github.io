@@ -1,0 +1,386 @@
+[
+ {
+  "n": 31001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a2",
+  "pregunta": "El Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado queda integrado por los mecanismos de cobertura de:",
+  "opciones": [
+   "MUFACE e ISFAS",
+   "Las mutuas colaboradoras y el Sistema Nacional de Salud",
+   "El Régimen de Clases Pasivas del Estado y el Régimen del Mutualismo Administrativo",
+   "El Régimen General y el Régimen de Autónomos"
+  ],
+  "correcta": 2,
+  "cita": "Este Régimen especial queda integrado por los siguientes mecanismos de cobertura: a) El Régimen de Clases Pasivas del Estado, de acuerdo con sus normas específicas. b) El Régimen del Mutualismo Administrativo que se regula en la presente Ley."
+ },
+ {
+  "n": 31002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a2",
+  "pregunta": "Los funcionarios de carrera de la Administración Civil del Estado que hayan ingresado a partir del 1 de enero de 2011 quedan integrados, a los exclusivos efectos de pensiones, en:",
+  "opciones": [
+   "Un plan de pensiones privado",
+   "El Régimen General de la Seguridad Social",
+   "El Régimen de Clases Pasivas del Estado",
+   "El Régimen Especial de Trabajadores Autónomos"
+  ],
+  "correcta": 1,
+  "cita": "carrera de la Administración Civil del Estado que hayan ingresado a partir del 1 de enero de 2011, quedarán integrados en el Régimen General de la Seguridad Social a los exclusivos efectos de pensiones, de acuerdo con lo dispuesto en el apartado 1 del artículo 20 del Real Decreto-ley 13/2010, de 3"
+ },
+ {
+  "n": 31003,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a3",
+  "pregunta": "Quedan obligatoriamente incluidos en el campo de aplicación del Régimen especial de los Funcionarios Civiles del Estado:",
+  "opciones": [
+   "Los funcionarios de la Administración Militar",
+   "Los funcionarios de la Administración Local",
+   "Los funcionarios de carrera de la Administración Civil del Estado",
+   "Los funcionarios de la Administración de Justicia"
+  ],
+  "correcta": 2,
+  "cita": "Quedan obligatoriamente incluidos en el campo de aplicación de este Régimen especial: a) Los funcionarios de carrera de la Administración Civil del Estado."
+ },
+ {
+  "n": 31004,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a3",
+  "pregunta": "¿Cuál de los siguientes colectivos queda EXCLUIDO del Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado?",
+  "opciones": [
+   "Ninguno, todos están incluidos",
+   "Los funcionarios en prácticas que aspiren a incorporarse a Cuerpos de la Administración Civil del Estado",
+   "Los funcionarios de la Administración Local",
+   "Los funcionarios de carrera de la Administración Civil del Estado"
+  ],
+  "correcta": 2,
+  "cita": "Quedan excluidos de este Régimen especial y se regirán por sus normas específicas: a) Los funcionarios de la Administración Local."
+ },
+ {
+  "n": 31005,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a4",
+  "pregunta": "El sistema de mutualismo administrativo de los funcionarios civiles del Estado se gestiona y presta a través de:",
+  "opciones": [
+   "La Tesorería General de la Seguridad Social",
+   "La Mutualidad General de Funcionarios Civiles del Estado (MUFACE)",
+   "El Instituto Nacional de la Seguridad Social",
+   "El Instituto Social de las Fuerzas Armadas"
+  ],
+  "correcta": 1,
+  "cita": "El sistema de mutualismo administrativo, al que se refiere esta Ley, se gestionará y prestará a través de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), dependiente del Ministerio de Administraciones Públicas."
+ },
+ {
+  "n": 31006,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a5",
+  "pregunta": "La Mutualidad General de Funcionarios Civiles del Estado es:",
+  "opciones": [
+   "Un organismo público con personalidad jurídica pública diferenciada, patrimonio y tesorería propios y autonomía de gestión",
+   "Una mutua privada colaboradora",
+   "Un órgano sin personalidad del Ministerio",
+   "Una sociedad mercantil estatal"
+  ],
+  "correcta": 0,
+  "cita": "La Mutualidad General de Funcionarios Civiles del Estado es un organismo público con personalidad jurídica pública diferenciada, patrimonio y tesorería propios y autonomía de gestión, y se regirá por las previsiones de la Ley 6/1997, de 14 de abril, de Organización y"
+ },
+ {
+  "n": 31007,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a7",
+  "pregunta": "Los funcionarios de carrera de la Administración Civil del Estado se incorporan obligatoriamente como mutualistas a MUFACE:",
+  "opciones": [
+   "Solo si lo solicitan expresamente",
+   "Al superar el período de prácticas, a su elección",
+   "Al año de su toma de posesión",
+   "En el momento de la toma de posesión de su cargo"
+  ],
+  "correcta": 3,
+  "cita": "obligatoriamente, como mutualistas, a la Mutualidad General de Funcionarios Civiles del Estado, en el momento de la toma de posesión de su cargo, cuando adquieran la condición de funcionario, o sean rehabilitados en dicha condición, o"
+ },
+ {
+  "n": 31008,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a7",
+  "pregunta": "El funcionario de carrera de la Administración Civil del Estado conserva la condición de mutualista, con los mismos derechos que en servicio activo, cuando pasa a la situación de:",
+  "opciones": [
+   "Pérdida de la condición de funcionario",
+   "Excedencia voluntaria por interés particular, sin ejercer la opción de mantenerla",
+   "Excedencia por el cuidado de familiares",
+   "Excedencia voluntaria por agrupación familiar, sin ejercer la opción de mantenerla"
+  ],
+  "correcta": 2,
+  "cita": "e) Excedencia por el cuidado de familiares."
+ },
+ {
+  "n": 31009,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a8",
+  "pregunta": "Causan baja como mutualistas obligatorios, entre otros:",
+  "opciones": [
+   "Los funcionarios en excedencia forzosa",
+   "Los funcionarios que pierdan tal condición, cualquiera que sea la causa",
+   "Los funcionarios suspensos provisionalmente",
+   "Los funcionarios en situación de servicios especiales"
+  ],
+  "correcta": 1,
+  "cita": "b) Los funcionarios que pierdan tal condición, cualquiera que sea la causa."
+ },
+ {
+  "n": 31010,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a10",
+  "pregunta": "La cotización a MUFACE es obligatoria para todos los mutualistas, con excepción de:",
+  "opciones": [
+   "Los mutualistas en servicios especiales",
+   "Los funcionarios en prácticas",
+   "Los mutualistas jubilados y quienes estén en excedencia voluntaria para el cuidado de hijos o familiares",
+   "Los funcionarios del Subgrupo C2"
+  ],
+  "correcta": 2,
+  "cita": "La cotización a la Mutualidad General de Funcionarios Civiles del Estado será obligatoria para todos los mutualistas, con excepción de los mutualistas jubilados y de quienes se encuentren en la situación de excedencia voluntaria para atender al cuidado de hijos o familiares."
+ },
+ {
+  "n": 31011,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a10",
+  "pregunta": "La base de cotización a MUFACE es:",
+  "opciones": [
+   "El sueldo bruto mensual del funcionario",
+   "La base mínima del Régimen General",
+   "Las retribuciones complementarias",
+   "El haber regulador que anualmente se establezca en la Ley de Presupuestos Generales del Estado"
+  ],
+  "correcta": 3,
+  "cita": "La base de cotización será la que anualmente se establezca como haber regulador en la Ley de Presupuestos Generales del Estado."
+ },
+ {
+  "n": 31012,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a10",
+  "pregunta": "La cuota mensual de cotización a MUFACE se obtiene dividiendo la cantidad anual por catorce y se abona doblemente en los meses de:",
+  "opciones": [
+   "Marzo y septiembre",
+   "Julio y diciembre",
+   "Enero y julio",
+   "Junio y diciembre"
+  ],
+  "correcta": 3,
+  "cita": "La cuota mensual de cotización se obtendrá dividiendo por catorce la cantidad resultante de aplicar a la base de cotización anual, reducida en su caso, el tipo porcentual establecido y se abonará doblemente en los meses de junio y diciembre."
+ },
+ {
+  "n": 31013,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a17",
+  "pregunta": "La asistencia sanitaria de MUFACE se facilita directamente o por concierto con entidades públicas o privadas, estableciéndose estos conciertos preferentemente con:",
+  "opciones": [
+   "Las Comunidades Autónomas exclusivamente",
+   "Instituciones de la Seguridad Social",
+   "Colegios de médicos",
+   "Compañías aseguradoras extranjeras"
+  ],
+  "correcta": 1,
+  "cita": "Estos conciertos se establecerán preferentemente con instituciones de la Seguridad Social."
+ },
+ {
+  "n": 31014,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a21",
+  "pregunta": "En la incapacidad temporal del mutualista, el subsidio a cargo de MUFACE se percibe:",
+  "opciones": [
+   "Desde el cuarto mes de licencia",
+   "Desde el decimosexto día de licencia",
+   "Desde el primer día de licencia",
+   "Desde el segundo año de licencia"
+  ],
+  "correcta": 0,
+  "cita": "La prestación económica en la situación de incapacidad temporal consistirá: a) (Derogado) b) Desde el cuarto mes percibirá las retribuciones básicas, la prestación por hijo a cargo, en su caso, y un subsidio por incapacidad temporal a cargo de la Mutualidad General de Funcionarios Civiles del Estado, cuya cuantía, fija e invariable mientras dure la"
+ },
+ {
+  "n": 31015,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a21",
+  "pregunta": "La cuantía del subsidio de incapacidad temporal a cargo de MUFACE es la mayor entre el 80 por ciento de las retribuciones básicas (más la sexta parte de una paga extra) y:",
+  "opciones": [
+   "El 50 por ciento de las retribuciones totales",
+   "El 75 por ciento de las retribuciones complementarias del tercer mes de licencia",
+   "El 60 por ciento del complemento de destino",
+   "El 100 por ciento de las retribuciones complementarias"
+  ],
+  "correcta": 1,
+  "cita": "2.ª El 75 por ciento de las retribuciones complementarias devengadas en el tercer mes de licencia."
+ },
+ {
+  "n": 31016,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a22",
+  "pregunta": "La situación de riesgo durante la lactancia natural protegida por MUFACE se refiere a hijos menores de:",
+  "opciones": [
+   "6 meses",
+   "12 meses",
+   "18 meses",
+   "9 meses"
+  ],
+  "correcta": 3,
+  "cita": "Las situaciones de riesgo durante el embarazo o durante la lactancia natural de hijos menores de 9 meses tendrán la misma consideración que la situación de incapacidad temporal derivada de enfermedad"
+ },
+ {
+  "n": 31017,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a22",
+  "pregunta": "Las situaciones de riesgo durante el embarazo o la lactancia natural de las mutualistas tienen la misma consideración que la incapacidad temporal derivada de:",
+  "opciones": [
+   "Maternidad, con 90 días de carencia",
+   "Accidente no laboral, con un año de carencia",
+   "Enfermedad profesional, por lo que no requieren periodo de carencia",
+   "Enfermedad común, con 180 días de carencia"
+  ],
+  "correcta": 2,
+  "cita": "de riesgo durante el embarazo o durante la lactancia natural de hijos menores de 9 meses tendrán la misma consideración que la situación de incapacidad temporal derivada de enfermedad profesional, por lo que no requerirán de periodo de carencia y sus contenidos asistenciales serán los previstos para esta situación."
+ },
+ {
+  "n": 31018,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a23",
+  "pregunta": "Según el RDLeg 4/2000, la incapacidad permanente del funcionario ha de derivarse, cualquiera que sea su causa, de:",
+  "opciones": [
+   "Un accidente en acto de servicio exclusivamente",
+   "Una sanción disciplinaria",
+   "La jubilación forzosa por edad",
+   "La situación de incapacidad temporal"
+  ],
+  "correcta": 3,
+  "cita": "La incapacidad permanente habrá de derivarse, cualquiera que sea su causa, de la situación de incapacidad temporal."
+ },
+ {
+  "n": 31019,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a24",
+  "pregunta": "El funcionario incapacitado permanente parcial:",
+  "opciones": [
+   "Percibe el 50 por ciento de sus haberes",
+   "Pasa a excedencia forzosa",
+   "Es jubilado forzosamente",
+   "Percibe la totalidad de los haberes que correspondan al puesto que efectivamente desempeñe"
+  ],
+  "correcta": 3,
+  "cita": "El funcionario incapacitado permanente parcial percibirá la totalidad de los haberes que correspondan al puesto de trabajo que efectivamente desempeñe."
+ },
+ {
+  "n": 31020,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a25",
+  "pregunta": "La incapacidad permanente total y la incapacidad permanente absoluta del funcionario dan lugar a:",
+  "opciones": [
+   "Su traslado forzoso a otro puesto",
+   "Su jubilación, de acuerdo con la legislación en vigor",
+   "La excedencia voluntaria",
+   "La suspensión de funciones"
+  ],
+  "correcta": 1,
+  "cita": "La incapacidad permanente total y la incapacidad permanente absoluta darán lugar a la jubilación del funcionario de acuerdo con la legislación en vigor."
+ },
+ {
+  "n": 31021,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a26",
+  "pregunta": "La gran invalidez del funcionario da derecho, además de a la jubilación, a una cantidad mensual destinada a remunerar a la persona encargada de su asistencia equivalente al:",
+  "opciones": [
+   "50 por 100 de la pensión de jubilación que le corresponda en Clases Pasivas",
+   "75 por 100 del último sueldo",
+   "25 por 100 de la pensión",
+   "100 por 100 de la pensión"
+  ],
+  "correcta": 0,
+  "cita": "La gran invalidez originará la jubilación del funcionario y dará derecho a una cantidad mensual equivalente al 50 por 100 de la pensión de jubilación que le corresponda con arreglo al Régimen de Clases Pasivas, destinada a remunerar a la persona encargada de su asistencia."
+ },
+ {
+  "n": 31022,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a28",
+  "pregunta": "Las lesiones permanentes no invalidantes causadas por enfermedad profesional o en acto de servicio dan derecho a:",
+  "opciones": [
+   "La jubilación anticipada",
+   "Un subsidio mensual durante dos años",
+   "La percepción, por una sola vez, de las cantidades que se establezcan reglamentariamente",
+   "Una pensión vitalicia"
+  ],
+  "correcta": 2,
+  "cita": "o gran invalidez, supongan una alteración o disminución de la integridad física del funcionario, darán derecho a la percepción por una sola vez de las cantidades que se establezcan reglamentariamente."
+ },
+ {
+  "n": 31023,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a33",
+  "pregunta": "El sistema financiero del Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado es, salvo excepciones:",
+  "opciones": [
+   "De reparto, con cuota revisable periódicamente",
+   "De capitalización colectiva",
+   "De capitalización individual",
+   "Mixto, con cuentas individuales"
+  ],
+  "correcta": 0,
+  "cita": "Salvo las excepciones que puedan establecerse en las normas reguladoras de este Régimen especial de la Seguridad Social, el sistema financiero del mismo será de reparto y su cuota revisable periódicamente."
+ },
+ {
+  "n": 31024,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "MUFACE",
+  "articulo": "a37",
+  "pregunta": "Con carácter general, los actos y resoluciones del Director general de MUFACE:",
+  "opciones": [
+   "No son recurribles",
+   "No ponen fin a la vía administrativa y pueden recurrirse en alzada",
+   "Ponen fin a la vía administrativa en todo caso",
+   "Solo son recurribles ante el Tribunal Supremo"
+  ],
+  "correcta": 1,
+  "cita": "Los actos y resoluciones del Director general de la Mutualidad General de Funcionarios Civiles del Estado no ponen fin a la vía administrativa, pudiéndose recurrir en alzada ante el Ministro de Administraciones Públicas."
+ }
+]

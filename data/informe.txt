@@ -1,3 +1,3 @@
-Preguntas verificadas: 2004
-Por bloque: {'III': 849, 'I': 629, 'V': 175, 'IV': 218, 'II': 133}
+Preguntas verificadas: 2028
+Por bloque: {'III': 849, 'I': 629, 'V': 175, 'IV': 242, 'II': 133}
 Rechazadas: 0
