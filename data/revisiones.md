@@ -46,3 +46,14 @@ texto antiguo entrecomillado de las notas del BOE (las 5 citas situadas tras una
 pertenecen a apartados vigentes posteriores a esa nota: 9022, 9023, 9086, 9087 y 9088).
 Durante el lote 13 se eliminó una pregunta sobre los medios de acreditación de la violencia de género
 (art. 23 LOVG) porque la cláusula «o por cualquier otro título» hacía discutible la respuesta.
+
+## Revisión 5 (tras los lotes 15 a 20) · 8-10-2026
+
+Muestra (semilla 5005): 15011, 15018, 15020, 15023, 15027, 15029, 15036, 15040, 15043, 15046, 16007,
+17007, 17009, 17023, 17024, 17031, 17053, 18010, 18015, 18034, 19004, 19005, 19007, 19026, 19028,
+20004, 20007, 20019, 20021, 20041.
+
+Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
+Durante estos lotes se retiraron (sin renumerar) 16002, 16011, 16024, 17010 y 19015 por repetir
+preguntas ya existentes, y en el lote 20 se evitaron los datos del Tribunal Constitucional ya
+preguntados desde la Constitución (arts. 159-164).
