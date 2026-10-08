@@ -1,0 +1,690 @@
+[
+ {
+  "n": 28001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aprimero",
+  "pregunta": "Según la LOPJ, los Jueces y Magistrados integrantes del Poder Judicial son:",
+  "opciones": [
+   "Independientes, inamovibles, responsables y sometidos únicamente a la Constitución y al imperio de la ley",
+   "Independientes, temporales y sometidos al Gobierno",
+   "Elegidos por sufragio y sometidos al Parlamento",
+   "Inamovibles e irresponsables"
+  ],
+  "correcta": 0,
+  "cita": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente a la Constitución y al imperio de la ley."
+ },
+ {
+  "n": 28002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acuarto",
+  "pregunta": "Según la LOPJ, la jurisdicción se extiende:",
+  "opciones": [
+   "Solo al territorio peninsular",
+   "A todas las personas, a todas las materias y a todo el territorio español",
+   "Solo a los ciudadanos españoles",
+   "Solo a las materias civiles y penales"
+  ],
+  "correcta": 1,
+  "cita": "La jurisdicción se extiende a todas las personas, a todas las materias y a todo el territorio español, en la forma establecida en la Constitución y en las leyes."
+ },
+ {
+  "n": 28003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinto",
+  "pregunta": "Según la LOPJ, procede plantear la cuestión de inconstitucionalidad cuando:",
+  "opciones": [
+   "Lo solicite cualquiera de las partes, en todo caso",
+   "Por vía interpretativa no sea posible la acomodación de la norma al ordenamiento constitucional",
+   "La norma sea un reglamento",
+   "El juez discrepe de la jurisprudencia del Tribunal Supremo"
+  ],
+  "correcta": 1,
+  "cita": "Procederá el planteamiento de la cuestión de inconstitucionalidad cuando por vía interpretativa no sea posible la acomodación de la norma al ordenamiento constitucional."
+ },
+ {
+  "n": 28004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "anoveno",
+  "pregunta": "Los Tribunales del orden civil conocen, además de las materias que les son propias, de:",
+  "opciones": [
+   "Todas aquellas que no estén atribuidas a otro orden jurisdiccional",
+   "Las causas criminales leves",
+   "Los conflictos laborales colectivos",
+   "Los recursos contra reglamentos"
+  ],
+  "correcta": 0,
+  "cita": "Los jueces y juezas, así como los Tribunales del orden civil conocerán, además de las materias que les son propias, de todas aquellas que no estén atribuidas a otro orden jurisdiccional."
+ },
+ {
+  "n": 28005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "adoce",
+  "pregunta": "Los Jueces y Tribunales, los órganos de gobierno de los mismos o el CGPJ, sobre la aplicación o interpretación del ordenamiento jurídico que hagan sus inferiores en el ejercicio de su función jurisdiccional:",
+  "opciones": [
+   "Pueden dictar instrucciones generales",
+   "Pueden dictar instrucciones particulares si las publican",
+   "No pueden dictar instrucciones, de carácter general o particular",
+   "Pueden dictar instrucciones con autorización del Ministro de Justicia"
+  ],
+  "correcta": 2,
+  "cita": "Tampoco podrán los Jueces y Tribunales, órganos de gobierno de los mismos o el Consejo General del Poder Judicial dictar instrucciones, de carácter general o particular, dirigidas a sus inferiores, sobre la aplicación o"
+ },
+ {
+  "n": 28006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acatorce",
+  "pregunta": "Los Jueces y Magistrados que se consideren inquietados o perturbados en su independencia lo pondrán en conocimiento de:",
+  "opciones": [
+   "El Consejo General del Poder Judicial",
+   "El Defensor del Pueblo",
+   "El Ministro de Justicia",
+   "El Tribunal Constitucional"
+  ],
+  "correcta": 0,
+  "cita": "Los Jueces y Magistrados que se consideren inquietados o perturbados en su independencia lo pondrán en conocimiento del Consejo General del Poder Judicial, dando cuenta de los hechos al Juez o Tribunal competente para seguir el procedimiento adecuado,"
+ },
+ {
+  "n": 28007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aveintiseis",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los Tribunales a los que la LOPJ atribuye el ejercicio de la potestad jurisdiccional?",
+  "opciones": [
+   "El Tribunal de Cuentas",
+   "Las Audiencias Provinciales",
+   "Los Tribunales de Instancia",
+   "El Tribunal Central de Instancia"
+  ],
+  "correcta": 0,
+  "cita": "Los Tribunales a los que se atribuye el ejercicio de la potestad jurisdiccional son los siguientes: a) Jueces y juezas de paz. b) Tribunales de Instancia. c) Audiencias Provinciales. d) Tribunales Superiores de Justicia. e) Tribunal Central de Instancia. f) Audiencia Nacional. g) Tribunal Supremo."
+ },
+ {
+  "n": 28008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "atreinta",
+  "pregunta": "A efectos judiciales, el Estado se organiza territorialmente en:",
+  "opciones": [
+   "Partidos y Circunscripciones",
+   "Municipios, Partidos, Provincias y Comunidades Autónomas",
+   "Municipios, Comarcas y Provincias",
+   "Distritos, Provincias y Regiones"
+  ],
+  "correcta": 1,
+  "cita": "El Estado se organiza territorialmente, a efectos judiciales, en Municipios, Partidos, Provincias y Comunidades Autónomas."
+ },
+ {
+  "n": 28009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acincuentaytres",
+  "pregunta": "El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes:",
+  "opciones": [
+   "Sin excepción alguna",
+   "Salvo en materia de derecho foral",
+   "Salvo lo dispuesto en materia de garantías constitucionales",
+   "Salvo en materia penal"
+  ],
+  "correcta": 2,
+  "cita": "El Tribunal Supremo, con sede en la villa de Madrid, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías Constitucionales."
+ },
+ {
+  "n": 28010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acincuentaycinco",
+  "pregunta": "La Sala Tercera del Tribunal Supremo es la Sala:",
+  "opciones": [
+   "De lo Social",
+   "De lo Contencioso-Administrativo",
+   "De lo Penal",
+   "De lo Militar"
+  ],
+  "correcta": 1,
+  "cita": "Tercera: De lo Contencioso-Administrativo."
+ },
+ {
+  "n": 28011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acincuentaycinco",
+  "pregunta": "La Sala Quinta del Tribunal Supremo es la Sala:",
+  "opciones": [
+   "De Apelación",
+   "De lo Civil",
+   "De lo Militar",
+   "De lo Social"
+  ],
+  "correcta": 2,
+  "cita": "Quinta: De lo Militar, que se regirá por su legislación específica y supletoriamente por la presente Ley y por el ordenamiento común a las demás Salas del Tribunal Supremo."
+ },
+ {
+  "n": 28012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acincuentaysiete",
+  "pregunta": "La instrucción y enjuiciamiento de las causas contra el Presidente del Gobierno, los Diputados y Senadores corresponde a:",
+  "opciones": [
+   "La Sala de lo Penal del Tribunal Supremo",
+   "El Tribunal Superior de Justicia de Madrid",
+   "El Tribunal Constitucional",
+   "La Sala de lo Penal de la Audiencia Nacional"
+  ],
+  "correcta": 0,
+  "cita": "La Sala de lo Penal del Tribunal Supremo conocerá: 1.º De los recursos de casación, revisión y otros extraordinarios en materia penal que establezca la ley. 2.º De la instrucción y enjuiciamiento de las causas contra el Presidente del Gobierno, Presidentes del Congreso y del Senado, Presidente del Tribunal Supremo y del Consejo General del"
+ },
+ {
+  "n": 28013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "asesentayuno",
+  "pregunta": "Los procesos de declaración de ilegalidad y consecuente disolución de los partidos políticos los conoce:",
+  "opciones": [
+   "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid",
+   "Una Sala especial del Tribunal Supremo formada por su Presidente, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una",
+   "El Tribunal Constitucional en Pleno",
+   "La Sala de lo Penal de la Audiencia Nacional"
+  ],
+  "correcta": 1,
+  "cita": "Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas conocerá: 1.º De los recursos de revisión contra las sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo de dicho Tribunal. 2.º De los incidentes de recusación del Presidente del Tribunal Supremo, o de los Presidentes de Sala, o de más de dos Magistrados de una Sala. En este caso, los afectados directamente por la recusación serán sustituidos por quienes corresponda. 3.º De las demandas de responsabilidad civil que se dirijan contra los Presidentes de Sala o contra todos o la mayor parte de los Magistrados de una Sala de dicho Tribunal por hechos realizados en el ejercicio de su cargo. 4.º De la instrucción y enjuiciamiento de las causas contra los Presidentes de Sala o contra los Magistrados de una Sala, cuando sean Juzgados todos o la mayor parte de los que la constituyen. 5.º Del conocimiento de las pretensiones de declaración de error judicial cuando éste se impute a una Sala del Tribunal Supremo. 6.º De los procesos de declaración de ilegalidad y consecuente disolución de los partidos políticos, conforme a lo dispuesto en la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos."
+ },
+ {
+  "n": 28014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "asesentaydos",
+  "pregunta": "La Audiencia Nacional, con sede en Madrid, tiene jurisdicción:",
+  "opciones": [
+   "Solo en los delitos cometidos en el extranjero",
+   "Solo en el orden penal",
+   "En toda España",
+   "Solo en la Comunidad de Madrid"
+  ],
+  "correcta": 2,
+  "cita": "La Audiencia Nacional, con sede en la villa de Madrid, tiene jurisdicción en toda España."
+ },
+ {
+  "n": 28015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "asesentaycuatro",
+  "pregunta": "¿Cuál de las siguientes Salas NO integra la Audiencia Nacional?",
+  "opciones": [
+   "De lo Penal",
+   "De lo Social",
+   "De lo Civil",
+   "De Apelación"
+  ],
+  "correcta": 2,
+  "cita": "La Audiencia Nacional estará integrada por las siguientes Salas: De Apelación. De lo Penal. De lo Contencioso-Administrativo. De lo Social."
+ },
+ {
+  "n": 28016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "asetentaydos",
+  "pregunta": "El Tribunal Superior de Justicia está integrado por las Salas:",
+  "opciones": [
+   "De lo Civil y Penal y de lo Mercantil",
+   "De Apelación y de lo Penal",
+   "De lo Civil, de lo Penal y de lo Militar",
+   "De lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social"
+  ],
+  "correcta": 3,
+  "cita": "El Tribunal Superior de Justicia estará integrado por las siguientes Salas: de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social."
+ },
+ {
+  "n": 28017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "asetentaydos",
+  "pregunta": "El Presidente del Tribunal Superior de Justicia, mientras desempeñe el cargo, tiene la consideración de:",
+  "opciones": [
+   "Presidente de Audiencia Provincial",
+   "Vocal del Consejo General del Poder Judicial",
+   "Consejero de la Comunidad Autónoma",
+   "Magistrado del Tribunal Supremo"
+  ],
+  "correcta": 3,
+  "cita": "Se compondrá de un Presidente, que lo será también de su Sala de lo Civil y Penal, y tendrá la consideración de Magistrado del Tribunal Supremo mientras desempeñe el cargo; de los Presidentes de Sala y de los Magistrados que determine la ley para cada una de las Salas"
+ },
+ {
+  "n": 28018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aochenta",
+  "pregunta": "Las Audiencias Provinciales tienen su sede en:",
+  "opciones": [
+   "La capital de la Comunidad Autónoma",
+   "Madrid",
+   "El municipio más poblado del partido judicial",
+   "La capital de la provincia, de la que toman su nombre"
+  ],
+  "correcta": 3,
+  "cita": "Las Audiencias Provinciales, que tendrán su sede en la capital de la provincia, de la que tomarán su nombre, extenderán su jurisdicción a toda ella, sin perjuicio de lo dispuesto en el apartado 4 del artículo 82."
+ },
+ {
+  "n": 28019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aochentaycuatro",
+  "pregunta": "Según la LOPJ, habrá un Tribunal de Instancia en cada:",
+  "opciones": [
+   "Municipio de más de 20.000 habitantes",
+   "Partido judicial, con sede en su capital",
+   "Provincia",
+   "Comunidad Autónoma"
+  ],
+  "correcta": 1,
+  "cita": "Habrá un Tribunal de Instancia en cada partido judicial, con sede en su capital, de la que tomará su nombre."
+ },
+ {
+  "n": 28020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientoscincuentayocho",
+  "pregunta": "El gobierno del Poder Judicial corresponde a:",
+  "opciones": [
+   "Las Salas de Gobierno de los Tribunales Superiores de Justicia",
+   "El Ministerio de Justicia",
+   "El Consejo General del Poder Judicial",
+   "El Tribunal Supremo"
+  ],
+  "correcta": 2,
+  "cita": "El gobierno del Poder Judicial corresponde al Consejo General del Poder Judicial, que ejerce sus competencias en todo el territorio nacional de acuerdo con la Constitución y la presente Ley Orgánica."
+ },
+ {
+  "n": 28021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientossesentaysiete",
+  "pregunta": "Cada una de las Cámaras elige a diez Vocales del CGPJ por mayoría de:",
+  "opciones": [
+   "Mayoría simple",
+   "Tres quintos de sus miembros",
+   "Dos tercios de sus miembros",
+   "Mayoría absoluta"
+  ],
+  "correcta": 1,
+  "cita": "Cada una de las Cámaras elegirá, por mayoría de tres quintos de sus miembros, a diez Vocales, cuatro entre juristas de reconocida competencia con más de quince años de ejercicio en su profesión y seis correspondientes al turno judicial, conforme a lo previsto en el Capítulo II del presente Título."
+ },
+ {
+  "n": 28022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientossesentaysiete",
+  "pregunta": "De los diez Vocales del CGPJ que elige cada Cámara:",
+  "opciones": [
+   "Todos son jueces en activo",
+   "Seis son juristas y cuatro jueces",
+   "Cinco son juristas y cinco jueces",
+   "Cuatro son juristas de reconocida competencia y seis corresponden al turno judicial"
+  ],
+  "correcta": 3,
+  "cita": "Cada una de las Cámaras elegirá, por mayoría de tres quintos de sus miembros, a diez Vocales, cuatro entre juristas de reconocida competencia con más de quince años de ejercicio en su profesión y seis correspondientes al turno judicial, conforme a lo previsto en el Capítulo II del presente Título."
+ },
+ {
+  "n": 28023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientossesentaysiete",
+  "pregunta": "Para ser Vocal del CGPJ por el turno de juristas de reconocida competencia se exige más de:",
+  "opciones": [
+   "Diez años de ejercicio",
+   "Quince años de ejercicio en su profesión",
+   "Veinte años de ejercicio",
+   "Veinticinco años de ejercicio"
+  ],
+  "correcta": 1,
+  "cita": "Cada una de las Cámaras elegirá, por mayoría de tres quintos de sus miembros, a diez Vocales, cuatro entre juristas de reconocida competencia con más de quince años de ejercicio en su profesión y seis correspondientes al turno judicial, conforme a lo previsto en el Capítulo II del presente Título."
+ },
+ {
+  "n": 28024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientossesentayocho",
+  "pregunta": "El proceso de renovación del CGPJ se prepara disponiendo el Presidente del Tribunal Supremo la remisión de datos y la apertura del plazo de candidaturas judiciales:",
+  "opciones": [
+   "Cuatro meses antes de la expiración del mandato",
+   "Seis meses antes de la expiración del mandato",
+   "Un mes antes de la expiración del mandato",
+   "El mismo día de la expiración del mandato"
+  ],
+  "correcta": 0,
+  "cita": "A tal efecto, y a fin de que las Cámaras puedan dar comienzo al proceso de renovación del Consejo, cuatro meses antes de la expiración del mencionado plazo, el Presidente del Tribunal Supremo y del Consejo General del Poder Judicial dispondrá: a) la"
+ },
+ {
+  "n": 28025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientossetenta",
+  "pregunta": "Si ninguna de las dos Cámaras ha designado en plazo a los Vocales del nuevo CGPJ:",
+  "opciones": [
+   "El Tribunal Supremo asume sus funciones",
+   "Se disuelve el Consejo y sus funciones pasan al Ministerio de Justicia",
+   "El Gobierno designa Vocales provisionales",
+   "El Consejo saliente continúa en funciones hasta la toma de posesión del nuevo"
+  ],
+  "correcta": 3,
+  "cita": "efectuado en el plazo legalmente previsto la designación de los Vocales que les corresponda, el Consejo saliente continuará en funciones hasta la toma de posesión del nuevo, no pudiendo procederse, hasta entonces, a la elección de nuevo Presidente del Consejo General del"
+ },
+ {
+  "n": 28026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientossetentaynueve",
+  "pregunta": "Los Vocales del CGPJ que sean funcionarios públicos quedan en la situación administrativa de:",
+  "opciones": [
+   "Servicios en otras Administraciones",
+   "Servicios especiales",
+   "Servicio activo",
+   "Excedencia voluntaria"
+  ],
+  "correcta": 1,
+  "cita": "La situación administrativa para los que sean funcionarios públicos, tanto judiciales como no judiciales, será la de servicios especiales."
+ },
+ {
+  "n": 28027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentayuno",
+  "pregunta": "Los Vocales del Consejo General del Poder Judicial:",
+  "opciones": [
+   "Deben seguir las indicaciones del Ministro de Justicia",
+   "No están ligados por mandato imperativo",
+   "Están sujetos a las instrucciones de la Cámara que los eligió",
+   "Representan a las asociaciones judiciales que los propusieron"
+  ],
+  "correcta": 1,
+  "cita": "Los Vocales del Consejo General del Poder Judicial no estarán ligados por mandato imperativo."
+ },
+ {
+  "n": 28028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentaydos",
+  "pregunta": "El cese de un Vocal del CGPJ por incapacidad, incompatibilidad o incumplimiento grave de sus deberes lo aprecia el Pleno por:",
+  "opciones": [
+   "Unanimidad",
+   "Mayoría de tres quintos",
+   "Mayoría simple",
+   "Mayoría absoluta"
+  ],
+  "correcta": 1,
+  "cita": "Judicial, o por incapacidad, incompatibilidad o incumplimiento grave de los deberes del cargo, apreciadas por el Pleno del Consejo General del Poder Judicial mediante mayoría de tres quintos."
+ },
+ {
+  "n": 28029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentaycuatro",
+  "pregunta": "Mientras dure su mandato, los Vocales del CGPJ:",
+  "opciones": [
+   "Pueden ser promovidos a Magistrado del Tribunal Supremo",
+   "No pueden ser promovidos a Magistrado del Tribunal Supremo ni del Tribunal Constitucional",
+   "Pueden ser nombrados Presidente de Tribunal Superior de Justicia",
+   "Pueden ser nombrados para cargos de libre designación en la carrera judicial"
+  ],
+  "correcta": 1,
+  "cita": "Los Vocales del Consejo General del Poder Judicial no podrán ser promovidos mientras dure su mandato a la categoría de Magistrado del Tribunal Supremo o a Magistrado del Tribunal Constitucional, ni nombrados para cualquier cargo de la carrera judicial de libre designación o en cuya provisión"
+ },
+ {
+  "n": 28030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentaycinco",
+  "pregunta": "La primera autoridad judicial de la Nación es:",
+  "opciones": [
+   "El Presidente del Tribunal Constitucional",
+   "El Presidente del Tribunal Supremo y del Consejo General del Poder Judicial",
+   "El Ministro de Justicia",
+   "El Fiscal General del Estado"
+  ],
+  "correcta": 1,
+  "cita": "El Presidente del Tribunal Supremo y del Consejo General del Poder Judicial es la primera autoridad judicial de la Nación y ostenta la representación del Poder Judicial y del órgano de gobierno del mismo, correspondiéndole el tratamiento y los honores inherentes a tal condición."
+ },
+ {
+  "n": 28031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentayseis",
+  "pregunta": "Para ser elegido Presidente del Tribunal Supremo y del CGPJ siendo jurista de reconocida competencia se exige una antigüedad en el ejercicio de la profesión de más de:",
+  "opciones": [
+   "Veinte años",
+   "Quince años",
+   "Treinta años",
+   "Veinticinco años"
+  ],
+  "correcta": 3,
+  "cita": "del Tribunal Supremo y reunir las condiciones exigidas para ser Presidente de Sala del mismo, o bien ser un jurista de reconocida competencia con más de veinticinco años de antigüedad en el ejercicio de su profesión."
+ },
+ {
+  "n": 28032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentayseis",
+  "pregunta": "El Presidente del Tribunal Supremo y del CGPJ es elegido por el Pleno en votación nominal por mayoría de:",
+  "opciones": [
+   "Dos tercios de los miembros del Pleno",
+   "Tres quintos de los miembros del Pleno",
+   "Mayoría absoluta de los miembros del Pleno",
+   "Mayoría simple de los presentes"
+  ],
+  "correcta": 1,
+  "cita": "La elección tendrá lugar en una sesión a celebrar entre tres y siete días más tarde, siendo elegido quien en votación nominal obtenga el apoyo de la mayoría de tres quintos de los miembros del Pleno."
+ },
+ {
+  "n": 28033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentayseis",
+  "pregunta": "El nombramiento del Presidente del Tribunal Supremo por el Rey se hace mediante Real Decreto refrendado por:",
+  "opciones": [
+   "El Vicepresidente del Tribunal Supremo",
+   "El Ministro de Justicia",
+   "El Presidente del Gobierno",
+   "El Presidente del Congreso"
+  ],
+  "correcta": 2,
+  "cita": "El Presidente del Tribunal Supremo será nombrado por el Rey mediante Real Decreto refrendado por el Presidente del Gobierno."
+ },
+ {
+  "n": 28034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosochentaysiete",
+  "pregunta": "El Presidente del Tribunal Supremo y del CGPJ puede ser reelegido:",
+  "opciones": [
+   "Por una sola vez, para un nuevo mandato",
+   "No puede ser reelegido",
+   "Indefinidamente",
+   "Dos veces como máximo"
+  ],
+  "correcta": 0,
+  "cita": "El Presidente del Tribunal Supremo y del Consejo General del Poder Judicial podrá ser reelegido y nombrado, por una sola vez, para un nuevo mandato."
+ },
+ {
+  "n": 28035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosnoventa",
+  "pregunta": "En los casos de cese anticipado del Presidente del Tribunal Supremo y del CGPJ, ejerce el cargo en funciones hasta el nombramiento de uno nuevo:",
+  "opciones": [
+   "El Vicepresidente del Tribunal Supremo",
+   "El Secretario General del Consejo",
+   "El Vocal de más edad",
+   "El Presidente de la Sala Primera"
+  ],
+  "correcta": 0,
+  "cita": "El Vicepresidente ejercerá, en funciones, el cargo de Presidente del Tribunal Supremo y del Consejo General del Poder Judicial en los casos legalmente previstos de cese anticipado del Presidente y hasta el nombramiento de un nuevo Presidente."
+ },
+ {
+  "n": 28036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aquinientosnoventaycinco",
+  "pregunta": "¿Cuál de las siguientes NO es una de las Comisiones del CGPJ previstas en la LOPJ?",
+  "opciones": [
+   "La Comisión de Igualdad",
+   "La Comisión Permanente",
+   "La Comisión Disciplinaria",
+   "La Comisión de Nombramientos Judiciales"
+  ],
+  "correcta": 3,
+  "cita": "En el Consejo General del Poder Judicial existirán las siguientes Comisiones: Permanente, de Calificación, Disciplinaria, de Asuntos Económicos, de Igualdad y de Supervisión y Control de Protección de Datos."
+ },
+ {
+  "n": 28037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aseiscientos",
+  "pregunta": "El Pleno del CGPJ se reúne en sesión ordinaria:",
+  "opciones": [
+   "Una vez a la semana",
+   "Dos veces al año",
+   "Una vez al trimestre",
+   "Una vez al mes"
+  ],
+  "correcta": 3,
+  "cita": "El Pleno se reunirá en sesión ordinaria, a convocatoria del Presidente, una vez al mes."
+ },
+ {
+  "n": 28038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aseiscientos",
+  "pregunta": "Fuera de la elección de su Presidente, para la válida constitución del Pleno del CGPJ es necesaria como mínimo la presencia de:",
+  "opciones": [
+   "La mitad más uno de los Vocales",
+   "Quince Vocales y el Presidente",
+   "Doce Vocales",
+   "Diez Vocales y el Presidente"
+  ],
+  "correcta": 3,
+  "cita": "En los demás casos, para la válida constitución del Pleno será siempre necesaria, como mínimo, la presencia de diez Vocales y el Presidente."
+ },
+ {
+  "n": 28039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aseiscientosuno",
+  "pregunta": "La Comisión Permanente del CGPJ está compuesta por el Presidente y:",
+  "opciones": [
+   "Siete Vocales: cuatro del turno judicial y tres del turno de juristas",
+   "Cinco Vocales del turno judicial",
+   "Tres Vocales de cada turno",
+   "Diez Vocales elegidos por sorteo"
+  ],
+  "correcta": 0,
+  "cita": "La Comisión Permanente estará compuesta por el Presidente del Tribunal Supremo y del Consejo General del Poder Judicial, que la presidirá, y otros siete Vocales: cuatro de los nombrados por el turno judicial y tres de los designados por el turno de juristas de reconocida competencia."
+ },
+ {
+  "n": 28040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aseiscientostres",
+  "pregunta": "El mandato de los Vocales integrantes de la Comisión Disciplinaria del CGPJ, salvo sustituciones, es de:",
+  "opciones": [
+   "Tres años",
+   "Dos años",
+   "Un año",
+   "Cinco años"
+  ],
+  "correcta": 3,
+  "cita": "El Pleno elegirá a los Vocales integrantes de la Comisión Disciplinaria, cuyo mandato, salvo las sustituciones que procedan, será de cinco años."
+ },
+ {
+  "n": 28041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aseiscientossiete",
+  "pregunta": "La instrucción de los expedientes disciplinarios a Jueces y Magistrados corresponde a:",
+  "opciones": [
+   "El Ministerio Fiscal",
+   "El Presidente del Tribunal Superior de Justicia",
+   "La Comisión Permanente",
+   "El Promotor de la Acción Disciplinaria"
+  ],
+  "correcta": 3,
+  "cita": "Corresponde al Promotor de la Acción Disciplinaria la instrucción de los expedientes disciplinarios."
+ },
+ {
+  "n": 28042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aseiscientosdiez",
+  "pregunta": "La Comisión de Igualdad del CGPJ está integrada por:",
+  "opciones": [
+   "Cinco Vocales",
+   "Siete Vocales",
+   "Tres Vocales",
+   "Todos los Vocales de origen judicial"
+  ],
+  "correcta": 2,
+  "cita": "La Comisión de Igualdad estará integrada por tres Vocales."
+ },
+ {
+  "n": 28043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "aseiscientostreinta",
+  "pregunta": "Como regla general, los acuerdos de los órganos colegiados del CGPJ se adoptan por:",
+  "opciones": [
+   "Mayoría absoluta de los miembros presentes",
+   "Unanimidad",
+   "Mayoría de tres quintos en todo caso",
+   "Mayoría simple de los Vocales del turno judicial"
+  ],
+  "correcta": 0,
+  "cita": "Los acuerdos de los órganos colegiados del Consejo General del Poder Judicial serán adoptados por mayoría absoluta de los miembros presentes, salvo cuando esta Ley Orgánica disponga otra cosa o cuando se trate del nombramiento de"
+ }
+]
