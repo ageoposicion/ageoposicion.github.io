@@ -1,0 +1,738 @@
+[
+ {
+  "n": 15001,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a38",
+  "pregunta": "Según el artículo 38 de la Ley 40/2015, la sede electrónica es:",
+  "opciones": [
+   "Cualquier página web que contenga información administrativa",
+   "La dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública u organismo o entidad de Derecho Público",
+   "El registro electrónico general de cada Administración",
+   "El punto de acceso electrónico que permite acceder a la información publicada"
+  ],
+  "correcta": 1,
+  "cita": "La sede electrónica es aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias."
+ },
+ {
+  "n": 15002,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a38",
+  "pregunta": "El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de:",
+  "opciones": [
+   "Solo la seguridad de las comunicaciones",
+   "La disponibilidad de Internet de los ciudadanos",
+   "La integridad, veracidad y actualización de la información y los servicios accesibles a través de ella",
+   "El contenido de las páginas enlazadas de terceros"
+  ],
+  "correcta": 2,
+  "cita": "El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma."
+ },
+ {
+  "n": 15003,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a38",
+  "pregunta": "En todo caso, en la sede electrónica deberá garantizarse:",
+  "opciones": [
+   "El acceso sin identificación a todos los expedientes",
+   "La publicación de los datos personales de los empleados",
+   "La identificación del órgano titular de la sede y los medios disponibles para formular sugerencias y quejas",
+   "La disponibilidad de atención telefónica permanente"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso deberá garantizarse la identificación del órgano titular de la sede, así como los medios disponibles para la formulación de sugerencias y quejas."
+ },
+ {
+  "n": 15004,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a38",
+  "pregunta": "Para identificarse y garantizar una comunicación segura, las sedes electrónicas utilizarán:",
+  "opciones": [
+   "Una contraseña de acceso única",
+   "Un código seguro de verificación",
+   "El DNI electrónico del titular del órgano",
+   "Certificados reconocidos o cualificados de autenticación de sitio web o medio equivalente"
+  ],
+  "correcta": 3,
+  "cita": "Las sedes electrónicas utilizarán, para identificarse y garantizar una comunicación segura con las mismas, certificados reconocidos o cualificados de autenticación de sitio web o medio equivalente."
+ },
+ {
+  "n": 15005,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a39",
+  "pregunta": "El punto de acceso electrónico cuya titularidad corresponde a una Administración y que permite acceder por Internet a la información publicada y, en su caso, a la sede electrónica, es:",
+  "opciones": [
+   "El portal de internet",
+   "La sede electrónica",
+   "El registro electrónico",
+   "La carpeta ciudadana"
+  ],
+  "correcta": 0,
+  "cita": "Se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada y, en su caso, a la sede electrónica correspondiente."
+ },
+ {
+  "n": 15006,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a40",
+  "pregunta": "Las Administraciones Públicas pueden identificarse mediante:",
+  "opciones": [
+   "La firma manuscrita digitalizada de su titular",
+   "Un sello electrónico basado en un certificado electrónico reconocido o cualificado",
+   "Una dirección de correo electrónico oficial",
+   "El número de registro de entrada"
+  ],
+  "correcta": 1,
+  "cita": "Las Administraciones Públicas podrán identificarse mediante el uso de un sello electrónico basado en un certificado electrónico reconocido o cualificado que reúna los requisitos exigidos por la legislación de firma electrónica."
+ },
+ {
+  "n": 15007,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a40",
+  "pregunta": "Se entiende identificada la Administración Pública respecto de la información que publique como propia en:",
+  "opciones": [
+   "Los medios de comunicación",
+   "Su portal de internet",
+   "El Boletín Oficial del Estado exclusivamente",
+   "Cualquier red social"
+  ],
+  "correcta": 1,
+  "cita": "Se entenderá identificada la Administración Pública respecto de la información que se publique como propia en su portal de internet."
+ },
+ {
+  "n": 15008,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a41",
+  "pregunta": "La actuación administrativa automatizada es cualquier acto o actuación realizada íntegramente por medios electrónicos en un procedimiento administrativo y en la que:",
+  "opciones": [
+   "Se haya utilizado un registro electrónico",
+   "No haya intervenido de forma directa un empleado público",
+   "Haya intervenido un empleado público con firma electrónica",
+   "El interesado haya actuado por medios electrónicos"
+  ],
+  "correcta": 1,
+  "cita": "Se entiende por actuación administrativa automatizada, cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público."
+ },
+ {
+  "n": 15009,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a41",
+  "pregunta": "En caso de actuación administrativa automatizada debe indicarse previamente, entre otros extremos:",
+  "opciones": [
+   "La empresa que suministró el programa",
+   "El nombre del programador del sistema",
+   "El coste del sistema de información",
+   "El órgano que debe ser considerado responsable a efectos de impugnación"
+  ],
+  "correcta": 3,
+  "cita": "Asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación."
+ },
+ {
+  "n": 15010,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a42",
+  "pregunta": "En la actuación administrativa automatizada, cada Administración puede utilizar como sistemas de firma electrónica:",
+  "opciones": [
+   "Únicamente la firma del titular del órgano",
+   "La firma manuscrita escaneada",
+   "El sello electrónico y el código seguro de verificación",
+   "El certificado personal del ciudadano"
+  ],
+  "correcta": 2,
+  "cita": "de la competencia en la actuación administrativa automatizada, cada Administración Pública podrá determinar los supuestos de utilización de los siguientes sistemas de firma electrónica: a) Sello electrónico de Administración Pública, órgano, organismo público o entidad de derecho público, basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos por la legislación de firma electrónica. b) Código seguro de verificación vinculado a la Administración Pública, órgano, organismo público o entidad de Derecho Público, en"
+ },
+ {
+  "n": 15011,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a43",
+  "pregunta": "Por razones de seguridad pública, los sistemas de firma electrónica del personal de las Administraciones podrán referirse solo a:",
+  "opciones": [
+   "El nombre de la unidad administrativa",
+   "El DNI del empleado",
+   "El código del puesto de trabajo",
+   "El número de identificación profesional del empleado público"
+  ],
+  "correcta": 3,
+  "cita": "Por razones de seguridad pública los sistemas de firma electrónica podrán referirse sólo el número de identificación profesional del empleado público."
+ },
+ {
+  "n": 15012,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a44",
+  "pregunta": "Cuando los participantes en un entorno cerrado de comunicaciones pertenezcan a distintas Administraciones, las condiciones y garantías se establecen mediante:",
+  "opciones": [
+   "Orden del Ministro competente",
+   "Convenio suscrito entre ellas",
+   "Resolución unilateral de la Administración emisora",
+   "Real Decreto del Consejo de Ministros"
+  ],
+  "correcta": 1,
+  "cita": "Cuando los participantes pertenezcan a distintas Administraciones, las condiciones y garantías citadas en el apartado anterior se establecerán mediante convenio suscrito entre aquellas."
+ },
+ {
+  "n": 15013,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a46",
+  "pregunta": "Según el artículo 46, los documentos utilizados en las actuaciones administrativas se almacenarán:",
+  "opciones": [
+   "En papel y, adicionalmente, en soporte electrónico",
+   "En el soporte que elija cada unidad",
+   "Por medios electrónicos, salvo cuando no sea posible",
+   "Solo en archivos centrales en papel"
+  ],
+  "correcta": 2,
+  "cita": "Todos los documentos utilizados en las actuaciones administrativas se almacenarán por medios electrónicos, salvo cuando no sea posible."
+ },
+ {
+  "n": 15014,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a46",
+  "pregunta": "Los medios o soportes en que se almacenen documentos electrónicos deberán contar con medidas de seguridad de acuerdo con:",
+  "opciones": [
+   "El Reglamento del Registro Mercantil",
+   "La Ley de Patrimonio Histórico",
+   "El Esquema Nacional de Seguridad",
+   "El Esquema Nacional de Interoperabilidad exclusivamente"
+  ],
+  "correcta": 2,
+  "cita": "Los medios o soportes en que se almacenen documentos, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados."
+ },
+ {
+  "n": 15015,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a4-2",
+  "pregunta": "Los sistemas de información para la gestión del censo electoral, los padrones municipales y los datos de los usuarios del sistema nacional de salud deberán ubicarse y prestarse:",
+  "opciones": [
+   "En cualquier país con convenio con España",
+   "Dentro del territorio español exclusivamente",
+   "Dentro del territorio de la Unión Europea",
+   "En los servidores de la Administración General del Estado"
+  ],
+  "correcta": 2,
+  "cita": "del sistema nacional de salud, así como los correspondientes tratamientos de datos personales, deberán ubicarse y prestarse dentro del territorio de la Unión Europea."
+ },
+ {
+  "n": 15016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a140",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios de las relaciones interadministrativas del artículo 140?",
+  "opciones": [
+   "Solidaridad interterritorial",
+   "Lealtad institucional",
+   "Eficiencia en la gestión de los recursos públicos",
+   "Jerarquía entre Administraciones territoriales"
+  ],
+  "correcta": 3,
+  "cita": "relacionan con otras Administraciones y entidades u organismos vinculados o dependientes de éstas de acuerdo con los siguientes principios: a) Lealtad institucional. b) Adecuación al orden de distribución de competencias establecido en la Constitución y en los Estatutos de Autonomía y en la normativa del régimen local. c) Colaboración, entendido como el deber de actuar con el resto de Administraciones Públicas para el logro de fines comunes. d) Cooperación, cuando dos o más Administraciones Públicas, de manera voluntaria y en ejercicio de sus competencias, asumen compromisos específicos en aras de una acción común. e) Coordinación, en virtud del cual una Administración Pública y, singularmente, la Administración General del Estado, tiene la obligación de garantizar la coherencia de las actuaciones de las diferentes Administraciones Públicas afectadas por una misma materia para la consecución de un resultado común, cuando así lo prevé la Constitución y el resto del ordenamiento jurídico. f) Eficiencia en la gestión de los recursos públicos, compartiendo el uso de recursos comunes, salvo que no resulte posible o se justifique en términos de su mejor aprovechamiento. g) Responsabilidad de cada Administración Pública en el cumplimiento de sus obligaciones y compromisos. h) Garantía e igualdad en el ejercicio de los derechos de todos los ciudadanos en sus relaciones con las diferentes Administraciones. i) Solidaridad interterritorial de acuerdo con la Constitución."
+ },
+ {
+  "n": 15017,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a140",
+  "pregunta": "El principio por el que dos o más Administraciones, de manera voluntaria y en ejercicio de sus competencias, asumen compromisos específicos en aras de una acción común es el de:",
+  "opciones": [
+   "Cooperación",
+   "Colaboración",
+   "Lealtad institucional",
+   "Coordinación"
+  ],
+  "correcta": 0,
+  "cita": "d) Cooperación, cuando dos o más Administraciones Públicas, de manera voluntaria y en ejercicio de sus competencias, asumen compromisos específicos en aras de una acción común."
+ },
+ {
+  "n": 15018,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a140",
+  "pregunta": "El deber de actuar con el resto de Administraciones Públicas para el logro de fines comunes corresponde al principio de:",
+  "opciones": [
+   "Responsabilidad",
+   "Cooperación",
+   "Coordinación",
+   "Colaboración"
+  ],
+  "correcta": 3,
+  "cita": "c) Colaboración, entendido como el deber de actuar con el resto de Administraciones Públicas para el logro de fines comunes."
+ },
+ {
+  "n": 15019,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a140",
+  "pregunta": "El principio en virtud del cual una Administración, singularmente la AGE, tiene la obligación de garantizar la coherencia de las actuaciones de las diferentes Administraciones afectadas por una misma materia es el de:",
+  "opciones": [
+   "Colaboración",
+   "Cooperación",
+   "Eficiencia",
+   "Coordinación"
+  ],
+  "correcta": 3,
+  "cita": "e) Coordinación, en virtud del cual una Administración Pública y, singularmente, la Administración General del Estado, tiene la obligación de garantizar la"
+ },
+ {
+  "n": 15020,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a141",
+  "pregunta": "La asistencia y colaboración requerida a otra Administración puede negarse, entre otros casos, cuando:",
+  "opciones": [
+   "No exista convenio previo",
+   "La solicitud se presente por medios electrónicos",
+   "La Administración solicitante sea de otro nivel territorial",
+   "La información solicitada tenga carácter confidencial o reservado"
+  ],
+  "correcta": 3,
+  "cita": "grave a los intereses cuya tutela tiene encomendada o al cumplimiento de sus propias funciones o cuando la información solicitada tenga carácter confidencial o reservado."
+ },
+ {
+  "n": 15021,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a141",
+  "pregunta": "La negativa a prestar la asistencia solicitada por otra Administración:",
+  "opciones": [
+   "Solo puede acordarse por ley",
+   "Debe autorizarla el Consejo de Ministros",
+   "Se comunicará motivadamente a la Administración solicitante",
+   "No necesita comunicarse"
+  ],
+  "correcta": 2,
+  "cita": "La negativa a prestar la asistencia se comunicará motivadamente a la Administración solicitante."
+ },
+ {
+  "n": 15022,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a143",
+  "pregunta": "La formalización de relaciones de cooperación entre Administraciones requiere:",
+  "opciones": [
+   "La aceptación expresa de las partes, en acuerdos de órganos de cooperación o en convenios",
+   "La aprobación del Consejo de Ministros en todo caso",
+   "Una ley de las Cortes Generales",
+   "La mera comunicación de una de las partes"
+  ],
+  "correcta": 0,
+  "cita": "La formalización de relaciones de cooperación requerirá la aceptación expresa de las partes, formulada en acuerdos de órganos de cooperación o en convenios."
+ },
+ {
+  "n": 15023,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a144",
+  "pregunta": "Cada Administración Pública mantendrá actualizado un registro electrónico de:",
+  "opciones": [
+   "Los órganos de cooperación en los que participe y de los convenios que haya suscrito",
+   "Las subvenciones recibidas de otras Administraciones",
+   "Las sentencias que le afecten",
+   "Todos los empleados públicos de las demás Administraciones"
+  ],
+  "correcta": 0,
+  "cita": "Cada Administración Pública mantendrá actualizado un registro electrónico de los órganos de cooperación en los que participe y de convenios que haya suscrito."
+ },
+ {
+  "n": 15024,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a145",
+  "pregunta": "Los órganos de cooperación en los que participe la AGE deben inscribirse, para que sea válida su sesión constitutiva, en:",
+  "opciones": [
+   "El Registro estatal de Órganos e Instrumentos de Cooperación",
+   "El Registro Central de Personal",
+   "El Registro de Convenios del Tribunal de Cuentas",
+   "El Inventario de Entidades del Sector Público"
+  ],
+  "correcta": 0,
+  "cita": "Los órganos de cooperación entre distintas Administraciones Públicas en los que participe la Administración General del Estado, deberán inscribirse en el Registro estatal de Órganos e Instrumentos de Cooperación para que resulte válida su sesión constitutiva."
+ },
+ {
+  "n": 15025,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a146",
+  "pregunta": "La Conferencia de Presidentes está presidida por:",
+  "opciones": [
+   "El Presidente del Senado",
+   "El Ministro de Política Territorial",
+   "El Presidente de la Comunidad Autónoma más antigua",
+   "El Presidente del Gobierno"
+  ],
+  "correcta": 3,
+  "cita": "La Conferencia de Presidentes es un órgano de cooperación multilateral entre el Gobierno de la Nación y los respectivos Gobiernos de las Comunidades Autónomas y está formada por el Presidente del Gobierno, que la preside, y por los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla."
+ },
+ {
+  "n": 15026,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a146",
+  "pregunta": "El Comité preparatorio de la Conferencia de Presidentes está formado por:",
+  "opciones": [
+   "Los Presidentes de los Parlamentos autonómicos",
+   "Un Ministro del Gobierno, que lo preside, y un Consejero de cada Comunidad Autónoma",
+   "Los Delegados del Gobierno",
+   "Los Secretarios de Estado y Subsecretarios"
+  ],
+  "correcta": 1,
+  "cita": "el Estado y las Comunidades Autónomas, estando asistida para la preparación de sus reuniones por un Comité preparatorio del que forman parte un Ministro del Gobierno, que lo preside, y un Consejero de cada Comunidad Autónoma."
+ },
+ {
+  "n": 15027,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a147",
+  "pregunta": "La Conferencia Sectorial es un órgano de cooperación de composición:",
+  "opciones": [
+   "Bilateral y ámbito general",
+   "Bilateral y ámbito sectorial",
+   "Multilateral y ámbito general",
+   "Multilateral y ámbito sectorial determinado"
+  ],
+  "correcta": 3,
+  "cita": "La Conferencia Sectorial es un órgano de cooperación, de composición multilateral y ámbito sectorial determinado, que reúne, como Presidente, al miembro del Gobierno que, en representación de la Administración"
+ },
+ {
+  "n": 15028,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a147",
+  "pregunta": "Preside la Conferencia Sectorial:",
+  "opciones": [
+   "El Presidente del Gobierno",
+   "El Consejero autonómico de mayor antigüedad",
+   "El miembro del Gobierno competente por razón de la materia",
+   "El Secretario de Estado competente"
+  ],
+  "correcta": 2,
+  "cita": "Sectorial es un órgano de cooperación, de composición multilateral y ámbito sectorial determinado, que reúne, como Presidente, al miembro del Gobierno que, en representación de la Administración General del Estado, resulte competente por razón de la materia, y a los correspondientes miembros de los Consejos de Gobierno, en representación de las"
+ },
+ {
+  "n": 15029,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a148",
+  "pregunta": "Las Conferencias Sectoriales pueden ejercer funciones:",
+  "opciones": [
+   "Jurisdiccionales",
+   "Exclusivamente consultivas",
+   "Legislativas",
+   "Consultivas, decisorias o de coordinación"
+  ],
+  "correcta": 3,
+  "cita": "Las Conferencias Sectoriales pueden ejercer funciones consultivas, decisorias o de coordinación orientadas a alcanzar acuerdos sobre materias comunes."
+ },
+ {
+  "n": 15030,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a149",
+  "pregunta": "El Ministro que presida la Conferencia Sectorial acordará la convocatoria de sus reuniones por iniciativa propia al menos:",
+  "opciones": [
+   "Una vez al trimestre",
+   "Una vez al semestre",
+   "Una vez al año",
+   "Una vez cada dos años"
+  ],
+  "correcta": 2,
+  "cita": "Corresponde al Ministro que presida la Conferencia Sectorial acordar la convocatoria de las reuniones por iniciativa propia, al menos una vez al año, o cuando lo soliciten, al menos, la tercera parte de sus miembros."
+ },
+ {
+  "n": 15031,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a149",
+  "pregunta": "La reunión de la Conferencia Sectorial también se convocará cuando lo solicite, al menos:",
+  "opciones": [
+   "Cualquiera de sus miembros",
+   "La cuarta parte de sus miembros",
+   "La mitad de sus miembros",
+   "La tercera parte de sus miembros"
+  ],
+  "correcta": 3,
+  "cita": "Corresponde al Ministro que presida la Conferencia Sectorial acordar la convocatoria de las reuniones por iniciativa propia, al menos una vez al año, o cuando lo soliciten, al menos, la tercera parte de sus miembros."
+ },
+ {
+  "n": 15032,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a150",
+  "pregunta": "El secretario de la Conferencia Sectorial asiste a sus reuniones:",
+  "opciones": [
+   "Sin voz ni voto",
+   "Con voz pero sin voto",
+   "Con voz y voto",
+   "Con voto de calidad"
+  ],
+  "correcta": 1,
+  "cita": "Corresponde al secretario de la Conferencia Sectorial, al menos, las siguientes funciones: a) Preparar las reuniones y asistir a ellas con voz pero sin voto."
+ },
+ {
+  "n": 15033,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a150",
+  "pregunta": "El secretario de cada Conferencia Sectorial es designado por:",
+  "opciones": [
+   "La Comisión Sectorial",
+   "El Presidente de la Conferencia Sectorial",
+   "El Consejo de Ministros",
+   "El pleno de la Conferencia por mayoría"
+  ],
+  "correcta": 1,
+  "cita": "Cada Conferencia Sectorial tendrá un secretario que será designado por el Presidente de la Conferencia Sectorial."
+ },
+ {
+  "n": 15034,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a151",
+  "pregunta": "En la Conferencia Sectorial, la votación para adoptar decisiones se produce:",
+  "opciones": [
+   "Por mayoría de población representada",
+   "Por cada uno de los miembros presentes",
+   "Por unanimidad en todo caso",
+   "Por la representación que cada Administración Pública tenga y no por los distintos miembros de cada una"
+  ],
+  "correcta": 3,
+  "cita": "Esta votación se producirá por la representación que cada Administración Pública tenga y no por los distintos miembros de cada una de ellas."
+ },
+ {
+  "n": 15035,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a151",
+  "pregunta": "La decisión de la Conferencia Sectorial que supone un compromiso de actuación, de obligado cumplimiento y directamente exigible (salvo para quienes hayan votado en contra) es:",
+  "opciones": [
+   "La Recomendación",
+   "El Dictamen",
+   "El Informe",
+   "El Acuerdo"
+  ],
+  "correcta": 3,
+  "cita": "Las decisiones que adopte la Conferencia Sectorial podrán revestir la forma de: a) Acuerdo: supone un compromiso de actuación en el ejercicio de las respectivas competencias."
+ },
+ {
+  "n": 15036,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a151",
+  "pregunta": "Si un miembro de la Conferencia Sectorial se aparta de una Recomendación que no votó en contra, deberá:",
+  "opciones": [
+   "Someterlo al Tribunal Constitucional",
+   "Pagar una compensación",
+   "Motivarlo e incorporar la justificación en el correspondiente expediente",
+   "Abandonar la Conferencia"
+  ],
+  "correcta": 2,
+  "cita": "Si algún miembro se aparta de la Recomendación, deberá motivarlo e incorporar dicha justificación en el correspondiente expediente."
+ },
+ {
+  "n": 15037,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a152",
+  "pregunta": "La Comisión Sectorial, órgano de trabajo y apoyo de la Conferencia Sectorial, está presidida por:",
+  "opciones": [
+   "El propio Ministro",
+   "Un Consejero autonómico elegido por turno",
+   "El Director General competente",
+   "El Secretario de Estado u órgano superior de la AGE designado por el Ministro correspondiente"
+  ],
+  "correcta": 3,
+  "cita": "Sectorial es el órgano de trabajo y apoyo de carácter general de la Conferencia Sectorial, estando constituida por el Secretario de Estado u órgano superior de la Administración General del Estado designado al efecto por el Ministro correspondiente, que la presidirá, y un representante de cada Comunidad Autónoma, así como un representante de la Ciudad de Ceuta y"
+ },
+ {
+  "n": 15038,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a153",
+  "pregunta": "Las Comisiones Bilaterales de Cooperación reúnen, por un número igual de representantes, a:",
+  "opciones": [
+   "Diputados y senadores",
+   "Miembros del Gobierno y miembros del Consejo de Gobierno de la Comunidad Autónoma o representantes de Ceuta o Melilla",
+   "Delegados y Subdelegados del Gobierno",
+   "Alcaldes y Presidentes de Diputación"
+  ],
+  "correcta": 1,
+  "cita": "Las Comisiones Bilaterales de Cooperación son órganos de cooperación de composición bilateral que reúnen, por un número igual de representantes, a miembros del Gobierno, en representación de la Administración General del Estado, y miembros del Consejo de Gobierno de"
+ },
+ {
+  "n": 15039,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a154",
+  "pregunta": "Las Comisiones Territoriales de Coordinación pueden crearse entre Administraciones:",
+  "opciones": [
+   "Solo entre la AGE y las Comunidades Autónomas",
+   "Cuyos territorios sean coincidentes o limítrofes",
+   "De cualquier parte del territorio nacional",
+   "Solo entre Comunidades Autónomas"
+  ],
+  "correcta": 1,
+  "cita": "lo requiera, podrán crearse Comisiones Territoriales de Coordinación, de composición multilateral, entre Administraciones cuyos territorios sean coincidentes o limítrofes, para mejorar la coordinación de la prestación de servicios, prevenir duplicidades y mejorar la"
+ },
+ {
+  "n": 15040,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "L40",
+  "articulo": "a155",
+  "pregunta": "Plazo de la Administración cedente de datos para oponerse motivadamente al tratamiento ulterior que pretenda la cesionaria para una finalidad que estime compatible",
+  "opciones": [
+   "10 días",
+   "15 días",
+   "1 mes",
+   "5 días"
+  ],
+  "correcta": 0,
+  "cita": "La Administración Pública cedente podrá, en el plazo de diez días oponerse motivadamente."
+ },
+ {
+  "n": 15041,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a155",
+  "pregunta": "No se considera incompatible con los fines iniciales el tratamiento ulterior de los datos personales con fines de:",
+  "opciones": [
+   "Comercialización a empresas",
+   "Elaboración de perfiles comerciales",
+   "Publicidad institucional",
+   "Archivo en interés público, investigación científica e histórica o estadísticos"
+  ],
+  "correcta": 3,
+  "cita": "De acuerdo con lo previsto en el artículo 5.1.b) del Reglamento (UE) 2016/679, no se considerará incompatible con los fines iniciales el tratamiento ulterior de los datos personales con fines de archivo en interés público, fines de investigación científica e histórica o fines estadísticos."
+ },
+ {
+  "n": 15042,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a156",
+  "pregunta": "El conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, formatos y aplicaciones para garantizar la interoperabilidad es:",
+  "opciones": [
+   "El Catálogo de Procedimientos",
+   "El Esquema Nacional de Seguridad",
+   "El Plan de Transformación Digital",
+   "El Esquema Nacional de Interoperabilidad"
+  ],
+  "correcta": 3,
+  "cita": "El Esquema Nacional de Interoperabilidad comprende el conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, de los formatos y de las"
+ },
+ {
+  "n": 15043,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a156",
+  "pregunta": "El Esquema Nacional de Seguridad tiene por objeto:",
+  "opciones": [
+   "Regular la seguridad física de los edificios públicos",
+   "Regular la protección de datos personales",
+   "Establecer la política de seguridad en la utilización de medios electrónicos",
+   "Fijar los formatos de los documentos electrónicos"
+  ],
+  "correcta": 2,
+  "cita": "El Esquema Nacional de Seguridad tiene por objeto establecer la política de seguridad en la utilización de medios electrónicos en el ámbito de la presente Ley, y está constituido por los principios básicos y requisitos mínimos que garanticen adecuadamente la seguridad de la información tratada."
+ },
+ {
+  "n": 15044,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a157",
+  "pregunta": "Antes de adquirir o desarrollar una aplicación, las Administraciones deben consultar si existen soluciones reutilizables en:",
+  "opciones": [
+   "El Inventario de Entidades del Sector Público",
+   "La Plataforma de Contratación del Sector Público",
+   "El Registro de la Propiedad Intelectual",
+   "El directorio general de aplicaciones dependiente de la AGE"
+  ],
+  "correcta": 3,
+  "cita": "tanto si se realiza con medios propios o por la contratación de los servicios correspondientes, deberán consultar en el directorio general de aplicaciones, dependiente de la Administración General del Estado, si existen soluciones disponibles para su reutilización, que puedan satisfacer total o"
+ },
+ {
+  "n": 15045,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a157",
+  "pregunta": "Si existe una solución disponible para su reutilización, las Administraciones Públicas:",
+  "opciones": [
+   "Deben pagar su coste completo en todo caso",
+   "Están obligadas a su uso, salvo que la decisión de no reutilizarla se justifique en términos de eficiencia",
+   "Necesitan autorización del Consejo de Ministros para usarla",
+   "Pueden ignorarla libremente"
+  ],
+  "correcta": 1,
+  "cita": "En el caso de existir una solución disponible para su reutilización total o parcial, las Administraciones Públicas estarán obligadas a su uso, salvo que la decisión de no reutilizarla se justifique en términos de eficiencia conforme al artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y"
+ },
+ {
+  "n": 15046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a157",
+  "pregunta": "Las aplicaciones de las Administraciones podrán declararse de fuentes abiertas cuando:",
+  "opciones": [
+   "Hayan transcurrido cinco años desde su desarrollo",
+   "Lo solicite cualquier empresa",
+   "Su coste sea inferior a 15.000 euros",
+   "Se derive una mayor transparencia en el funcionamiento de la Administración o se fomente la incorporación de los ciudadanos a la Sociedad de la información"
+  ],
+  "correcta": 3,
+  "cita": "Las aplicaciones a las que se refiere el apartado anterior podrán ser declaradas como de fuentes abiertas, cuando de ello se derive una mayor transparencia en el funcionamiento de la Administración Pública o se fomente con ello la incorporación de los ciudadanos a la Sociedad de la información."
+ }
+]
