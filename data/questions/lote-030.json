@@ -1,0 +1,418 @@
+[
+ {
+  "n": 30001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a2",
+  "pregunta": "Según la LGSS, el sistema de la Seguridad Social se fundamenta en los principios de:",
+  "opciones": [
+   "Contributividad, capitalización y libertad",
+   "Descentralización, desconcentración y coordinación",
+   "Universalidad, unidad, solidaridad e igualdad",
+   "Mérito, capacidad y publicidad"
+  ],
+  "correcta": 2,
+  "cita": "El sistema de la Seguridad Social, configurado por la acción protectora en sus modalidades contributiva y no contributiva, se fundamenta en los principios de universalidad, unidad, solidaridad e igualdad."
+ },
+ {
+  "n": 30002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a3",
+  "pregunta": "Todo pacto, individual o colectivo, por el cual el trabajador renuncie a los derechos que le confiere la LGSS es:",
+  "opciones": [
+   "Válido si lo autoriza la Inspección de Trabajo",
+   "Nulo",
+   "Anulable a instancia del trabajador",
+   "Válido si es colectivo"
+  ],
+  "correcta": 1,
+  "cita": "Será nulo todo pacto, individual o colectivo, por el cual el trabajador renuncie a los derechos que le confiere la presente ley."
+ },
+ {
+  "n": 30003,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a9",
+  "pregunta": "Según la LGSS, el sistema de la Seguridad Social está integrado por:",
+  "opciones": [
+   "El Régimen General y los seguros privados",
+   "Los regímenes autonómicos y el estatal",
+   "Solo el Régimen General",
+   "El Régimen General y los regímenes especiales"
+  ],
+  "correcta": 3,
+  "cita": "El sistema de la Seguridad Social viene integrado por los siguientes regímenes: a) El Régimen General, que se regula en el título II de la presente ley. b) Los regímenes especiales a que se refiere el artículo siguiente."
+ },
+ {
+  "n": 30004,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a10",
+  "pregunta": "¿Cuál de los siguientes grupos encuadra la LGSS en un régimen especial?",
+  "opciones": [
+   "Trabajadores por cuenta ajena de la industria",
+   "Trabajadores de comercio",
+   "Personal laboral de la Administración General del Estado",
+   "Funcionarios públicos, civiles y militares"
+  ],
+  "correcta": 3,
+  "cita": "c) Funcionarios públicos, civiles y militares."
+ },
+ {
+  "n": 30005,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a15",
+  "pregunta": "La afiliación a la Seguridad Social es:",
+  "opciones": [
+   "Voluntaria y renovable cada año",
+   "Obligatoria y distinta para cada régimen",
+   "Obligatoria y única para toda la vida de la persona y para todo el sistema",
+   "Obligatoria solo para trabajadores por cuenta ajena y renovable en cada empleo"
+  ],
+  "correcta": 2,
+  "cita": "La afiliación a la Seguridad Social es obligatoria para las personas a que se refiere el artículo 7.1 y única para toda su vida y para todo el sistema, sin perjuicio de las altas y bajas en los distintos regímenes que lo integran, así como de las"
+ },
+ {
+  "n": 30006,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a16",
+  "pregunta": "Si las personas o entidades obligadas no solicitan la afiliación o el alta del trabajador:",
+  "opciones": [
+   "Solo puede actuar la Inspección de Trabajo",
+   "El trabajador pierde todo derecho a prestaciones",
+   "El interesado puede instarlas directamente, sin perjuicio de las responsabilidades de aquellas",
+   "El contrato de trabajo es nulo"
+  ],
+  "correcta": 2,
+  "cita": "Si las personas y entidades a quienes incumban tales obligaciones no las cumplieran, podrán los interesados instar directamente su afiliación, alta, baja o variación de datos, sin perjuicio de que se hagan efectivas las responsabilidades en que aquellas hubieran incurrido,"
+ },
+ {
+  "n": 30007,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a18",
+  "pregunta": "La obligación de cotizar a la Seguridad Social nace:",
+  "opciones": [
+   "Al cobrar la primera nómina",
+   "Al superar el periodo de prueba",
+   "Al mes de iniciar la actividad",
+   "Desde el momento de iniciación de la actividad correspondiente"
+  ],
+  "correcta": 3,
+  "cita": "La obligación de cotizar nacerá desde el momento de iniciación de la actividad correspondiente, determinándose en las normas reguladoras de cada régimen las personas que han de cumplirla."
+ },
+ {
+  "n": 30008,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LGSS",
+  "articulo": "a24",
+  "pregunta": "Plazo de prescripción del derecho de la Administración de la Seguridad Social a determinar las deudas por cuotas mediante liquidaciones",
+  "opciones": [
+   "3 años",
+   "1 año",
+   "4 años",
+   "5 años"
+  ],
+  "correcta": 2,
+  "cita": "Prescribirán a los cuatro años los siguientes derechos y acciones: a) El derecho de la Administración de la Seguridad Social para determinar las deudas por cuotas y por conceptos de recaudación conjunta mediante las oportunas liquidaciones."
+ },
+ {
+  "n": 30009,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a44",
+  "pregunta": "Las prestaciones de la Seguridad Social pueden ser objeto de retención, cesión, compensación o descuento:",
+  "opciones": [
+   "Nunca, sin excepción alguna",
+   "Solo para cumplir obligaciones alimenticias a favor del cónyuge e hijos o por obligaciones contraídas por el beneficiario dentro de la Seguridad Social",
+   "En cualquier caso a petición de un acreedor",
+   "Solo para pagar impuestos municipales"
+  ],
+  "correcta": 1,
+  "cita": "sin perjuicio de lo previsto en el apartado 2, cesión total o parcial, compensación o descuento, salvo en los dos casos siguientes: a) En orden al cumplimiento de las obligaciones alimenticias a favor del cónyuge e hijos."
+ },
+ {
+  "n": 30010,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LGSS",
+  "articulo": "a53",
+  "pregunta": "Plazo de prescripción del derecho al reconocimiento de las prestaciones de la Seguridad Social, con carácter general, desde el día siguiente al hecho causante",
+  "opciones": [
+   "4 años",
+   "3 años",
+   "1 año",
+   "5 años"
+  ],
+  "correcta": 3,
+  "cita": "El derecho al reconocimiento de las prestaciones prescribirá a los cinco años, contados desde el día siguiente a aquel en que tenga lugar el hecho causante de la prestación de"
+ },
+ {
+  "n": 30011,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LGSS",
+  "articulo": "a53",
+  "pregunta": "Retroactividad máxima de los efectos del reconocimiento de una prestación respecto de la fecha de la solicitud",
+  "opciones": [
+   "1 año",
+   "3 meses",
+   "1 mes",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "de las excepciones que se determinen en la presente ley y de que los efectos de tal reconocimiento se produzcan a partir de los tres meses anteriores a la fecha en que se presente la correspondiente solicitud."
+ },
+ {
+  "n": 30012,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LGSS",
+  "articulo": "a54",
+  "pregunta": "Plazo de caducidad del derecho al percibo de las prestaciones a tanto alzado y por una sola vez, desde la notificación de su reconocimiento",
+  "opciones": [
+   "6 meses",
+   "1 año",
+   "3 meses",
+   "5 años"
+  ],
+  "correcta": 1,
+  "cita": "El derecho al percibo de las prestaciones a tanto alzado y por una sola vez caducará al año, a contar desde el día siguiente al de haber sido notificada en forma al interesado su reconocimiento."
+ },
+ {
+  "n": 30013,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a156",
+  "pregunta": "Según la LGSS, el accidente que sufre el trabajador al ir o al volver del lugar de trabajo:",
+  "opciones": [
+   "Tiene la consideración de accidente de trabajo",
+   "Es siempre accidente no laboral",
+   "Solo es accidente de trabajo si ocurre en vehículo de la empresa",
+   "No está protegido por la Seguridad Social"
+  ],
+  "correcta": 0,
+  "cita": "Tendrán la consideración de accidentes de trabajo: a) Los que sufra el trabajador al ir o al volver del lugar de trabajo."
+ },
+ {
+  "n": 30014,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a156",
+  "pregunta": "Se entiende por accidente de trabajo toda lesión corporal que el trabajador sufra:",
+  "opciones": [
+   "Durante su tiempo libre",
+   "Solo dentro del centro de trabajo",
+   "Con ocasión o por consecuencia del trabajo que ejecute por cuenta ajena",
+   "En cualquier lugar, siempre que esté afiliado"
+  ],
+  "correcta": 2,
+  "cita": "Se entiende por accidente de trabajo toda lesión corporal que el trabajador sufra con ocasión o por consecuencia del trabajo que ejecute por cuenta ajena."
+ },
+ {
+  "n": 30015,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a157",
+  "pregunta": "La enfermedad profesional es la contraída a consecuencia del trabajo por cuenta ajena en las actividades:",
+  "opciones": [
+   "Que el trabajador declare como peligrosas",
+   "Que se especifiquen en el cuadro aprobado reglamentariamente y provocada por los elementos o sustancias que en él se indiquen",
+   "Que determine el médico de familia en cada caso",
+   "Que figuren en el convenio colectivo"
+  ],
+  "correcta": 1,
+  "cita": "por enfermedad profesional la contraída a consecuencia del trabajo ejecutado por cuenta ajena en las actividades que se especifiquen en el cuadro que se apruebe por las disposiciones de aplicación y desarrollo de esta ley, y que esté provocada por la acción de los elementos o sustancias que en dicho cuadro se indiquen"
+ },
+ {
+  "n": 30016,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LGSS",
+  "articulo": "a169",
+  "pregunta": "Duración máxima ordinaria de la incapacidad temporal por enfermedad o accidente (prorrogable por otros 180 días)",
+  "opciones": [
+   "545 días",
+   "730 días",
+   "180 días",
+   "365 días"
+  ],
+  "correcta": 3,
+  "cita": "el trabajador reciba asistencia sanitaria de la Seguridad Social y esté impedido para el trabajo, con una duración máxima de trescientos sesenta y cinco días, prorrogables por otros ciento ochenta días cuando se presuma que durante ellos puede el trabajador ser dado de alta médica por curación."
+ },
+ {
+  "n": 30017,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a172",
+  "pregunta": "Para el subsidio por incapacidad temporal derivada de enfermedad común se exige un período mínimo de cotización de:",
+  "opciones": [
+   "Quince años",
+   "Ciento ochenta días dentro de los cinco años inmediatamente anteriores al hecho causante",
+   "Un año dentro de los dos últimos años",
+   "Ninguno"
+  ],
+  "correcta": 1,
+  "cita": "general exigida en el artículo 165.1, acrediten los siguientes períodos mínimos de cotización: a) En caso de enfermedad común, ciento ochenta días dentro de los cinco años inmediatamente anteriores al hecho causante."
+ },
+ {
+  "n": 30018,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a172",
+  "pregunta": "Para el subsidio por incapacidad temporal derivada de accidente, sea o no de trabajo, o de enfermedad profesional:",
+  "opciones": [
+   "No se exige ningún período previo de cotización",
+   "Se exigen ciento ochenta días cotizados",
+   "Se exige un año cotizado",
+   "Se exigen treinta días cotizados en el último mes"
+  ],
+  "correcta": 0,
+  "cita": "b) En caso de accidente, sea o no de trabajo, y de enfermedad profesional, no se exigirá ningún período previo de cotización."
+ },
+ {
+  "n": 30019,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a173",
+  "pregunta": "En caso de enfermedad común o accidente no laboral, el subsidio por incapacidad temporal se abona:",
+  "opciones": [
+   "Desde el primer día, a cargo del trabajador",
+   "A partir del decimosexto día, sin cargo al empresario",
+   "A partir del cuarto día de baja, a cargo del empresario del día cuarto al decimoquinto",
+   "Desde el día siguiente a la baja, a cargo de la entidad gestora"
+  ],
+  "correcta": 2,
+  "cita": "En caso de enfermedad común o de accidente no laboral, el subsidio se abonará a partir del cuarto día de baja en el trabajo, si bien desde el día cuarto al decimoquinto de baja, ambos inclusive, el subsidio estará a cargo del empresario."
+ },
+ {
+  "n": 30020,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a173",
+  "pregunta": "En caso de accidente de trabajo o enfermedad profesional, el subsidio por incapacidad temporal se abona:",
+  "opciones": [
+   "Desde el mismo día de la baja, a cargo de la entidad gestora",
+   "A partir del cuarto día de baja",
+   "Desde el día siguiente al de la baja, siendo a cargo del empresario el salario íntegro del día de la baja",
+   "A partir del decimosexto día de baja"
+  ],
+  "correcta": 2,
+  "cita": "En caso de accidente de trabajo o enfermedad profesional, el subsidio se abonará desde el día siguiente al de la baja en el trabajo, estando a cargo del empresario el salario íntegro correspondiente al día de la baja."
+ },
+ {
+  "n": 30021,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LGSS",
+  "articulo": "a174",
+  "pregunta": "Plazo máximo del subsidio por incapacidad temporal, desde la baja médica, cuyo transcurso extingue el derecho",
+  "opciones": [
+   "180 días naturales",
+   "730 días naturales",
+   "545 días naturales",
+   "365 días naturales"
+  ],
+  "correcta": 2,
+  "cita": "El derecho al subsidio se extinguirá por el transcurso del plazo máximo de quinientos cuarenta y cinco días naturales desde la baja médica; por alta médica por curación o mejoría que permita al trabajador realizar su trabajo habitual;"
+ },
+ {
+  "n": 30022,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a194",
+  "pregunta": "¿Cuál de los siguientes NO es un grado de incapacidad permanente según la LGSS?",
+  "opciones": [
+   "Incapacidad permanente parcial",
+   "Incapacidad permanente absoluta",
+   "Gran incapacidad",
+   "Incapacidad permanente temporal"
+  ],
+  "correcta": 3,
+  "cita": "acuerdo con la lista de enfermedades que se apruebe reglamentariamente en los siguientes grados: a) Incapacidad permanente parcial. b) Incapacidad permanente total. c) Incapacidad permanente absoluta. d) Gran incapacidad."
+ },
+ {
+  "n": 30023,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a205",
+  "pregunta": "Para la pensión de jubilación contributiva se exige un período mínimo de cotización de:",
+  "opciones": [
+   "Diez años en cualquier momento",
+   "Treinta y cinco años en todo caso",
+   "Quince años, de los cuales al menos dos dentro de los quince años inmediatamente anteriores al momento de causar el derecho",
+   "Veinte años, cinco de ellos en los últimos diez"
+  ],
+  "correcta": 2,
+  "cita": "b) Tener cubierto un período mínimo de cotización de quince años, de los cuales al menos dos deberán estar comprendidos dentro de los quince años inmediatamente anteriores al momento de causar el derecho."
+ },
+ {
+  "n": 30024,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a212",
+  "pregunta": "El derecho al reconocimiento de la pensión de jubilación:",
+  "opciones": [
+   "Prescribe a los cuatro años",
+   "Es imprescriptible",
+   "Caduca al año",
+   "Prescribe a los cinco años"
+  ],
+  "correcta": 1,
+  "cita": "El derecho al reconocimiento de la pensión de jubilación es imprescriptible, sin perjuicio de que, en los supuestos de jubilación en situación de alta, los efectos de tal reconocimiento se produzcan a partir de los tres meses anteriores a la fecha en que se presente la correspondiente solicitud."
+ },
+ {
+  "n": 30025,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a216",
+  "pregunta": "En caso de muerte causada por accidente de trabajo o enfermedad profesional se reconoce, además de las demás prestaciones por muerte y supervivencia:",
+  "opciones": [
+   "Una pensión de jubilación anticipada",
+   "Un subsidio de incapacidad temporal",
+   "Una indemnización a tanto alzado",
+   "Una prestación por desempleo"
+  ],
+  "correcta": 2,
+  "cita": "En caso de muerte causada por accidente de trabajo o enfermedad profesional se reconocerá, además, una indemnización a tanto alzado."
+ },
+ {
+  "n": 30026,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LGSS",
+  "articulo": "a218",
+  "pregunta": "El auxilio por defunción tiene por finalidad:",
+  "opciones": [
+   "Hacer frente a los gastos de sepelio de quien los haya soportado",
+   "Financiar la formación de los huérfanos",
+   "Pagar las deudas del fallecido con la Seguridad Social",
+   "Sustituir el salario del fallecido"
+  ],
+  "correcta": 0,
+  "cita": "El fallecimiento del causante dará derecho a la percepción inmediata de un auxilio por defunción para hacer frente a los gastos de sepelio a quien los haya soportado."
+ }
+]
