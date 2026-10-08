@@ -1054,5 +1054,421 @@
   ],
   "correcta": 1,
   "cita": "c) Las sanciones por un importe superior a 300.000 euros prescriben a los tres años."
+ },
+ {
+  "n": 14067,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a7-11",
+  "pregunta": "Según el artículo 79, los derechos y libertades consagrados en la Constitución y en los Tratados internacionales en que España sea parte:",
+  "opciones": [
+   "Se aplican en Internet con carácter supletorio",
+   "No se aplican a los prestadores de servicios de Internet",
+   "Son plenamente aplicables en Internet",
+   "Solo se aplican en Internet si lo prevé una ley específica"
+  ],
+  "correcta": 2,
+  "cita": "Los derechos y libertades consagrados en la Constitución y en los Tratados y Convenios Internacionales en que España sea parte son plenamente aplicables en Internet."
+ },
+ {
+  "n": 14068,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-2",
+  "pregunta": "Los proveedores de servicios de Internet, en garantía del derecho a la neutralidad de Internet, proporcionarán:",
+  "opciones": [
+   "Prioridad a los servicios de las Administraciones Públicas",
+   "Acceso gratuito a todos los usuarios",
+   "Una oferta transparente de servicios sin discriminación por motivos técnicos o económicos",
+   "Una tarifa única fijada por la Administración"
+  ],
+  "correcta": 2,
+  "cita": "Los proveedores de servicios de Internet proporcionarán una oferta transparente de servicios sin discriminación por motivos técnicos o económicos."
+ },
+ {
+  "n": 14069,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-3",
+  "pregunta": "El derecho de acceso universal a Internet se reconoce:",
+  "opciones": [
+   "A todos, independientemente de su condición personal, social, económica o geográfica",
+   "Solo a los residentes en núcleos urbanos",
+   "Solo a los mayores de edad",
+   "Solo a quienes contraten un servicio de banda ancha"
+  ],
+  "correcta": 0,
+  "cita": "Todos tienen derecho a acceder a Internet independientemente de su condición personal, social, económica o geográfica."
+ },
+ {
+  "n": 14070,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-4",
+  "pregunta": "Los usuarios tienen derecho a la seguridad de las comunicaciones que transmitan y reciban a través de Internet. Este derecho se denomina:",
+  "opciones": [
+   "Derecho a la seguridad digital",
+   "Derecho a la desconexión digital",
+   "Derecho al olvido",
+   "Derecho a la neutralidad de Internet"
+  ],
+  "correcta": 0,
+  "cita": "Los usuarios tienen derecho a la seguridad de las comunicaciones que transmitan y reciban a través de Internet."
+ },
+ {
+  "n": 14071,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-5",
+  "pregunta": "Las Administraciones Públicas incorporarán materias relacionadas con la garantía de los derechos digitales y la protección de datos en los temarios de las pruebas de acceso a:",
+  "opciones": [
+   "Los cuerpos superiores y aquellos en que habitualmente se desempeñen funciones que impliquen el acceso a datos personales",
+   "Solo los cuerpos docentes",
+   "Solo los cuerpos de informática",
+   "Todos los cuerpos sin excepción"
+  ],
+  "correcta": 0,
+  "cita": "Las Administraciones Públicas incorporarán a los temarios de las pruebas de acceso a los cuerpos superiores y a aquéllos en que habitualmente se desempeñen funciones que impliquen el acceso a datos personales materias relacionadas con la garantía de los derechos digitales y en particular el de protección de datos."
+ },
+ {
+  "n": 14072,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-6",
+  "pregunta": "La utilización o difusión de imágenes o información personal de menores en redes sociales que pueda implicar una intromisión ilegítima en sus derechos fundamentales determinará la intervención de:",
+  "opciones": [
+   "La Agencia Española de Protección de Datos exclusivamente",
+   "El Ministerio Fiscal",
+   "El Defensor del Pueblo",
+   "Los servicios sociales municipales"
+  ],
+  "correcta": 1,
+  "cita": "equivalentes que puedan implicar una intromisión ilegítima en sus derechos fundamentales determinará la intervención del Ministerio Fiscal, que instará las medidas cautelares y de protección previstas en la Ley Orgánica 1/1996, de 15 de"
+ },
+ {
+  "n": 14073,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-7",
+  "pregunta": "Cuando los medios de comunicación digitales deban atender una solicitud de rectificación, deberán publicar en sus archivos digitales:",
+  "opciones": [
+   "Una nueva noticia en portada durante un mes",
+   "Un aviso aclaratorio, en lugar visible junto con la información original",
+   "La supresión de la noticia original",
+   "Una comunicación a la AEPD"
+  ],
+  "correcta": 1,
+  "cita": "Cuando los medios de comunicación digitales deban atender la solicitud de rectificación formulada contra ellos deberán proceder a la publicación en sus archivos digitales de un aviso aclaratorio que ponga de manifiesto que la noticia original no refleja la situación actual del individuo."
+ },
+ {
+  "n": 14074,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-8",
+  "pregunta": "Toda persona puede solicitar motivadamente a los medios digitales la inclusión de un aviso de actualización junto a las noticias que le conciernan cuando:",
+  "opciones": [
+   "No haya dado su consentimiento a la publicación",
+   "La información original no refleje su situación actual por circunstancias posteriores a la publicación, causándole un perjuicio",
+   "La noticia tenga más de un año de antigüedad",
+   "La noticia contenga su fotografía"
+  ],
+  "correcta": 1,
+  "cita": "Toda persona tiene derecho a solicitar motivadamente de los medios de comunicación digitales la inclusión de un aviso de actualización suficientemente visible junto a las noticias que le conciernan cuando la información contenida en la noticia original no refleje su situación actual como consecuencia de circunstancias que hubieran tenido lugar después de la publicación, causándole un perjuicio."
+ },
+ {
+  "n": 14075,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-9",
+  "pregunta": "El empleador puede acceder a los contenidos derivados del uso de los medios digitales facilitados a los trabajadores:",
+  "opciones": [
+   "Solo con el consentimiento expreso de cada trabajador",
+   "Sin limitación alguna",
+   "Solo con autorización judicial",
+   "A los solos efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de los dispositivos"
+  ],
+  "correcta": 3,
+  "cita": "El empleador podrá acceder a los contenidos derivados del uso de medios digitales facilitados a los trabajadores a los solos efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de dichos dispositivos."
+ },
+ {
+  "n": 14076,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-9",
+  "pregunta": "En la elaboración de los criterios de utilización de los dispositivos digitales en el ámbito laboral:",
+  "opciones": [
+   "Deberán participar los representantes de los trabajadores",
+   "Deben votar todos los trabajadores",
+   "Debe intervenir la Inspección de Trabajo",
+   "Solo interviene la dirección de la empresa"
+  ],
+  "correcta": 0,
+  "cita": "En su elaboración deberán participar los representantes de los trabajadores."
+ },
+ {
+  "n": 14077,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-10",
+  "pregunta": "El derecho a la desconexión digital de los trabajadores y empleados públicos tiene por finalidad garantizar, fuera del tiempo de trabajo:",
+  "opciones": [
+   "El pago de horas extraordinarias",
+   "La reducción de su jornada laboral",
+   "El respeto de su tiempo de descanso, permisos y vacaciones, así como de su intimidad personal y familiar",
+   "El uso de dispositivos propios en el trabajo"
+  ],
+  "correcta": 2,
+  "cita": "Los trabajadores y los empleados públicos tendrán derecho a la desconexión digital a fin de garantizar, fuera del tiempo de trabajo legal o convencionalmente establecido, el respeto de su tiempo de descanso, permisos y vacaciones, así como de su intimidad personal y familiar."
+ },
+ {
+  "n": 14078,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-10",
+  "pregunta": "La política interna sobre el ejercicio del derecho a la desconexión digital la elabora:",
+  "opciones": [
+   "El empleador, previa audiencia de los representantes de los trabajadores",
+   "La autoridad laboral",
+   "La Agencia Española de Protección de Datos",
+   "Cada trabajador individualmente"
+  ],
+  "correcta": 0,
+  "cita": "El empleador, previa audiencia de los representantes de los trabajadores, elaborará una política interna dirigida a trabajadores, incluidos los que ocupen puestos directivos, en la que definirán las"
+ },
+ {
+  "n": 14079,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-11",
+  "pregunta": "En ningún caso se admite la instalación de sistemas de grabación de sonidos ni de videovigilancia en:",
+  "opciones": [
+   "Los almacenes",
+   "Los accesos al centro de trabajo",
+   "Las zonas de atención al público",
+   "Lugares destinados al descanso o esparcimiento, como vestuarios, aseos o comedores"
+  ],
+  "correcta": 3,
+  "cita": "En ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de videovigilancia en lugares destinados al descanso o esparcimiento de los trabajadores o los empleados públicos, tales como vestuarios, aseos, comedores y análogos."
+ },
+ {
+  "n": 14080,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a8-11",
+  "pregunta": "La grabación de sonidos en el lugar de trabajo solo se admite:",
+  "opciones": [
+   "En ningún caso",
+   "Cuando lo autorice el comité de empresa",
+   "Cuando resulten relevantes los riesgos para la seguridad de instalaciones, bienes y personas, respetando la proporcionalidad y la intervención mínima",
+   "Siempre que se informe a los trabajadores"
+  ],
+  "correcta": 2,
+  "cita": "a los referidos en los apartados anteriores para la grabación de sonidos en el lugar de trabajo se admitirá únicamente cuando resulten relevantes los riesgos para la seguridad de las instalaciones, bienes y personas derivados de la actividad que se desarrolle en el centro de trabajo y siempre respetando el principio de proporcionalidad, el de intervención mínima y las garantías previstas en los apartados anteriores."
+ },
+ {
+  "n": 14081,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-2",
+  "pregunta": "Antes de usar sistemas de geolocalización para el control laboral, los empleadores deben informar a los trabajadores de forma:",
+  "opciones": [
+   "Solo si lo pide el trabajador",
+   "Genérica en el convenio colectivo",
+   "Expresa, clara e inequívoca, sobre la existencia y características de los dispositivos",
+   "Verbal y posterior a su instalación"
+  ],
+  "correcta": 2,
+  "cita": "Con carácter previo, los empleadores habrán de informar de forma expresa, clara e inequívoca a los trabajadores o los empleados públicos y, en su caso, a sus representantes, acerca de la existencia y características de estos dispositivos."
+ },
+ {
+  "n": 14082,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-3",
+  "pregunta": "Según el artículo 91, pueden establecer garantías adicionales de los derechos digitales en el ámbito laboral:",
+  "opciones": [
+   "Las ordenanzas municipales",
+   "Los contratos individuales exclusivamente",
+   "Los reglamentos internos sin negociación",
+   "Los convenios colectivos"
+  ],
+  "correcta": 3,
+  "cita": "Los convenios colectivos podrán establecer garantías adicionales de los derechos y libertades relacionados con el tratamiento de los datos personales de los trabajadores y la salvaguarda de derechos digitales en el ámbito laboral."
+ },
+ {
+  "n": 14083,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-4",
+  "pregunta": "Cuando un centro educativo vaya a publicar datos personales de menores a través de redes sociales, deberá contar con:",
+  "opciones": [
+   "La autorización del Consejo Escolar",
+   "La autorización de la AEPD",
+   "El consentimiento del menor o de sus representantes legales, conforme al artículo 7",
+   "Solo la comunicación previa a las familias"
+  ],
+  "correcta": 2,
+  "cita": "Cuando dicha publicación o difusión fuera a tener lugar a través de servicios de redes sociales o servicios equivalentes deberán contar con el consentimiento del menor o sus representantes legales, conforme a lo prescrito en el artículo 7 de esta ley orgánica."
+ },
+ {
+  "n": 14084,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-5",
+  "pregunta": "El derecho al olvido en búsquedas de Internet permite que los motores de búsqueda eliminen de los resultados obtenidos a partir del nombre de una persona los enlaces que contengan información:",
+  "opciones": [
+   "Solo si es falsa",
+   "Solo si fue publicada por un medio de comunicación",
+   "Cualquiera que sea su contenido",
+   "Inadecuada, inexacta, no pertinente, no actualizada o excesiva"
+  ],
+  "correcta": 3,
+  "cita": "Toda persona tiene derecho a que los motores de búsqueda en Internet eliminen de las listas de resultados que se obtuvieran tras una búsqueda efectuada a partir de su nombre los enlaces publicados que contuvieran información relativa a esa persona cuando fuesen inadecuados, inexactos, no pertinentes, no actualizados o excesivos o hubieren devenido como tales por el transcurso del tiempo, teniendo en cuenta los fines para los"
+ },
+ {
+  "n": 14085,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-5",
+  "pregunta": "El ejercicio del derecho al olvido en búsquedas de Internet:",
+  "opciones": [
+   "Obliga a borrar la información del sitio web de origen",
+   "Impide cualquier acceso a la información",
+   "No impide el acceso a la información en el sitio web mediante otros criterios de búsqueda distintos del nombre",
+   "Solo puede ejercerse ante un juez"
+  ],
+  "correcta": 2,
+  "cita": "El ejercicio del derecho al que se refiere este artículo no impedirá el acceso a la información publicada en el sitio web a través de la utilización de otros criterios de búsqueda distintos del nombre de quien ejerciera el derecho."
+ },
+ {
+  "n": 14086,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-6",
+  "pregunta": "Los datos personales que una persona haya facilitado para su publicación en redes sociales deben suprimirse:",
+  "opciones": [
+   "Solo con orden judicial",
+   "Transcurridos cinco años",
+   "Solo si son inexactos",
+   "A su simple solicitud"
+  ],
+  "correcta": 3,
+  "cita": "Toda persona tiene derecho a que sean suprimidos, a su simple solicitud, los datos personales que hubiese facilitado para su publicación por servicios de redes sociales y servicios de la sociedad de la información equivalentes."
+ },
+ {
+  "n": 14087,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-6",
+  "pregunta": "Si el afectado pide suprimir datos facilitados a una red social durante su minoría de edad, el prestador deberá suprimirlos:",
+  "opciones": [
+   "Solo si acredita un perjuicio",
+   "Solo si los datos son excesivos",
+   "Sin dilación, por su simple solicitud y sin necesidad de otras circunstancias",
+   "Previo informe del Ministerio Fiscal"
+  ],
+  "correcta": 2,
+  "cita": "que hubiesen sido facilitados al servicio, por él o por terceros, durante su minoría de edad, el prestador deberá proceder sin dilación a su supresión por su simple solicitud, sin necesidad de que concurran las circunstancias mencionadas en el apartado 2."
+ },
+ {
+  "n": 14088,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-7",
+  "pregunta": "El derecho de portabilidad en redes sociales permite a los usuarios:",
+  "opciones": [
+   "Transferir su perfil a cualquier persona",
+   "Recibir y transmitir los contenidos que hubieran facilitado, y que se transmitan directamente a otro prestador si es técnicamente posible",
+   "Acceder a los datos de otros usuarios",
+   "Exigir una indemnización por el uso de sus datos"
+  ],
+  "correcta": 1,
+  "cita": "usuarios de servicios de redes sociales y servicios de la sociedad de la información equivalentes tendrán derecho a recibir y transmitir los contenidos que hubieran facilitado a los prestadores de dichos servicios, así como a que los prestadores los transmitan directamente a otro prestador designado por el usuario, siempre que sea técnicamente posible."
+ },
+ {
+  "n": 14089,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-8",
+  "pregunta": "La prohibición expresa del fallecido de acceder a sus contenidos digitales NO afecta al derecho de los herederos a acceder:",
+  "opciones": [
+   "A todos los contenidos",
+   "A sus perfiles en redes sociales",
+   "A los contenidos que pudiesen formar parte del caudal relicto",
+   "A sus mensajes privados"
+  ],
+  "correcta": 2,
+  "cita": "Dicha prohibición no afectará al derecho de los herederos a acceder a los contenidos que pudiesen formar parte del caudal relicto."
+ },
+ {
+  "n": 14090,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-8",
+  "pregunta": "El responsable de una red social al que se comunique la solicitud de eliminación del perfil de una persona fallecida deberá:",
+  "opciones": [
+   "Convertir el perfil en conmemorativo en todo caso",
+   "Proceder sin dilación a la eliminación",
+   "Mantener el perfil durante un año",
+   "Pedir autorización judicial"
+  ],
+  "correcta": 1,
+  "cita": "El responsable del servicio al que se le comunique, con arreglo al párrafo anterior, la solicitud de eliminación del perfil, deberá proceder sin dilación a la misma."
+ },
+ {
+  "n": 14091,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-9",
+  "pregunta": "El Gobierno presentará ante la comisión parlamentaria correspondiente del Congreso un informe sobre la evolución de los derechos digitales con periodicidad:",
+  "opciones": [
+   "Trimestral",
+   "Anual",
+   "Semestral",
+   "Bienal"
+  ],
+  "correcta": 1,
+  "cita": "El Gobierno presentará un informe anual ante la comisión parlamentaria correspondiente del Congreso de los Diputados en el que se dará cuenta de la evolución de los derechos, garantías y mandatos contemplados en el presente Título y de las medidas necesarias para promover su impulso y efectividad."
+ },
+ {
+  "n": 14092,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "LOPDGDD",
+  "articulo": "a9-9",
+  "pregunta": "Entre las medidas del Plan de Acceso a Internet para superar las brechas digitales figura:",
+  "opciones": [
+   "La gratuidad universal de la fibra óptica",
+   "La creación de un operador público de telecomunicaciones",
+   "La prohibición de las redes sociales a menores",
+   "Un bono social de acceso a Internet"
+  ],
+  "correcta": 3,
+  "cita": "y de entornos familiares y sociales económicamente desfavorecidos mediante, entre otras medidas, un bono social de acceso a Internet;"
  }
 ]
