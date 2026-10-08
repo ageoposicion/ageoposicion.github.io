@@ -1,0 +1,514 @@
+[
+ {
+  "n": 23001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aprimero",
+  "pregunta": "Como regla general, el personal incluido en la Ley 53/1984:",
+  "opciones": [
+   "No puede compatibilizar sus actividades con el desempeño de un segundo puesto de trabajo, cargo o actividad en el sector público, salvo en los supuestos previstos en ella",
+   "Puede desempeñar hasta dos puestos públicos sin autorización",
+   "Puede desempeñar libremente un segundo puesto en el sector público",
+   "Solo necesita comunicar el segundo puesto a su superior"
+  ],
+  "correcta": 0,
+  "cita": "El personal comprendido en el ámbito de aplicación de esta Ley no podrá compatibilizar sus actividades con el desempeño, por sí o mediante sustitución, de un segundo puesto de trabajo, cargo o actividad en el sector público, salvo en los supuestos previstos en la misma."
+ },
+ {
+  "n": 23002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aprimero",
+  "pregunta": "A efectos de la Ley 53/1984, se entiende por remuneración:",
+  "opciones": [
+   "Cualquier derecho de contenido económico derivado, directa o indirectamente, de una prestación o servicio personal",
+   "Solo las cantidades superiores al salario mínimo",
+   "Solo las retribuciones periódicas fijas",
+   "Solo el sueldo base"
+  ],
+  "correcta": 0,
+  "cita": "A los efectos del párrafo anterior, se entenderá por remuneración cualquier derecho de contenido económico derivado, directa o indirectamente, de una prestación o servicio personal, sea su cuantía fija o variable y su devengo periódico u ocasional."
+ },
+ {
+  "n": 23003,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aprimero",
+  "pregunta": "El desempeño de un puesto por el personal incluido en la Ley 53/1984 es incompatible, en cualquier caso, con el ejercicio de cualquier cargo, profesión o actividad que:",
+  "opciones": [
+   "Se realice fuera del horario de trabajo",
+   "Pueda impedir o menoscabar el estricto cumplimiento de sus deberes o comprometer su imparcialidad o independencia",
+   "Se desarrolle en otra provincia",
+   "Esté retribuido con más de 600 euros mensuales"
+  ],
+  "correcta": 1,
+  "cita": "será incompatible con el ejercicio de cualquier cargo, profesión o actividad, público o privado, que pueda impedir o menoscabar el estricto cumplimiento de sus deberes o comprometer su imparcialidad o independencia."
+ },
+ {
+  "n": 23004,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "asegundo",
+  "pregunta": "La Ley 53/1984 se aplica al personal de las empresas en que la participación del capital de las Administraciones Públicas sea:",
+  "opciones": [
+   "Superior al 25 por 100",
+   "Superior al 50 por 100",
+   "Del 100 por 100 exclusivamente",
+   "Igual o superior al 10 por 100"
+  ],
+  "correcta": 1,
+  "cita": "h) El personal que preste servicios en Empresas en que la participación del capital, directa o indirectamente, de las Administraciones Públicas sea superior al 50 por 100."
+ },
+ {
+  "n": 23005,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "asegundo",
+  "pregunta": "Dentro del ámbito de la Ley 53/1984 se incluye todo el personal:",
+  "opciones": [
+   "Excepto el personal laboral",
+   "Solo funcionario de carrera",
+   "Cualquiera que sea la naturaleza jurídica de la relación de empleo",
+   "Solo funcionario y eventual"
+  ],
+  "correcta": 2,
+  "cita": "En el ámbito delimitado en el apartado anterior se entenderá incluido todo el personal, cualquiera que sea la naturaleza jurídica de la relación de empleo."
+ },
+ {
+  "n": 23006,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "atercero",
+  "pregunta": "Para ejercer una segunda actividad en el sector público es indispensable:",
+  "opciones": [
+   "La conformidad del jefe inmediato",
+   "La simple comunicación posterior",
+   "El silencio de la Administración durante un mes",
+   "La previa y expresa autorización de compatibilidad"
+  ],
+  "correcta": 3,
+  "cita": "Para el ejercicio de la segunda actividad será indispensable la previa y expresa autorización de compatibilidad, que no supondrá modificación de la jornada de trabajo y horario de los dos puestos y que se condiciona a su estricto cumplimiento en ambos."
+ },
+ {
+  "n": 23007,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "atercero",
+  "pregunta": "La autorización de compatibilidad para un segundo puesto público:",
+  "opciones": [
+   "Permite acumular las jornadas en el segundo puesto",
+   "No supone modificación de la jornada de trabajo y horario de los dos puestos",
+   "Exime del control horario en ambos puestos",
+   "Permite reducir la jornada del puesto principal"
+  ],
+  "correcta": 1,
+  "cita": "Para el ejercicio de la segunda actividad será indispensable la previa y expresa autorización de compatibilidad, que no supondrá modificación de la jornada de trabajo y horario de los dos puestos y que se condiciona a su estricto cumplimiento en ambos."
+ },
+ {
+  "n": 23008,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "atercero",
+  "pregunta": "El desempeño de un puesto de trabajo en el sector público es, con carácter general:",
+  "opciones": [
+   "Compatible con la pensión si no supera el salario mínimo",
+   "Compatible con la pensión durante los dos primeros años",
+   "Incompatible con la percepción de pensión de jubilación o retiro por Derechos Pasivos o por un régimen público y obligatorio de Seguridad Social",
+   "Compatible con cualquier pensión de jubilación"
+  ],
+  "correcta": 2,
+  "cita": "El desempeño de un puesto de trabajo en el sector público, delimitado en el párrafo segundo del apartado 1 del artículo primero, es incompatible con la percepción de pensión de jubilación o retiro por Derechos Pasivos o por cualquier régimen de Seguridad Social público y obligatorio."
+ },
+ {
+  "n": 23009,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "atercero",
+  "pregunta": "Mientras dura el desempeño de un puesto en el sector público, la percepción de la pensión de jubilación:",
+  "opciones": [
+   "Se extingue definitivamente",
+   "Se mantiene íntegra",
+   "Se reduce a la mitad",
+   "Queda en suspenso, sin que ello afecte a sus actualizaciones"
+  ],
+  "correcta": 3,
+  "cita": "La percepción de las pensiones indicadas quedará en suspenso por el tiempo que dure el desempeño de dicho puesto, sin que ello afecte a sus actualizaciones."
+ },
+ {
+  "n": 23010,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "acuarto",
+  "pregunta": "Puede autorizarse la compatibilidad para un puesto en la esfera docente como Profesor universitario asociado en régimen de dedicación:",
+  "opciones": [
+   "No superior a la de tiempo parcial",
+   "A tiempo completo",
+   "Exclusiva",
+   "De al menos treinta horas semanales"
+  ],
+  "correcta": 0,
+  "cita": "Podrá autorizarse la compatibilidad, cumplidas las restantes exigencias de esta ley, para el desempeño de un puesto de trabajo en la esfera docente como Profesor universitario asociado en régimen de dedicación no superior a la de tiempo parcial."
+ },
+ {
+  "n": 23011,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aquinto",
+  "pregunta": "El personal incluido en la Ley 53/1984 puede compatibilizar sus actividades con el cargo de miembro de una Corporación local:",
+  "opciones": [
+   "En ningún caso",
+   "Solo si renuncia a toda retribución en la Administración",
+   "Salvo que desempeñe en ella cargos retribuidos en régimen de dedicación exclusiva",
+   "Solo en municipios de menos de 5.000 habitantes"
+  ],
+  "correcta": 2,
+  "cita": "b) Miembros de las Corporaciones locales, salvo que desempeñen en las mismas cargos retribuidos en régimen de dedicación exclusiva."
+ },
+ {
+  "n": 23012,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aquinto",
+  "pregunta": "En los supuestos de compatibilidad con cargos electivos del artículo 5, como regla general:",
+  "opciones": [
+   "Se percibe la suma de ambas reducida en un 30 por 100",
+   "Se perciben íntegras ambas retribuciones",
+   "No puede percibirse ninguna retribución por el cargo electivo ni dietas",
+   "Sólo puede percibirse la retribución de una de las dos actividades, sin perjuicio de las dietas, indemnizaciones o asistencias de la otra"
+  ],
+  "correcta": 3,
+  "cita": "En los supuestos comprendidos en este artículo sólo podrá percibirse la retribución correspondiente a una de las dos actividades, sin perjuicio de las dietas, indemnizaciones o asistencias que correspondan por la otra."
+ },
+ {
+  "n": 23013,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aseptimo",
+  "pregunta": "Para autorizar la compatibilidad de actividades públicas, la cantidad total percibida por ambos puestos no puede superar la remuneración prevista en los Presupuestos Generales del Estado para el cargo de:",
+  "opciones": [
+   "Secretario de Estado",
+   "Ministro",
+   "Director General",
+   "Subdirector General"
+  ],
+  "correcta": 2,
+  "cita": "de actividades públicas el que la cantidad total percibida por ambos puestos o actividades no supere la remuneración prevista en los Presupuestos Generales del Estado para el cargo de Director General, ni supere la correspondiente al principal, estimada en régimen de dedicación ordinaria,"
+ },
+ {
+  "n": 23014,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aseptimo",
+  "pregunta": "Para los funcionarios del grupo A, la cantidad total percibida por ambos puestos compatibles no puede superar la del principal incrementada en:",
+  "opciones": [
+   "Un 30 por 100",
+   "Un 20 por 100",
+   "Un 40 por 100",
+   "Un 50 por 100"
+  ],
+  "correcta": 0,
+  "cita": "la correspondiente al principal, estimada en régimen de dedicación ordinaria, incrementada en: – Un 30 por 100, para los funcionarios del grupo A o personal de nivel equivalente. – Un 35 por 100, para los funcionarios del grupo B o personal de"
+ },
+ {
+  "n": 23015,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aseptimo",
+  "pregunta": "Para los funcionarios del grupo C, la cantidad total percibida por ambos puestos compatibles no puede superar la del principal incrementada en:",
+  "opciones": [
+   "Un 30 por 100",
+   "Un 35 por 100",
+   "Un 50 por 100",
+   "Un 40 por 100"
+  ],
+  "correcta": 3,
+  "cita": "equivalente. – Un 35 por 100, para los funcionarios del grupo B o personal de nivel equivalente. – Un 40 por 100, para los funcionarios del grupo C o personal de nivel equivalente. – Un 45 por 100, para los funcionarios del grupo D o personal"
+ },
+ {
+  "n": 23016,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aseptimo",
+  "pregunta": "Los servicios prestados en el segundo puesto o actividad compatible:",
+  "opciones": [
+   "Se computan doble a efectos de derechos pasivos",
+   "No se computan a efectos de trienios ni de derechos pasivos",
+   "Se computan a efectos de trienios",
+   "Dan derecho a pagas extraordinarias en ambos puestos"
+  ],
+  "correcta": 1,
+  "cita": "Los servicio prestados en el segundo puesto o actividad no se computarán a efectos de trienios ni de derechos pasivos, pudiendo suspenderse la cotización a este último efecto."
+ },
+ {
+  "n": 23017,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aseptimo",
+  "pregunta": "En caso de compatibilidad, las pagas extraordinarias y las prestaciones de carácter familiar:",
+  "opciones": [
+   "No se perciben por ninguno",
+   "Sólo pueden percibirse por uno de los puestos",
+   "Se perciben por ambos puestos",
+   "Se perciben por el puesto mejor retribuido y la mitad por el otro"
+  ],
+  "correcta": 1,
+  "cita": "Las pagas extraordinarias, así como las prestaciones de carácter familiar, sólo podrán percibirse por uno de los puestos, cualquiera que sea su naturaleza."
+ },
+ {
+  "n": 23018,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aoctavo",
+  "pregunta": "El personal que, en representación del sector público, pertenezca a Consejos de Administración de entidades o empresas:",
+  "opciones": [
+   "Percibe la retribución de consejero si no supera la del puesto principal",
+   "Percibe íntegra la retribución de consejero",
+   "Sólo puede percibir las dietas o indemnizaciones que correspondan por su asistencia",
+   "No puede percibir ninguna cantidad"
+  ],
+  "correcta": 2,
+  "cita": "a Consejos de Administración u órganos de gobierno de Entidades o Empresas públicas o privadas, sólo podrá percibir las dietas o indemnizaciones que correspondan por su asistencia a los mismos, ajustándose en su cuantía al régimen general previsto para las Administraciones Públicas."
+ },
+ {
+  "n": 23019,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aoctavo",
+  "pregunta": "Salvo autorización excepcional, no se puede pertenecer a más de:",
+  "opciones": [
+   "Dos Consejos de Administración u órganos de gobierno",
+   "Un Consejo de Administración",
+   "Tres Consejos de Administración",
+   "Cinco Consejos de Administración"
+  ],
+  "correcta": 0,
+  "cita": "No se podrá pertenecer a más de dos Consejos de Administración u órganos de gobierno a que se refiere el apartado anterior, salvo que excepcionalmente se autorice para supuestos concretos mediante acuerdo del Gobierno, órgano competente de la Comunidad Autónoma o Pleno de la Corporación Local correspondiente."
+ },
+ {
+  "n": 23020,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "adiez",
+  "pregunta": "Si quien accede a un nuevo puesto público incompatible con el que venía desempeñando no ejerce la opción en el plazo de toma de posesión:",
+  "opciones": [
+   "Se le declara en suspensión de funciones",
+   "Pierde ambos puestos",
+   "Se entiende que opta por el puesto anterior",
+   "Se entiende que opta por el nuevo puesto, pasando a excedencia voluntaria en el que venía desempeñando"
+  ],
+  "correcta": 3,
+  "cita": "A falta de opción en el plazo señalado se entenderá que optan por el nuevo puesto, pasando a la situación de excedencia voluntaria en los que vinieran desempeñando."
+ },
+ {
+  "n": 23021,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LINC",
+  "articulo": "adiez",
+  "pregunta": "Plazo, dentro del plazo de toma de posesión, para instar la autorización de compatibilidad cuando se accede a un puesto susceptible de ella",
+  "opciones": [
+   "El mes siguiente a la toma de posesión",
+   "Los 15 primeros días",
+   "Los 10 primeros días",
+   "Los 5 primeros días"
+  ],
+  "correcta": 2,
+  "cita": "Si se tratara de puestos susceptibles de compatibilidad, previa autorización, deberán instarla en los diez primeros días del aludido plazo de toma de posesión, entendiéndose éste prorrogado en tanto recae resolución."
+ },
+ {
+  "n": 23022,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "adoce",
+  "pregunta": "El personal incluido en la Ley 53/1984 no puede ejercer actividades privadas en los asuntos en que haya intervenido por razón del puesto público en:",
+  "opciones": [
+   "Los dos últimos años",
+   "El último año",
+   "Los cinco últimos años",
+   "Los seis últimos meses"
+  ],
+  "correcta": 0,
+  "cita": "dependencia o al servicio de Entidades o particulares, en los asuntos en que esté interviniendo, haya intervenido en los dos últimos años o tenga que intervenir por razón del puesto público."
+ },
+ {
+  "n": 23023,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "adoce",
+  "pregunta": "Está prohibida la participación en el capital de empresas concesionarias o contratistas del sector público cuando sea superior al:",
+  "opciones": [
+   "50 por 100",
+   "25 por 100",
+   "5 por 100",
+   "10 por 100"
+  ],
+  "correcta": 3,
+  "cita": "d) La participación superior al 10 por 100 en el capital de las Empresas o Sociedades a que se refiere el párrafo anterior."
+ },
+ {
+  "n": 23024,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "atrece",
+  "pregunta": "No puede reconocerse compatibilidad para actividades privadas a quien tenga autorizado un segundo puesto público cuando:",
+  "opciones": [
+   "Lo solicite fuera del horario de trabajo",
+   "La suma de jornadas de ambos sea igual o superior a la máxima en las Administraciones Públicas",
+   "El segundo puesto sea docente",
+   "Ambos puestos sean de la misma Administración"
+  ],
+  "correcta": 1,
+  "cita": "No podrá reconocerse compatibilidad alguna para actividades privadas a quienes se les hubiere autorizado la compatibilidad para un segundo puesto o actividad públicos, siempre que la suma de jornadas de ambos sea igual o superior a la máxima en las Administraciones Públicas."
+ },
+ {
+  "n": 23025,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LINC",
+  "articulo": "acatorce",
+  "pregunta": "Plazo para dictar la resolución motivada sobre el reconocimiento de compatibilidad para actividades privadas",
+  "opciones": [
+   "15 días",
+   "1 mes",
+   "2 meses",
+   "3 meses"
+  ],
+  "correcta": 2,
+  "cita": "La resolución motivada reconociendo la compatibilidad o declarando la incompatibilidad, que se dictará en el plazo de dos meses, corresponde al Ministerio de la Presidencia, a propuesta del Subsecretario del Departamento"
+ },
+ {
+  "n": 23026,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "acatorce",
+  "pregunta": "Los reconocimientos de compatibilidad para actividades privadas, en caso de cambio de puesto en el sector público:",
+  "opciones": [
+   "Se mantienen en todo caso",
+   "Quedan automáticamente sin efecto",
+   "Se prorrogan durante seis meses",
+   "Se convierten en autorización para el nuevo puesto"
+  ],
+  "correcta": 1,
+  "cita": "Los reconocimientos de compatibilidad no podrán modificar la jornada de trabajo y horario del interesado y quedarán automáticamente sin efecto en caso de cambio de puesto en el sector público."
+ },
+ {
+  "n": 23027,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aquince",
+  "pregunta": "Según la Ley 53/1984, el personal a su servicio:",
+  "opciones": [
+   "Puede usar su condición pública como mérito profesional",
+   "No puede invocar o hacer uso de su condición pública para el ejercicio de actividad mercantil, industrial o profesional",
+   "Puede invocarla si tiene autorización de compatibilidad",
+   "Puede usarla en actividades mercantiles fuera de su provincia"
+  ],
+  "correcta": 1,
+  "cita": "El personal a que se refiere esta Ley no podrá invocar o hacer uso de su condición pública para el ejercicio de actividad mercantil, industrial o profesional."
+ },
+ {
+  "n": 23028,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "adieciocho",
+  "pregunta": "Las resoluciones de compatibilidad se inscriben en:",
+  "opciones": [
+   "Los Registros de Personal correspondientes",
+   "El Registro Mercantil",
+   "El Boletín Oficial del Estado",
+   "El Registro de Intereses del Congreso"
+  ],
+  "correcta": 0,
+  "cita": "Todas las resoluciones de compatibilidad para desempeñar un segundo puesto o actividad en el sector público o el ejercicio de actividades privadas se inscribirán en los Registros de Personal correspondientes."
+ },
+ {
+  "n": 23029,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "adiecinueve",
+  "pregunta": "¿Cuál de las siguientes actividades está exceptuada del régimen de incompatibilidades?",
+  "opciones": [
+   "La participación en Tribunales calificadores de pruebas selectivas para ingreso en las Administraciones Públicas",
+   "El ejercicio de la abogacía en asuntos del propio Departamento",
+   "La pertenencia a Consejos de Administración de empresas privadas relacionadas con el Departamento",
+   "El desempeño de cargos en empresas contratistas del sector público"
+  ],
+  "correcta": 0,
+  "cita": "c) La participación en Tribunales calificadores de pruebas selectivas para ingreso en las Administraciones Públicas."
+ },
+ {
+  "n": 23030,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "adiecinueve",
+  "pregunta": "Está exceptuado del régimen de incompatibilidades el dictado de cursos o conferencias en centros oficiales de formación de funcionarios cuando no tenga carácter permanente o habitual ni suponga más de:",
+  "opciones": [
+   "Ciento cincuenta horas al año",
+   "Setenta y cinco horas al año",
+   "Cien horas al año",
+   "Cincuenta horas al año"
+  ],
+  "correcta": 1,
+  "cita": "a la formación de funcionarios o profesorado, cuando no tenga carácter permanente o habitual ni supongan más de setenta y cinco horas al año, así como la preparación para el acceso a la función pública en los casos y forma que"
+ },
+ {
+  "n": 23031,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "adiecinueve",
+  "pregunta": "La producción y creación literaria, artística, científica y técnica está exceptuada del régimen de incompatibilidades:",
+  "opciones": [
+   "Solo si no está retribuida",
+   "Siempre que no se origine como consecuencia de una relación de empleo o de prestación de servicios",
+   "Nunca",
+   "Solo con autorización previa"
+  ],
+  "correcta": 1,
+  "cita": "f) La producción y creación literaria, artística, científica y técnica, así como las publicaciones derivadas de aquéllas, siempre que no se originen como consecuencia de una relación de empleo o de prestación de servicios."
+ },
+ {
+  "n": 23032,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LINC",
+  "articulo": "aveinte",
+  "pregunta": "La autorización o reconocimiento de compatibilidad queda automáticamente revocada si, por incumplir el deber de residencia, asistencia o diligencia, la falta se califica como:",
+  "opciones": [
+   "Grave o muy grave",
+   "Muy grave únicamente",
+   "Cualquier falta, incluida la leve",
+   "Leve"
+  ],
+  "correcta": 0,
+  "cita": "Las correspondientes faltas serán calificadas y sancionadas conforme a las normas que se contengan en el régimen disciplinario aplicable, quedando automáticamente revocada la autorización o reconocimiento de compatibilidad si en la resolución correspondiente se califica de falta grave o muy grave."
+ }
+]
