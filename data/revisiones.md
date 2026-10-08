@@ -67,3 +67,12 @@ Muestra (semilla 6006): 21001, 21002, 21003, 21005, 21009, 21012, 21018, 21019, 
 Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
 En la Ley 7/1985 se dejó fuera el art. 28 (texto suprimido y vuelto a dotar de contenido, con notas
 mezcladas) y el art. 45 (posible solapamiento con el 24 bis), para no dar respuestas discutibles.
+
+## Aviso sobre textos con reforma pendiente (8-10-2026)
+
+Los textos consolidados del BOE de la Ley 39/2006 (dependencia) y del RDLeg 1/2013 (discapacidad) ya
+incluyen la reforma de la Ley 4/2026, de 1 de octubre, que entra en vigor el 23-10-2026. En el lote 27
+solo se pregunta lo que dice lo mismo antes y después de esa reforma (se evitan, por ejemplo, el plazo de
+resolución del art. 28.1 y el catálogo de servicios del art. 15). Se comprobó también el banco entero: las
+únicas preguntas sobre artículos con esa vigencia futura (TREBEP art. 49, n.º 7066-7071; LGS art. 2,
+n.º 24001) se refieren a apartados que no cambian.

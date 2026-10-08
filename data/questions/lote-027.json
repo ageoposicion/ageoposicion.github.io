@@ -1,0 +1,274 @@
+[
+ {
+  "n": 27001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a1",
+  "pregunta": "La Ley 39/2006 crea, para garantizar la promoción de la autonomía personal y la atención a las personas en situación de dependencia:",
+  "opciones": [
+   "El Instituto de Mayores y Servicios Sociales",
+   "El Sistema para la Autonomía y Atención a la Dependencia",
+   "La Agencia Estatal de Dependencia",
+   "El Fondo Nacional de Asistencia Social"
+  ],
+  "correcta": 1,
+  "cita": "y atención a las personas en situación de dependencia, en los términos establecidos en las leyes, mediante la creación de un Sistema para la Autonomía y Atención a la Dependencia, con la colaboración y participación de todas las Administraciones Públicas y la garantía por la"
+ },
+ {
+  "n": 27002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a6",
+  "pregunta": "El Sistema para la Autonomía y Atención a la Dependencia se configura como:",
+  "opciones": [
+   "Un fondo de financiación sin centros propios",
+   "Una red de utilización pública que integra, de forma coordinada, centros y servicios, públicos y privados",
+   "Una red exclusivamente pública de centros estatales",
+   "Un organismo autónomo de la Seguridad Social"
+  ],
+  "correcta": 1,
+  "cita": "El Sistema se configura como una red de utilización pública que integra, de forma coordinada, centros y servicios, públicos y privados."
+ },
+ {
+  "n": 27003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a6",
+  "pregunta": "La integración de un centro o servicio en el Sistema para la Autonomía y Atención a la Dependencia:",
+  "opciones": [
+   "Obliga a su gestión directa por la Administración General del Estado",
+   "Implica su conversión en centro público",
+   "Supone su transferencia a la Comunidad Autónoma",
+   "No supone alteración alguna en el régimen jurídico de su titularidad, administración, gestión y dependencia orgánica"
+  ],
+  "correcta": 3,
+  "cita": "La integración en el Sistema para la Autonomía y Atención a la Dependencia de los centros y servicios a que se refiere este artículo no supondrá alteración alguna en el régimen jurídico de su titularidad, administración, gestión y dependencia orgánica."
+ },
+ {
+  "n": 27004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a7",
+  "pregunta": "El nivel de protección mínimo del Sistema para la Autonomía y Atención a la Dependencia lo establece:",
+  "opciones": [
+   "Cada Ayuntamiento",
+   "El Consejo de Estado",
+   "Cada Diputación provincial",
+   "La Administración General del Estado"
+  ],
+  "correcta": 3,
+  "cita": "La protección de la situación de dependencia por parte del Sistema se prestará en los términos establecidos en esta Ley y de acuerdo con los siguientes niveles: 1.º El nivel de protección mínimo establecido por la Administración General del Estado en aplicación del artícu­lo 9."
+ },
+ {
+  "n": 27005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a8",
+  "pregunta": "En la composición del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia tienen mayoría:",
+  "opciones": [
+   "Los representantes de las comunidades autónomas",
+   "Las organizaciones de personas usuarias",
+   "Los representantes de las entidades locales",
+   "Los representantes de la Administración General del Estado"
+  ],
+  "correcta": 0,
+  "cita": "En la composición del Consejo Territorial tendrán mayoría los representantes de las comunidades autónomas."
+ },
+ {
+  "n": 27006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a5",
+  "pregunta": "Para ser titular de los derechos de la Ley 39/2006 es requisito, con carácter general, residir en territorio español y haberlo hecho durante:",
+  "opciones": [
+   "Diez años, cinco de ellos inmediatamente anteriores",
+   "Un año inmediatamente anterior a la solicitud",
+   "Dos años inmediatamente anteriores a la solicitud",
+   "Cinco años, de los cuales dos deberán ser inmediatamente anteriores a la solicitud"
+  ],
+  "correcta": 3,
+  "cita": "c) Residir en territorio español y haberlo hecho durante cinco años, de los cuales dos deberán ser inmediatamente anteriores a la fecha de presentación de la solicitud."
+ },
+ {
+  "n": 27007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a17",
+  "pregunta": "La prestación económica vinculada al servicio se reconoce:",
+  "opciones": [
+   "Solo a las personas con Grado I",
+   "Como complemento de cualquier servicio público",
+   "En todo caso, a elección del beneficiario",
+   "Únicamente cuando no sea posible el acceso a un servicio público o concertado de atención y cuidado"
+  ],
+  "correcta": 3,
+  "cita": "económica, que tendrá carácter periódico, se reconocerá, en los términos que se establezca, únicamente cuando no sea posible el acceso a un servicio público o concertado de atención y cuidado, en función del grado de dependencia y de la capacidad económica del beneficiario, de acuerdo con"
+ },
+ {
+  "n": 27008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a17",
+  "pregunta": "La prestación económica vinculada al servicio está, en todo caso:",
+  "opciones": [
+   "Limitada a un pago único",
+   "Destinada a retribuir al cuidador familiar",
+   "Libre de cualquier justificación",
+   "Vinculada a la adquisición de un servicio"
+  ],
+  "correcta": 3,
+  "cita": "Esta prestación económica de carácter personal estará, en todo caso, vinculada a la adquisición de un servicio."
+ },
+ {
+  "n": 27009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a26",
+  "pregunta": "Según la Ley 39/2006, la dependencia moderada corresponde al:",
+  "opciones": [
+   "Grado II",
+   "Grado I",
+   "Grado III",
+   "Grado 0"
+  ],
+  "correcta": 1,
+  "cita": "La situación de dependencia se clasificará en los siguientes grados: a) Grado I. Dependencia moderada: cuando la persona necesita ayuda para realizar varias actividades de la vida diaria, al menos una vez al día o tiene necesidades de apoyo intermitente o limitado para su autonomía personal."
+ },
+ {
+  "n": 27010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a26",
+  "pregunta": "Según la Ley 39/2006, la gran dependencia corresponde al:",
+  "opciones": [
+   "Grado IV",
+   "Grado II",
+   "Grado III",
+   "Grado I"
+  ],
+  "correcta": 2,
+  "cita": "c) Grado III. Gran dependencia: cuando la persona necesita ayuda para realizar varias actividades de la vida diaria varias veces"
+ },
+ {
+  "n": 27011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a26",
+  "pregunta": "La dependencia severa (Grado II) se da cuando la persona necesita ayuda para realizar varias actividades de la vida diaria:",
+  "opciones": [
+   "Al menos una vez al día",
+   "Dos o tres veces al día, sin requerir el apoyo permanente de una persona cuidadora",
+   "Varias veces al día con apoyo indispensable y continuo de otra persona",
+   "Una vez a la semana"
+  ],
+  "correcta": 1,
+  "cita": "b) Grado II. Dependencia severa: cuando la persona necesita ayuda para realizar varias actividades de la vida diaria dos o tres veces al día, pero no requiere el apoyo permanente de una persona cuidadora o tiene necesidades de apoyo extenso para su autonomía personal."
+ },
+ {
+  "n": 27012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a27",
+  "pregunta": "Los órganos de valoración de la situación de dependencia los determinan:",
+  "opciones": [
+   "El Ministerio de Sanidad",
+   "Las comunidades autónomas",
+   "El Instituto Nacional de la Seguridad Social",
+   "Los Ayuntamientos"
+  ],
+  "correcta": 1,
+  "cita": "Las comunidades autónomas determinarán los órganos de valoración de la situación de dependencia, que emitirán un dictamen sobre el grado de dependencia con especificación de los apoyos y cuidados que la persona pueda requerir."
+ },
+ {
+  "n": 27013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a27",
+  "pregunta": "El baremo para valorar los grados de dependencia se acuerda en el Consejo Territorial y se aprueba por:",
+  "opciones": [
+   "Las Cortes Generales mediante ley",
+   "Orden del Ministerio de Hacienda",
+   "Cada comunidad autónoma mediante decreto",
+   "El Gobierno mediante real decreto"
+  ],
+  "correcta": 3,
+  "cita": "Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia para su posterior aprobación por el Gobierno mediante real decreto. Dicho baremo tendrá entre sus referentes la Clasificación Internacional del Funcionamiento, la Discapacidad y la Salud (CIF) adoptada por"
+ },
+ {
+  "n": 27014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a28",
+  "pregunta": "El reconocimiento de la situación de dependencia se efectúa mediante resolución de:",
+  "opciones": [
+   "El Juzgado de Primera Instancia",
+   "La Administración Autonómica correspondiente a la residencia del solicitante, con validez en todo el territorio del Estado",
+   "El Ayuntamiento del domicilio, con validez solo municipal",
+   "La Administración General del Estado"
+  ],
+  "correcta": 1,
+  "cita": "El reconocimiento de la situación de dependencia se efectuará mediante resolución expedida por la Administración Autonómica correspondiente a la residencia del solicitante y tendrá validez en todo el territorio del Estado."
+ },
+ {
+  "n": 27015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a28",
+  "pregunta": "Los servicios de valoración de la situación de dependencia y la gestión de sus prestaciones económicas:",
+  "opciones": [
+   "Corresponden a las mutuas colaboradoras",
+   "Se efectúan directamente por las Administraciones Públicas, sin poder ser objeto de delegación, contratación o concierto con entidades privadas",
+   "Pueden contratarse con entidades privadas",
+   "Se conciertan con entidades del tercer sector"
+  ],
+  "correcta": 1,
+  "cita": "previstas en la presente ley, se efectuarán directamente por las Administraciones Públicas, no pudiendo ser objeto de delegación, contratación o concierto con entidades privadas."
+ },
+ {
+  "n": 27016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LDEP",
+  "articulo": "a30",
+  "pregunta": "El grado de dependencia es revisable, entre otras causas, por:",
+  "opciones": [
+   "El transcurso de un año en todo caso",
+   "La jubilación de la persona cuidadora",
+   "Mejoría o empeoramiento de la situación de dependencia, o error de diagnóstico o en la aplicación del baremo",
+   "El cambio de domicilio dentro del mismo municipio"
+  ],
+  "correcta": 2,
+  "cita": "o de oficio por las Administraciones públicas competentes, por alguna de las siguientes causas: a) Mejoría o empeoramiento de la situación de dependencia. b) Error de diagnóstico o en la aplicación del correspondiente baremo."
+ },
+ {
+  "n": 27017,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LDEP",
+  "articulo": "a46",
+  "pregunta": "Plazo de prescripción de las infracciones muy graves de la Ley 39/2006",
+  "opciones": [
+   "5 años",
+   "4 años",
+   "3 años",
+   "1 año"
+  ],
+  "correcta": 1,
+  "cita": "c) A los cuatro años, las muy graves."
+ }
+]
