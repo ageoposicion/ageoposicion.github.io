@@ -1,0 +1,850 @@
+[
+ {
+  "n": 21001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a1",
+  "pregunta": "Según la Ley 7/1985, son entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos:",
+  "opciones": [
+   "Las Comunidades Autónomas",
+   "Las Provincias",
+   "Las Comarcas",
+   "Los Municipios"
+  ],
+  "correcta": 3,
+  "cita": "Los Municipios son entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos, que institucionalizan y gestionan con autonomía los intereses propios de las correspondientes colectividades."
+ },
+ {
+  "n": 21002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a3",
+  "pregunta": "¿Cuál de las siguientes NO es una Entidad Local territorial según el artículo 3.1 de la Ley 7/1985?",
+  "opciones": [
+   "La Isla en los archipiélagos balear y canario",
+   "La Comarca",
+   "El Municipio",
+   "La Provincia"
+  ],
+  "correcta": 1,
+  "cita": "Son Entidades Locales territoriales: a) El Municipio. b) La Provincia. c) La Isla en los archipiélagos balear y canario."
+ },
+ {
+  "n": 21003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a3",
+  "pregunta": "Las Mancomunidades de Municipios, según la Ley 7/1985:",
+  "opciones": [
+   "No son Entidades Locales",
+   "Gozan de la condición de Entidades Locales, sin ser Entidades Locales territoriales",
+   "Son órganos desconcentrados de la Provincia",
+   "Son Entidades Locales territoriales"
+  ],
+  "correcta": 1,
+  "cita": "Gozan, asimismo, de la condición de Entidades Locales: a) Las Comarcas u otras entidades que agrupen varios Municipios, instituidas por las Comunidades Autónomas de conformidad con esta Ley y los correspondientes Estatutos de Autonomía. b) Las Áreas Metropolitanas. c) Las Mancomunidades de Municipios."
+ },
+ {
+  "n": 21004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a4",
+  "pregunta": "¿Cuál de las siguientes potestades corresponde en todo caso a los municipios, las provincias y las islas?",
+  "opciones": [
+   "La potestad de revisión de oficio de sus actos y acuerdos",
+   "La potestad jurisdiccional",
+   "La potestad de indulto",
+   "La potestad legislativa"
+  ],
+  "correcta": 0,
+  "cita": "g) La potestad de revisión de oficio de sus actos y acuerdos."
+ },
+ {
+  "n": 21005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a6",
+  "pregunta": "El control de legalidad de los acuerdos y actos de las entidades locales lo ejercen:",
+  "opciones": [
+   "El Ministerio de Hacienda",
+   "Las Diputaciones provinciales",
+   "Los Tribunales",
+   "Las Delegaciones del Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "Los Tribunales ejercen el control de legalidad de los acuerdos y actos de las entidades locales."
+ },
+ {
+  "n": 21006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a7",
+  "pregunta": "Las competencias de las Entidades Locales son:",
+  "opciones": [
+   "Solo propias",
+   "Propias o atribuidas por delegación",
+   "Solo delegadas por el Estado",
+   "Exclusivas, compartidas o concurrentes"
+  ],
+  "correcta": 1,
+  "cita": "Las competencias de las Entidades Locales son propias o atribuidas por delegación."
+ },
+ {
+  "n": 21007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a7",
+  "pregunta": "Las competencias propias de los Municipios, las Provincias y las Islas solo pueden ser determinadas por:",
+  "opciones": [
+   "Reglamento orgánico municipal",
+   "Orden ministerial",
+   "Acuerdo del Pleno de la Diputación",
+   "Ley"
+  ],
+  "correcta": 3,
+  "cita": "Las competencias propias de los Municipios, las Provincias, las Islas y demás Entidades Locales territoriales solo podrán ser determinadas por Ley y se ejercen en régimen de autonomía y bajo la propia responsabilidad, atendiendo siempre a la"
+ },
+ {
+  "n": 21008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a11",
+  "pregunta": "Son elementos del Municipio:",
+  "opciones": [
+   "El territorio, el Padrón y el Alcalde",
+   "El territorio, la población y la organización",
+   "El término municipal, los vecinos y la Diputación",
+   "La población, el presupuesto y el Pleno"
+  ],
+  "correcta": 1,
+  "cita": "Son elementos del Municipio el territorio, la población y la organización."
+ },
+ {
+  "n": 21009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a12",
+  "pregunta": "Según la Ley 7/1985, cada municipio pertenecerá:",
+  "opciones": [
+   "A una sola mancomunidad",
+   "A una o varias provincias",
+   "A una sola comarca",
+   "A una sola provincia"
+  ],
+  "correcta": 3,
+  "cita": "Cada municipio pertenecerá a una sola provincia."
+ },
+ {
+  "n": 21010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a13",
+  "pregunta": "La alteración de términos municipales:",
+  "opciones": [
+   "Corresponde regularla en exclusiva al Estado",
+   "No puede suponer en ningún caso modificación de los límites provinciales",
+   "No requiere audiencia de los municipios interesados",
+   "Puede modificar los límites provinciales si lo aprueba la Comunidad Autónoma"
+  ],
+  "correcta": 1,
+  "cita": "La creación o supresión de municipios, así como la alteración de términos municipales, se regularán por la legislación de las Comunidades Autónomas sobre régimen local, sin que la alteración de términos municipales pueda suponer, en ningún caso, modificación de los límites provinciales."
+ },
+ {
+  "n": 21011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a13",
+  "pregunta": "La creación de nuevos municipios solo puede realizarse sobre la base de núcleos de población territorialmente diferenciados de al menos:",
+  "opciones": [
+   "1.000 habitantes",
+   "4.000 habitantes",
+   "20.000 habitantes",
+   "5.000 habitantes"
+  ],
+  "correcta": 1,
+  "cita": "solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos 4.000 habitantes y siempre que los municipios resultantes sean financieramente sostenibles, cuenten con recursos"
+ },
+ {
+  "n": 21012,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LBRL",
+  "articulo": "a13",
+  "pregunta": "Tiempo, desde la adopción del convenio de fusión, durante el que el municipio resultante de una fusión no puede segregarse",
+  "opciones": [
+   "20 años",
+   "4 años",
+   "10 años",
+   "5 años"
+  ],
+  "correcta": 2,
+  "cita": "El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión."
+ },
+ {
+  "n": 21013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a14",
+  "pregunta": "Los cambios de denominación de los Municipios solo tienen carácter oficial cuando, tras ser anotados en el Registro estatal de entidades locales:",
+  "opciones": [
+   "Se publiquen en el «Boletín Oficial del Estado»",
+   "Los apruebe el Senado",
+   "Se publiquen en el boletín de la provincia",
+   "Los ratifique el Consejo de Estado"
+  ],
+  "correcta": 0,
+  "cita": "Los cambios de denominación de los Municipios solo tendrán carácter oficial cuando, tras haber sido anotados en un Registro creado por la Administración del Estado para la inscripción de todas las entidades a que se refiere la presente Ley, se publiquen en el «Boletín Oficial del Estado»."
+ },
+ {
+  "n": 21014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a15",
+  "pregunta": "Quien viva en varios municipios debe inscribirse en el Padrón:",
+  "opciones": [
+   "Del municipio que elija libremente",
+   "Únicamente del municipio en que habite durante más tiempo al año",
+   "De todos ellos",
+   "Del municipio en que haya nacido"
+  ],
+  "correcta": 1,
+  "cita": "Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año."
+ },
+ {
+  "n": 21015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a15",
+  "pregunta": "La condición de vecino de un municipio se adquiere:",
+  "opciones": [
+   "Al pagar el primer impuesto municipal",
+   "En el mismo momento de la inscripción en el Padrón",
+   "Tras un año de residencia",
+   "Al obtener la autorización del Alcalde"
+  ],
+  "correcta": 1,
+  "cita": "La condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón."
+ },
+ {
+  "n": 21016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a16",
+  "pregunta": "Las certificaciones de los datos del Padrón municipal tienen carácter de:",
+  "opciones": [
+   "Prueba de la nacionalidad española",
+   "Simple información sin valor probatorio",
+   "Documento privado",
+   "Documento público y fehaciente para todos los efectos administrativos"
+  ],
+  "correcta": 3,
+  "cita": "Las certificaciones que de dichos datos se expidan tendrán carácter de documento público y fehaciente para todos los efectos administrativos."
+ },
+ {
+  "n": 21017,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LBRL",
+  "articulo": "a16",
+  "pregunta": "Periodicidad de renovación de la inscripción padronal de los extranjeros no comunitarios sin autorización de residencia de larga duración",
+  "opciones": [
+   "Cada año",
+   "Cada 5 años",
+   "Cada 2 años",
+   "Cada 4 años"
+  ],
+  "correcta": 2,
+  "cita": "lo dispuesto en el artículo 15 por el tiempo que subsista el hecho que la motivó y, en todo caso, deberá ser objeto de renovación periódica cada dos años cuando se trate de la inscripción de extranjeros sin autorización de residencia de larga duración,"
+ },
+ {
+  "n": 21018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a17",
+  "pregunta": "La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde:",
+  "opciones": [
+   "Al Ayuntamiento",
+   "A la Diputación Provincial",
+   "A la Comunidad Autónoma",
+   "Al Instituto Nacional de Estadística"
+  ],
+  "correcta": 0,
+  "cita": "La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado."
+ },
+ {
+  "n": 21019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a18",
+  "pregunta": "La inscripción de los extranjeros en el padrón municipal:",
+  "opciones": [
+   "Les otorga el derecho de sufragio en las elecciones generales",
+   "Les atribuye la nacionalidad tras cinco años",
+   "Constituye prueba de su residencia legal en España",
+   "No constituye prueba de su residencia legal en España"
+  ],
+  "correcta": 3,
+  "cita": "La inscripción de los extranjeros en el padrón municipal no constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente, especialmente en materia de derechos y libertades de los extranjeros en España."
+ },
+ {
+  "n": 21020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a18",
+  "pregunta": "¿Cuál de los siguientes es un derecho de los vecinos según el artículo 18 de la Ley 7/1985?",
+  "opciones": [
+   "Pedir la consulta popular en los términos previstos en la ley",
+   "Elegir al Secretario del Ayuntamiento",
+   "Nombrar a los Tenientes de Alcalde",
+   "Aprobar las ordenanzas municipales"
+  ],
+  "correcta": 0,
+  "cita": "f) Pedir la consulta popular en los términos previstos en la ley."
+ },
+ {
+  "n": 21021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a19",
+  "pregunta": "Salvo en los municipios en régimen de Concejo Abierto, el gobierno y la administración municipal corresponden:",
+  "opciones": [
+   "Al ayuntamiento, integrado por el Alcalde y los Concejales",
+   "Al Pleno de la Diputación",
+   "Al Alcalde en exclusiva",
+   "A la asamblea vecinal"
+  ],
+  "correcta": 0,
+  "cita": "El Gobierno y la administración municipal, salvo en aquellos municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al ayuntamiento, integrado por el Alcalde y los Concejales."
+ },
+ {
+  "n": 21022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a19",
+  "pregunta": "Según la Ley 7/1985, el Alcalde es elegido:",
+  "opciones": [
+   "Por el Delegado del Gobierno",
+   "Por los Concejales o por los vecinos, en los términos de la legislación electoral general",
+   "Por la Comunidad Autónoma",
+   "Por el Pleno de la Diputación"
+  ],
+  "correcta": 1,
+  "cita": "Los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto, y el Alcalde es elegido por los Concejales o por los vecinos; todo ello en los términos que establezca la legislación electoral general."
+ },
+ {
+  "n": 21023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a20",
+  "pregunta": "¿Qué órganos existen en todos los ayuntamientos?",
+  "opciones": [
+   "El Alcalde y la Comisión Especial de Sugerencias y Reclamaciones",
+   "El Alcalde, la Junta de Gobierno Local y el Pleno",
+   "El Alcalde, los Tenientes de Alcalde y el Pleno",
+   "El Pleno y los órganos territoriales de gestión desconcentrada"
+  ],
+  "correcta": 2,
+  "cita": "La organización municipal responde a las siguientes reglas: a) El Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los ayuntamientos."
+ },
+ {
+  "n": 21024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a20",
+  "pregunta": "La Junta de Gobierno Local existe en todos los municipios con población superior a:",
+  "opciones": [
+   "5.000 habitantes",
+   "20.000 habitantes",
+   "1.000 habitantes",
+   "50.000 habitantes"
+  ],
+  "correcta": 0,
+  "cita": "b) La Junta de Gobierno Local existe en todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento."
+ },
+ {
+  "n": 21025,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a20",
+  "pregunta": "La Comisión Especial de Cuentas existe:",
+  "opciones": [
+   "Solo en los municipios de gran población",
+   "Solo en los municipios de más de 5.000 habitantes",
+   "En todos los municipios",
+   "Solo cuando lo acuerde el Pleno"
+  ],
+  "correcta": 2,
+  "cita": "e) La Comisión Especial de Cuentas existe en todos los municipios, de acuerdo con la estructura prevista en el artículo 116."
+ },
+ {
+  "n": 21026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a21",
+  "pregunta": "¿Cuál de las siguientes es una atribución del Alcalde?",
+  "opciones": [
+   "Dictar bandos",
+   "Aprobar las ordenanzas",
+   "Aprobar la plantilla de personal",
+   "Aprobar los presupuestos"
+  ],
+  "correcta": 0,
+  "cita": "d) Dirigir, inspeccionar e impulsar los servicios y obras municipales. e) Dictar bandos."
+ },
+ {
+  "n": 21027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a21",
+  "pregunta": "En las sesiones del Pleno que preside, el Alcalde decide los empates:",
+  "opciones": [
+   "Repitiendo la votación hasta tres veces",
+   "Remitiendo el asunto a la Junta de Gobierno Local",
+   "Por sorteo",
+   "Con voto de calidad"
+  ],
+  "correcta": 3,
+  "cita": "c) Convocar y presidir las sesiones del Pleno, salvo los supuestos previstos en esta ley y en la legislación electoral general, de la Junta de Gobierno Local, y de cualesquiera otros órganos municipales cuando así se establezca en disposición legal o reglamentaria, y decidir los empates con voto de calidad."
+ },
+ {
+  "n": 21028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a21",
+  "pregunta": "La jefatura de la Policía Municipal corresponde:",
+  "opciones": [
+   "A la Junta de Gobierno Local",
+   "Al Alcalde",
+   "Al Pleno",
+   "Al Delegado del Gobierno"
+  ],
+  "correcta": 1,
+  "cita": "i) Ejercer la jefatura de la Policía Municipal."
+ },
+ {
+  "n": 21029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a22",
+  "pregunta": "¿Cuál de las siguientes atribuciones corresponde al Pleno municipal?",
+  "opciones": [
+   "Dictar bandos",
+   "Desempeñar la jefatura superior de todo el personal",
+   "La aprobación del reglamento orgánico y de las ordenanzas",
+   "Ejercer la jefatura de la Policía Municipal"
+  ],
+  "correcta": 2,
+  "cita": "d) La aprobación del reglamento orgánico y de las ordenanzas."
+ },
+ {
+  "n": 21030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a22",
+  "pregunta": "La declaración de lesividad de los actos del Ayuntamiento corresponde:",
+  "opciones": [
+   "Al Alcalde",
+   "Al Secretario municipal",
+   "A la Junta de Gobierno Local",
+   "Al Pleno"
+  ],
+  "correcta": 3,
+  "cita": "k) La declaración de lesividad de los actos del Ayuntamiento."
+ },
+ {
+  "n": 21031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a23",
+  "pregunta": "La Junta de Gobierno Local se integra por el Alcalde y un número de Concejales:",
+  "opciones": [
+   "No superior a la mitad del número legal de los mismos",
+   "No inferior a la cuarta parte del número legal",
+   "No superior al tercio del número legal de los mismos",
+   "Igual al de Tenientes de Alcalde más dos"
+  ],
+  "correcta": 2,
+  "cita": "La Junta de Gobierno Local se integra por el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados y separados libremente por aquél, dando cuenta al Pleno."
+ },
+ {
+  "n": 21032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a23",
+  "pregunta": "Los Tenientes de Alcalde son designados y removidos:",
+  "opciones": [
+   "Por los vecinos en elección directa",
+   "Libremente por el Alcalde de entre los miembros de la Junta de Gobierno Local",
+   "Por la Junta de Gobierno Local",
+   "Por el Pleno por mayoría absoluta"
+  ],
+  "correcta": 1,
+  "cita": "Los Tenientes de Alcalde sustituyen, por el orden de su nombramiento y en los casos de vacante, ausencia o enfermedad, al Alcalde, siendo libremente designados y removidos por éste de entre los miembros de la Junta de Gobierno Local y, donde ésta no exista, de entre los Concejales."
+ },
+ {
+  "n": 21033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a24bis",
+  "pregunta": "Los entes de ámbito territorial inferior al Municipio regulados conforme al artículo 24 bis de la Ley 7/1985:",
+  "opciones": [
+   "Carecen de personalidad jurídica",
+   "Son Entidades Locales territoriales",
+   "Tienen personalidad jurídica plena",
+   "Los crea el Estado"
+  ],
+  "correcta": 0,
+  "cita": "Autónomas sobre régimen local regularán los entes de ámbito territorial inferior al Municipio, que carecerán de personalidad jurídica, como forma de organización desconcentrada del mismo para la administración de núcleos de"
+ },
+ {
+  "n": 21034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a26",
+  "pregunta": "¿Cuál de los siguientes servicios deben prestar todos los Municipios?",
+  "opciones": [
+   "Transporte colectivo urbano de viajeros",
+   "Instalaciones deportivas de uso público",
+   "Biblioteca pública",
+   "Alumbrado público"
+  ],
+  "correcta": 3,
+  "cita": "Los Municipios deberán prestar, en todo caso, los servicios siguientes: a) En todos los Municipios: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas."
+ },
+ {
+  "n": 21035,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a26",
+  "pregunta": "Los Municipios con población superior a 5.000 habitantes deben prestar, además de los servicios mínimos generales:",
+  "opciones": [
+   "Medio ambiente urbano",
+   "Transporte colectivo urbano de viajeros",
+   "Parque público, biblioteca pública y tratamiento de residuos",
+   "Prevención y extinción de incendios"
+  ],
+  "correcta": 2,
+  "cita": "b) En los Municipios con población superior a 5.000 habitantes, además: parque público, biblioteca pública y tratamiento de residuos."
+ },
+ {
+  "n": 21036,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a26",
+  "pregunta": "El transporte colectivo urbano de viajeros es un servicio obligatorio en los Municipios con población superior a:",
+  "opciones": [
+   "20.000 habitantes",
+   "50.000 habitantes",
+   "100.000 habitantes",
+   "5.000 habitantes"
+  ],
+  "correcta": 1,
+  "cita": "d) En los Municipios con población superior a 50.000 habitantes, además: transporte colectivo urbano de viajeros y medio ambiente urbano."
+ },
+ {
+  "n": 21037,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a26",
+  "pregunta": "En los municipios con población inferior a 20.000 habitantes, coordina la prestación de servicios como la recogida de residuos o el alumbrado público:",
+  "opciones": [
+   "La mancomunidad más próxima",
+   "La Delegación del Gobierno",
+   "La Comunidad Autónoma",
+   "La Diputación provincial o entidad equivalente"
+  ],
+  "correcta": 3,
+  "cita": "En los municipios con población inferior a 20.000 habitantes será la Diputación provincial o entidad equivalente la que coordinará la prestación de los siguientes servicios: a) Recogida y tratamiento de residuos."
+ },
+ {
+  "n": 21038,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LBRL",
+  "articulo": "a27",
+  "pregunta": "Duración mínima de la delegación de competencias del Estado o de las Comunidades Autónomas en los Municipios",
+  "opciones": [
+   "10 años",
+   "2 años",
+   "4 años",
+   "5 años"
+  ],
+  "correcta": 3,
+  "cita": "La delegación deberá determinar el alcance, contenido, condiciones y duración de ésta, que no podrá ser inferior a cinco años, así como el control de eficiencia que se reserve la Administración delegante y los medios"
+ },
+ {
+  "n": 21039,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a29",
+  "pregunta": "La constitución en Concejo Abierto de un municipio por su localización geográfica u otras circunstancias requiere decisión favorable del Ayuntamiento por mayoría de:",
+  "opciones": [
+   "Tres quintos de sus miembros",
+   "Dos tercios de sus miembros",
+   "La mitad más uno de sus miembros",
+   "Tres cuartas partes de sus miembros"
+  ],
+  "correcta": 1,
+  "cita": "La constitución en concejo abierto de los municipios a que se refiere el apartado b) del número anterior, requiere petición de la mayoría de los vecinos, decisión favorable por mayoría de dos tercios de los miembros del Ayuntamiento y aprobación por la Comunidad Autónoma."
+ },
+ {
+  "n": 21040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a29",
+  "pregunta": "En el régimen de Concejo Abierto, el gobierno y la administración municipales corresponden a:",
+  "opciones": [
+   "La Diputación provincial",
+   "Un Alcalde y una Junta de Gobierno Local",
+   "Un Pleno de cinco concejales",
+   "Un Alcalde y una asamblea vecinal de la que forman parte todos los electores"
+  ],
+  "correcta": 3,
+  "cita": "En el régimen de Concejo Abierto, el gobierno y la administración municipales corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores."
+ },
+ {
+  "n": 21041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a29",
+  "pregunta": "Pueden convocar a sus vecinos a Concejo Abierto para decisiones de especial trascendencia los alcaldes de municipios de menos de:",
+  "opciones": [
+   "250 residentes",
+   "100 residentes",
+   "1.000 residentes",
+   "500 residentes"
+  ],
+  "correcta": 1,
+  "cita": "No obstante lo anterior, los alcaldes de las corporaciones de municipios de menos de 100 residentes podrán convocar a sus vecinos a Concejo Abierto para decisiones de especial trascendencia para el municipio."
+ },
+ {
+  "n": 21042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a31",
+  "pregunta": "La Provincia es una entidad local determinada por:",
+  "opciones": [
+   "La agrupación de Municipios",
+   "La división de una Comunidad Autónoma por ley estatal",
+   "La agrupación de Comarcas",
+   "La agrupación de Islas"
+  ],
+  "correcta": 0,
+  "cita": "La Provincia es una entidad local determinada por la agrupación de Municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines."
+ },
+ {
+  "n": 21043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a31",
+  "pregunta": "El gobierno y la administración autónoma de la Provincia corresponden a:",
+  "opciones": [
+   "La Subdelegación del Gobierno",
+   "La Comunidad Autónoma",
+   "El Gobernador civil",
+   "La Diputación u otras Corporaciones de carácter representativo"
+  ],
+  "correcta": 3,
+  "cita": "El gobierno y la administración autónoma de la Provincia corresponden a la Diputación u otras Corporaciones de carácter representativo."
+ },
+ {
+  "n": 21044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a32",
+  "pregunta": "¿Qué órganos existen en todas las Diputaciones?",
+  "opciones": [
+   "El Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno",
+   "El Presidente, el Pleno y la Comisión Especial de Sugerencias",
+   "El Gobernador, el Pleno y la Junta de Portavoces",
+   "El Presidente y el Pleno solamente"
+  ],
+  "correcta": 0,
+  "cita": "El Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno existen en todas las Diputaciones."
+ },
+ {
+  "n": 21045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a33",
+  "pregunta": "La aprobación de los planes de carácter provincial corresponde:",
+  "opciones": [
+   "Al Pleno de la Diputación",
+   "A la Comunidad Autónoma",
+   "Al Presidente de la Diputación",
+   "A la Junta de Gobierno"
+  ],
+  "correcta": 0,
+  "cita": "d) La aprobación de los planes de carácter provincial."
+ },
+ {
+  "n": 21046,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a36",
+  "pregunta": "La Diputación garantizará en todo caso la prestación de los servicios de secretaría e intervención en los municipios de menos de:",
+  "opciones": [
+   "20.000 habitantes",
+   "5.000 habitantes",
+   "1.000 habitantes",
+   "500 habitantes"
+  ],
+  "correcta": 2,
+  "cita": "En todo caso garantizará en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención."
+ },
+ {
+  "n": 21047,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a36",
+  "pregunta": "La Diputación asume la prestación del servicio de prevención y extinción de incendios, cuando éstos no lo presten, en los municipios de menos de:",
+  "opciones": [
+   "1.000 habitantes",
+   "20.000 habitantes",
+   "50.000 habitantes",
+   "5.000 habitantes"
+  ],
+  "correcta": 1,
+  "cita": "En particular, asumirá la prestación de los servicios de tratamiento de residuos en los municipios de menos de 5.000 habitantes, y de prevención y extinción de incendios en los de menos de 20.000 habitantes, cuando éstos no procedan a su prestación."
+ },
+ {
+  "n": 21048,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a40",
+  "pregunta": "Las Comunidades Autónomas uniprovinciales y la Foral de Navarra:",
+  "opciones": [
+   "Ceden las competencias provinciales al Estado",
+   "Mantienen una Diputación Provincial separada",
+   "Asumen las competencias, medios y recursos que corresponden en el régimen ordinario a las Diputaciones Provinciales",
+   "Carecen de competencias provinciales"
+  ],
+  "correcta": 2,
+  "cita": "Las Comunidades Autónomas uniprovinciales y la Foral de Navarra asumen las competencias, medios y recursos que corresponden en el régimen ordinario a las Diputaciones Provinciales."
+ },
+ {
+  "n": 21049,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a41",
+  "pregunta": "Son órganos de gobierno, administración y representación de cada isla en Canarias:",
+  "opciones": [
+   "Las Diputaciones Provinciales",
+   "Las Mancomunidades interinsulares",
+   "Los Cabildos Insulares",
+   "Los Consejos Insulares"
+  ],
+  "correcta": 2,
+  "cita": "Los Cabildos Insulares Canarios, como órganos de gobierno, administración y representación de cada isla, se rigen por las normas contenidas en la disposición adicional decimocuarta de esta ley y"
+ },
+ {
+  "n": 21050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a42",
+  "pregunta": "No puede crearse una comarca si se oponen expresamente:",
+  "opciones": [
+   "La mitad de los Municipios afectados, cualquiera que sea su población",
+   "La Diputación provincial",
+   "Las dos quintas partes de los Municipios que debieran agruparse en ella, si representan al menos la mitad del censo electoral del territorio",
+   "Un solo Municipio afectado"
+  ],
+  "correcta": 2,
+  "cita": "En cualquier caso, no podrá crearse la comarca si a ello se oponen expresamente las dos quintas partes de los Municipios que debieran agruparse en ella, siempre que, en este caso, tales Municipios representen al menos la mitad del censo electoral del territorio correspondiente."
+ },
+ {
+  "n": 21051,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a43",
+  "pregunta": "Las áreas metropolitanas se crean, modifican y suprimen:",
+  "opciones": [
+   "Por el Estado mediante real decreto",
+   "Por acuerdo de los Ayuntamientos afectados",
+   "Por las Comunidades Autónomas mediante Ley",
+   "Por las Diputaciones provinciales"
+  ],
+  "correcta": 2,
+  "cita": "Las Comunidades Autónomas, previa audiencia de la Administración del Estado y de los Ayuntamientos y Diputaciones afectados, podrán crear, modificar y suprimir, mediante Ley, áreas metropolitanas, de acuerdo con lo dispuesto en sus respectivos Estatutos."
+ },
+ {
+  "n": 21052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a44",
+  "pregunta": "Los estatutos de una mancomunidad de municipios los aprueban:",
+  "opciones": [
+   "Los Alcaldes de los municipios promotores",
+   "Los Plenos de todos los ayuntamientos",
+   "La Diputación provincial",
+   "La Comunidad Autónoma por decreto"
+  ],
+  "correcta": 1,
+  "cita": "c) Los Plenos de todos los ayuntamientos aprueban los estatutos."
+ },
+ {
+  "n": 21053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a44",
+  "pregunta": "¿Pueden integrarse en la misma mancomunidad municipios de distintas comunidades autónomas?",
+  "opciones": [
+   "Solo si pertenecen a la misma provincia",
+   "Sí, con autorización del Senado",
+   "Sí, siempre que lo permitan las normativas de las comunidades autónomas afectadas",
+   "No, en ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "Podrán integrarse en la misma mancomunidad municipios pertenecientes a distintas comunidades autónomas, siempre que lo permitan las normativas de las comunidades autónomas afectadas."
+ }
+]
