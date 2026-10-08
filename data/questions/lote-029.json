@@ -1,0 +1,418 @@
+[
+ {
+  "n": 29001,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "RDAE",
+  "articulo": "a3",
+  "pregunta": "Plazo a partir del cual produce efectos la comunicación de una persona física no obligada de que quiere relacionarse (o dejar de relacionarse) electrónicamente con la Administración",
+  "opciones": [
+   "Desde el mes siguiente",
+   "Desde el día siguiente",
+   "Desde el 5.º día hábil siguiente a que el órgano tenga constancia",
+   "Desde el 10.º día hábil siguiente"
+  ],
+  "correcta": 2,
+  "cita": "En ambos casos, los efectos de la comunicación se producirán a partir del quinto día hábil siguiente a aquel en que el órgano competente para tramitar el procedimiento haya tenido constancia de la misma."
+ },
+ {
+  "n": 29002,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a4",
+  "pregunta": "¿Cuál de los siguientes canales de asistencia para el acceso a los servicios electrónicos figura expresamente en la enumeración del artículo 4 del RD 203/2021?",
+  "opciones": [
+   "Las notarías",
+   "Las entidades bancarias",
+   "Los colegios profesionales",
+   "Las redes sociales"
+  ],
+  "correcta": 3,
+  "cita": "b) Portales de internet y sedes electrónicas. c) Redes sociales."
+ },
+ {
+  "n": 29003,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a5",
+  "pregunta": "Según el RD 203/2021, el punto de acceso electrónico de titularidad pública que permite el acceso por internet a la información y, en su caso, a la sede electrónica, es:",
+  "opciones": [
+   "La Dirección Electrónica Habilitada única",
+   "La sede electrónica asociada",
+   "El Registro Electrónico General",
+   "El portal de internet"
+  ],
+  "correcta": 3,
+  "cita": "De acuerdo con lo previsto en el artículo 39 de la Ley 40/2015, de 1 de octubre, se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de derecho público que permite el acceso a través de internet a la"
+ },
+ {
+  "n": 29004,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a7",
+  "pregunta": "Según el RD 203/2021, las Administraciones Públicas contarán con:",
+  "opciones": [
+   "Una sede electrónica por cada órgano",
+   "Un Punto de Acceso General electrónico (PAGe)",
+   "Un registro en papel por cada unidad",
+   "Un único portal común para todas las Administraciones"
+  ],
+  "correcta": 1,
+  "cita": "Las Administraciones Públicas contarán con un Punto de Acceso General electrónico (PAGe)."
+ },
+ {
+  "n": 29005,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a7",
+  "pregunta": "La Dirección Electrónica Habilitada única está alojada en:",
+  "opciones": [
+   "La sede electrónica del PAGe de la Administración General del Estado",
+   "El portal de cada Ministerio",
+   "La sede electrónica de cada Ayuntamiento",
+   "El Registro Electrónico de Apoderamientos"
+  ],
+  "correcta": 0,
+  "cita": "En dicha sede electrónica está alojada la Dirección Electrónica Habilitada única a la que se refiere el artículo 43 de la Ley 39/2015, de 1 de octubre."
+ },
+ {
+  "n": 29006,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a8",
+  "pregunta": "La Carpeta Ciudadana del sector público estatal es:",
+  "opciones": [
+   "Un registro de funcionarios habilitados",
+   "El archivo electrónico único",
+   "Un portal de transparencia",
+   "El área personalizada de las personas interesadas en su relación con el sector público estatal"
+  ],
+  "correcta": 3,
+  "cita": "La Carpeta Ciudadana es el área personalizada de las personas interesadas a que se refiere el artículo 7.3 en su relación con el sector público estatal."
+ },
+ {
+  "n": 29007,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a8",
+  "pregunta": "Además del interesado, puede acceder a su Carpeta Ciudadana:",
+  "opciones": [
+   "Cualquier familiar sin apoderamiento",
+   "Cualquier empleado público",
+   "Quien ostente un poder general otorgado por el interesado e inscrito en el Registro Electrónico de Apoderamientos",
+   "Cualquier persona que conozca su DNI"
+  ],
+  "correcta": 2,
+  "cita": "b) Quien ostente un poder general previsto en el artículo 6.4.a) de la Ley 39/2015, de 1 de octubre, otorgado por el interesado e inscrito en el Registro Electrónico de Apoderamientos."
+ },
+ {
+  "n": 29008,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a9",
+  "pregunta": "Según el RD 203/2021, mediante la sede electrónica se realizan:",
+  "opciones": [
+   "Solo actuaciones informativas sin identificación",
+   "Solo la publicación de normas",
+   "Todas las actuaciones y trámites que requieran la identificación de la Administración y, en su caso, la identificación o firma de los interesados",
+   "Solo los pagos de tasas"
+  ],
+  "correcta": 2,
+  "cita": "Mediante dicha sede electrónica se realizarán todas las actuaciones y trámites referidos a procedimientos o a servicios que requieran la identificación de la Administración Pública y, en su caso, la identificación o firma electrónica de las personas interesadas."
+ },
+ {
+  "n": 29009,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a1-2",
+  "pregunta": "La sede electrónica asociada:",
+  "opciones": [
+   "Requiere autorización del Consejo de Ministros",
+   "Tiene consideración de sede electrónica a todos los efectos",
+   "Solo puede contener información",
+   "Carece de validez jurídica propia"
+  ],
+  "correcta": 1,
+  "cita": "La sede electrónica asociada tendrá consideración de sede electrónica a todos los efectos."
+ },
+ {
+  "n": 29010,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a1-2",
+  "pregunta": "En el caso de las entidades locales, el acto de creación de una sede electrónica se publica en:",
+  "opciones": [
+   "El boletín oficial de la provincia a la que pertenezca la entidad",
+   "El tablón de anuncios municipal exclusivamente",
+   "El Diario Oficial de la Unión Europea",
+   "El Boletín Oficial del Estado"
+  ],
+  "correcta": 0,
+  "cita": "En el caso de las entidades locales, el boletín oficial será el de la provincia al que pertenezca la entidad."
+ },
+ {
+  "n": 29011,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a1-4",
+  "pregunta": "El responsable de la integridad, veracidad y actualización de la información y servicios accesibles a través de una sede electrónica es:",
+  "opciones": [
+   "El proveedor tecnológico",
+   "Cada usuario que la consulta",
+   "El titular de la sede electrónica",
+   "La Agencia Española de Protección de Datos"
+  ],
+  "correcta": 2,
+  "cita": "El titular de la sede electrónica y, en su caso, de la sede electrónica asociada, será responsable de la integridad, veracidad y actualización de la información y los servicios de su competencia a los que pueda accederse a través de la misma."
+ },
+ {
+  "n": 29012,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a1-5",
+  "pregunta": "En el ámbito estatal, la determinación de una actuación administrativa como automatizada:",
+  "opciones": [
+   "Se aprueba por ley",
+   "No necesita ninguna resolución",
+   "Se autoriza por resolución del titular del órgano competente y se publica en la sede electrónica",
+   "Se aprueba por el Consejo de Ministros en todo caso"
+  ],
+  "correcta": 2,
+  "cita": "En el ámbito estatal la determinación de una actuación administrativa como automatizada se autorizará por resolución del titular del órgano administrativo competente por razón de la materia o del órgano ejecutivo competente del organismo o entidad de derecho público, según corresponda, y"
+ },
+ {
+  "n": 29013,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "RDAE",
+  "articulo": "a1-6",
+  "pregunta": "Plazo para atender el requerimiento de subsanación cuando un obligado a relacionarse electrónicamente no ha usado medios electrónicos (si no, se le tiene por desistido)",
+  "opciones": [
+   "1 mes",
+   "15 días",
+   "5 días",
+   "10 días"
+  ],
+  "correcta": 3,
+  "cita": "la correspondiente subsanación, advirtiendo al interesado, o en su caso su representante, que, de no ser atendido el requerimiento en el plazo de diez días, se le tendrá por desistido de su solicitud o se le podrá declarar decaído en su derecho al"
+ },
+ {
+  "n": 29014,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a1-6",
+  "pregunta": "Cuando un obligado a relacionarse electrónicamente presenta en papel una solicitud de iniciación y luego la subsana, se considera fecha de presentación:",
+  "opciones": [
+   "La fecha de la subsanación",
+   "La fecha del requerimiento",
+   "La fecha de la presentación en papel",
+   "La fecha de la resolución"
+  ],
+  "correcta": 0,
+  "cita": "Cuando se trate de una solicitud de iniciación del interesado, la fecha de la subsanación se considerará a estos efectos como fecha de presentación de la solicitud de acuerdo con el artículo 68.4 de dicha ley."
+ },
+ {
+  "n": 29015,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a3-3",
+  "pregunta": "En el Registro de Funcionarios Habilitados de la AGE constan inscritos, entre otros:",
+  "opciones": [
+   "Todos los ciudadanos con certificado digital",
+   "Los representantes de empresas contratistas",
+   "Los funcionarios habilitados para la expedición de copias auténticas",
+   "Los apoderamientos de los interesados"
+  ],
+  "correcta": 2,
+  "cita": "b) El personal funcionario habilitado para la expedición de copias auténticas."
+ },
+ {
+  "n": 29016,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a3-9",
+  "pregunta": "Según el RD 203/2021, cada Administración dispondrá de:",
+  "opciones": [
+   "Un Registro Electrónico General en el que se hará el asiento de todo documento presentado o recibido en cualquier órgano",
+   "Un registro común con todas las demás Administraciones, sin registro propio",
+   "Un registro solo para documentos normalizados",
+   "Un registro en papel por cada órgano"
+  ],
+  "correcta": 0,
+  "cita": "Cada Administración dispondrá de un Registro Electrónico General en el que hará el asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, organismo público o entidad de derecho público vinculado o dependiente."
+ },
+ {
+  "n": 29017,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a3-10",
+  "pregunta": "Las anotaciones en el Registro General de la Administración General del Estado:",
+  "opciones": [
+   "Solo son válidas para la Administración General del Estado",
+   "Tienen plena eficacia y validez para todas las Administraciones Públicas",
+   "Tienen valor meramente informativo",
+   "Deben ratificarse en el registro de destino"
+  ],
+  "correcta": 1,
+  "cita": "Las anotaciones en el Registro General de la Administración General del Estado tendrán plena eficacia y validez para todas las Administraciones Públicas."
+ },
+ {
+  "n": 29018,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a3-11",
+  "pregunta": "Los documentos en soporte no electrónico se presentan a través de:",
+  "opciones": [
+   "La Dirección Electrónica Habilitada única",
+   "La Carpeta Ciudadana",
+   "Las oficinas de asistencia en materia de registros",
+   "Cualquier unidad administrativa sin registro"
+  ],
+  "correcta": 2,
+  "cita": "Los documentos en soporte no electrónico se presentarán a través de las oficinas de asistencia en materia de registros."
+ },
+ {
+  "n": 29019,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a4-2",
+  "pregunta": "Las Oficinas de asistencia en materia de registros de la AGE tienen naturaleza de:",
+  "opciones": [
+   "Entidad privada colaboradora",
+   "Organismo autónomo",
+   "Órgano administrativo",
+   "Unidad administrativa sin funciones"
+  ],
+  "correcta": 2,
+  "cita": "Las Oficinas de asistencia en materia de registros tienen naturaleza de órgano administrativo de acuerdo con lo dispuesto en el artículo 5 de la Ley 40/2015, de 1 de octubre."
+ },
+ {
+  "n": 29020,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a4-4",
+  "pregunta": "Si la notificación se pone a disposición en la sede electrónica y en la Dirección Electrónica Habilitada única, para el cómputo de plazos se toma:",
+  "opciones": [
+   "La fecha y hora de acceso o rechazo en el sistema en que haya ocurrido en primer lugar",
+   "Siempre la fecha de la Dirección Electrónica Habilitada única",
+   "La fecha más tardía de las dos",
+   "Siempre la fecha de la sede electrónica"
+  ],
+  "correcta": 0,
+  "cita": "las notificaciones por ambos sistemas, para el cómputo de plazos y el resto de efectos jurídicos se tomará la fecha y hora de acceso al contenido o el rechazo de la notificación por el interesado o su representante en el sistema en el que haya ocurrido en primer lugar."
+ },
+ {
+  "n": 29021,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a4-5",
+  "pregunta": "La falta de práctica del aviso de puesta a disposición de la notificación:",
+  "opciones": [
+   "No impide que la notificación sea considerada plenamente válida",
+   "Suspende los plazos del procedimiento",
+   "Determina la nulidad de la notificación",
+   "Obliga a repetir la notificación en papel"
+  ],
+  "correcta": 0,
+  "cita": "La falta de práctica de este aviso, de carácter meramente informativo, no impedirá que la notificación sea considerada plenamente válida."
+ },
+ {
+  "n": 29022,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "RDAE",
+  "articulo": "a4-7",
+  "pregunta": "Plazo desde la puesta a disposición de una notificación en sede electrónica sin acceder a su contenido, tras el cual se presume rechazada",
+  "opciones": [
+   "5 días hábiles",
+   "10 días hábiles",
+   "10 días naturales",
+   "15 días naturales"
+  ],
+  "correcta": 2,
+  "cita": "y acceso al contenido, el rechazo expreso de la notificación o bien la presunción de rechazo por haber transcurrido el plazo de diez días naturales desde la puesta a disposición de la notificación sin acceder al contenido de la misma dará por efectuado el trámite de"
+ },
+ {
+  "n": 29023,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a5-2",
+  "pregunta": "Cuando las normas reguladoras no establezcan la utilización de un sello electrónico cualificado de tiempo, los documentos administrativos electrónicos llevarán asociada:",
+  "opciones": [
+   "Una marca de tiempo",
+   "Una firma manuscrita digitalizada",
+   "Un código seguro de verificación",
+   "Un sello de órgano en papel"
+  ],
+  "correcta": 0,
+  "cita": "La marca de tiempo será utilizada en todos aquellos casos en los que las normas reguladoras no establezcan la utilización de un sello electrónico cualificado de tiempo La información relativa a las marcas y sellos electrónicos cualificados de tiempo se asociará a"
+ },
+ {
+  "n": 29024,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a5-3",
+  "pregunta": "El foliado de los expedientes administrativos electrónicos se lleva a cabo mediante:",
+  "opciones": [
+   "Un índice electrónico autenticado",
+   "La numeración manual de cada página",
+   "Un sello de tiempo en cada documento",
+   "Un código de barras"
+  ],
+  "correcta": 0,
+  "cita": "El foliado de los expedientes administrativos electrónicos se llevará a cabo mediante un índice electrónico autenticado que garantizará la integridad del expediente y permitirá su recuperación siempre que sea preciso."
+ },
+ {
+  "n": 29025,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDAE",
+  "articulo": "a5-3",
+  "pregunta": "Según el RD 203/2021, un mismo documento electrónico:",
+  "opciones": [
+   "Solo puede formar parte de un expediente",
+   "Puede formar parte de distintos expedientes administrativos",
+   "No puede incorporarse a expedientes de otra Administración",
+   "Debe duplicarse para cada expediente"
+  ],
+  "correcta": 1,
+  "cita": "Un mismo documento electrónico podrá formar parte de distintos expedientes administrativos."
+ },
+ {
+  "n": 29026,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "RDAE",
+  "articulo": "a5-5",
+  "pregunta": "Tiempo durante el que se conservan a disposición del interesado, una vez digitalizados, los documentos en papel que no se le pudieron devolver al presentarlos (salvo plazo reglamentario mayor)",
+  "opciones": [
+   "3 meses",
+   "1 año",
+   "6 meses",
+   "1 mes"
+  ],
+  "correcta": 2,
+  "cita": "papel que por cualquier circunstancia no le puedan ser devueltos en el momento de su presentación, una vez digitalizados serán conservados a su disposición durante seis meses para que pueda recogerlos, independientemente del procedimiento administrativo al que se"
+ }
+]
