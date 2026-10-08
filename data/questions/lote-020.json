@@ -1,0 +1,898 @@
+[
+ {
+  "n": 20001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aprimero",
+  "pregunta": "Según su Ley Orgánica, el Tribunal Constitucional, como intérprete supremo de la Constitución, está sometido:",
+  "opciones": [
+   "A la Constitución y a las leyes aprobadas por las Cortes Generales",
+   "A la Constitución y a la jurisprudencia del Tribunal Supremo",
+   "A la Constitución y al Consejo General del Poder Judicial",
+   "Sólo a la Constitución y a su Ley Orgánica"
+  ],
+  "correcta": 3,
+  "cita": "El Tribunal Constitucional, como intérprete supremo de la Constitución, es independiente de los demás órganos constitucionales y está sometido sólo a la Constitución y a la presente Ley Orgánica."
+ },
+ {
+  "n": 20002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "asegundo",
+  "pregunta": "Los reglamentos que el Tribunal Constitucional dicte sobre su propio funcionamiento y organización deben ser aprobados por:",
+  "opciones": [
+   "El Tribunal en Pleno",
+   "El Presidente del Tribunal",
+   "Las Cortes Generales",
+   "La Sala Primera"
+  ],
+  "correcta": 0,
+  "cita": "Estos reglamentos, que deberán ser aprobados por el Tribunal en Pleno, se publicarán en el «Boletín Oficial del Estado», autorizados por su Presidente."
+ },
+ {
+  "n": 20003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acuarto",
+  "pregunta": "Las resoluciones del Tribunal Constitucional:",
+  "opciones": [
+   "Pueden recurrirse ante el Consejo General del Poder Judicial",
+   "No pueden ser enjuiciadas por ningún órgano jurisdiccional del Estado",
+   "Pueden revisarse por la Sala de lo Penal del Tribunal Supremo",
+   "Pueden recurrirse ante el Tribunal Supremo"
+  ],
+  "correcta": 1,
+  "cita": "Las resoluciones del Tribunal Constitucional no podrán ser enjuiciadas por ningún órgano jurisdiccional del Estado."
+ },
+ {
+  "n": 20004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acuarto",
+  "pregunta": "Respecto del Tribunal Constitucional, la cuestión de jurisdicción o competencia:",
+  "opciones": [
+   "Puede promoverla el Tribunal Supremo",
+   "Puede promoverse ante el Consejo de Estado",
+   "No puede promoverse en ningún caso",
+   "Puede promoverla el Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "En ningún caso se podrá promover cuestión de jurisdicción o competencia al Tribunal Constitucional."
+ },
+ {
+  "n": 20005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "asexto",
+  "pregunta": "El Tribunal Constitucional actúa:",
+  "opciones": [
+   "En Pleno o en Comisión",
+   "Solo en Pleno",
+   "En Pleno, en Sala o en Sección",
+   "En Pleno, en Sala o en Junta de Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "El Tribunal Constitucional actúa en Pleno, en Sala o en Sección."
+ },
+ {
+  "n": 20006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aseptimo",
+  "pregunta": "Cada una de las Salas del Tribunal Constitucional está compuesta por:",
+  "opciones": [
+   "Tres Magistrados elegidos por sorteo",
+   "Seis Magistrados nombrados por el Tribunal en Pleno",
+   "Seis Magistrados nombrados por el Rey",
+   "Cuatro Magistrados nombrados por el Presidente"
+  ],
+  "correcta": 1,
+  "cita": "Cada Sala está compuesta por seis Magistrados nombrados por el Tribunal en Pleno."
+ },
+ {
+  "n": 20007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aseptimo",
+  "pregunta": "La Sala Primera del Tribunal Constitucional está presidida por:",
+  "opciones": [
+   "El Magistrado de mayor edad",
+   "El Magistrado más antiguo",
+   "El Vicepresidente del Tribunal",
+   "El Presidente del Tribunal"
+  ],
+  "correcta": 3,
+  "cita": "El Presidente del Tribunal lo es también de la Sala Primera, que presidirá en su defecto, el Magistrado más antiguo y, en caso de igual antigüedad, el de mayor edad."
+ },
+ {
+  "n": 20008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aseptimo",
+  "pregunta": "La Sala Segunda del Tribunal Constitucional está presidida por:",
+  "opciones": [
+   "El Presidente del Tribunal",
+   "El Vicepresidente del Tribunal",
+   "Un Magistrado elegido por la propia Sala",
+   "El Magistrado más moderno"
+  ],
+  "correcta": 1,
+  "cita": "El Vicepresidente del Tribunal presidirá en la Sala Segunda y, en su defecto, el Magistrado más antiguo y, en caso de igual antigüedad, el de mayor edad."
+ },
+ {
+  "n": 20009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aoctavo",
+  "pregunta": "Las Secciones del Tribunal Constitucional están compuestas por:",
+  "opciones": [
+   "Seis Magistrados",
+   "Tres Magistrados elegidos por sorteo",
+   "El Presidente del Tribunal y cuatro Magistrados",
+   "El respectivo Presidente o quien le sustituya y dos Magistrados"
+  ],
+  "correcta": 3,
+  "cita": "Para el despacho ordinario y la decisión o propuesta, según proceda, sobre la admisibilidad o inadmisibilidad de procesos constitucionales, el Pleno y las Salas constituirán Secciones compuestas por el respectivo Presidente o quien le sustituya y dos Magistrados."
+ },
+ {
+  "n": 20010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "anoveno",
+  "pregunta": "En la elección del Presidente del Tribunal Constitucional por el Pleno, en primera votación se requiere:",
+  "opciones": [
+   "La mayoría absoluta",
+   "La mayoría de dos tercios",
+   "La mayoría de tres quintos",
+   "La mayoría de tres cuartas partes"
+  ],
+  "correcta": 0,
+  "cita": "En primera votación se requerirá la mayoría absoluta."
+ },
+ {
+  "n": 20011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "anoveno",
+  "pregunta": "Si en la elección del Presidente del Tribunal Constitucional se repite el empate en la última votación, será propuesto:",
+  "opciones": [
+   "El que designe el Rey",
+   "El propuesto por el Gobierno",
+   "El de mayor edad en todo caso",
+   "El de mayor antigüedad en el cargo y, en caso de igualdad, el de mayor edad"
+  ],
+  "correcta": 3,
+  "cita": "En caso de empate se efectuará una última votación y si éste se repitiese, será propuesto el de mayor antigüedad en el cargo y en caso de igualdad el de mayor edad."
+ },
+ {
+  "n": 20012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "anoveno",
+  "pregunta": "Expirado su mandato, el Presidente del Tribunal Constitucional:",
+  "opciones": [
+   "Puede ser reelegido dos veces",
+   "Puede ser reelegido indefinidamente",
+   "Puede ser reelegido por una sola vez",
+   "No puede ser reelegido"
+  ],
+  "correcta": 2,
+  "cita": "El nombre del elegido se elevará al Rey para su nombramiento por un período de tres años, expirado el cual podrá ser reelegido por una sola vez."
+ },
+ {
+  "n": 20013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "anoveno",
+  "pregunta": "Corresponde al Vicepresidente del Tribunal Constitucional:",
+  "opciones": [
+   "Sustituir al Presidente en caso de vacante, ausencia u otro motivo legal y presidir la Sala Segunda",
+   "Ejercer la representación del Tribunal",
+   "Presidir la Sala Primera",
+   "Nombrar a los letrados del Tribunal"
+  ],
+  "correcta": 0,
+  "cita": "El Tribunal en Pleno elegirá entre sus miembros, por el procedimiento señalado en el apartado 2 de este artículo y por el mismo período de tres años, un Vicepresidente, al que incumbe sustituir al Presidente en caso de vacante, ausencia u otro motivo legal y presidir la Sala Segunda."
+ },
+ {
+  "n": 20014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "adiez",
+  "pregunta": "¿Cuál de los siguientes asuntos conoce el Tribunal Constitucional en Pleno?",
+  "opciones": [
+   "Las cuestiones de inconstitucionalidad, en todo caso",
+   "Los recursos de amparo, en todo caso",
+   "Los recursos contencioso-administrativos contra reglamentos",
+   "La constitucionalidad o inconstitucionalidad de los tratados internacionales"
+  ],
+  "correcta": 3,
+  "cita": "El Tribunal en Pleno conoce de los siguientes asuntos: a) De la constitucionalidad o inconstitucionalidad de los tratados internacionales."
+ },
+ {
+  "n": 20015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "adoce",
+  "pregunta": "La distribución de asuntos entre las Salas del Tribunal Constitucional se efectúa:",
+  "opciones": [
+   "Según un turno establecido por el Pleno a propuesta de su Presidente",
+   "Por orden alfabético de los recurrentes",
+   "Por sorteo público",
+   "Según decida el Ministerio de Justicia"
+  ],
+  "correcta": 0,
+  "cita": "La distribución de asuntos entre las Salas del Tribunal se efectuará según un turno establecido por el Pleno a propuesta de su Presidente."
+ },
+ {
+  "n": 20016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atrece",
+  "pregunta": "Cuando una Sala del Tribunal Constitucional considere necesario apartarse de la doctrina constitucional precedente, la cuestión:",
+  "opciones": [
+   "Se somete a la otra Sala",
+   "La resuelve la propia Sala",
+   "Se somete a la decisión del Pleno",
+   "Se somete a la Sección correspondiente"
+  ],
+  "correcta": 2,
+  "cita": "Cuando una Sala considere necesario apartarse en cualquier punto de la doctrina constitucional precedente sentada por el Tribunal, la cuestión se someterá a la decisión del Pleno."
+ },
+ {
+  "n": 20017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acatorce",
+  "pregunta": "El Tribunal Constitucional en Pleno puede adoptar acuerdos cuando estén presentes, al menos:",
+  "opciones": [
+   "Dos tercios de los miembros que en cada momento lo compongan",
+   "La mitad más uno de sus miembros",
+   "Tres quintos de sus miembros",
+   "Tres cuartas partes de sus miembros"
+  ],
+  "correcta": 0,
+  "cita": "El Tribunal en Pleno puede adoptar acuerdos cuando estén presentes, al menos, dos tercios de los miembros que en cada momento lo compongan."
+ },
+ {
+  "n": 20018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aquince",
+  "pregunta": "Ejerce la representación del Tribunal Constitucional:",
+  "opciones": [
+   "El Secretario General",
+   "Su Vicepresidente",
+   "El Magistrado más antiguo",
+   "Su Presidente"
+  ],
+  "correcta": 3,
+  "cita": "El Presidente del Tribunal Constitucional ejerce la representación del Tribunal, convoca y preside el Tribunal en Pleno y convoca las Salas; adopta las medidas precisas para el"
+ },
+ {
+  "n": 20019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "adieciseis",
+  "pregunta": "En las propuestas de nombramiento de Magistrados del Tribunal Constitucional, cada órgano proponente debe incluir como mínimo:",
+  "opciones": [
+   "Un cuarenta por ciento de cada uno de los sexos",
+   "Un veinticinco por ciento de cada uno de los sexos",
+   "Un treinta por ciento de cada uno de los sexos",
+   "Un cincuenta por ciento de mujeres"
+  ],
+  "correcta": 0,
+  "cita": "Cada uno de los órganos que han de realizar las propuestas de nombramiento garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que aquellas incluyan como mínimo un cuarenta por ciento de cada uno de los sexos."
+ },
+ {
+  "n": 20020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "adieciseis",
+  "pregunta": "Los Magistrados del Tribunal Constitucional propuestos por el Senado son elegidos entre las candidaturas presentadas por:",
+  "opciones": [
+   "Los Grupos Parlamentarios del Senado",
+   "El Consejo General del Poder Judicial",
+   "Los Gobiernos de las comunidades autónomas",
+   "Las Asambleas Legislativas de las comunidades autónomas"
+  ],
+  "correcta": 3,
+  "cita": "Los Magistrados y Magistradas propuestos por el Senado serán elegidos entre las candidaturas presentadas por las Asambleas Legislativas de las comunidades autónomas en los términos que determine el Reglamento de la Cámara."
+ },
+ {
+  "n": 20021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "adieciseis",
+  "pregunta": "Antes de su nombramiento, los candidatos propuestos por el Congreso y por el Senado deben:",
+  "opciones": [
+   "Obtener el informe favorable del Gobierno",
+   "Prestar juramento ante el Pleno de la Cámara",
+   "Comparecer previamente ante las correspondientes Comisiones",
+   "Superar un examen ante el Consejo General del Poder Judicial"
+  ],
+  "correcta": 2,
+  "cita": "Los candidatos propuestos por el Congreso y por el Senado deberán comparecer previamente ante las correspondientes Comisiones en los términos que dispongan los respectivos Reglamentos."
+ },
+ {
+  "n": 20022,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "adiecisiete",
+  "pregunta": "Antelación, respecto de la expiración de los nombramientos, con la que el Presidente del Tribunal Constitucional solicita que se inicie el procedimiento para designar a los nuevos Magistrados",
+  "opciones": [
+   "Antes del mes previo",
+   "Antes de los seis meses previos",
+   "Antes de los cuatro meses previos",
+   "Antes de los dos meses previos"
+  ],
+  "correcta": 2,
+  "cita": "Antes de los cuatro meses previos a la fecha de expiración de los nombramientos, el Presidente del Tribunal solicitará de los Presidentes de los órganos que han de hacer las propuestas para la designación de los nuevos Magistrados, que inicien el procedimiento para ello."
+ },
+ {
+  "n": 20023,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "adiecisiete",
+  "pregunta": "Los Magistrados del Tribunal Constitucional cuyo mandato ha expirado:",
+  "opciones": [
+   "Continúan en el ejercicio de sus funciones hasta que hayan tomado posesión quienes hubieren de sucederles",
+   "Son sustituidos provisionalmente por letrados del Tribunal",
+   "Continúan en funciones un máximo de tres meses",
+   "Cesan automáticamente el día de la expiración"
+  ],
+  "correcta": 0,
+  "cita": "Los Magistrados del Tribunal Constitucional continuarán en el ejercicio de sus funciones hasta que hayan tomado posesión quienes hubieren de sucederles."
+ },
+ {
+  "n": 20024,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "adiecinueve",
+  "pregunta": "Según la LOTC, el cargo de Magistrado del Tribunal Constitucional es incompatible, entre otros, con:",
+  "opciones": [
+   "El de Defensor del Pueblo",
+   "La condición de Profesor de Universidad jubilado",
+   "La condición de ciudadano español",
+   "La pertenencia a un partido político sin funciones directivas"
+  ],
+  "correcta": 0,
+  "cita": "El cargo de Magistrado del Tribunal Constitucional es incompatible: Primero, con el de Defensor del Pueblo; segundo, con el de Diputado y Senador; tercero, con cualquier cargo político o administrativo del"
+ },
+ {
+  "n": 20025,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "adiecinueve",
+  "pregunta": "Plazo, siguiente a la propuesta, para que quien sea propuesto como Magistrado del Tribunal Constitucional cese en la actividad incompatible (si no, se entiende que no acepta el cargo)",
+  "opciones": [
+   "1 mes",
+   "10 días",
+   "15 días",
+   "30 días"
+  ],
+  "correcta": 1,
+  "cita": "Si no lo hiciere en el plazo de diez días siguientes a la propuesta, se entenderá que no acepta el cargo de Magistrado del Tribunal Constitucional."
+ },
+ {
+  "n": 20026,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aveinte",
+  "pregunta": "Los funcionarios públicos nombrados Magistrados del Tribunal Constitucional pasan, en su carrera de origen, a la situación de:",
+  "opciones": [
+   "Servicios especiales",
+   "Servicios en otras Administraciones públicas",
+   "Excedencia voluntaria",
+   "Suspensión de funciones"
+  ],
+  "correcta": 0,
+  "cita": "Los miembros de la carrera judicial y fiscal y, en general, los funcionarios públicos nombrados Magistrados y letrados del Tribunal pasarán a la situación de servicios especiales en su carrera de origen."
+ },
+ {
+  "n": 20027,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aveintiuno",
+  "pregunta": "Los Magistrados del Tribunal Constitucional prestan juramento o promesa al asumir su cargo ante:",
+  "opciones": [
+   "El Rey",
+   "Las Cortes Generales",
+   "El Presidente del Gobierno",
+   "El Presidente del Tribunal Supremo"
+  ],
+  "correcta": 0,
+  "cita": "El Presidente y los demás Magistrados del Tribunal Constitucional prestarán, al asumir su cargo ante el Rey, el siguiente juramento o promesa: «Juro (o prometo) guardar y hacer guardar fielmente y en todo tiempo la Constitución española,"
+ },
+ {
+  "n": 20028,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aveintitres",
+  "pregunta": "El cese de un Magistrado del Tribunal Constitucional por renuncia aceptada o por expiración del plazo de su nombramiento se decreta por:",
+  "opciones": [
+   "El Presidente del Tribunal",
+   "El Tribunal en Pleno por tres cuartas partes",
+   "El Rey a propuesta del Gobierno",
+   "El Tribunal en Pleno por mayoría simple"
+  ],
+  "correcta": 0,
+  "cita": "El cese o la vacante en el cargo de Magistrado del Tribunal Constitucional, en los casos primero y segundo, así como en el de fallecimiento, se decretará por el Presidente."
+ },
+ {
+  "n": 20029,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aveintitres",
+  "pregunta": "El cese de un Magistrado del Tribunal Constitucional por incompatibilidad sobrevenida lo decide el Tribunal en Pleno por:",
+  "opciones": [
+   "Mayoría absoluta",
+   "Mayoría simple",
+   "Unanimidad",
+   "Mayoría de las tres cuartas partes de sus miembros"
+  ],
+  "correcta": 1,
+  "cita": "En los restantes supuestos decidirá el Tribunal en Pleno, por mayoría simple en los casos tercero y cuarto y por mayoría de las tres cuartas partes de sus miembros en los demás casos."
+ },
+ {
+  "n": 20030,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aveinticuatro",
+  "pregunta": "La suspensión de un Magistrado del Tribunal Constitucional requiere el voto favorable de:",
+  "opciones": [
+   "La mayoría simple del Pleno",
+   "Las tres cuartas partes de los miembros del Tribunal reunido en Pleno",
+   "Dos tercios de la Sala a la que pertenezca",
+   "La mayoría absoluta del Congreso"
+  ],
+  "correcta": 1,
+  "cita": "La suspensión requiere el voto favorable de las tres cuartas partes de los miembros del Tribunal reunido en Pleno."
+ },
+ {
+  "n": 20031,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aveinticinco",
+  "pregunta": "Tienen derecho a una remuneración de transición por un año los Magistrados del Tribunal Constitucional que hubieran desempeñado el cargo durante un mínimo de:",
+  "opciones": [
+   "Seis años",
+   "Un año",
+   "Tres años",
+   "Nueve años"
+  ],
+  "correcta": 2,
+  "cita": "Los Magistrados del Tribunal que hubieran desempeñado el cargo durante un mínimo de tres años tendrán derecho a una remuneración de transición por un año, equivalente a la que percibieran en el momento del cese."
+ },
+ {
+  "n": 20032,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "aveintiseis",
+  "pregunta": "La responsabilidad criminal de los Magistrados del Tribunal Constitucional sólo es exigible ante:",
+  "opciones": [
+   "La Audiencia Nacional",
+   "El propio Tribunal Constitucional en Pleno",
+   "La Sala de lo Penal del Tribunal Supremo",
+   "El Tribunal Superior de Justicia de Madrid"
+  ],
+  "correcta": 2,
+  "cita": "La responsabilidad criminal de los Magistrados del Tribunal Constitucional sólo será exigible ante la Sala de lo Penal del Tribunal Supremo."
+ },
+ {
+  "n": 20033,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atreinta",
+  "pregunta": "Como regla general, la admisión de un recurso o de una cuestión de inconstitucionalidad:",
+  "opciones": [
+   "Suspende automáticamente la vigencia de la ley",
+   "No suspende la vigencia ni la aplicación de la ley impugnada",
+   "Suspende la ley durante cinco meses",
+   "Suspende la ley si lo solicitan cincuenta Diputados"
+  ],
+  "correcta": 1,
+  "cita": "La admisión de un recurso o de una cuestión de inconstitucionalidad no suspenderá la vigencia ni la aplicación de la Ley, de la disposición normativa o del acto con fuerza de Ley, excepto en el caso en que el Gobierno"
+ },
+ {
+  "n": 20034,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atreintaydos",
+  "pregunta": "Contra leyes del Estado que puedan afectar a su propio ámbito de autonomía, también están legitimados para interponer recurso de inconstitucionalidad:",
+  "opciones": [
+   "Los Tribunales Superiores de Justicia",
+   "Los Ayuntamientos de las capitales de provincia",
+   "Los Delegados del Gobierno en las Comunidades Autónomas",
+   "Los órganos colegiados ejecutivos y las Asambleas de las Comunidades Autónomas, previo acuerdo adoptado al efecto"
+  ],
+  "correcta": 3,
+  "cita": "Para el ejercicio del recurso de inconstitucionalidad contra las Leyes, disposiciones o actos con fuerza de Ley del Estado que puedan afectar a su propio ámbito de autonomía, están también legitimados los órganos colegiados ejecutivos y las Asambleas de las Comunidades Autónomas, previo acuerdo adoptado al efecto."
+ },
+ {
+  "n": 20035,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "atreintaytres",
+  "pregunta": "Plazo general para interponer el recurso de inconstitucionalidad, a partir de la publicación de la ley impugnada",
+  "opciones": [
+   "9 meses",
+   "2 meses",
+   "30 días",
+   "3 meses"
+  ],
+  "correcta": 3,
+  "cita": "El recurso de inconstitucionalidad se formulará dentro del plazo de tres meses a partir de la publicación de la Ley, disposición o acto con fuerza de Ley impugnado mediante demanda presentada ante el"
+ },
+ {
+  "n": 20036,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "atreintaytres",
+  "pregunta": "Plazo ampliado para interponer el recurso de inconstitucionalidad cuando se haya reunido la Comisión Bilateral de Cooperación y acordado iniciar negociaciones",
+  "opciones": [
+   "1 año",
+   "9 meses",
+   "6 meses",
+   "3 meses"
+  ],
+  "correcta": 1,
+  "cita": "el Presidente del Gobierno y los órganos colegiados ejecutivos de las Comunidades Autónomas podrán interponer el recurso de inconstitucionalidad en el plazo de nueve meses contra leyes, disposiciones o actos con fuerza de Ley en relación con las cuales, y con la"
+ },
+ {
+  "n": 20037,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "atreintaycuatro",
+  "pregunta": "Plazo para la personación y la formulación de alegaciones en el recurso de inconstitucionalidad, una vez admitida a trámite la demanda",
+  "opciones": [
+   "20 días",
+   "30 días",
+   "15 días",
+   "10 días"
+  ],
+  "correcta": 2,
+  "cita": "La personación y la formulación de alegaciones deberán hacerse en el plazo de quince días, transcurrido el cual el Tribunal dictará sentencia en el de diez, salvo que, mediante resolución motivada, el propio Tribunal estime necesario un plazo más amplio que, en ningún caso, podrá exceder de treinta días."
+ },
+ {
+  "n": 20038,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atreintaycinco",
+  "pregunta": "El órgano judicial sólo puede plantear la cuestión de inconstitucionalidad:",
+  "opciones": [
+   "Una vez concluso el procedimiento y dentro del plazo para dictar sentencia",
+   "Una vez dictada sentencia firme",
+   "En cualquier momento del procedimiento",
+   "Antes de admitir la demanda"
+  ],
+  "correcta": 0,
+  "cita": "El órgano judicial sólo podrá plantear la cuestión una vez concluso el procedimiento y dentro del plazo para dictar sentencia, o la resolución jurisdiccional que procediese, y deberá concretar la ley o norma con fuerza de"
+ },
+ {
+  "n": 20039,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "atreintaycinco",
+  "pregunta": "Plazo común e improrrogable para que las partes y el Ministerio Fiscal aleguen sobre la pertinencia de plantear la cuestión de inconstitucionalidad",
+  "opciones": [
+   "10 días",
+   "15 días",
+   "20 días",
+   "3 días"
+  ],
+  "correcta": 0,
+  "cita": "auto su decisión definitiva, el órgano judicial oirá a las partes y al Ministerio Fiscal para que en el plazo común e improrrogable de 10 días puedan alegar lo que deseen sobre la pertinencia de plantear la cuestión de inconstitucionalidad,"
+ },
+ {
+  "n": 20040,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atreintaycinco",
+  "pregunta": "El auto por el que el juez decide sobre el planteamiento de la cuestión de inconstitucionalidad:",
+  "opciones": [
+   "No es susceptible de recurso de ninguna clase",
+   "Es recurrible en reposición",
+   "Es recurrible en apelación",
+   "Es recurrible en amparo"
+  ],
+  "correcta": 0,
+  "cita": "Dicho auto no será susceptible de recurso de ninguna clase."
+ },
+ {
+  "n": 20041,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atreintaysiete",
+  "pregunta": "El Tribunal Constitucional puede rechazar en trámite de admisión una cuestión de inconstitucionalidad, mediante auto y sin otra audiencia que la de:",
+  "opciones": [
+   "El juez que la planteó",
+   "El Abogado del Estado",
+   "El Fiscal General del Estado",
+   "El Presidente del Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "No obstante, podrá el Tribunal rechazar, en trámite de admisión, mediante auto y sin otra audiencia que la del Fiscal General del Estado, la cuestión de inconstitucionalidad cuando faltaren las condiciones procesales o fuere notoriamente infundada la cuestión suscitada."
+ },
+ {
+  "n": 20042,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atreintayocho",
+  "pregunta": "Las sentencias recaídas en procedimientos de inconstitucionalidad producen efectos generales desde:",
+  "opciones": [
+   "Los veinte días siguientes a su publicación",
+   "Su notificación a las partes",
+   "La fecha en que se dictan",
+   "La fecha de su publicación en el «Boletín Oficial del Estado»"
+  ],
+  "correcta": 3,
+  "cita": "Las sentencias recaídas en procedimientos de inconstitucionalidad tendrán el valor de cosa juzgada, vincularán a todos los Poderes Públicos y producirán efectos generales desde la fecha de su publicación en el «Boletín Oficial del Estado»."
+ },
+ {
+  "n": 20043,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "atreintaynueve",
+  "pregunta": "El Tribunal Constitucional puede fundar la declaración de inconstitucionalidad en la infracción de:",
+  "opciones": [
+   "Solo los preceptos del Título I de la Constitución",
+   "Solo los preceptos citados en el auto de admisión",
+   "Solo los preceptos invocados por el recurrente",
+   "Cualquier precepto constitucional, haya o no sido invocado en el curso del proceso"
+  ],
+  "correcta": 3,
+  "cita": "El Tribunal Constitucional podrá fundar la declaración de inconstitucionalidad en la infracción de cualquier precepto constitucional, haya o no sido invocado en el curso del proceso."
+ },
+ {
+  "n": 20044,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acuarenta",
+  "pregunta": "Las sentencias que declaran la inconstitucionalidad de una ley permiten revisar procesos fenecidos con sentencia firme:",
+  "opciones": [
+   "Nunca",
+   "Solo en procesos penales o contencioso-administrativos sancionadores en que resulte una reducción de la pena o de la sanción, o una exclusión, exención o limitación de la responsabilidad",
+   "En todo caso",
+   "Solo en procesos civiles"
+  ],
+  "correcta": 1,
+  "cita": "en los que se haya hecho aplicación de las Leyes, disposiciones o actos inconstitucionales, salvo en el caso de los procesos penales o contencioso-administrativos referentes a un procedimiento sancionador en que, como consecuencia de la nulidad de la norma aplicada, resulte una reducción de la pena o"
+ },
+ {
+  "n": 20045,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acuarentayuno",
+  "pregunta": "Además de los derechos de los artículos 14 a 29 de la Constitución, es susceptible de amparo constitucional:",
+  "opciones": [
+   "El derecho al trabajo",
+   "El derecho a la protección de la salud",
+   "La objeción de conciencia del artículo 30",
+   "El derecho a la vivienda"
+  ],
+  "correcta": 2,
+  "cita": "Igual protección será aplicable a la objeción de conciencia reconocida en el artículo treinta de la Constitución."
+ },
+ {
+  "n": 20046,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "acuarentaydos",
+  "pregunta": "Plazo para recurrir en amparo las decisiones o actos sin valor de ley de las Cortes o de las Asambleas legislativas autonómicas, desde que sean firmes",
+  "opciones": [
+   "30 días",
+   "2 meses",
+   "3 meses",
+   "20 días"
+  ],
+  "correcta": 2,
+  "cita": "o de sus órganos, que violen los derechos y libertades susceptibles de amparo constitucional, podrán ser recurridos dentro del plazo de tres meses desde que, con arreglo a las normas internas de las Cámaras o Asambleas, sean firmes."
+ },
+ {
+  "n": 20047,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "acuarentaytres",
+  "pregunta": "Plazo para interponer recurso de amparo frente a violaciones originadas por actos del Gobierno o de la Administración, desde la notificación de la resolución del previo proceso judicial",
+  "opciones": [
+   "3 meses",
+   "30 días",
+   "10 días",
+   "20 días"
+  ],
+  "correcta": 3,
+  "cita": "El plazo para interponer el recurso de amparo constitucional será el de los veinte días siguientes a la notificación de la resolución recaída en el previo proceso judicial."
+ },
+ {
+  "n": 20048,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "acuarentaycuatro",
+  "pregunta": "Plazo para interponer recurso de amparo frente a violaciones originadas por un acto u omisión de un órgano judicial",
+  "opciones": [
+   "20 días",
+   "30 días",
+   "3 meses",
+   "15 días"
+  ],
+  "correcta": 1,
+  "cita": "El plazo para interponer el recurso de amparo será de 30 días, a partir de la notificación de la resolución recaída en el proceso judicial."
+ },
+ {
+  "n": 20049,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acuarentayseis",
+  "pregunta": "Frente a actos del Gobierno (artículo 43 LOTC), están legitimados para interponer el recurso de amparo:",
+  "opciones": [
+   "Quienes hayan sido parte en el proceso judicial correspondiente, el Defensor del Pueblo y el Ministerio Fiscal",
+   "Solo la persona directamente afectada",
+   "Cincuenta Diputados o cincuenta Senadores",
+   "El Presidente del Gobierno y el Defensor del Pueblo"
+  ],
+  "correcta": 0,
+  "cita": "b) En los casos de los artículos cuarenta y tres y cuarenta y cuatro, quienes hayan sido parte en el proceso judicial correspondiente, el Defensor del Pueblo y el Ministerio Fiscal."
+ },
+ {
+  "n": 20050,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acuarentaysiete",
+  "pregunta": "En los procesos de amparo, el Ministerio Fiscal:",
+  "opciones": [
+   "Nunca interviene",
+   "Interviene en todos ellos",
+   "Solo interviene en los amparos contra actos judiciales",
+   "Solo interviene si lo pide el recurrente"
+  ],
+  "correcta": 1,
+  "cita": "El Ministerio Fiscal intervendrá en todos los procesos de amparo, en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la Ley."
+ },
+ {
+  "n": 20051,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acuarentaynueve",
+  "pregunta": "La demanda de amparo debe justificar en todo caso:",
+  "opciones": [
+   "La especial trascendencia constitucional del recurso",
+   "La conformidad del Ministerio Fiscal",
+   "La cuantía del perjuicio sufrido",
+   "El agotamiento de la vía administrativa"
+  ],
+  "correcta": 0,
+  "cita": "En todo caso, la demanda justificará la especial trascendencia constitucional del recurso."
+ },
+ {
+  "n": 20052,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acincuenta",
+  "pregunta": "La Sección acuerda mediante providencia la admisión del recurso de amparo:",
+  "opciones": [
+   "Por mayoría simple",
+   "Por decisión de su Presidente",
+   "Por unanimidad de sus miembros",
+   "Por mayoría de dos tercios"
+  ],
+  "correcta": 2,
+  "cita": "La Sección, por unanimidad de sus miembros, acordará mediante providencia la admisión, en todo o en parte, del recurso solamente cuando concurran todos los siguientes requisitos: a) Que la demanda cumpla con lo dispuesto en los artículos 41 a 46 y 49."
+ },
+ {
+  "n": 20053,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acincuentaytres",
+  "pregunta": "Al conocer del fondo del recurso de amparo, la Sala o la Sección pronuncia en su sentencia:",
+  "opciones": [
+   "Otorgamiento o denegación de amparo",
+   "Estimación parcial o inadmisión",
+   "Nulidad o anulabilidad",
+   "Condena o absolución"
+  ],
+  "correcta": 0,
+  "cita": "y tres La Sala o, en su caso, la Sección, al conocer del fondo del asunto, pronunciará en su sentencia alguno de estos fallos: a) Otorgamiento de amparo. b) Denegación de amparo."
+ },
+ {
+  "n": 20054,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "acincuentayseis",
+  "pregunta": "La interposición del recurso de amparo:",
+  "opciones": [
+   "No suspende los efectos del acto o sentencia impugnados",
+   "Suspende el acto si lo pide el Ministerio Fiscal",
+   "Suspende el acto durante diez días",
+   "Suspende siempre los efectos del acto impugnado"
+  ],
+  "correcta": 0,
+  "cita": "La interposición del recurso de amparo no suspenderá los efectos del acto o sentencia impugnados."
+ },
+ {
+  "n": 20055,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "LOTC",
+  "articulo": "asesentaydos",
+  "pregunta": "Plazo para que el Gobierno formalice directamente ante el Tribunal Constitucional un conflicto positivo de competencia frente a una Comunidad Autónoma",
+  "opciones": [
+   "20 días",
+   "1 mes",
+   "2 meses",
+   "3 meses"
+  ],
+  "correcta": 2,
+  "cita": "Leyes orgánicas correspondientes, podrá formalizar directamente ante el Tribunal Constitucional, en el plazo de dos meses, el conflicto de competencia, o hacer uso del previo requerimiento regulado en el artículo siguiente, todo ello sin perjuicio"
+ },
+ {
+  "n": 20056,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOTC",
+  "articulo": "asesentayseis",
+  "pregunta": "La sentencia que resuelve un conflicto de competencia:",
+  "opciones": [
+   "Declara la titularidad de la competencia controvertida",
+   "Se limita a declarar la nulidad del acto, sin pronunciarse sobre la competencia",
+   "Remite la decisión a las Cortes Generales",
+   "Solo tiene efectos entre las partes y no vincula a los demás poderes públicos"
+  ],
+  "correcta": 0,
+  "cita": "y seis La sentencia declarará la titularidad de la competencia controvertida y acordará, en su caso, la anulación de la disposición, resolución o actos que originaron el"
+ }
+]
