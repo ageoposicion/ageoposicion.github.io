@@ -1,0 +1,770 @@
+[
+ {
+  "n": 22001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a1",
+  "pregunta": "Los Juzgados y Tribunales del orden contencioso-administrativo conocen de las pretensiones relativas a los Decretos legislativos:",
+  "opciones": [
+   "Solo si los impugna el Defensor del Pueblo",
+   "Nunca, porque corresponden siempre al Tribunal Constitucional",
+   "En todo caso",
+   "Cuando excedan los límites de la delegación"
+  ],
+  "correcta": 3,
+  "cita": "sujeta al Derecho Administrativo, con las disposiciones generales de rango inferior a la Ley y con los Decretos legislativos cuando excedan los límites de la delegación."
+ },
+ {
+  "n": 22002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a3",
+  "pregunta": "¿Cuál de las siguientes cuestiones NO corresponde al orden jurisdiccional contencioso-administrativo?",
+  "opciones": [
+   "La responsabilidad patrimonial de las Administraciones públicas",
+   "Los actos y disposiciones de las Corporaciones de Derecho público adoptados en ejercicio de funciones públicas",
+   "Los conflictos de jurisdicción entre los Juzgados y Tribunales y la Administración pública",
+   "Los contratos administrativos"
+  ],
+  "correcta": 2,
+  "cita": "c) Los conflictos de jurisdicción entre los Juzgados y Tribunales y la Administración pública y los conflictos de atribuciones entre órganos de una misma Administración."
+ },
+ {
+  "n": 22003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a2",
+  "pregunta": "La responsabilidad patrimonial de las Administraciones públicas se exige ante el orden jurisdiccional:",
+  "opciones": [
+   "Social, cuando el perjudicado sea un trabajador",
+   "Contencioso-administrativo, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive",
+   "Civil, cuando la Administración actúe en relaciones de derecho privado",
+   "Civil, cuando concurran particulares en la producción del daño"
+  ],
+  "correcta": 1,
+  "cita": "e) La responsabilidad patrimonial de las Administraciones públicas, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive, no pudiendo ser demandadas aquellas por este motivo ante los órdenes jurisdiccionales civil o"
+ },
+ {
+  "n": 22004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a4",
+  "pregunta": "La decisión que el orden contencioso-administrativo pronuncie sobre una cuestión prejudicial no administrativa:",
+  "opciones": [
+   "No produce efectos fuera del proceso en que se dicte",
+   "Solo es válida si la confirma el Tribunal Supremo",
+   "Produce efectos generales desde su publicación",
+   "Vincula al orden jurisdiccional correspondiente"
+  ],
+  "correcta": 0,
+  "cita": "La decisión que se pronuncie no producirá efectos fuera del proceso en que se dicte y no vinculará al orden jurisdiccional correspondiente."
+ },
+ {
+  "n": 22005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a5",
+  "pregunta": "Según la Ley 29/1998, la Jurisdicción Contencioso-administrativa es:",
+  "opciones": [
+   "Prorrogable por acuerdo de las partes",
+   "Improrrogable",
+   "Voluntaria",
+   "Subsidiaria de la civil"
+  ],
+  "correcta": 1,
+  "cita": "La Jurisdicción Contencioso-administrativa es improrrogable."
+ },
+ {
+  "n": 22006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a12",
+  "pregunta": "Los recursos contra los actos y disposiciones del Consejo de Ministros los conoce en única instancia:",
+  "opciones": [
+   "La Sala de lo Contencioso-administrativo del Tribunal Supremo",
+   "El Tribunal Constitucional",
+   "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+   "Los Juzgados Centrales de lo Contencioso-administrativo"
+  ],
+  "correcta": 0,
+  "cita": "La Sala de lo Contencioso-administrativo del Tribunal Supremo conocerá en única instancia de los recursos que se deduzcan en relación con: a) Los actos y disposiciones del Consejo de Ministros y de las Comisiones Delegadas del Gobierno."
+ },
+ {
+  "n": 22007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a11",
+  "pregunta": "Con carácter general, los recursos contra las disposiciones generales y los actos de los Ministros y de los Secretarios de Estado los conoce en única instancia:",
+  "opciones": [
+   "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+   "Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia",
+   "Los Juzgados de lo Contencioso-administrativo provinciales",
+   "La Sala de lo Contencioso-administrativo del Tribunal Supremo"
+  ],
+  "correcta": 0,
+  "cita": "La Sala de lo Contencioso-administrativo de la Audiencia Nacional conocerá en única instancia: a) De los recursos que se deduzcan en relación con las disposiciones generales y los actos de los Ministros, aun cuando se adopten previo informe o acuerdo del Consejo de Ministros o de las Comisiones"
+ },
+ {
+  "n": 22008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a10",
+  "pregunta": "Los recursos contra las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades locales los conocen en única instancia:",
+  "opciones": [
+   "Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia",
+   "Los Juzgados Centrales de lo Contencioso-administrativo",
+   "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+   "Los Juzgados de lo Contencioso-administrativo"
+  ],
+  "correcta": 0,
+  "cita": "b) Las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades locales."
+ },
+ {
+  "n": 22009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a19",
+  "pregunta": "Están legitimadas ante el orden jurisdiccional contencioso-administrativo, en general, las personas físicas o jurídicas que ostenten:",
+  "opciones": [
+   "Un derecho o interés legítimo",
+   "La condición de vecino",
+   "Un interés simple en la legalidad",
+   "La nacionalidad española"
+  ],
+  "correcta": 0,
+  "cita": "Están legitimados ante el orden jurisdiccional contencioso-administrativo: a) Las personas físicas o jurídicas que ostenten un derecho o interés legítimo."
+ },
+ {
+  "n": 22010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a21",
+  "pregunta": "Las aseguradoras de las Administraciones públicas, en el proceso contencioso-administrativo:",
+  "opciones": [
+   "Siempre son parte codemandada junto con la Administración a quien aseguren",
+   "Solo pueden intervenir como coadyuvantes del demandante",
+   "Nunca pueden ser parte",
+   "Son demandadas ante la jurisdicción civil"
+  ],
+  "correcta": 0,
+  "cita": "c) Las aseguradoras de las Administraciones públicas, que siempre serán parte codemandada junto con la Administración a quien aseguren."
+ },
+ {
+  "n": 22011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a23",
+  "pregunta": "En sus actuaciones ante órganos unipersonales, las partes:",
+  "opciones": [
+   "Pueden conferir su representación a un Procurador y son asistidas, en todo caso, por Abogado",
+   "Deben conferir siempre su representación a un Procurador",
+   "Deben actuar por sí mismas",
+   "No necesitan Abogado en ningún caso"
+  ],
+  "correcta": 0,
+  "cita": "En sus actuaciones ante órganos unipersonales, las partes podrán conferir su representación a un Procurador y serán asistidas, en todo caso, por Abogado."
+ },
+ {
+  "n": 22012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a23",
+  "pregunta": "Los funcionarios públicos pueden comparecer por sí mismos en defensa de sus derechos estatutarios cuando se trate de:",
+  "opciones": [
+   "Solo recursos ante el Tribunal Supremo",
+   "Solo reclamaciones de responsabilidad patrimonial",
+   "Cualquier cuestión, incluida la separación del servicio",
+   "Cuestiones de personal que no impliquen separación de empleados públicos inamovibles"
+  ],
+  "correcta": 3,
+  "cita": "Podrán, no obstante, comparecer por sí mismos los funcionarios públicos en defensa de sus derechos estatutarios, cuando se refieran a cuestiones de personal que no impliquen separación de empleados públicos inamovibles."
+ },
+ {
+  "n": 22013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a25",
+  "pregunta": "El recurso contencioso-administrativo es admisible en relación con los actos expresos y presuntos de la Administración que:",
+  "opciones": [
+   "Estén pendientes de recurso de alzada",
+   "No hayan sido notificados",
+   "Sean de trámite, en todo caso",
+   "Pongan fin a la vía administrativa"
+  ],
+  "correcta": 3,
+  "cita": "contencioso-administrativo es admisible en relación con las disposiciones de carácter general y con los actos expresos y presuntos de la Administración pública que pongan fin a la vía administrativa, ya sean definitivos o de trámite, si estos últimos deciden directa o indirectamente el fondo del"
+ },
+ {
+  "n": 22014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a25",
+  "pregunta": "Además de contra actos y disposiciones, el recurso contencioso-administrativo es admisible contra:",
+  "opciones": [
+   "Las sentencias del Tribunal Constitucional",
+   "Las leyes aprobadas por las Cortes Generales",
+   "Los actos políticos del Rey",
+   "La inactividad de la Administración y sus actuaciones materiales que constituyan vía de hecho"
+  ],
+  "correcta": 3,
+  "cita": "También es admisible el recurso contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho, en los términos establecidos en esta Ley."
+ },
+ {
+  "n": 22015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a26",
+  "pregunta": "La falta de impugnación directa de una disposición general:",
+  "opciones": [
+   "Obliga a acudir al Tribunal Constitucional",
+   "Convalida la disposición definitivamente",
+   "No impide la impugnación de sus actos de aplicación fundada en que la disposición no es conforme a Derecho",
+   "Impide impugnar después sus actos de aplicación"
+  ],
+  "correcta": 2,
+  "cita": "La falta de impugnación directa de una disposición general o la desestimación del recurso que frente a ella se hubiera interpuesto no impiden la impugnación de los actos de aplicación con fundamento en lo dispuesto en el apartado anterior."
+ },
+ {
+  "n": 22016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a28",
+  "pregunta": "No es admisible el recurso contencioso-administrativo respecto de:",
+  "opciones": [
+   "Las disposiciones de carácter general",
+   "Los actos que pongan fin a la vía administrativa",
+   "Los actos presuntos",
+   "Los actos confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma"
+  ],
+  "correcta": 3,
+  "cita": "No es admisible el recurso contencioso-administrativo respecto de los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma."
+ },
+ {
+  "n": 22017,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a29",
+  "pregunta": "Plazo desde la reclamación de una prestación concreta debida sin que la Administración la cumpla, tras el cual cabe recurso contencioso-administrativo contra su inactividad",
+  "opciones": [
+   "6 meses",
+   "1 mes",
+   "2 meses",
+   "3 meses"
+  ],
+  "correcta": 3,
+  "cita": "Si en el plazo de tres meses desde la fecha de la reclamación, la Administración no hubiera dado cumplimiento a lo solicitado o no hubiera llegado a un acuerdo con los interesados, éstos pueden deducir recurso contencioso-administrativo contra la inactividad de la Administración."
+ },
+ {
+  "n": 22018,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a29",
+  "pregunta": "Plazo desde la petición de ejecución de un acto firme no ejecutado por la Administración, tras el cual cabe recurso contencioso-administrativo",
+  "opciones": [
+   "1 mes",
+   "2 meses",
+   "10 días",
+   "3 meses"
+  ],
+  "correcta": 0,
+  "cita": "Cuando la Administración no ejecute sus actos firmes podrán los afectados solicitar su ejecución, y si ésta no se produce en el plazo de un mes desde tal petición, podrán los solicitantes formular recurso contencioso-administrativo, que se tramitará por el procedimiento abreviado regulado en el artículo 78."
+ },
+ {
+  "n": 22019,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a30",
+  "pregunta": "Plazo para que la Administración atienda el requerimiento de cesación de una vía de hecho, antes de poder recurrir directamente",
+  "opciones": [
+   "1 mes",
+   "10 días",
+   "5 días",
+   "20 días"
+  ],
+  "correcta": 1,
+  "cita": "Si dicha intimación no hubiere sido formulada o no fuere atendida dentro de los diez días siguientes a la presentación del requerimiento, podrá deducir directamente recurso contencioso-administrativo."
+ },
+ {
+  "n": 22020,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a46",
+  "pregunta": "Plazo para interponer el recurso contencioso-administrativo contra un acto expreso que pone fin a la vía administrativa",
+  "opciones": [
+   "1 mes",
+   "2 meses",
+   "3 meses",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "El plazo para interponer el recurso contencioso-administrativo será de dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso."
+ },
+ {
+  "n": 22021,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a46",
+  "pregunta": "Plazo para interponer el recurso contencioso-administrativo cuando el acto no es expreso (acto presunto)",
+  "opciones": [
+   "6 meses",
+   "1 año",
+   "2 meses",
+   "3 meses"
+  ],
+  "correcta": 0,
+  "cita": "Si no lo fuera, el plazo será de seis meses y se contará, para el solicitante y otros posibles interesados, a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto."
+ },
+ {
+  "n": 22022,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a46",
+  "pregunta": "Plazo para interponer el recurso contencioso-administrativo contra una vía de hecho cuando no hubo requerimiento previo",
+  "opciones": [
+   "1 mes",
+   "20 días",
+   "2 meses",
+   "10 días"
+  ],
+  "correcta": 1,
+  "cita": "Si no hubiere requerimiento, el plazo será de veinte días desde el día en que se inició la actuación administrativa en vía de hecho."
+ },
+ {
+  "n": 22023,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a46",
+  "pregunta": "Plazo para interponer el recurso de lesividad, desde el día siguiente a la declaración de lesividad",
+  "opciones": [
+   "2 meses",
+   "4 años",
+   "1 mes",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "El plazo para interponer recurso de lesividad será de dos meses a contar desde el día siguiente a la fecha de la declaración de lesividad."
+ },
+ {
+  "n": 22024,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a45",
+  "pregunta": "Salvo que la Ley disponga otra cosa, el recurso contencioso-administrativo se inicia por:",
+  "opciones": [
+   "Demanda con todos los hechos y fundamentos de Derecho",
+   "Solicitud a la Administración autora del acto",
+   "Un escrito reducido a citar lo que se impugna y a solicitar que se tenga por interpuesto el recurso",
+   "Comparecencia oral ante el Juez"
+  ],
+  "correcta": 2,
+  "cita": "El recurso contencioso-administrativo se iniciará por un escrito reducido a citar la disposición, acto, inactividad o actuación constitutiva de vía de hecho que se impugne y a solicitar que se tenga por interpuesto el recurso, salvo cuando esta Ley disponga otra cosa."
+ },
+ {
+  "n": 22025,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a48",
+  "pregunta": "Plazo improrrogable para que la Administración remita el expediente administrativo al órgano judicial",
+  "opciones": [
+   "15 días",
+   "1 mes",
+   "20 días",
+   "10 días"
+  ],
+  "correcta": 2,
+  "cita": "El expediente deberá ser remitido en el plazo improrrogable de veinte días, a contar desde que la comunicación judicial tenga entrada en el registro general del órgano requerido."
+ },
+ {
+  "n": 22026,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a49",
+  "pregunta": "Plazo para que los interesados emplazados por la Administración se personen como demandados",
+  "opciones": [
+   "9 días",
+   "15 días",
+   "10 días",
+   "5 días"
+  ],
+  "correcta": 0,
+  "cita": "La resolución por la que se acuerde remitir el expediente se notificará en los cinco días siguientes a su adopción, a cuantos aparezcan como interesados en él, emplazándoles para que puedan personarse como demandados en el plazo de nueve días."
+ },
+ {
+  "n": 22027,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a52",
+  "pregunta": "Plazo para deducir la demanda una vez entregado el expediente al recurrente",
+  "opciones": [
+   "2 meses",
+   "30 días",
+   "20 días",
+   "10 días"
+  ],
+  "correcta": 2,
+  "cita": "de la Administración de Justicia se acordará su incorporación a los autos en ese mismo soporte y su entrega al recurrente para que se deduzca la demanda en el plazo de veinte días, salvo que concurra alguno de los supuestos del artículo 51, en cuyo caso dará cuenta al tribunal"
+ },
+ {
+  "n": 22028,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a54",
+  "pregunta": "Plazo para que las partes demandadas contesten la demanda",
+  "opciones": [
+   "10 días",
+   "30 días",
+   "20 días",
+   "15 días"
+  ],
+  "correcta": 2,
+  "cita": "Presentada la demanda, el Secretario judicial dará traslado de la misma, con entrega del expediente administrativo, a las partes demandadas que hubieran comparecido, para que la contesten en el plazo de veinte días."
+ },
+ {
+  "n": 22029,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a54",
+  "pregunta": "Cuando hay varios demandados, la contestación a la demanda se formula:",
+  "opciones": [
+   "Primero por los particulares codemandados",
+   "Por sorteo",
+   "Primero por la Administración demandada",
+   "Solo por la Administración"
+  ],
+  "correcta": 2,
+  "cita": "La contestación se formulará primero por la Administración demandada."
+ },
+ {
+  "n": 22030,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a60",
+  "pregunta": "Si el objeto del recurso es una sanción administrativa o disciplinaria y existe disconformidad en los hechos, el proceso:",
+  "opciones": [
+   "Nunca se recibe a prueba",
+   "Se recibirá siempre a prueba",
+   "Se resuelve sin prueba por el procedimiento abreviado",
+   "Se recibe a prueba solo si lo pide la Administración"
+  ],
+  "correcta": 1,
+  "cita": "Si el objeto del recurso fuera una sanción administrativa o disciplinaria, el proceso se recibirá siempre a prueba cuando exista disconformidad en los hechos."
+ },
+ {
+  "n": 22031,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a60",
+  "pregunta": "Plazo para practicar la prueba en el proceso contencioso-administrativo",
+  "opciones": [
+   "30 días",
+   "2 meses",
+   "15 días",
+   "20 días"
+  ],
+  "correcta": 0,
+  "cita": "La prueba se desarrollará con arreglo a las normas generales establecidas para el proceso civil, siendo el plazo para practicarla de treinta días."
+ },
+ {
+  "n": 22032,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a67",
+  "pregunta": "Plazo para dictar sentencia desde que el pleito haya sido declarado concluso",
+  "opciones": [
+   "30 días",
+   "20 días",
+   "5 días",
+   "10 días"
+  ],
+  "correcta": 3,
+  "cita": "La sentencia se dictará en el plazo de diez días desde que el pleito haya sido declarado concluso y decidirá todas las cuestiones controvertidas en el proceso."
+ },
+ {
+  "n": 22033,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a68",
+  "pregunta": "La sentencia del proceso contencioso-administrativo pronuncia alguno de los fallos siguientes:",
+  "opciones": [
+   "Condena o absolución",
+   "Nulidad, anulabilidad o convalidación",
+   "Inadmisibilidad, estimación o desestimación del recurso",
+   "Archivo, sobreseimiento o caducidad"
+  ],
+  "correcta": 2,
+  "cita": "La sentencia pronunciará alguno de los fallos siguientes: a) Inadmisibilidad del recurso contencioso-administrativo. b) Estimación o desestimación del recurso contencioso-administrativo."
+ },
+ {
+  "n": 22034,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a69",
+  "pregunta": "¿Cuál de las siguientes es causa de inadmisibilidad del recurso según el artículo 69 de la Ley 29/1998?",
+  "opciones": [
+   "Que la Administración no haya contestado a la demanda",
+   "Que se hubiera presentado el escrito inicial del recurso fuera del plazo establecido",
+   "Que el acto sea anulable",
+   "Que el acto incurra en desviación de poder"
+  ],
+  "correcta": 1,
+  "cita": "e) Que se hubiera presentado el escrito inicial del recurso fuera del plazo establecido."
+ },
+ {
+  "n": 22035,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a70",
+  "pregunta": "Según la Ley 29/1998, se entiende por desviación de poder:",
+  "opciones": [
+   "El ejercicio de potestades administrativas para fines distintos de los fijados por el ordenamiento jurídico",
+   "La falta de motivación del acto",
+   "El retraso en resolver el procedimiento",
+   "La actuación de un órgano manifiestamente incompetente"
+  ],
+  "correcta": 0,
+  "cita": "Se entiende por desviación de poder el ejercicio de potestades administrativas para fines distintos de los fijados por el ordenamiento jurídico."
+ },
+ {
+  "n": 22036,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a71",
+  "pregunta": "Cuando anulan preceptos de una disposición general, los órganos jurisdiccionales:",
+  "opciones": [
+   "Remiten la nueva redacción a las Cortes",
+   "Redactan los nuevos preceptos",
+   "Fijan el contenido discrecional de los nuevos actos",
+   "No pueden determinar la forma en que han de quedar redactados los preceptos en sustitución de los anulados"
+  ],
+  "correcta": 3,
+  "cita": "Los órganos jurisdiccionales no podrán determinar la forma en que han de quedar redactados los preceptos de una disposición general en sustitución de los que anularen ni podrán determinar el contenido discrecional de los actos anulados."
+ },
+ {
+  "n": 22037,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a72",
+  "pregunta": "La sentencia que declara la inadmisibilidad o la desestimación del recurso contencioso-administrativo:",
+  "opciones": [
+   "Sólo produce efectos entre las partes",
+   "Produce efectos generales desde su publicación",
+   "Carece de efectos",
+   "Produce efectos para todas las personas afectadas"
+  ],
+  "correcta": 0,
+  "cita": "La sentencia que declare la inadmisibilidad o desestimación del recurso contencioso-administrativo sólo producirá efectos entre las partes."
+ },
+ {
+  "n": 22038,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a72",
+  "pregunta": "Las sentencias firmes que anulan una disposición general tienen efectos generales desde:",
+  "opciones": [
+   "Los veinte días siguientes a su firmeza",
+   "El día en que se publique su fallo y preceptos anulados en el mismo periódico oficial en que lo hubiera sido la disposición",
+   "Su notificación a las partes",
+   "El día en que se dictan"
+  ],
+  "correcta": 1,
+  "cita": "Las sentencias firmes que anulen una disposición general tendrán efectos generales desde el día en que sea publicado su fallo y preceptos anulados en el mismo periódico oficial en que lo hubiera sido la disposición anulada."
+ },
+ {
+  "n": 22039,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a78",
+  "pregunta": "Se tramitan por el procedimiento abreviado, entre otros, los asuntos de competencia de los Juzgados cuya cuantía no supere:",
+  "opciones": [
+   "60.000 euros",
+   "6.000 euros",
+   "30.000 euros",
+   "150.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "inadmisión de peticiones de asilo político, asuntos de disciplina deportiva en materia de dopaje, así como todas aquellas cuya cuantía no supere los 30.000 euros."
+ },
+ {
+  "n": 22040,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a79",
+  "pregunta": "Plazo para interponer recurso de reposición contra providencias y autos no susceptibles de apelación o casación",
+  "opciones": [
+   "10 días",
+   "3 días",
+   "1 mes",
+   "5 días"
+  ],
+  "correcta": 3,
+  "cita": "El recurso de reposición se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada."
+ },
+ {
+  "n": 22041,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a81",
+  "pregunta": "Las sentencias de los Juzgados de lo Contencioso-administrativo NO son susceptibles de recurso de apelación, salvo excepciones, en los asuntos cuya cuantía no exceda de:",
+  "opciones": [
+   "30.000 euros",
+   "60.000 euros",
+   "3.000 euros",
+   "600.000 euros"
+  ],
+  "correcta": 0,
+  "cita": "Las sentencias de los Juzgados de lo Contencioso-administrativo y de los Juzgados Centrales de lo Contencioso-administrativo serán susceptibles de recurso de apelación, salvo que se hubieran dictado en los asuntos siguientes: a) Aquellos cuya cuantía no exceda de 30.000 euros."
+ },
+ {
+  "n": 22042,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a87bis",
+  "pregunta": "El recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo se limita, con carácter general, a:",
+  "opciones": [
+   "Las cuestiones de hecho y de derecho",
+   "Las cuestiones de derecho, con exclusión de las cuestiones de hecho",
+   "Las cuestiones de hecho",
+   "La valoración de la prueba"
+  ],
+  "correcta": 1,
+  "cita": "Sin perjuicio de lo dispuesto en el artículo 93.3, el recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo se limitará a las cuestiones de derecho, con exclusión de las cuestiones de hecho."
+ },
+ {
+  "n": 22043,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a103",
+  "pregunta": "La potestad de hacer ejecutar las sentencias del orden contencioso-administrativo corresponde exclusivamente a:",
+  "opciones": [
+   "La Administración condenada",
+   "Los juzgados y tribunales de este orden jurisdiccional",
+   "El Ministerio de Justicia",
+   "El Consejo General del Poder Judicial"
+  ],
+  "correcta": 1,
+  "cita": "La potestad de hacer ejecutar las sentencias y demás títulos ejecutivos adoptados en el proceso corresponde exclusivamente a los juzgados y tribunales de este orden jurisdiccional, y su ejercicio compete al que haya conocido del asunto en primera o única instancia."
+ },
+ {
+  "n": 22044,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a105",
+  "pregunta": "Respecto del cumplimiento del fallo de una sentencia contencioso-administrativa:",
+  "opciones": [
+   "El Gobierno puede declarar su inejecución por decreto",
+   "Puede aplazarse indefinidamente",
+   "No puede suspenderse ni declararse la inejecución total o parcial del fallo",
+   "La Administración puede suspenderlo por razones de interés público"
+  ],
+  "correcta": 2,
+  "cita": "No podrá suspenderse el cumplimiento ni declararse la inejecución total o parcial del fallo."
+ },
+ {
+  "n": 22045,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LJCA",
+  "articulo": "a106",
+  "pregunta": "Plazo desde que la sentencia firme de condena al pago de cantidad se comunica al órgano que debe cumplirla, tras el cual se puede instar la ejecución forzosa",
+  "opciones": [
+   "6 meses",
+   "3 meses",
+   "1 mes",
+   "2 meses"
+  ],
+  "correcta": 1,
+  "cita": "No obstante lo dispuesto en el artículo 104.2, transcurridos tres meses desde que la sentencia firme sea comunicada al órgano que deba cumplirla, se podrá instar la ejecución forzosa."
+ },
+ {
+  "n": 22046,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a130",
+  "pregunta": "La medida cautelar en el proceso contencioso-administrativo puede acordarse únicamente cuando:",
+  "opciones": [
+   "La ejecución del acto o la aplicación de la disposición pudieran hacer perder su finalidad legítima al recurso",
+   "Lo solicite el demandante, en todo caso",
+   "El acto impugnado sea de cuantía superior a 30.000 euros",
+   "Lo acepte la Administración demandada"
+  ],
+  "correcta": 0,
+  "cita": "Previa valoración circunstanciada de todos los intereses en conflicto, la medida cautelar podrá acordarse únicamente cuando la ejecución del acto o la aplicación de la disposición pudieran hacer perder su finalidad legítima al recurso."
+ },
+ {
+  "n": 22047,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a131",
+  "pregunta": "El incidente cautelar se sustancia en pieza separada, con audiencia de la parte contraria por plazo no superior a diez días, y se resuelve por auto dentro de:",
+  "opciones": [
+   "Los tres días siguientes",
+   "Los diez días siguientes",
+   "El mes siguiente",
+   "Los cinco días siguientes"
+  ],
+  "correcta": 3,
+  "cita": "El incidente cautelar se sustanciará en pieza separada, con audiencia de la parte contraria, que ordenará el Secretario judicial por plazo que no excederá de diez días, y será resuelto por auto dentro de los cinco días siguientes."
+ },
+ {
+  "n": 22048,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LJCA",
+  "articulo": "a135",
+  "pregunta": "Cuando se alegan circunstancias de especial urgencia, el juez o tribunal puede adoptar o denegar la medida cautelar sin oír a la parte contraria en el plazo de:",
+  "opciones": [
+   "Veinticuatro horas",
+   "Diez días",
+   "Dos días",
+   "Cinco días"
+  ],
+  "correcta": 2,
+  "cita": "Cuando los interesados alegaran la concurrencia de circunstancias de especial urgencia en el caso, el juez o tribunal sin oír a la parte contraria, en el plazo de dos días podrá mediante auto: a) Apreciar las circunstancias de especial urgencia y adoptar o denegar la medida, conforme al artículo 130."
+ }
+]
