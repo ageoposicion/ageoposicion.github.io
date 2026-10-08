@@ -76,3 +76,11 @@ solo se pregunta lo que dice lo mismo antes y después de esa reforma (se evitan
 resolución del art. 28.1 y el catálogo de servicios del art. 15). Se comprobó también el banco entero: las
 únicas preguntas sobre artículos con esa vigencia futura (TREBEP art. 49, n.º 7066-7071; LGS art. 2,
 n.º 24001) se refieren a apartados que no cambian.
+
+## Revisión 7 (tras los lotes 24, 25, 26 y 27) · 8-10-2026
+
+Muestra (semilla 7007): 24004, 24010, 24011, 24020, 24022, 24033, 24034, 24036, 24037, 24038, 24045,
+25003, 25010, 25014, 25015, 25018, 25019, 25023, 25024, 25025, 25029, 26001, 26002, 26005, 26006,
+26023, 26025, 27005, 27011, 27016.
+
+Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
