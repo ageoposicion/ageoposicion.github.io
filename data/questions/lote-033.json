@@ -1,0 +1,194 @@
+[
+ {
+  "n": 33001,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a1",
+  "pregunta": "Según el RD 208/1996, la información encomendada a las unidades y oficinas de información administrativa puede ser:",
+  "opciones": [
+   "Previa o posterior",
+   "General o particular",
+   "Oral o escrita exclusivamente",
+   "Pública o reservada"
+  ],
+  "correcta": 1,
+  "cita": "La información encomendada a las unidades y oficinas a las que se refiere el capítulo II de este Real Decreto podrá ser general o particular."
+ },
+ {
+  "n": 33002,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a2",
+  "pregunta": "La información administrativa relativa a la identificación, fines, competencia, estructura, funcionamiento y localización de organismos y unidades administrativas es información:",
+  "opciones": [
+   "Particular",
+   "General",
+   "Clasificada",
+   "Reservada"
+  ],
+  "correcta": 1,
+  "cita": "Es la información administrativa relativa a la identificación, fines, competencia, estructura, funcionamiento y localización de organismos y unidades administrativas; la referida a los requisitos jurídicos o técnicos que las"
+ },
+ {
+  "n": 33003,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a2",
+  "pregunta": "La información general se facilitará obligatoriamente a los ciudadanos:",
+  "opciones": [
+   "Previo pago de una tasa",
+   "Previa acreditación de su condición de interesado",
+   "Sin exigir para ello la acreditación de legitimación alguna",
+   "Solo si la solicitan por escrito"
+  ],
+  "correcta": 2,
+  "cita": "La información general se facilitará obligatoriamente a los ciudadanos, sin exigir para ello la acreditación de legitimación alguna."
+ },
+ {
+  "n": 33004,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a3",
+  "pregunta": "La información concerniente al estado o contenido de los procedimientos en tramitación es información:",
+  "opciones": [
+   "General",
+   "Particular",
+   "Pública en todo caso",
+   "Institucional"
+  ],
+  "correcta": 1,
+  "cita": "Es la concerniente al estado o contenido de los procedimientos en tramitación, y a la identificación de las autoridades y personal al servicio de la Administración General del"
+ },
+ {
+  "n": 33005,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a3",
+  "pregunta": "La información particular sobre un procedimiento solo puede facilitarse a:",
+  "opciones": [
+   "Cualquier ciudadano que la solicite",
+   "Los medios de comunicación",
+   "Quienes tengan la condición de interesados en el procedimiento o a sus representantes legales",
+   "Cualquier empleado público"
+  ],
+  "correcta": 2,
+  "cita": "Esta información sólo podrá ser facilitada a las personas que tengan la condición de interesados en cada procedimiento o a sus representantes legales de acuerdo con lo dispuesto en los artículos 31 y 32 de a Ley 30/1992, de 26 de noviembre."
+ },
+ {
+  "n": 33006,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a4",
+  "pregunta": "La función de orientación e información de las oficinas de atención al ciudadano:",
+  "opciones": [
+   "Incluye la interpretación vinculante de las normas",
+   "En ningún caso puede entrañar una interpretación normativa ni consideración jurídica o económica",
+   "Incluye dictámenes económicos sobre las solicitudes",
+   "Incluye el asesoramiento jurídico personalizado"
+  ],
+  "correcta": 1,
+  "cita": "Esta forma de facilitar a los ciudadanos el ejercicio de sus derechos, en ningún caso podrá entrañar una interpretación normativa, a la que se refiere el artículo 37.10 de la Ley de Régimen Jurídico de las Administraciones"
+ },
+ {
+  "n": 33007,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a4",
+  "pregunta": "¿Cuál de las siguientes figura entre las funciones de atención personalizada al ciudadano del artículo 4 del RD 208/1996?",
+  "opciones": [
+   "La resolución de los recursos administrativos",
+   "La recepción y acogida de los ciudadanos para facilitarles orientación en el momento inicial de su visita",
+   "La inspección tributaria",
+   "La imposición de sanciones"
+  ],
+  "correcta": 1,
+  "cita": "La atención personalizada al ciudadano comprenderá las funciones siguientes: a) De recepción y acogida a los ciudadanos, al objeto de facilitarles la orientación y ayuda que precisen en el momento inicial de su visita, y, en particular, la relativa a la localización de dependencias y funcionarios."
+ },
+ {
+  "n": 33008,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a4",
+  "pregunta": "Según el RD 208/1996, las iniciativas o sugerencias para mejorar la calidad de los servicios pueden formularlas:",
+  "opciones": [
+   "Solo las asociaciones inscritas",
+   "Solo los ciudadanos españoles",
+   "Los ciudadanos o los propios empleados públicos",
+   "Solo los órganos de inspección"
+  ],
+  "correcta": 2,
+  "cita": "d) De recepción de las iniciativas o sugerencias formuladas por los ciudadanos, o por los propios empleados públicos para mejorar la calidad de los servicios, incrementar el rendimiento o el ahorro del gasto"
+ },
+ {
+  "n": 33009,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a4",
+  "pregunta": "Las oficinas de información administrativa asisten a los ciudadanos en el ejercicio del derecho de petición, reconocido en los artículos de la Constitución:",
+  "opciones": [
+   "14 y 24",
+   "9 y 103",
+   "29 y 77",
+   "20 y 105"
+  ],
+  "correcta": 2,
+  "cita": "f) De asistencia a los ciudadanos en el ejercicio del derecho de petición, reconocido por los artículos 29 y 77 de la Constitución."
+ },
+ {
+  "n": 33010,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a5",
+  "pregunta": "En cada Ministerio, la jefatura de la unidad departamental de información administrativa la ostenta:",
+  "opciones": [
+   "El Ministro",
+   "El titular de la Subdirección General que tenga encomendada la competencia sobre información administrativa",
+   "El Secretario General Técnico en todo caso",
+   "El Subsecretario del Departamento"
+  ],
+  "correcta": 1,
+  "cita": "En cada Ministerio el titular de la Subdirección General que tenga encomendada la competencia sobre la información administrativa ostentará la jefatura de la unidad departamental de información administrativa."
+ },
+ {
+  "n": 33011,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a8",
+  "pregunta": "Las oficinas centrales de información y atención al ciudadano de los servicios centrales radicarán, salvo circunstancias singulares:",
+  "opciones": [
+   "En las oficinas de Correos",
+   "En las Delegaciones del Gobierno",
+   "En los Ayuntamientos",
+   "En la sede de cada Departamento ministerial"
+  ],
+  "correcta": 3,
+  "cita": "Existirán dos tipos de oficinas de información y atención en los servicios centrales: a) Las oficinas centrales de información y atención al ciudadano, que radicarán en la sede de cada Departamento ministerial, salvo que circunstancias singulares aconsejen otro emplazamiento."
+ },
+ {
+  "n": 33012,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDINF",
+  "articulo": "a10",
+  "pregunta": "Mediante convenio entre distintas Administraciones públicas puede acordarse:",
+  "opciones": [
+   "El cobro de tasas por información general",
+   "La cesión de datos personales sin consentimiento",
+   "La supresión de la información particular",
+   "La creación de oficinas integradas de información con participación de varias Administraciones"
+  ],
+  "correcta": 3,
+  "cita": "articulándose los mecanismos de comunicación necesarios para el intercambio de la información, así como la creación de oficinas integradas de información con participación de varias Administraciones públicas."
+ }
+]

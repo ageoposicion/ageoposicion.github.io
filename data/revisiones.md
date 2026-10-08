@@ -94,3 +94,13 @@ Muestra (semilla 8008): 28005, 28008, 28009, 28012, 28014, 28017, 28018, 28019, 
 Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
 En el RD 203/2021 se evitan los nombres de ministerios (han cambiado desde 2021); en la LGSS se evita la
 edad ordinaria de jubilación del art. 205.1.a), que todavía se aplica de forma gradual.
+
+## Revisión 9 (tras los lotes 31, 32 y 33) · 8-10-2026
+
+Muestra (semilla 9009): 31003, 31007, 31010, 31016, 31017, 31019, 31021, 31022, 31023, 31024, 32002,
+32003, 32005, 32007, 32008, 32009, 32010, 32011, 32013, 32014, 32015, 32016, 32017, 32019, 33003,
+33005, 33007, 33008, 33010, 33011.
+
+Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
+MUFACE, Clases Pasivas y el RD 208/1996 se descargaron del BOE el 8-10-2026 (identificadores
+BOE-A-2000-12140, BOE-A-1987-12636 y BOE-A-1996-4997; títulos comprobados).

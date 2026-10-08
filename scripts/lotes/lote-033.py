@@ -1,0 +1,42 @@
+# Lote 33 · RD 208/1996, servicios de información administrativa y atención al ciudadano · bloque II (tema
+# II.1: atención al público; servicios de información administrativa; iniciativas, quejas y peticiones).
+# Los arts. 11-13 y 15-24 están derogados; se evitan los órganos con nombres superados (art. 6).
+NORMA, LOTE, INICIO = 'RDINF', 'lote-033', 33001
+T, P = 'test', 'plazo'
+PREGUNTAS = [
+('II', T, 'a1', 'Según el RD 208/1996, la información encomendada a las unidades y oficinas de información administrativa puede ser:', 'General o particular',
+ ['Pública o reservada', 'Oral o escrita exclusivamente', 'Previa o posterior'],
+ 'podrá ser general o particular'),
+('II', T, 'a2', 'La información administrativa relativa a la identificación, fines, competencia, estructura, funcionamiento y localización de organismos y unidades administrativas es información:', 'General',
+ ['Particular', 'Reservada', 'Clasificada'],
+ 'Es la información administrativa relativa a la identificación, fines, competencia, estructura, funcionamiento y localización de organismos'),
+('II', T, 'a2', 'La información general se facilitará obligatoriamente a los ciudadanos:', 'Sin exigir para ello la acreditación de legitimación alguna',
+ ['Previa acreditación de su condición de interesado', 'Solo si la solicitan por escrito', 'Previo pago de una tasa'],
+ 'La información general se facilitará obligatoriamente a los ciudadanos, sin exigir para ello la acreditación de legitimación alguna'),
+('II', T, 'a3', 'La información concerniente al estado o contenido de los procedimientos en tramitación es información:', 'Particular',
+ ['General', 'Pública en todo caso', 'Institucional'],
+ 'Es la concerniente al estado o contenido de los procedimientos en tramitación'),
+('II', T, 'a3', 'La información particular sobre un procedimiento solo puede facilitarse a:', 'Quienes tengan la condición de interesados en el procedimiento o a sus representantes legales',
+ ['Cualquier ciudadano que la solicite', 'Los medios de comunicación', 'Cualquier empleado público'],
+ 'sólo podrá ser facilitada a las personas que tengan la condición de interesados en cada procedimiento o a sus representantes legales'),
+('II', T, 'a4', 'La función de orientación e información de las oficinas de atención al ciudadano:', 'En ningún caso puede entrañar una interpretación normativa ni consideración jurídica o económica',
+ ['Incluye la interpretación vinculante de las normas', 'Incluye el asesoramiento jurídico personalizado', 'Incluye dictámenes económicos sobre las solicitudes'],
+ 'en ningún caso podrá entrañar una interpretación normativa'),
+('II', T, 'a4', '¿Cuál de las siguientes figura entre las funciones de atención personalizada al ciudadano del artículo 4 del RD 208/1996?', 'La recepción y acogida de los ciudadanos para facilitarles orientación en el momento inicial de su visita',
+ ['La resolución de los recursos administrativos', 'La imposición de sanciones', 'La inspección tributaria'],
+ 'a) De recepción y acogida a los ciudadanos, al objeto de facilitarles la orientación y ayuda que precisen en el momento inicial de su visita'),
+('II', T, 'a4', 'Según el RD 208/1996, las iniciativas o sugerencias para mejorar la calidad de los servicios pueden formularlas:', 'Los ciudadanos o los propios empleados públicos',
+ ['Solo los ciudadanos españoles', 'Solo las asociaciones inscritas', 'Solo los órganos de inspección'],
+ 'De recepción de las iniciativas o sugerencias formuladas por los ciudadanos, o por los propios empleados públicos'),
+('II', T, 'a4', 'Las oficinas de información administrativa asisten a los ciudadanos en el ejercicio del derecho de petición, reconocido en los artículos de la Constitución:', '29 y 77',
+ ['14 y 24', '20 y 105', '9 y 103'], 'reconocido por los artículos 29 y 77 de la Constitución'),
+('II', T, 'a5', 'En cada Ministerio, la jefatura de la unidad departamental de información administrativa la ostenta:', 'El titular de la Subdirección General que tenga encomendada la competencia sobre información administrativa',
+ ['El Subsecretario del Departamento', 'El Ministro', 'El Secretario General Técnico en todo caso'],
+ 'el titular de la Subdirección General que tenga encomendada la competencia sobre la información administrativa ostentará la jefatura'),
+('II', T, 'a8', 'Las oficinas centrales de información y atención al ciudadano de los servicios centrales radicarán, salvo circunstancias singulares:', 'En la sede de cada Departamento ministerial',
+ ['En las Delegaciones del Gobierno', 'En los Ayuntamientos', 'En las oficinas de Correos'],
+ 'que radicarán en la sede de cada Departamento ministerial'),
+('II', T, 'a10', 'Mediante convenio entre distintas Administraciones públicas puede acordarse:', 'La creación de oficinas integradas de información con participación de varias Administraciones',
+ ['La supresión de la información particular', 'El cobro de tasas por información general', 'La cesión de datos personales sin consentimiento'],
+ 'así como la creación de oficinas integradas de información con participación de varias Administraciones públicas'),
+]

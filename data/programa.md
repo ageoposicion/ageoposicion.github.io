@@ -24,7 +24,7 @@ Cada error descuenta 1/3.
 
 ## II. Organización de oficinas públicas
 
-1. Atención al público; personas con discapacidad; servicios de información administrativa; iniciativas, reclamaciones, quejas y peticiones. → **RDINF** (RD 208/1996), pendiente de descarga
+1. Atención al público; personas con discapacidad; servicios de información administrativa; iniciativas, reclamaciones, quejas y peticiones. → **RDINF** (RD 208/1996)
 2. Documento, registro y archivo.
 3. Administración electrónica y servicios al ciudadano; oficinas integradas; ventanilla única; Punto de Acceso General. → **L40** arts. 38-46 bis; **RDAE** (RD 203/2021)
 4. Protección de datos personales: principios, derechos, responsable y encargado, delegado y autoridades de protección de datos. Derechos digitales. → **LOPDGDD**
@@ -47,7 +47,7 @@ Cada error descuenta 1/3.
 4. Adquisición y pérdida de la condición de funcionario; situaciones administrativas. → **TREBEP**
 5. Provisión de puestos; deberes y derechos; carrera; promoción interna. → **TREBEP**
 6. Incompatibilidades; régimen disciplinario. → **TREBEP**; **LINC** (Ley 53/1984)
-7. Seguridad Social de los funcionarios; MUFACE; clases pasivas. → **MUFACE** (RDLeg 4/2000) y **LCLP** (RDLeg 670/1987), pendientes de descarga
+7. Seguridad Social de los funcionarios; MUFACE; clases pasivas. → **MUFACE** (RDLeg 4/2000) y **LCLP** (RDLeg 670/1987)
 8. Personal laboral; IV Convenio único de la AGE.
 9. Seguridad Social del personal laboral; acción protectora. → **LGSS** (RDLeg 8/2015)
 
