@@ -74,4 +74,7 @@ Cada error descuenta 1/3.
 - CE art. 136 (Tribunal de Cuentas) pasa del bloque I al **V** (tema V.3).
 - Se retiran 25 preguntas de la LGP (arts. 4-25: derechos y obligaciones de la Hacienda Pública;
   arts. 65, 67, 69 y 80) porque no corresponden a ningún tema. Se conservan sus números sin reutilizar.
+- Ley 40/2015 arts. 38-46 bis (funcionamiento electrónico) se asignan al bloque **II** (tema II.3) y
+  arts. 140-158 (relaciones interadministrativas) al **III** (lote 15).
+- TREBEP arts. 21-30 (retribuciones) pasan al bloque **V** (tema V.4), también las 10 del lote 7.
 - Los números de las preguntas no cambian, así que las estadísticas guardadas en la app se mantienen.

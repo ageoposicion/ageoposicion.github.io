@@ -1,0 +1,674 @@
+[
+ {
+  "n": 16001,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a21",
+  "pregunta": "Las cuantías de las retribuciones básicas y el incremento de las cuantías globales de las complementarias de los funcionarios deben reflejarse para cada ejercicio en:",
+  "opciones": [
+   "La correspondiente ley de presupuestos",
+   "Un real decreto del Gobierno",
+   "El convenio colectivo",
+   "Una orden del Ministerio de Hacienda"
+  ],
+  "correcta": 0,
+  "cita": "Las cuantías de las retribuciones básicas y el incremento de las cuantías globales de las retribuciones complementarias de los funcionarios, así como el incremento de la masa salarial del personal laboral, deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos."
+ },
+ {
+  "n": 16003,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a22",
+  "pregunta": "Las retribuciones que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados del funcionario son las:",
+  "opciones": [
+   "Retribuciones básicas",
+   "Retribuciones diferidas",
+   "Indemnizaciones por razón del servicio",
+   "Retribuciones complementarias"
+  ],
+  "correcta": 3,
+  "cita": "Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario."
+ },
+ {
+  "n": 16004,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a22",
+  "pregunta": "Las pagas extraordinarias de los funcionarios serán:",
+  "opciones": [
+   "Tres al año, por el importe del sueldo y trienios",
+   "Dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las complementarias, salvo las de rendimiento y servicios extraordinarios",
+   "Una al año, por el importe de una mensualidad completa",
+   "Dos al año, solo por el importe del sueldo"
+  ],
+  "correcta": 1,
+  "cita": "Las pagas extraordinarias serán dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo aquéllas a las que se refieren los apartados c) y d) del artículo 24."
+ },
+ {
+  "n": 16005,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a22",
+  "pregunta": "Según el artículo 22.5, los funcionarios NO podrán percibir:",
+  "opciones": [
+   "Participación en tributos o premios en multas impuestas como contraprestación de servicios",
+   "Complementos por servicios extraordinarios",
+   "Indemnizaciones por razón del servicio",
+   "Trienios"
+  ],
+  "correcta": 0,
+  "cita": "No podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio, participación o premio en multas impuestas, aun cuando estuviesen normativamente atribuidas a los servicios."
+ },
+ {
+  "n": 16006,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a23",
+  "pregunta": "Las retribuciones básicas de los funcionarios se fijan en:",
+  "opciones": [
+   "Las leyes de función pública de cada Administración",
+   "La Ley de Presupuestos Generales del Estado",
+   "El convenio colectivo",
+   "La relación de puestos de trabajo"
+  ],
+  "correcta": 1,
+  "cita": "Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por: a) El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo."
+ },
+ {
+  "n": 16007,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a23",
+  "pregunta": "Los trienios consisten en una cantidad igual para cada Subgrupo o Grupo de clasificación por cada:",
+  "opciones": [
+   "Tres años de servicio",
+   "Cinco años de servicio",
+   "Dos años de servicio",
+   "Año de servicio"
+  ],
+  "correcta": 0,
+  "cita": "b) Los trienios, que consisten en una cantidad, que será igual para cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo, por cada tres años de servicio."
+ },
+ {
+  "n": 16008,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a24",
+  "pregunta": "La cuantía y estructura de las retribuciones complementarias de los funcionarios se establecen por:",
+  "opciones": [
+   "El TREBEP directamente",
+   "La Ley de Presupuestos Generales del Estado exclusivamente",
+   "Resolución del órgano de personal",
+   "Las correspondientes leyes de cada Administración Pública"
+  ],
+  "correcta": 3,
+  "cita": "La cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por las correspondientes leyes de cada Administración Pública atendiendo, entre otros, a los siguientes factores: a) La progresión alcanzada por el funcionario dentro del sistema de carrera administrativa."
+ },
+ {
+  "n": 16009,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a24",
+  "pregunta": "¿Cuál de los siguientes NO es un factor de las retribuciones complementarias según el artículo 24 del TREBEP?",
+  "opciones": [
+   "Los servicios extraordinarios prestados fuera de la jornada normal",
+   "La progresión alcanzada dentro del sistema de carrera administrativa",
+   "El grado de interés, iniciativa o esfuerzo y el rendimiento",
+   "La pertenencia a un Subgrupo de clasificación profesional"
+  ],
+  "correcta": 3,
+  "cita": "de los funcionarios se establecerán por las correspondientes leyes de cada Administración Pública atendiendo, entre otros, a los siguientes factores: a) La progresión alcanzada por el funcionario dentro del sistema de carrera administrativa. b) La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo o las condiciones en que se desarrolla el trabajo. c) El grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo y el rendimiento o resultados obtenidos. d) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo."
+ },
+ {
+  "n": 16010,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a25",
+  "pregunta": "Los funcionarios interinos perciben, entre otras retribuciones:",
+  "opciones": [
+   "Solo el sueldo base",
+   "Solo las retribuciones complementarias",
+   "Las mismas retribuciones que el personal eventual",
+   "Las básicas y las pagas extraordinarias de su Subgrupo o Grupo de adscripción"
+  ],
+  "correcta": 3,
+  "cita": "Los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción, en el supuesto de que éste no tenga Subgrupo."
+ },
+ {
+  "n": 16012,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a27",
+  "pregunta": "Las retribuciones del personal laboral se determinan de acuerdo con:",
+  "opciones": [
+   "La relación de puestos de trabajo exclusivamente",
+   "La legislación laboral, el convenio colectivo aplicable y el contrato de trabajo, respetando el artículo 21",
+   "Las mismas reglas que los funcionarios",
+   "Exclusivamente la Ley de Presupuestos"
+  ],
+  "correcta": 1,
+  "cita": "Las retribuciones del personal laboral se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo, respetando en todo caso lo establecido en el artículo 21 del presente Estatuto."
+ },
+ {
+  "n": 16013,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a29",
+  "pregunta": "Las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros colectivos con cobertura de jubilación tienen la consideración de:",
+  "opciones": [
+   "Retribución complementaria",
+   "Prestación social",
+   "Indemnización por razón del servicio",
+   "Retribución diferida"
+  ],
+  "correcta": 3,
+  "cita": "Las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán a todos los efectos la consideración de retribución diferida."
+ },
+ {
+  "n": 16014,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a30",
+  "pregunta": "La parte de jornada no realizada da lugar a la deducción proporcional de haberes, que:",
+  "opciones": [
+   "Es una sanción disciplinaria leve",
+   "Solo procede en caso de reincidencia",
+   "No tiene carácter sancionador",
+   "Requiere expediente disciplinario previo"
+  ],
+  "correcta": 2,
+  "cita": "Sin perjuicio de la sanción disciplinaria que pueda corresponder, la parte de jornada no realizada dará lugar a la deducción proporcional de haberes, que no tendrá carácter sancionador."
+ },
+ {
+  "n": 16015,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a30",
+  "pregunta": "Quienes ejercen el derecho de huelga no devengan ni perciben las retribuciones del tiempo en huelga, y esa deducción de haberes:",
+  "opciones": [
+   "Constituye una falta leve",
+   "Les priva de las pagas extraordinarias",
+   "Afecta a sus trienios",
+   "No tiene carácter de sanción ni afecta al régimen de sus prestaciones sociales"
+  ],
+  "correcta": 3,
+  "cita": "Quienes ejerciten el derecho de huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción, ni afecte al régimen respectivo de sus prestaciones sociales."
+ },
+ {
+  "n": 16016,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a32",
+  "pregunta": "Los órganos de gobierno de las Administraciones pueden suspender o modificar convenios colectivos ya firmados del personal laboral:",
+  "opciones": [
+   "Libremente, cuando lo consideren oportuno",
+   "Nunca",
+   "Excepcionalmente, por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas",
+   "Solo con acuerdo de la mayoría sindical"
+  ],
+  "correcta": 2,
+  "cita": "garantiza el cumplimiento de los convenios colectivos y acuerdos que afecten al personal laboral, salvo cuando excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, los órganos de gobierno de las Administraciones Públicas suspendan o modifiquen el cumplimiento"
+ },
+ {
+  "n": 16017,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a34",
+  "pregunta": "Plazo máximo para iniciar el proceso de negociación en una Mesa, a falta de acuerdo, desde que lo promueva la mayoría de una de las partes legitimadas",
+  "opciones": [
+   "1 mes",
+   "2 meses",
+   "3 meses",
+   "15 días"
+  ],
+  "correcta": 0,
+  "cita": "A falta de acuerdo, el proceso se iniciará en el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva, salvo que existan causas legales o pactadas que lo impidan."
+ },
+ {
+  "n": 16018,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a36",
+  "pregunta": "Es específicamente objeto de negociación en la Mesa General de Negociación de las Administraciones Públicas:",
+  "opciones": [
+   "La provisión de cada puesto de trabajo concreto",
+   "El incremento global de las retribuciones del personal que deba incluirse en el Proyecto de Ley de Presupuestos Generales del Estado",
+   "El régimen disciplinario de cada funcionario",
+   "La potestad de autoorganización"
+  ],
+  "correcta": 1,
+  "cita": "Será específicamente objeto de negociación en el ámbito de la Mesa General de Negociación de las Administraciones Públicas el incremento global de las retribuciones del personal al servicio de las Administraciones Públicas que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año."
+ },
+ {
+  "n": 16019,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a36",
+  "pregunta": "La Mesa General de Negociación de las Administraciones Públicas está presidida por:",
+  "opciones": [
+   "El sindicato más representativo",
+   "Las Comunidades Autónomas por turno rotatorio",
+   "La Federación Española de Municipios y Provincias",
+   "La Administración General del Estado"
+  ],
+  "correcta": 3,
+  "cita": "La representación de éstas será unitaria, estará presidida por la Administración General del Estado y contará con representantes de las Comunidades Autónomas, de las ciudades de Ceuta y Melilla y de la Federación Española de Municipios y Provincias, en función de las materias a negociar."
+ },
+ {
+  "n": 16020,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a40",
+  "pregunta": "Las Juntas de Personal y los Delegados de Personal tienen derecho a ser informados de:",
+  "opciones": [
+   "Todas las sanciones impuestas por faltas muy graves",
+   "Todas las sanciones, incluidas las leves",
+   "Solo las sanciones de separación del servicio",
+   "Ninguna sanción, por protección de datos"
+  ],
+  "correcta": 0,
+  "cita": "c) Ser informados de todas las sanciones impuestas por faltas muy graves."
+ },
+ {
+  "n": 16021,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a43",
+  "pregunta": "¿Quiénes NO pueden promover elecciones a Delegados y Juntas de Personal según el artículo 43?",
+  "opciones": [
+   "La Administración Pública correspondiente",
+   "Los funcionarios de la unidad electoral, por acuerdo mayoritario",
+   "Los sindicatos con al menos el 10 % en la unidad electoral",
+   "Los sindicatos más representativos a nivel estatal"
+  ],
+  "correcta": 0,
+  "cita": "Podrán promover la celebración de elecciones a Delegados y Juntas de Personal, conforme a lo previsto en el presente Estatuto y en los artículos 6 y 7 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical: a) Los Sindicatos más representativos a nivel estatal. b) Los sindicatos más representativos a nivel de comunidad autónoma, cuando la unidad electoral afectada esté ubicada en su ámbito geográfico. c) Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes a los que se refiere este Estatuto en el conjunto de las Administraciones Públicas. d) Los sindicatos que hayan obtenido al menos un porcentaje del 10 por 100 en la unidad electoral en la que se pretende promover las elecciones. e) Los funcionarios de la unidad electoral, por acuerdo mayoritario."
+ },
+ {
+  "n": 16022,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a45",
+  "pregunta": "En los sistemas de solución extrajudicial de conflictos colectivos de los empleados públicos, la mediación:",
+  "opciones": [
+   "Está prohibida en materias de personal",
+   "Tiene efectos vinculantes en todo caso",
+   "Es siempre voluntaria para ambas partes",
+   "Es obligatoria cuando lo solicite una de las partes, y sus propuestas pueden aceptarse o rechazarse libremente"
+  ],
+  "correcta": 3,
+  "cita": "La mediación será obligatoria cuando lo solicite una de las partes y las propuestas de solución que ofrezcan el mediador o mediadores podrán ser libremente aceptadas o rechazadas por las mismas."
+ },
+ {
+  "n": 16023,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a52",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios del artículo 52 del TREBEP que inspiran el Código de Conducta?",
+  "opciones": [
+   "Neutralidad",
+   "Ejemplaridad",
+   "Austeridad",
+   "Rentabilidad"
+  ],
+  "correcta": 3,
+  "cita": "generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico, y deberán actuar con arreglo a los siguientes principios: objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental, y respeto a la igualdad entre mujeres y hombres, que inspiran el Código de Conducta de los empleados públicos configurado por los principios"
+ },
+ {
+  "n": 16025,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a53",
+  "pregunta": "Según los principios éticos del artículo 53, los empleados públicos deben abstenerse:",
+  "opciones": [
+   "De ejercer el derecho de huelga",
+   "En los asuntos en que tengan un interés personal y de actividades privadas que puedan plantear conflictos de intereses",
+   "De afiliarse a sindicatos",
+   "De participar en asociaciones"
+  ],
+  "correcta": 1,
+  "cita": "Se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público."
+ },
+ {
+  "n": 16026,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a53",
+  "pregunta": "Según el artículo 53.12, los empleados públicos guardarán secreto de:",
+  "opciones": [
+   "Su propio salario",
+   "La identidad de su superior jerárquico",
+   "Las materias clasificadas u otras cuya difusión esté prohibida legalmente",
+   "Todos los expedientes administrativos sin excepción"
+  ],
+  "correcta": 2,
+  "cita": "Guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente, y mantendrán la debida discreción sobre aquellos asuntos que conozcan por razón de su cargo, sin que puedan hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público."
+ },
+ {
+  "n": 16027,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a65",
+  "pregunta": "La pérdida de la nacionalidad tenida en cuenta para el nombramiento determina la pérdida de la condición de funcionario:",
+  "opciones": [
+   "Salvo que simultáneamente se adquiera la nacionalidad de alguno de los Estados que permiten el acceso",
+   "Solo si el funcionario es interino",
+   "En todo caso, sin excepción",
+   "Solo tras un expediente disciplinario"
+  ],
+  "correcta": 0,
+  "cita": "la libre circulación de trabajadores, que haya sido tenida en cuenta para el nombramiento, determinará la pérdida de la condición de funcionario salvo que simultáneamente se adquiera la nacionalidad de alguno de dichos Estados."
+ },
+ {
+  "n": 16028,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a69",
+  "pregunta": "La planificación de los recursos humanos en las Administraciones Públicas tiene como objetivo:",
+  "opciones": [
+   "Reducir en todo caso el número de efectivos",
+   "Fijar las retribuciones básicas",
+   "Contribuir a la eficacia en la prestación de los servicios y a la eficiencia en la utilización de los recursos económicos",
+   "Sustituir la Oferta de Empleo Público"
+  ],
+  "correcta": 2,
+  "cita": "La planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo contribuir a la consecución de la eficacia en la prestación de los servicios y de la eficiencia en la utilización de los recursos económicos disponibles mediante la dimensión"
+ },
+ {
+  "n": 16029,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a70",
+  "pregunta": "La Oferta de empleo público comporta la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta:",
+  "opciones": [
+   "Un cinco por cien adicional",
+   "Ninguna plaza adicional",
+   "Un diez por cien adicional",
+   "Un veinte por cien adicional"
+  ],
+  "correcta": 2,
+  "cita": "de personal, lo que comportará la obligación de convocar los correspondientes procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional, fijando el plazo máximo para la convocatoria de los mismos."
+ },
+ {
+  "n": 16030,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a70",
+  "pregunta": "Plazo improrrogable dentro del cual debe ejecutarse la Oferta de empleo público",
+  "opciones": [
+   "1 año",
+   "2 años",
+   "4 años",
+   "3 años"
+  ],
+  "correcta": 3,
+  "cita": "En todo caso, la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años."
+ },
+ {
+  "n": 16031,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a70",
+  "pregunta": "La Oferta de empleo público se aprueba:",
+  "opciones": [
+   "Cada tres años por las Cortes Generales",
+   "Cada legislatura por el Consejo de Ministros",
+   "Anualmente por la Mesa General de Negociación",
+   "Anualmente por los órganos de Gobierno de las Administraciones Públicas, y se publica en el Diario oficial correspondiente"
+  ],
+  "correcta": 3,
+  "cita": "La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, deberá ser publicada en el Diario oficial correspondiente."
+ },
+ {
+  "n": 16032,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a71",
+  "pregunta": "Según el artículo 71, cada Administración Pública constituirá:",
+  "opciones": [
+   "Un Tribunal de selección permanente",
+   "Un Consejo Rector de personal",
+   "Un Registro en el que se inscribirán los datos relativos a su personal",
+   "Una Mesa de Negociación propia"
+  ],
+  "correcta": 2,
+  "cita": "Cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal contemplado en los artículos 2 y 5 del presente Estatuto y que tendrá en cuenta las peculiaridades de determinados colectivos."
+ },
+ {
+  "n": 16033,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a71",
+  "pregunta": "Los contenidos mínimos comunes de los Registros de personal se establecen mediante:",
+  "opciones": [
+   "Real Decreto del Ministerio de Hacienda",
+   "Ley orgánica",
+   "Convenio de Conferencia Sectorial",
+   "Acuerdo de la Mesa General"
+  ],
+  "correcta": 2,
+  "cita": "Mediante convenio de Conferencia Sectorial se establecerán los contenidos mínimos comunes de los Registros de personal y los criterios que permitan el intercambio homogéneo de la información entre Administraciones, con respeto a lo establecido en la legislación de protección de datos de carácter personal."
+ },
+ {
+  "n": 16034,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a73",
+  "pregunta": "Las Administraciones pueden asignar a su personal funciones distintas a las de su puesto cuando las necesidades del servicio lo justifiquen, siempre que:",
+  "opciones": [
+   "Se le abone un complemento adicional",
+   "No superen tres meses",
+   "Resulten adecuadas a su clasificación, grado o categoría, sin merma en las retribuciones",
+   "El funcionario lo acepte por escrito"
+  ],
+  "correcta": 2,
+  "cita": "Las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las correspondientes al puesto de trabajo que desempeñen siempre que resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen sin merma en las retribuciones."
+ },
+ {
+  "n": 16035,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a77",
+  "pregunta": "El personal laboral de las Administraciones Públicas se clasifica:",
+  "opciones": [
+   "De conformidad con la legislación laboral",
+   "En los mismos Grupos que los funcionarios",
+   "Según la relación de puestos de trabajo",
+   "Por la Ley de Presupuestos"
+  ],
+  "correcta": 0,
+  "cita": "El personal laboral se clasificará de conformidad con la legislación laboral."
+ },
+ {
+  "n": 16036,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a81",
+  "pregunta": "En caso de urgente e inaplazable necesidad, los puestos de trabajo pueden proveerse:",
+  "opciones": [
+   "Con carácter provisional, debiendo convocarse públicamente dentro del plazo que señalen las normas",
+   "Por promoción interna automática",
+   "Por contratación laboral indefinida",
+   "Por libre designación definitiva"
+  ],
+  "correcta": 0,
+  "cita": "En caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse con carácter provisional debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas que sean de aplicación."
+ },
+ {
+  "n": 16037,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a83",
+  "pregunta": "La provisión de puestos y movilidad del personal laboral se realiza conforme a:",
+  "opciones": [
+   "Los convenios colectivos aplicables y, en su defecto, el sistema de provisión del personal funcionario de carrera",
+   "La libre decisión del órgano de personal",
+   "El sistema de los funcionarios interinos",
+   "El Estatuto de los Trabajadores exclusivamente"
+  ],
+  "correcta": 0,
+  "cita": "La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera."
+ },
+ {
+  "n": 16038,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a84",
+  "pregunta": "Los funcionarios de carrera que obtienen destino en otra Administración mediante los procedimientos de movilidad quedan, respecto de su Administración de origen, en situación de:",
+  "opciones": [
+   "Servicios especiales",
+   "Excedencia voluntaria por interés particular",
+   "Servicio en otras Administraciones Públicas",
+   "Servicio activo"
+  ],
+  "correcta": 2,
+  "cita": "Los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán respecto de su Administración de origen en la situación administrativa de servicio en otras Administraciones Públicas."
+ },
+ {
+  "n": 16039,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a84",
+  "pregunta": "Plazo máximo, tras el cese en un puesto de libre designación obtenido en otra Administración, para que la Administración de destino acuerde la adscripción del funcionario a otro puesto",
+  "opciones": [
+   "2 meses",
+   "15 días",
+   "3 meses",
+   "1 mes"
+  ],
+  "correcta": 3,
+  "cita": "En el supuesto de cese del puesto obtenido por libre designación, la Administración de destino, en el plazo máximo de un mes a contar desde el día siguiente al del cese, podrá acordar la adscripción del funcionario a otro puesto de la misma o le comunicará que no va a hacer efectiva dicha adscripción."
+ },
+ {
+  "n": 16040,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a84",
+  "pregunta": "Si el funcionario no solicita el reingreso en su Administración de origen en el plazo indicado tras el cese por libre designación en la de destino, será declarado de oficio en:",
+  "opciones": [
+   "Excedencia forzosa",
+   "Servicio activo",
+   "Excedencia voluntaria por interés particular",
+   "Suspensión de funciones"
+  ],
+  "correcta": 2,
+  "cita": "De no solicitarse el reingreso al servicio activo en el plazo indicado será declarado de oficio en situación de excedencia voluntaria por interés particular, con efectos desde el día siguiente a que hubiesen cesado en el servicio activo en la Administración de destino."
+ },
+ {
+  "n": 16041,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a86",
+  "pregunta": "Se hallan en situación de servicio activo quienes:",
+  "opciones": [
+   "Ocupen un puesto de personal eventual",
+   "Estén en excedencia por cuidado de familiares",
+   "Hayan superado el proceso selectivo, aunque no hayan tomado posesión",
+   "Presten servicios en su condición de funcionarios, cualquiera que sea la Administración u organismo de destino, y no les corresponda otra situación"
+  ],
+  "correcta": 3,
+  "cita": "Se hallarán en situación de servicio activo quienes, conforme a la normativa de función pública dictada en desarrollo del presente Estatuto, presten servicios en su condición de funcionarios públicos cualquiera que sea la Administración u organismo público o entidad en el que se encuentren destinados y no les corresponda quedar en otra situación."
+ },
+ {
+  "n": 16042,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a88",
+  "pregunta": "El tiempo de servicio en la Administración de destino de los funcionarios en situación de servicio en otras Administraciones Públicas se les computa:",
+  "opciones": [
+   "Solo a efectos de trienios",
+   "Como de servicio activo en su cuerpo o escala de origen",
+   "No se computa",
+   "Solo a efectos de jubilación"
+  ],
+  "correcta": 1,
+  "cita": "El tiempo de servicio en la Administración Pública en la que estén destinados se les computará como de servicio activo en su cuerpo o escala de origen."
+ },
+ {
+  "n": 16043,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a88",
+  "pregunta": "Los funcionarios transferidos a las comunidades autónomas se encuentran, en la Función Pública de la comunidad en que se integran, en situación de:",
+  "opciones": [
+   "Servicio activo",
+   "Servicios especiales",
+   "Servicio en otras Administraciones Públicas",
+   "Excedencia voluntaria"
+  ],
+  "correcta": 0,
+  "cita": "Los funcionarios transferidos a las comunidades autónomas se integran plenamente en la organización de la Función Pública de las mismas, hallándose en la situación de servicio activo en la Función Pública de la comunidad autónoma en la que se integran."
+ },
+ {
+  "n": 16044,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a92",
+  "pregunta": "El personal laboral, en materia de situaciones, se rige por:",
+  "opciones": [
+   "El capítulo de situaciones del TREBEP en todo caso",
+   "La normativa de funcionarios interinos",
+   "El Estatuto de los Trabajadores y los convenios colectivos aplicables",
+   "La Ley de Presupuestos"
+  ],
+  "correcta": 2,
+  "cita": "El personal laboral se regirá por el Estatuto de los Trabajadores y por los Convenios Colectivos que les sean de aplicación."
+ },
+ {
+  "n": 16045,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a100",
+  "pregunta": "El órgano técnico y de trabajo, dependiente de la Conferencia Sectorial de Administración Pública, en el que se hace efectiva la coordinación de la política de personal entre Administraciones es:",
+  "opciones": [
+   "La Mesa General de Negociación",
+   "La Comisión de Coordinación del Empleo Público",
+   "La Comisión Permanente de Selección",
+   "El Consejo Superior de la Función Pública"
+  ],
+  "correcta": 1,
+  "cita": "Se crea la Comisión de Coordinación del Empleo Público como órgano técnico y de trabajo dependiente de la Conferencia Sectorial de Administración Pública."
+ }
+]
