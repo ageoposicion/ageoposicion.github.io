@@ -1,0 +1,306 @@
+[
+ {
+  "n": 32001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a1",
+  "pregunta": "A través del Régimen de Clases Pasivas, el Estado garantiza a su personal la protección frente a los riesgos de:",
+  "opciones": [
+   "Vejez, incapacidad y muerte y supervivencia",
+   "Cargas familiares y dependencia",
+   "Enfermedad común y maternidad exclusivamente",
+   "Desempleo y cese de actividad"
+  ],
+  "correcta": 0,
+  "cita": "A través del Régimen de Clases Pasivas, el Estado garantiza al personal referido en el siguiente artículo de este texto, la protección frente a los riesgos de vejez, incapacidad y muerte y supervivencia, de acuerdo con las disposiciones de este texto refundido."
+ },
+ {
+  "n": 32002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a2",
+  "pregunta": "¿Cuál de los siguientes colectivos forma parte del ámbito personal de cobertura del Régimen de Clases Pasivas?",
+  "opciones": [
+   "El personal laboral de la Administración del Estado",
+   "Los funcionarios de la Administración Local",
+   "Los trabajadores autónomos",
+   "Los funcionarios de carrera de la Administración de Justicia"
+  ],
+  "correcta": 3,
+  "cita": "c) Los funcionarios de carrera de la Administración de Justicia."
+ },
+ {
+  "n": 32003,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a5",
+  "pregunta": "Pueden establecerse derechos pasivos distintos de los recogidos en el texto refundido de Clases Pasivas, o ampliarse o reducirse:",
+  "opciones": [
+   "Por orden del Ministerio de Hacienda",
+   "Solamente por Ley",
+   "Por real decreto del Gobierno",
+   "Por convenio colectivo"
+  ],
+  "correcta": 1,
+  "cita": "Solamente por Ley podrán establecerse derechos pasivos distintos de los recogidos en este texto, así como ampliarse, mejorarse, reducirse o alterarse los mismos."
+ },
+ {
+  "n": 32004,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a6",
+  "pregunta": "Según la Ley de Clases Pasivas, los derechos pasivos son:",
+  "opciones": [
+   "Renunciables a favor de familiares",
+   "Inembargables, irrenunciables e inalienables",
+   "Libremente transmisibles",
+   "Embargables sin límite"
+  ],
+  "correcta": 1,
+  "cita": "Las derechos pasivos son inembargables, irrenunciables o inalienables."
+ },
+ {
+  "n": 32005,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a6",
+  "pregunta": "Respecto de la prescripción, los derechos pasivos:",
+  "opciones": [
+   "Prescriben al año del hecho causante",
+   "Son imprescriptibles, sin perjuicio de la caducidad de sus efectos",
+   "Prescriben a los cuatro años",
+   "Prescriben a los cinco años"
+  ],
+  "correcta": 1,
+  "cita": "Los derechos pasivos son imprescriptibles, estándose a lo previsto en el siguiente artículo 7.° respecto a la caducidad de sus efectos."
+ },
+ {
+  "n": 32006,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "LCLP",
+  "articulo": "a7",
+  "pregunta": "Retroactividad máxima de los efectos económicos del reconocimiento de prestaciones de Clases Pasivas, desde el día primero del mes siguiente a la solicitud",
+  "opciones": [
+   "1 año",
+   "3 meses",
+   "5 años",
+   "6 meses"
+  ],
+  "correcta": 1,
+  "cita": "aquel en que tenga lugar el hecho causante de la prestación de que se trate, sin perjuicio de que la retroactividad máxima de los efectos económicos de tal reconocimiento sea de tres meses a contar desde el día primero del mes siguiente a la presentación de la correspondiente solicitud."
+ },
+ {
+  "n": 32007,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a17",
+  "pregunta": "Las declaraciones preventivas de derechos pasivos solicitadas antes de producirse el hecho causante:",
+  "opciones": [
+   "No proceden en ningún caso",
+   "Proceden con autorización del Ministerio",
+   "Proceden siempre",
+   "Proceden si el interesado tiene más de sesenta años"
+  ],
+  "correcta": 0,
+  "cita": "En ningún caso procederán las declaraciones preventivas de derechos pasivos que se soliciten con anterioridad al momento de ocurrencia del hecho causante de los mismos o sin que el eventual titular de aquéllos reúna todos los requisitos exigidos por este texto para la titularidad de los mismos."
+ },
+ {
+  "n": 32008,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a18",
+  "pregunta": "Las prestaciones del Régimen de Clases Pasivas son:",
+  "opciones": [
+   "Económicas y en especie",
+   "De pago único",
+   "Exclusivamente de carácter económico y pago periódico",
+   "De asistencia sanitaria y farmacéutica"
+  ],
+  "correcta": 2,
+  "cita": "Tales prestaciones serán exclusivamente de carácter económico y pago periódico y se concretarán en las pensiones de jubilación o retiro, de viudedad, de orfandad y en favor de los padres que se regulan en este texto."
+ },
+ {
+  "n": 32009,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a19",
+  "pregunta": "Las pensiones de Clases Pasivas son extraordinarias cuando su hecho causante se produce:",
+  "opciones": [
+   "Antes de los sesenta años",
+   "Por razón de lesión, muerte o desaparición producida en acto de servicio o como consecuencia del mismo",
+   "En circunstancias ordinarias",
+   "Por jubilación voluntaria"
+  ],
+  "correcta": 1,
+  "cita": "Las pensiones reguladas en este texto serán ordinarias o extraordinarias, según que su hecho causante se produzca en circunstancias ordinarias o por razón de lesión, muerte o desaparición producida en acto de servicio o como consecuencia del mismo y de acuerdo con las disposiciones de este texto."
+ },
+ {
+  "n": 32010,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a19",
+  "pregunta": "Las pensiones que se reconocen en virtud de Ley a favor de persona determinada se denominan:",
+  "opciones": [
+   "Pensiones no contributivas",
+   "Pensiones ordinarias",
+   "Pensiones extraordinarias",
+   "Pensiones excepcionales"
+  ],
+  "correcta": 3,
+  "cita": "El derecho a las prestaciones de Clases Pasivas que se reconozcan en virtud de Ley a favor de persona determinada, dará origen a pensiones excepcionales que se regularán, en primer término, por lo que se disponga en la Ley de su concesión y en lo no previsto por ella por las disposiciones de este texto refundido."
+ },
+ {
+  "n": 32011,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a20",
+  "pregunta": "La pensión de jubilación o retiro de Clases Pasivas se devenga:",
+  "opciones": [
+   "Desde el día siguiente a la solicitud",
+   "Desde el primer día del mes siguiente al de la jubilación o retiro",
+   "A los tres meses de la jubilación",
+   "Desde el mismo día de la jubilación"
+  ],
+  "correcta": 1,
+  "cita": "Las pensiones reguladas en este texto se devengarán: a) Desde el primer día del mes siguiente al de la jubilación o retiro del funcionario."
+ },
+ {
+  "n": 32012,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a22",
+  "pregunta": "Además de las doce mensualidades ordinarias, el titular de una pensión de Clases Pasivas percibe dos mensualidades extraordinarias que se devengan el primer día de los meses de:",
+  "opciones": [
+   "Julio y diciembre",
+   "Marzo y septiembre",
+   "Enero y julio",
+   "Junio y diciembre"
+  ],
+  "correcta": 3,
+  "cita": "dos mensualidades extraordinarias que se regirán por lo dispuesto en las siguientes normas: a) Se devengarán el primer día de los meses de junio y diciembre, siempre que el devengo de la pensión a que se aplique comprenda, al menos, dichas fechas,"
+ },
+ {
+  "n": 32013,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a25",
+  "pregunta": "Es incompatible la percepción simultánea de más de cuántas pensiones ordinarias de Clases Pasivas causadas por diferente persona:",
+  "opciones": [
+   "Tres",
+   "Cuatro",
+   "Dos",
+   "Una"
+  ],
+  "correcta": 0,
+  "cita": "Es incompatible la percepción simultánea de más de tres pensiones ordinarias de Clases Pasivas de jubilación, viudedad, orfandad o en favor de los padres causadas por diferente persona."
+ },
+ {
+  "n": 32014,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a26",
+  "pregunta": "Si por una única prestación de servicios se causa pensión en un Régimen de la Seguridad Social y en Clases Pasivas, el interesado:",
+  "opciones": [
+   "Debe optar por la que considere más conveniente, sin poder percibir ambas",
+   "Percibe solo la de Clases Pasivas",
+   "Percibe la suma de ambas con un límite del doble",
+   "Percibe ambas pensiones íntegras"
+  ],
+  "correcta": 0,
+  "cita": "de Clases Pasivas como consecuencia de una única prestación de servicios a la Administración, deberá optar por el percibo de la pensión que considere más conveniente, sin que pueda percibir ambas a la vez."
+ },
+ {
+  "n": 32015,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a28",
+  "pregunta": "La jubilación voluntaria en Clases Pasivas puede declararse a instancia de parte cuando el interesado tenga cumplidos:",
+  "opciones": [
+   "Sesenta y cinco años y quince de servicios",
+   "Sesenta años de edad y treinta años de servicios efectivos al Estado",
+   "Sesenta y dos años y veinticinco de servicios",
+   "Cincuenta y cinco años y veinte de servicios"
+  ],
+  "correcta": 1,
+  "cita": "b) De carácter voluntario, que se declarará a instancia de parte, siempre que el interesado tenga cumplidos los sesenta años de edad y reconocidos treinta años de servicios efectivos al Estado."
+ },
+ {
+  "n": 32016,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a29",
+  "pregunta": "Para causar derecho a la pensión ordinaria de jubilación o retiro de Clases Pasivas se exige haber completado:",
+  "opciones": [
+   "Quince años de servicios efectivos al Estado",
+   "Treinta y cinco años de servicios",
+   "Veinte años de servicios",
+   "Diez años de servicios"
+  ],
+  "correcta": 0,
+  "cita": "Para que el personal comprendido en este capítulo cause en su favor derecho a la pensión ordinaria de jubilación o retiro, deberá haber completado quince años de servicios efectivos al Estado."
+ },
+ {
+  "n": 32017,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a35",
+  "pregunta": "Para que se causen los derechos pasivos de los familiares (viudedad, orfandad, en favor de padres) del personal fallecido:",
+  "opciones": [
+   "Se exigen cinco años de servicios del causante",
+   "Se exigen quince años de servicios del causante",
+   "Se exige que el causante estuviera jubilado",
+   "No es preciso que el causante haya completado ningún periodo mínimo de servicios"
+  ],
+  "correcta": 3,
+  "cita": "Para que se entiendan causados los derechos de los familiares del personal comprendido en este capítulo no será preciso que el causante de los mismos haya completado ningún periodo mínimo de prestación de servicios efectivos al Estado."
+ },
+ {
+  "n": 32018,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a38",
+  "pregunta": "Si el fallecimiento deriva de enfermedad común no sobrevenida tras el matrimonio, para la pensión de viudedad se exige, con carácter general, que el matrimonio se hubiera celebrado con una antelación mínima a la fecha del fallecimiento de:",
+  "opciones": [
+   "Seis meses",
+   "Tres años",
+   "Dos años",
+   "Un año"
+  ],
+  "correcta": 3,
+  "cita": "En los supuestos en que el fallecimiento del causante derivara de enfermedad común, no sobrevenida tras el vínculo conyugal, se requerirá, además, que el matrimonio se hubiera celebrado con un año de antelación como mínimo a la fecha del fallecimiento."
+ },
+ {
+  "n": 32019,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "LCLP",
+  "articulo": "a41",
+  "pregunta": "Con carácter general, tienen derecho a pensión de orfandad en Clases Pasivas los hijos del causante menores de:",
+  "opciones": [
+   "Dieciocho años",
+   "Veintiún años",
+   "Veintitrés años",
+   "Veinticinco años en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "Tendrán derecho a pensión de orfandad los hijos del causante de los derechos pasivos que fueran menores de veintiún años, así como los que estuvieran incapacitados para todo trabajo antes del cumplimiento de dicha edad o de la fecha del fallecimiento del causante."
+ }
+]
