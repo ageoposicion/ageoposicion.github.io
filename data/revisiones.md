@@ -57,3 +57,13 @@ Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección nece
 Durante estos lotes se retiraron (sin renumerar) 16002, 16011, 16024, 17010 y 19015 por repetir
 preguntas ya existentes, y en el lote 20 se evitaron los datos del Tribunal Constitucional ya
 preguntados desde la Constitución (arts. 159-164).
+
+## Revisión 6 (tras los lotes 21, 22 y 23) · 8-10-2026
+
+Muestra (semilla 6006): 21001, 21002, 21003, 21005, 21009, 21012, 21018, 21019, 21021, 21036, 21039,
+21041, 21050, 21053, 22002, 22004, 22010, 22013, 22022, 22023, 22024, 22036, 22041, 22042, 22045,
+23004, 23008, 23010, 23020, 23026.
+
+Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección necesaria.
+En la Ley 7/1985 se dejó fuera el art. 28 (texto suprimido y vuelto a dotar de contenido, con notas
+mezcladas) y el art. 45 (posible solapamiento con el 24 bis), para no dar respuestas discutibles.
