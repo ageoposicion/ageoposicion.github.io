@@ -6,7 +6,8 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 OUT = os.path.join(ROOT, 'data', 'inap')
 UA = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
       'Accept-Language': 'es-ES,es;q=0.9'}
-CLAVE = re.compile(r'cuestionario|plantilla|ejercicio|examen|modelo|respuesta|supuesto', re.I)
+CLAVE = re.compile(r'cuestionario|plantilla|respuestas', re.I)
+DOC = re.compile(r'\.pdf($|\?)|/documents/|/documentos/|download|/files/', re.I)
 def get(url):
     err = None
     for i in range(3):
@@ -27,7 +28,37 @@ def nombre(txt, url):
 def main():
     F = json.load(open(os.path.join(OUT, 'fuentes.json'), encoding='utf-8'))
     log, bad = [], 0
-    for conv, page in F['paginas'].items():
+    trabajos = list(F['paginas'].items())
+    # índices generales del cuerpo: subpáginas de convocatorias de ingreso libre (no promoción interna)
+    for nom, idx in F.get('indices', {}).items():
+        try:
+            d0, _ = get(idx)
+        except Exception as e:
+            log.append('%s\tERROR índice\t%s\t%s' % (nom, idx, e)); bad += 1; continue
+        nivel = [(idx, d0)]
+        vistos = {idx}
+        for prof in range(2):
+            sig = []
+            for base, d in nivel:
+                for u, t in enlaces(base, d):
+                    log.append('%s\tíndice\t%s\t%s' % (nom, t, u))
+                    host = urllib.parse.urlparse(u).netloc
+                    if u in vistos or not host.endswith('inap.es') and not host.endswith('inap.gob.es'): continue
+                    if DOC.search(u): continue
+                    lu = (u + ' ' + t).lower()
+                    if 'administrativo' in lu and 'promoci' not in lu and ('libre' in lu or 'convocatoria' in lu or 'oep' in lu):
+                        vistos.add(u)
+                        try: sig.append((u, get(u)[0]))
+                        except Exception as e: log.append('%s\tERROR subpágina\t%s\t%s' % (nom, u, e))
+            for u, _ in sig:
+                m = re.findall(r'(20\d\d)', u)
+                trabajos.append(((m[-1] if m else 'otros') + '-' + nom, u))
+            nivel = sig
+    hechos = set(u for _, u in F['paginas'].items())
+    for conv, page in trabajos:
+        if conv in F['paginas'] and page != F['paginas'][conv]: continue
+        if page in hechos and conv not in F['paginas']: continue
+        hechos.add(page)
         try:
             data, _ = get(page)
         except Exception as e:
@@ -45,8 +76,7 @@ def main():
         for base, d in cola:
             for u, t in enlaces(base, d):
                 log.append('%s\tenlace\t%s\t%s' % (conv, t, u))
-                es_doc = re.search(r'\.pdf($|\?)|/documents/|/documentos/|download', u, re.I)
-                if es_doc and CLAVE.search(t + ' ' + u): docs.setdefault(u, t)
+                if DOC.search(u) and CLAVE.search(t + ' ' + os.path.basename(u)): docs.setdefault(u, t)
         for u, t in docs.items():
             try:
                 pdf, ct = get(u)
