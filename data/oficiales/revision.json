@@ -1000,7 +1000,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-41",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1018,7 +1019,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-42",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1036,7 +1038,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-43",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1054,7 +1057,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-44",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1072,7 +1076,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-45",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1090,7 +1095,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-46",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1108,7 +1114,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-47",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1126,7 +1133,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-48",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1144,7 +1152,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-49",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1162,7 +1171,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-50",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1180,7 +1190,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-51",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1216,7 +1227,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-53",
-  "estado": "informatica"
+  "motivo": "versión antigua (Word 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1234,7 +1246,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-54",
-  "estado": "informatica"
+  "motivo": "versión antigua (Word 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1252,7 +1265,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-55",
-  "estado": "informatica"
+  "motivo": "versión antigua (Word 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1270,7 +1284,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-56",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1288,7 +1303,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-57",
-  "estado": "informatica"
+  "motivo": "versión antigua (Excel 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1306,7 +1322,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-58",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1324,7 +1341,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-59",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1342,7 +1360,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-60",
-  "estado": "informatica"
+  "motivo": "versión antigua (Excel 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1360,7 +1379,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-61",
-  "estado": "informatica"
+  "motivo": "versión antigua (Access 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1378,7 +1398,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-62",
-  "estado": "informatica"
+  "motivo": "versión antigua (Access 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1396,7 +1417,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-63",
-  "estado": "informatica"
+  "motivo": "versión antigua (Access 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1414,7 +1436,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-64",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1432,7 +1455,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-65",
-  "estado": "informatica"
+  "motivo": "versión antigua (Outlook 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1450,7 +1474,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-66",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1468,7 +1493,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-67",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1486,7 +1512,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-68",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -1504,7 +1531,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-69",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -1522,7 +1550,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-lla-primera-70",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -2448,7 +2477,13 @@
   "ctx": "En el Ministerio de Hacienda y Función Pública se ha iniciado un expediente disciplinario a un funcionario por haber indicios de abuso de autoridad en el ejercicio de su cargo. Los agentes forestales del Parque Nacional de Sierra Nevada en Andalucía han localizado a un visitante, Juan López García, recolectando varios ejemplares de manzanilla (Artemisia granatensis). Dicha planta se encuentra incluida en el Listado de Especies Silvestres en Régimen de Protección Especial. Ante tal hecho, la administración competente inicia un procedimiento de naturaleza sancionadora comunicando el acuerdo de iniciación al instructor del procedimiento y notificándoselo al inculpado, el señor López García. Una norma con rango de ley establece el régimen jurídico básico de la conservación, uso sostenible, mejora y restauración del patrimonio natural y de la biodiversidad, tipificando las infracciones con las correspondientes sanciones. Por otro lado, la Secretaría de Estado de Medio Ambiente del Ministerio para la Transición Ecológica y el Reto Demográfico tiene previsto cambiar la sede de sus oficinas para el año 2024. En el edificio donde se alojarán las nuevas oficinas es necesario realizar trabajos de reforma a través de un contrato de obras por valor de 300.000 €, excluido el Impuesto sobre el Valor Añadido. Luisa C. es funcionaria de carrera del Cuerpo General Administrativo desde el 11 de marzo de 2021, ocupando desde entonces un puesto de nivel 15. En enero de 2023 da a luz a su primer hijo y en junio del mismo año solicita, con comienzo el 1 de julio de 2023, una excedencia por cuidado de hijos regulada en el artículo 14 del Estatuto Básico del Empleado Público. la Subdirección General de Coordinación Económica del Ministerio de Transportes, Movilidad y Agenda Urbana, en la que surgen las siguientes cuestiones: -        En el Ministerio se está tramitando el expediente de gasto correspondiente a un contrato de suministro. -         Asimismo, se ha producido un derrumbamiento en una carretera que obliga a llevar a cabo una serie de obras. Se plantea la posibilidad de expedir una orden de pago a justificar. El Instituto Nacional de Estadística, INE, Organismo autónomo adscrito al Ministerio de Asuntos Económicos y Transformación Digital, tiene que abordar una serie de actuaciones tras un incendio en la sede situada en Cádiz. Una de las actuaciones a llevar a cabo es la reconstrucción del edificio, para lo cual se va a realizar un contrato de obras, cuyo gasto se imputará al artículo 63 “Inversión de reposición asociada al funcionamiento operativo de los servicios”, por una cuantía de 810.000 euros, con la siguiente distribución: ejercicio actual 75.000 euros, ejercicio inmediato siguiente, 250.000 euros y segundo ejercicio 485.000 euros. Además, se va a necesitar instalar un equipo de aire acondicionado, de carácter inventariable, en una nueva sede del Organismo en Madrid. En el presupuesto de gastos del Organismo autónomo para este ejercicio figura lo siguiente: PRESUPUESTO DE GASTOS 2023                                                         Crédito inicial 2   Gastos corrientes en bienes y servicios                                              2.025.000 € 20   Arrendamiento y cánones                                                                450.000 € 21   Reparaciones, mantenimiento y conservación                                             800.000 € 22   Material, suministros y otros                                                          775.000 € 6   Inversiones reales                                                                     800.000 € 62   Inversión nueva asociada al funcionamiento operativo de los servicios                  400.000 € 63   Inversión de reposición asociada al funcionamiento operativo de los servicios          400.000 € Además, el INE va a convocar la licitación de un contrato de arrendamiento de butacas para el salón de actos. Por otra parte, Miguel Dorá es funcionario de carrera del Cuerpo General Administrativo desde el 22 de mayo de 2022, sin haber tenido antes ninguna vinculación con las Administraciones Públicas. En la unidad en la que trabaja se está preparando la documentación necesaria para los próximos presupuestos generales.",
   "provisional": false,
   "id": "OF-2021-2022-lla-supuestoII-9",
-  "estado": "informatica"
+  "tema": "I.10",
+  "estado": "revisar",
+  "apoyo": "TREBEP Artículo 49",
+  "vig_art": "20261023",
+  "fecha_examen": "20230101",
+  "cambio": true,
+  "explicito": false
  },
  {
   "examen": "2021-2022",
@@ -3365,7 +3400,13 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-22",
-  "estado": "informatica"
+  "tema": "IV.4",
+  "estado": "revisar",
+  "apoyo": "LOI Disposición adicional tercera",
+  "vig_art": "20070324",
+  "fecha_examen": "20230101",
+  "cambio": false,
+  "explicito": false
  },
  {
   "examen": "2021-2022",
@@ -3841,7 +3882,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-42",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -3859,7 +3901,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-43",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -3877,7 +3920,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-44",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -3895,7 +3939,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-45",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -3913,7 +3958,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-46",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -3931,7 +3977,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-47",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -3949,7 +3996,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-48",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -3967,7 +4015,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-49",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -3985,7 +4034,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-50",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4003,7 +4053,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-51",
-  "estado": "informatica"
+  "motivo": "versión antigua (Word 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4021,7 +4072,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-52",
-  "estado": "informatica"
+  "motivo": "versión antigua (Word 2003); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4039,7 +4091,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-53",
-  "estado": "informatica"
+  "motivo": "versión antigua (Excel 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4057,7 +4110,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-54",
-  "estado": "informatica"
+  "motivo": "versión antigua (Excel 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4093,7 +4147,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-56",
-  "estado": "informatica"
+  "motivo": "versión antigua (Access 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4129,7 +4184,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-58",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4147,7 +4203,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-59",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4165,7 +4222,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-60",
-  "estado": "informatica"
+  "motivo": "versión antigua (Access 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4183,7 +4241,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-61",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4201,7 +4260,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-62",
-  "estado": "informatica"
+  "motivo": "versión antigua (Outlook 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4237,7 +4297,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-64",
-  "estado": "informatica"
+  "motivo": "versión antigua (Outlook 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4255,7 +4316,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-65",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4273,7 +4335,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-66",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -4291,7 +4354,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-67",
-  "estado": "informatica"
+  "motivo": "versión antigua (Access 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4309,7 +4373,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-68",
-  "estado": "informatica"
+  "motivo": "versión antigua (Outlook 2019); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2021-2022",
@@ -4327,7 +4392,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-69",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -4345,7 +4411,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2021-2022-ord-primera-70",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2021-2022",
@@ -6663,7 +6730,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-41",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -6681,7 +6749,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-42",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -6699,7 +6768,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-43",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -6717,7 +6787,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-44",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -6735,7 +6806,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-45",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -6753,7 +6825,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-46",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -6771,7 +6844,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-47",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -6789,7 +6863,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-48",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6807,7 +6882,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-49",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6825,7 +6901,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-50",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6843,7 +6920,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-51",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6861,7 +6939,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-52",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6879,7 +6958,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-53",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6897,7 +6977,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-54",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6915,7 +6996,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-55",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6933,7 +7015,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-56",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6951,7 +7034,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-57",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6969,7 +7053,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-58",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -6987,7 +7072,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-59",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7005,7 +7091,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-60",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7023,7 +7110,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-61",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7041,7 +7129,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-62",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -7059,7 +7148,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-63",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7077,7 +7167,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-64",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7095,7 +7186,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-65",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7113,7 +7205,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-66",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7149,7 +7242,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-68",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7167,7 +7261,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-69",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -7185,7 +7280,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-lla-primera-70",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9514,7 +9610,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-41",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9532,7 +9629,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-42",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9550,7 +9648,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-43",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9568,7 +9667,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-44",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9604,7 +9704,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-46",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9622,7 +9723,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-47",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9640,7 +9742,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-48",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9658,7 +9761,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-49",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9676,7 +9780,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-50",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9694,7 +9799,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-51",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9712,7 +9818,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-52",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9730,7 +9837,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-53",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9748,7 +9856,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-54",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9766,7 +9875,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-55",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9802,7 +9912,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-57",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9820,7 +9931,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-58",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9838,7 +9950,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-59",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9856,7 +9969,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-60",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9874,7 +9988,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-61",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9892,7 +10007,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-62",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9910,7 +10026,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-63",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9928,7 +10045,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-64",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -9946,7 +10064,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-65",
-  "estado": "informatica"
+  "motivo": "manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9964,7 +10083,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-66",
-  "estado": "informatica"
+  "motivo": "versión antigua (Windows 10); el programa es de Windows 11 y Microsoft 365",
+  "estado": "informatica_vieja"
  },
  {
   "examen": "2024",
@@ -9982,7 +10102,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-67",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -10000,7 +10121,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-68",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -10018,7 +10140,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primera-69",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2024",
@@ -10104,7 +10227,14 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2024-mod-primerareserva-3",
-  "estado": "informatica"
+  "tema": "II.3",
+  "ley": "L40",
+  "estado": "literal_boe",
+  "apoyo": "L40 Artículo 38",
+  "vig_art": "20161002",
+  "fecha_examen": "20250101",
+  "cambio": false,
+  "explicito": true
  },
  {
   "examen": "2024",
@@ -11739,7 +11869,14 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-16",
-  "estado": "informatica"
+  "tema": "II.3",
+  "ley": "RDAE",
+  "estado": "revisar",
+  "apoyo": "RDAE Artículo 7",
+  "vig_art": "20210402",
+  "fecha_examen": "20260601",
+  "cambio": false,
+  "explicito": true
  },
  {
   "examen": "2025",
@@ -12353,7 +12490,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-41",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12371,7 +12509,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-42",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12389,7 +12528,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-43",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12407,7 +12547,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-44",
-  "estado": "informatica"
+  "tema": "VI.2",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12425,7 +12566,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-45",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12443,7 +12585,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-46",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12461,7 +12604,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-47",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12479,7 +12623,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-48",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12497,7 +12642,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-49",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12515,7 +12661,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-50",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12533,7 +12680,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-51",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12551,7 +12699,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-52",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12569,7 +12718,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-53",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12587,7 +12737,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-54",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12605,7 +12756,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-55",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12623,7 +12775,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-56",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12641,7 +12794,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-57",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12659,7 +12813,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-58",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12677,7 +12832,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-59",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12695,7 +12851,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-60",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12713,7 +12870,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-61",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12731,7 +12889,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-62",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12749,7 +12908,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-63",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12767,7 +12927,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-64",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12785,7 +12946,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-65",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12803,7 +12965,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-66",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12821,7 +12984,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-67",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12839,7 +13003,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-68",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12857,7 +13022,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-69",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12875,7 +13041,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primera-70",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -12918,7 +13085,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-lla-primerareserva-2",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -13004,7 +13172,14 @@
   "ctx": "Carmen Cuesta es funcionaria de carrera del Cuerpo General Administrativo de la AGE y actualmente ocupa un puesto de trabajo de Jefe de Sección, con complemento de destino de nivel 22, en el Instituto Nacional de Estadística (INE), organismo autónomo que se adscribe al Ministerio de Economía, Comercio y Empresa. El puesto lo obtuvo por concurso el 11 de diciembre de 2024. Tras una inundación ocurrida en la Delegación del INE de Valencia, la funcionaria recibe una instrucción por escrito de su superior jerárquico para que confeccione un Excel con los datos recibidos sobre los gastos necesarios para paliar los desperfectos, pero la funcionaria se niega a confeccionar dicho Excel, desobedeciendo abiertamente la instrucción recibida. Asimismo, durante este fenómeno, debido al corte de luz se han perdido datos informáticos de los servidores del organismo autónomo y se hace necesario la adquisición de un desarrollo que permita trabajar de modo más eficiente con los datos que han podido mantenerse. Con ese objeto, se acude a la utilización de un sistema dinámico de adquisición de servicios de desarrollo de sistemas de administración electrónica. Una de las actuaciones a realizar tras la inundación será la de pintar la fachada de la Delegación, para lo cual se va a realizar un contrato de obras, por una cuantía de 17.600 euros, sin IVA. Además, es necesario llevar a cabo la compra de varias mesas de oficina, por un importe de 4.500 euros sin IVA, debido a que las anteriores han quedado inservibles y también la compra de ordenadores mediante un acuerdo marco. Una semana después de haber procedido al pintado de la sede, afloran grietas en los pilares de la fachada este del edificio, suponiendo una situación de grave peligro para la seguridad del mismo, obligando a tomar medidas por la vía de emergencia. Con posterioridad a esta actuación, el órgano de contratación promueve la contratación de un proyecto de obras destinado a reforzar la estabilidad de la estructura del edificio que ha sufrido daños como consecuencia del paso del tiempo y, especialmente, por las recientes inundaciones. El proyecto cuenta con un presupuesto base de licitación de 80.000 euros. Por otro lado, el INE anualmente tiene que atender el pago del arrendamiento de su sede de Castellón. Este año, además, se han detectado nuevas necesidades que suponen un incremento en el gasto del concepto 202, lo que ha supuesto una insuficiencia de crédito en la aplicación presupuestaria 27.101.923C.202 para el año en curso. Además, en el INE se plantea la posibilidad de contratar a personal laboral temporal como entrevistadores para la recogida de datos estadísticos. Por otro lado, con fecha 9 de febrero de 2026, Carmen Cuesta presenta en el registro electrónico del organismo solicitud de participación en un concurso de traslados del Ministerio para la Transformación Digital y de la Función Pública, para una plaza en el Gabinete del Ministro. Se da la circunstancia de que un primo hermano de la funcionaria es vocal en la Comisión de Valoración del concurso. Por último, un ciudadano presenta una reclamación al INE por unos datos personales inexactos que le conciernen y que figuran en una resolución dictada por la Presidenta del organismo, ejerciendo así su derecho de rectificación.",
   "provisional": false,
   "id": "OF-2025-lla-supuestoI-1",
-  "estado": "informatica"
+  "tema": "IV.1",
+  "ley": "TREBEP",
+  "estado": "revisar",
+  "apoyo": "TREBEP Artículo 49",
+  "vig_art": "20261023",
+  "fecha_examen": "20260601",
+  "cambio": true,
+  "explicito": false
  },
  {
   "examen": "2025",
@@ -14879,7 +15054,13 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-28",
-  "estado": "informatica"
+  "tema": "IV.4",
+  "estado": "revisar",
+  "apoyo": "LGSS Artículo 3",
+  "vig_art": "20160102",
+  "fecha_examen": "20260523",
+  "cambio": false,
+  "explicito": true
  },
  {
   "examen": "2025",
@@ -15191,7 +15372,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-41",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15209,7 +15391,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-42",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15227,7 +15410,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-43",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15245,7 +15429,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-44",
-  "estado": "informatica"
+  "tema": "VI.1",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15263,7 +15448,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-45",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15281,7 +15467,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-46",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15299,7 +15486,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-47",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15317,7 +15505,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-48",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15335,7 +15524,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-49",
-  "estado": "informatica"
+  "tema": "VI.3",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15353,7 +15543,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-50",
-  "estado": "informatica"
+  "tema": "VI.2",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15371,7 +15562,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-51",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15389,7 +15581,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-52",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15407,7 +15600,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-53",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15425,7 +15619,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-54",
-  "estado": "informatica"
+  "tema": "VI.4",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15443,7 +15638,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-55",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15461,7 +15657,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-56",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15479,7 +15676,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-57",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15497,7 +15695,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-58",
-  "estado": "informatica"
+  "tema": "VI.5",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15515,7 +15714,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-59",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15533,7 +15733,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-60",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15551,7 +15752,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-61",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15569,7 +15771,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-62",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15623,7 +15826,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-65",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15641,7 +15845,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-66",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15659,7 +15864,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-67",
-  "estado": "informatica"
+  "tema": "VI.2",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15677,7 +15883,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-68",
-  "estado": "informatica"
+  "tema": "VI.8",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15695,7 +15902,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-69",
-  "estado": "informatica"
+  "tema": "VI.7",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15713,7 +15921,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primera-70",
-  "estado": "informatica"
+  "tema": "VI.2",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15755,7 +15964,8 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primerareserva-2",
-  "estado": "informatica"
+  "tema": "VI.6",
+  "estado": "informatica_ok"
  },
  {
   "examen": "2025",
@@ -15797,7 +16007,14 @@
   "ctx": null,
   "provisional": false,
   "id": "OF-2025-mod-primerareserva-4",
-  "estado": "informatica"
+  "tema": "II.3",
+  "ley": "L39",
+  "estado": "literal_boe",
+  "apoyo": "L39 Artículo 43",
+  "vig_art": "20161002",
+  "fecha_examen": "20260523",
+  "cambio": false,
+  "explicito": true
  },
  {
   "examen": "2025",

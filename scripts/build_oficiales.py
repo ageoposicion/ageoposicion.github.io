@@ -16,7 +16,8 @@ def main():
             urls[(p[0], 'lla' if 'extraordinario' in p[2].lower() else ('mod' if 'modelo a' in p[2].lower() else 'ord' if 'modelo' not in p[2].lower() else None))] = p[3]
     out, excl = [], []
     for x in R:
-        if x['estado'] not in ('revisar', 'literal_boe'): continue
+        if x['estado'] == 'informatica_vieja': excl.append((x['id'], x['motivo'])); continue
+        if x['estado'] not in ('revisar', 'literal_boe', 'informatica_ok'): continue
         dec = D.get(x['id'])
         if dec and dec[0] == 'excluir': excl.append((x['id'], dec[1])); continue
         if not x.get('tema'): excl.append((x['id'], 'sin tema del programa')); continue
@@ -27,10 +28,10 @@ def main():
         out.append({'id': x['id'], 'ex': ETQ[k], 'parte': x['parte'], 'n': x['n'], 'q': x['q'], 'o': x['o'], 'r': 'abcd'.index(x['r']),
                     'ctx': x['ctx'], 'tema': x['tema'], 'bloque': x['tema'].split('.')[0], 'nota': nota, 'url': urls.get(k, ''),
                     'prov': x.get('provisional', False),
-                    'comprobada': 'literal en el BOE vigente' if x['estado'] == 'literal_boe' else
+                    'comprobada': 'pregunta oficial de informática válida para Windows 11 y Microsoft 365' if x['estado'] == 'informatica_ok' else 'literal en el BOE vigente' if x['estado'] == 'literal_boe' else
                                   ('el artículo citado no ha cambiado desde el examen' if x.get('explicito') and not x.get('cambio') else
                                    'respuesta oficial del INAP; sin cambios normativos detectados')})
     json.dump(out, open(os.path.join(ROOT, 'data', 'oficiales.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
-    print(len(out), 'preguntas oficiales;', len(excl), 'excluidas'); [print('  excluida', i, m) for i, m in excl]
+    print(len(out), 'preguntas oficiales;', len(excl), 'excluidas'); [print('  excluida', i, m) for i, m in excl if 'versión' not in m]
     import collections; print(sorted(collections.Counter(o['bloque'] for o in out).items()))
 if __name__ == '__main__': main()

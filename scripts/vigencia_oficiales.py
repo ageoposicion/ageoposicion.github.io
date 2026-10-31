@@ -3,7 +3,7 @@ asigna tema y comprueba la respuesta oficial contra el texto VIGENTE del BOE (da
 descargada. Escribe data/oficiales/revision.json con lo que hay que revisar a mano."""
 import glob, json, os, re, sys, unicodedata
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from clasifica_oficiales import tema, es_informatica
+from clasifica_oficiales import tema, es_informatica, tema_vi, informatica_util
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 LEYES = [(r'Constituci[óo]n|\bCE\b', 'CE'), (r'Ley 39/2015', 'L39'), (r'Ley 40/2015', 'L40'), (r'Legislativo 5/2015|Estatuto B[áa]sico', 'TREBEP'),
  (r'Ley 9/2017|Contratos del Sector P', 'LCSP'), (r'Ley 19/2013', 'L19'), (r'Ley 47/2003|General Presupuestaria', 'LGP'), (r'Org[áa]nica 3/2018', 'LOPDGDD'),
@@ -30,7 +30,10 @@ def main():
     out, stats = [], {}
     for x in todas:
         if x['r'] == 'ANULADA': est = 'anulada'
-        elif es_informatica(x): est = 'informatica'
+        elif es_informatica(x):
+            ok, mot = informatica_util(x)
+            if ok: est = 'informatica_ok'; x['tema'] = tema_vi(x)
+            else: est = 'informatica_vieja'; x['motivo'] = mot
         else:
             clave = norm(x['q'] + ' ' + x['o']['abcd'.index(x['r'])])
             if clave in vistos and not x['ctx']: est = 'repetida'; x['igual_a'] = vistos[clave]

@@ -131,6 +131,14 @@ cambiado desde el examen y 327 revisadas por categorías de riesgo (umbrales, pe
 reformas de 2023-2026). Muestra manual de 40 de estas últimas (semilla 2026): todas correctas. Las que citan
 ministerios con su nombre de entonces llevan una nota.
 
+## Revisión 12 · informática oficial (1-11-2026)
+
+A petición de la usuaria entran las preguntas oficiales del bloque VI. El programa es de Windows 11 y Microsoft 365:
+entran todas las del examen de 2026 y, de 2021-2022 y 2024, las de Microsoft 365 y las de conceptos generales
+(hardware, redes, Internet, seguridad); quedan fuera 61 que dependen de Windows 10 u Office 2019. Revisadas a mano las
+53 de exámenes anteriores. Al hacerlo se detectó que 7 preguntas de Derecho se habían tomado por informática (el «365»
+del RD 365/1995, la «sede electrónica»…): vuelven a su tema. Total oficiales: 660 (110 de informática).
+
 ## Correcciones de la usuaria (desde 8-10-2026)
 
 La app tiene un botón «✏️ Editar» en cada pregunta. Las correcciones se guardan en

@@ -1,9 +1,9 @@
 """Asigna bloque y tema del programa (data/programa.md) a cada pregunta oficial según la norma o la materia que cita.
 Las de informática (bloque VI) se marcan como tales y no se incorporan hasta que la usuaria lo pida."""
 import re
-INF = re.compile(r'\b(Access|Excel|Word|Windows|Outlook|Microsoft|Office|365|PowerPoint|navegador|teclado|Explorador de archivos|'
-                 r'hoja de cálculo|tabla dinámica|celda|fórmula|macro|carpeta|archivo comprimido|correo electrónico de Outlook|'
-                 r'página web|web dinámica|Inteligencia Artificial|Copilot|OneDrive|Teams|SharePoint|URL|HTML|Edge|Chrome)\b', re.I)
+INF = re.compile(r'\b(Access|Excel|Word|Windows|Outlook|Microsoft|Office|PowerPoint|navegador|teclado|Explorador de archivos|'
+                 r'hoja de cálculo|tabla dinámica|macro|archivo comprimido|página web|web dinámica|Inteligencia Artificial|Copilot|'
+                 r'OneDrive|SharePoint|URL|HTML|Edge|Chrome)\b|(?<!/)\b365\b(?!/)', re.I)
 def art(q, ley_re):
     m = re.search(r'art[íi]culos?\s+(\d+)(?:\.\d+)*[^.]{0,40}?' + ley_re, q, re.I) or re.search(ley_re + r'[^.]{0,80}?art[íi]culo\s+(\d+)', q, re.I)
     return int(m.group(1)) if m else None
@@ -67,5 +67,30 @@ def tema(q, opts='', ctx=''):
             t = _pasada(texto, solo)
             if t: return t
     return None
+NORMA_Q = re.compile(r'Ley(?: Orgánica)? \d+/\d{4}|Real Decreto|Constitución|Estatuto Básico|Reglamento', re.I)
 def es_informatica(x):
-    return x['parte'] == 'primera' and 41 <= x['n'] <= 70 or bool(INF.search(x['q'] + ' ' + ' '.join(x['o'])))
+    # 41-70 de la primera parte son siempre de informática; fuera de ahí, solo si el enunciado habla de ofimática y no cita una norma
+    if x['parte'] == 'primera' and 41 <= x['n'] <= 70: return True
+    return bool(INF.search(x['q'])) and not NORMA_Q.search(x['q'])
+
+# ---------- bloque VI: informática (programa: Windows 11 y Microsoft 365) ----------
+APP = re.compile(r'\b(Word|Excel|Access|Outlook|Windows|Explorador de archivos|PowerPoint|OneDrive|Teams|Copilot|hoja de cálculo|celda|tabla dinámica|consulta|formulario|informe|macro|atajo|teclas?|Ctrl|Alt\b|cinta de opciones|escritorio|barra de tareas)\b', re.I)
+VIEJA = re.compile(r'Windows (7|8|10)\b|\b(Office|Word|Excel|Access|Outlook|PowerPoint) 20\d\d\b|Internet Explorer', re.I)
+TEMAS_VI = [(r'contar palabras', 'VI.4'), (r'\bAccess\b|consulta|formulario|base de datos|tabla relacional|clave principal', 'VI.6'), (r'\bExcel\b|hoja de cálculo|celda|fórmula|tabla dinámica', 'VI.5'),
+            (r'\bWord\b|documento de texto|párrafo|sangría|estilos?\b|contar palabras', 'VI.4'), (r'\bOutlook\b|correo|calendario|bandeja', 'VI.7'),
+            (r'Explorador de archivos|carpeta|archivo', 'VI.3'), (r'\bWindows\b|escritorio|barra de tareas|menú Inicio|configuración', 'VI.2'),
+            (r'Internet|navegador|web|URL|HTTP|HTML|nube|dominio|correo electrónico|Inteligencia Artificial|IA\b', 'VI.8')]
+def tema_vi(x):
+    t = x['q'] + ' ' + ' '.join(x['o'])
+    for p, k in TEMAS_VI:
+        if re.search(p, t, re.I): return k
+    return 'VI.1'
+def informatica_util(x):
+    """Devuelve (sí/no, motivo). El examen de 2026 ya es de Windows 11 y Microsoft 365; de los anteriores solo lo que no
+    depende de una versión antigua."""
+    t = x['q'] + ' ' + ' '.join(x['o'])
+    if VIEJA.search(t): return False, 'versión antigua (%s); el programa es de Windows 11 y Microsoft 365' % VIEJA.search(t).group(0)
+    if x['examen'] == '2025': return True, ''
+    if re.search(r'365', t): return True, ''
+    if APP.search(t): return False, 'manejo de una aplicación en la versión de entonces (Windows 10 / Office 2019)'
+    return True, ''

@@ -63,7 +63,8 @@ Cada error descuenta 1/3.
 ## VI. Informática básica y ofimática
 
 1-8. Informática básica, Windows 11, Explorador, Word, Excel, Access, Outlook 365, Internet.
-**No se generan preguntas hasta que la usuaria lo pida.**
+Desde el 1-11-2026, a petición de la usuaria, solo preguntas OFICIALES del INAP (`data/oficiales.json`): todas las del
+examen de 2026 y, de los anteriores, las de Microsoft 365 o de conceptos generales; fuera las de Windows 10 y Office 2019.
 
 ## Ajustes hechos al recibir el Anexo III (8-10-2026)
 
