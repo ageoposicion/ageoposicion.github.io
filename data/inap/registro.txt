@@ -1,346 +1,3 @@
-inap	índice		https://digital.sede.gob.es
-inap	índice		https://www.inap.es/es
-inap	índice	Procesos selectivos en vigor	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales
-inap	índice	Material de apoyo para oposiciones	https://www.inap.es/es/seleccion/material-de-apoyo-para-oposiciones
-inap	índice	Exposición Fueros Reales y Ordenanzas	https://www.inap.es/es/conocimiento/biblioteca/exposiciones/fueros-reales-y-ordenanzas-en-el-fondo-antiguo-del-inap-siglos-xvi-xix
-inap	índice	Preguntas frecuentes	https://www.inap.es/es/preguntas-frecuentes
-inap	índice	Boletín de Función Pública del INAP	https://www.inap.es/es/conocimiento/publicaciones/publicaciones-electronicas/boletin-de-funcion-publica-del-inap
-inap	índice	Agenda	https://www.inap.es/es/agenda
-inap	índice	Sede electrónica	https://sede.inap.gob.es/
-inap	índice	El organismo	https://www.inap.es/es/el-organismo
-inap	índice	Organigrama del INAP, O. A.	https://www.inap.es/es/el-organismo/organigrama
-inap	índice	Plan estratégico	https://www.inap.es/es/el-organismo/plan-estrategico
-inap	índice	Integridad y código ético	https://www.inap.es/es/el-organismo/integridad-y-codigo-etico
-inap	índice	Memorias de actividades y carta de servicios	https://www.inap.es/es/el-organismo/memorias-y-cartas-de-servicios
-inap	índice	Alquiler de espacios	https://www.inap.es/es/el-organismo/alquiler-del-espacios
-inap	índice	Uso del logotipo del INAP	https://www.inap.es/es/el-organismo/uso-del-logotipo-del-inap
-inap	índice	Trabaja con nosotros	https://www.inap.es/es/el-organismo/vacantes-y-concursos
-inap	índice	Responsabilidad social	https://www.inap.es/es/el-organismo/responsabilidad-social
-inap	índice	Historia del INAP	https://www.inap.es/es/el-organismo/historia-del-inap
-inap	índice	Precios públicos	https://www.inap.es/es/el-organismo/precios-publicos
-inap	índice	Contacto	https://www.inap.es/es/contactar
-inap	índice	+ transparencia INAP	https://www.inap.es/es/el-organismo/transparencia-inap
-inap	índice	Protección de datos personales	https://www.inap.es/es/el-organismo/proteccion-de-datos-personales
-inap	índice	Selección	https://www.inap.es/es/seleccion
-inap	índice	Procesos selectivos de cuerpos/escalas generales	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales
-inap	índice	Procesos selectivos de Habilitados Nacionales	https://www.inap.es/es/seleccion/escala-de-funcionarios-de-administracion-local-con-habilitacion-de-caracter-nacional
-inap	índice	Otros procesos selectivos	https://www.inap.es/es/seleccion/otros-procesos-selectivos
-inap	índice	Comisión Permanente de Selección	https://www.inap.es/es/seleccion/comision-permanente-de-seleccion
-inap	índice	Información al opositor	https://www.inap.es/es/seleccion/informacion-al-opositor
-inap	índice	Material de apoyo para oposiciones	https://www.inap.es/es/seleccion/material-de-apoyo-para-oposiciones
-inap	índice	Cursos Selectivos	https://www.inap.es/es/seleccion/cursos-selectivos
-inap	índice	Preguntas frecuentes (FAQs)	https://www.inap.es/es/seleccion/preguntas-frecuentes-sobre-procesos-selectivos-faqs
-inap	índice	Normativa	https://www.inap.es/es/seleccion/normativa
-inap	índice	Tribunal - Espacio de candidaturas	https://www.inap.es/es/seleccion/espacio-de-candidaturas
-inap	índice	Aprendizaje	https://www.inap.es/es/aprendizaje
-inap	índice	Estrategias de aprendizaje	https://www.inap.es/es/aprendizaje/estrategias-de-aprendizaje
-inap	índice	Programas y convocatorias de actividades formativas	https://www.inap.es/es/aprendizaje/programas-de-aprendizaje
-inap	índice	Ecosistema competencial e itinerarios formativos	https://www.inap.es/es/aprendizaje/ecosistema-competencial-e-itinerarios-formativos
-inap	índice	Escuela de Alta Dirección Pública	https://www.inap.es/es/aprendizaje/la-escuela-de-alta-direccion-publica-del-estado
-inap	índice	Campus de aprendizaje en línea	https://campus.inap.es/v3/
-inap	índice	Formación en Entidades Locales	https://www.inap.es/es/aprendizaje/desempeno-en-entidades-locales
-inap	índice	Apoyo a la promoción interna	https://www.inap.es/es/aprendizaje/formacion-para-promocion-interna
-inap	índice	Promotores de formación en las AA.PP.	https://www.inap.es/es/aprendizaje/formacion-para-el-empleo-de-las-aa-pp-fedap
-inap	índice	Preguntas Frecuentes (FAQs)	https://www.inap.es/es/aprendizaje/preguntas-frecuentes-sobre-aprendizaje
-inap	índice	Conocimiento	https://www.inap.es/es/conocimiento
-inap	índice	Biblioteca	https://www.inap.es/es/conocimiento/biblioteca
-inap	índice	Publicaciones	https://www.inap.es/es/conocimiento/publicaciones
-inap	índice	Banco de recursos en abierto	https://bci.inap.es/
-inap	índice	Laboratorio de Innovación Pública	https://www.inap.es/es/conocimiento/laboratorio-de-innovacion-publica
-inap	índice	Líneas Prioritarias de Investigación	https://www.inap.es/es/conocimiento/lineas-prioritarias-de-investigacion
-inap	índice	Becas y ayudas	https://www.inap.es/es/becas-y-ayudas
-inap	índice	Becas de formación e investigación	https://www.inap.es/es/becas-y-ayudas/becas-de-formacion-e-investigacion
-inap	índice	Beca INAP-Fulbright	https://www.inap.es/es/becas-y-ayudas/becas-inap-fulbright
-inap	índice	Becas para opositores	https://www.inap.es/es/becas-y-ayudas/becas-para-opositores
-inap	índice	Premios para tesis doctorales	https://www.inap.es/es/becas-y-ayudas/premios-para-tesis-doctorales
-inap	índice	Proyectos de investigación	https://www.inap.es/es/becas-y-ayudas/proyectos-de-investigacion
-inap	índice	Área Internacional	https://www.inap.es/es/area-internacional
-inap	índice	Aprendizaje para extranjeros	https://www.inap.es/es/area-internacional/aprendizaje-para-extranjeros
-inap	índice	Cooperación	https://www.inap.es/es/area-internacional/cooperacion
-inap	índice	Federación de antiguos alumnos	https://www.inap.es/es/area-internacional/federacion-de-antiguos-alumnos
-inap	índice	Visitas de Estudio y Actos Institucionales	https://www.inap.es/es/area-internacional/visitas-de-estudio-y-actos-institucionales
-inap	índice	Premios y licitaciones internacionales	https://www.inap.es/es/area-internacional/premios-y-licitaciones-internacionales
-inap	índice	Ofertas de empleo en Organismos Internacionales	https://www.inap.es/es/area-internacional/ofertas-de-empleo-en-organismos-internacionales
-inap	índice	Actualidad	https://www.inap.es/es/noticias
-inap	índice	Noticias	https://www.inap.es/es/noticias
-inap	índice	Agenda	https://www.inap.es/es/agenda
-inap	índice	Conferencias y jornadas	https://www.inap.es/es/conferencias-y-jornadas
-inap	índice	Redes Sociales	https://www.inap.es/es/el-inap-en-redes-sociales
-inap	índice	INAP Social	https://www.linkedin.com/search/results/groups/?keywords=INAP%20Social&origin=CLUSTER_EXPANSION&sid=UjE
-inap	índice	La Administración al día	https://laadministracionaldia.inap.es/
-inap	índice	Canal YouTube del INAP	http://www.youtube.com/@institutonacionaldeadminis970
-inap	índice	Inicio	https://www.inap.es/
-inap	índice	Selección	https://www.inap.es/es/seleccion
-inap	índice	Procesos selectivos de cuerpos/escalas generales	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales
-inap	índice	Volver a Procesos selectivos de cuerposescalas generales	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales
-inap	índice	Escuchar	https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7939&lang=es_es&readid=inap__richText&readclass=node__content&url=https%3A%2F%2Fwww.inap.es%2Fes%2Fseleccion%2Fprocesos-selectivos-de-cuerposescalas-generales%2Fcuerpo-general-administrativo-de-la-administracion-del-estado
-inap	índice	Comisión Permanente de Selección	https://www.inap.es/es/seleccion/comision-permanente-de-seleccion
-inap	índice	Espacio del opositor	https://sede.inap.gob.es/espacio-del-opositor
-inap	índice	Ingreso libre	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025
-inap	índice	Promoción interna	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado-promocion-interna-convocatoria-2025
-inap	índice	Ingreso libre	https://sede.inap.gob.es/es/advol-2024
-inap	índice	Promoción interna	https://sede.inap.gob.es/es/advopi-2024
-inap	índice	Ingreso libre	https://sede.inap.gob.es/advol-oep-2021-2022
-inap	índice	Promoción interna para personal funcionario y personal laboral fijo.	https://sede.inap.gob.es/advopi-oep-2020-2021-2022
-inap	índice	Ingreso libre	https://sede.inap.gob.es/advo-2020-ingreso-libre
-inap	índice	Promoción interna	https://sede.inap.gob.es/advo-2019-promocion-interna
-inap	índice	Estabilización de empleo temporal	https://sede.inap.gob.es/advo-estabilizacion-2017-2018
-inap	índice	Ingreso libre	https://sede.inap.gob.es/advo-2018-ingreso-libre
-inap	índice	Promoción interna	https://sede.inap.gob.es/advo-2018-promocion-interna
-inap	índice	Llamamiento 1	https://www.inap.es/es/documents/10136/1707720/ADVOLI-1.pdf/24801458-b313-5b7c-2fc4-d900d8e79477
-inap	índice	Llamamiento 2	https://www.inap.es/es/documents/10136/1707720/ADVOLI-2.pdf/501ed54d-e5ed-1239-a526-15209c5d294e
-inap	índice	Llamamiento 3	https://www.inap.es/es/documents/10136/1707720/ADVOLI-3.pdf/84198a60-c747-37c4-f3c5-b3f5934ea2d5
-inap	índice	Llamamiento 4	https://www.inap.es/es/documents/10136/1707720/ADVOLI-4.pdf/4c55817c-473a-7a05-d823-7dcbd2529a5d
-inap	índice	Llamamiento 5	https://www.inap.es/es/documents/10136/1707720/ADVOLI-5.pdf/f12cd4e0-9ba8-df0a-69c5-0cb4738df631
-inap	índice	Llamamiento 6	https://www.inap.es/es/documents/10136/1707720/ADVOLI-6.pdf/fc92fc15-8a59-ae66-7580-0a81a87d538f
-inap	índice	Llamamiento 7	https://www.inap.es/es/documents/10136/1707720/ADVOLI-7.pdf/9dd68063-c2fb-98a0-4608-ea5241b5c7ce
-inap	índice	Llamamiento 8	https://www.inap.es/es/documents/10136/1707720/ADVOLI-8.pdf/6daf0d0a-adf8-c1a1-95ad-24a12a4c461a
-inap	índice	Llamamiento 9	https://www.inap.es/es/documents/10136/1707720/ADVOLI-9.pdf/3d603f3b-82be-9edc-8214-3e31d8c83715
-inap	índice	Llamamiento 10	https://www.inap.es/es/documents/10136/1707720/ADVOLI-10.pdf/8bd9263c-aee5-9305-3c58-ac499d91c3f0
-inap	índice	Llamamiento 11	https://www.inap.es/es/documents/10136/1707720/ADVOLI-11.pdf/b8f41f45-be04-f69e-62d3-33ad8da936bb
-inap	índice	Llamamiento 1	https://www.inap.es/es/documents/10136/1707720/ADVLLLAMAMIENTO1_154AB89SD658.pdf/65aef9ea-e73c-cfec-65f9-acc170204939
-inap	índice	Llamamiento 2	https://www.inap.es/es/documents/10136/1707720/ADVLLLAMAMIENTO2_154AB89SD658.pdf/40e92a7c-73f0-bc29-a537-117ca9229563
-inap	índice	Llamamiento 3	https://www.inap.es/es/documents/10136/1707720/ADVLLLAMAMIENTO3_154AB89SD658.pdf/219d6679-d983-d1cd-e57b-4467035646b1
-inap	índice	Llamamiento 4	https://www.inap.es/es/documents/10136/1707720/ADVLLLAMAMIENTO4_154AB89SD658.pdf/78d9d17b-8ac1-8033-7a8b-4e3dd76676b2
-inap	índice	OEP 2008: Ejercicio único	https://www.inap.es/es/documents/10136/1707720/ADMIN08_AdvosPIejercicio2008.pdf/9d9f13e1-2b5f-5a08-03e1-f5a2ea5c9fba
-inap	índice	OEP 2008: Plantilla de respuestas	https://www.inap.es/es/documents/10136/1707720/ADMIN08_AdvosPIplantilladerespuestas2008.pdf/41540968-5dea-9e42-c13a-ab9398570783
-inap	índice	OEP 2009: Cuestionario	https://www.inap.es/es/documents/10136/1707720/CUESTIONARIO2009ADPI.pdf/60bae3d2-74d1-c4bc-8ab5-15b4335040fe
-inap	índice	OEP 2009: Plantilla de respuestas 1 parte	https://www.inap.es/es/documents/10136/1707720/PLANTILLASDEFINITIVASADVPIPRIMERAPARTE2009.pdf/a3ec7b07-3e95-8f75-66dc-de40aa161548
-inap	índice	OEP 2009: Plantilla de respuestas 2 parte	https://www.inap.es/es/documents/10136/1707720/PLANTILLASDEFINITIVASADVPISEGUNDOPARTE2009.pdf/1fe18f49-034f-2d22-ea8f-dcbe333536d8
-inap	índice	OEP 2010: Cuestionario primera parte 1	https://www.inap.es/es/documents/10136/1707720/ADMIN10_CUESTIONARIO10ADPI1.pdf/419c578e-4ef0-d318-b9df-a842021c184d
-inap	índice	OEP 2010: Cuestionario primera parte 2	https://www.inap.es/es/documents/10136/1707720/ADMIN10_CUESTIONARIO10ADPI2.pdf/3d6777f0-0271-d31d-1f7a-a9c32dacc4bc
-inap	índice	OEP 2010: Plantilla de respuestas	https://www.inap.es/es/documents/10136/1707720/ADMIN10_AdministrativoDEFINITIVA.pdf/ac08bbc8-a339-4074-31e5-067f97725aab
-inap	índice	OEP 2011: Cuestionario	https://www.inap.es/es/documents/10136/1707720/ADVO-PI%202011.pdf/4a9678ca-98f0-7bd6-1927-87f70077fce8
-inap	índice	OEP 2011: Plantilla de respuestas	https://www.inap.es/es/documents/10136/1707720/Definitiva%20Admvo%202011%20primero.pdf/97bcbd16-f1ce-0416-38bb-5f70ea5cc5e3
-inap	índice	OEP 2012-13: Cuestionario	https://www.inap.es/es/documents/10136/1707720/Examen%20ADVO_PI%202013.pdf/9a9f2cc4-1f9d-f0cf-b57a-2fbcf523b2bc
-inap	índice	OEP 2012-13: Plantilla de respuestas	https://www.inap.es/es/documents/10136/1707720/Plantilla_definitiva%20ADVO-PI%202013%20pI_pII.pdf/62861bc8-9e83-062a-c35c-5f0a6f5096dd
-inap	índice	Cuerpo Superior de Administradores Civiles del Estado	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-superior-de-administradores-civiles-del-estado
-inap	índice	Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-superior-de-sistemas-y-tecnologias-de-la-informacion-de-la-administracion-del-estado
-inap	índice	Escala Técnica de Gestión de Organismos Autónomos	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/escala-tecnica-de-gestion-de-organismos-autonomos
-inap	índice	Cuerpo de Gestión de la Administración Civil del Estado	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-la-administracion-civil-del-estado
-inap	índice	Cuerpo de Gestión de Sistemas e Informática de la Administración del Estado	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado
-inap	índice	Escala de Gestión de Organismos Autónomos	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/escala-de-gestion-de-organismos-autonomos
-inap	índice	Cuerpo General Auxiliar de la Administración del Estado	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-general-auxiliar-de-la-administracion-del-estado
-inap	índice	Personal laboral fijo del grupo profesional E0, especialidad Tareas Complementarias de Apoyo.	https://www.inap.es/es/seleccion/otros-procesos-selectivos/personal-laboral-fijo-en-el-grupo-profesional-e0
-inap	índice		https://www.inap.es/es
-inap	índice	Inicio	https://www.inap.es/es
-inap	índice	El organismo	https://www.inap.es/es/el-organismo
-inap	índice	Perfil del contratante	https://www.inap.es/es/el-organismo/perfil-de-contratante
-inap	índice	INAP Accesible	https://www.inap.es/es/inap-accesible
-inap	índice	Todos tenemos talento	https://www.inap.es/es/libro-blanco
-inap	índice	INAP Social	https://www.linkedin.com/search/results/groups/?keywords=INAP%20Social&origin=CLUSTER_EXPANSION&sid=UjE
-inap	índice	Noticias	https://www.inap.es/es/noticias
-inap	índice	Agenda	https://www.inap.es/es/agenda
-inap	índice	Preguntas frecuentes	https://www.inap.es/es/preguntas-frecuentes
-inap	índice	+ transparencia INAP	https://www.inap.es/es/el-organismo/transparencia-inap
-inap	índice	Selección	https://www.inap.es/es/seleccion
-inap	índice	Procesos selectivos de cuerpo/escalas generales	https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales
-inap	índice	Procesos selectivos de Habilitados Nacionales	https://www.inap.es/es/seleccion/escala-de-funcionarios-de-administracion-local-con-habilitacion-de-caracter-nacional
-inap	índice	Otros procesos selectivos	https://www.inap.es/es/seleccion/otros-procesos-selectivos
-inap	índice	Comisión Permanente de selección	https://www.inap.es/es/seleccion/comision-permanente-de-seleccion
-inap	índice	Información al opositor	https://www.inap.es/es/seleccion/informacion-al-opositor
-inap	índice	Material de apoyo para oposiciones	https://www.inap.es/es/seleccion/material-de-apoyo-para-oposiciones
-inap	índice	Cursos Selectivos	https://www.inap.es/es/seleccion/cursos-selectivos
-inap	índice	Preguntas frecuentes (FAQs)	https://www.inap.es/es/seleccion/preguntas-frecuentes-sobre-procesos-selectivos-faqs
-inap	índice	Normativa	https://www.inap.es/es/seleccion/normativa
-inap	índice	Tribunal - Espacio de candidaturas	https://www.inap.es/es/seleccion/espacio-de-candidaturas
-inap	índice	Aprendizaje	https://www.inap.es/es/aprendizaje
-inap	índice	Estrategias de aprendizaje	https://www.inap.es/es/aprendizaje/estrategias-de-aprendizaje
-inap	índice	Programas de actividades y convocatorias	https://www.inap.es/es/aprendizaje/programas-de-aprendizaje
-inap	índice	Ecosistema competencial e itinerarios formativos	https://www.inap.es/es/aprendizaje/ecosistema-competencial-e-itinerarios-formativos
-inap	índice	Escuela de Alta Dirección Pública	https://www.inap.es/es/aprendizaje/la-escuela-de-alta-direccion-publica-del-estado
-inap	índice	Cursos selectivos	https://www.inap.es/es/seleccion/cursos-selectivos
-inap	índice	Formación en Entidades Locales	https://www.inap.es/es/aprendizaje/desempeno-en-entidades-locales
-inap	índice	Promotores de formación en las AA.PP.	https://www.inap.es/es/aprendizaje/formacion-para-el-empleo-de-las-aa-pp-fedap
-inap	índice	Preguntas Frecuentes (FAQs)	https://www.inap.es/es/aprendizaje/preguntas-frecuentes-sobre-aprendizaje
-inap	índice	Fondos de Formación para el Empleo, FEDAP	https://fedap.inap.es/
-inap	índice	Colaboradores de formación	https://www.inap.es/es/aprendizaje/equipos-colaboradores-en-formacion
-inap	índice	Campus Virtual	https://campus.inap.es/v3/
-inap	índice	Becas y Ayudas	https://www.inap.es/es/becas-y-ayudas
-inap	índice	Becas de formación e investigación	https://www.inap.es/es/becas-y-ayudas/becas-de-formacion-e-investigacion
-inap	índice	Beca de INAP-Fulbright	https://www.inap.es/es/becas-y-ayudas/becas-inap-fulbright
-inap	índice	Becas para opositores	https://www.inap.es/es/becas-y-ayudas/becas-para-opositores
-inap	índice	Premios para tesis doctorales	https://www.inap.es/es/becas-y-ayudas/premios-para-tesis-doctorales
-inap	índice	Proyectos de investigación	https://www.inap.es/es/becas-y-ayudas/proyectos-de-investigacion
-inap	índice	Conocimiento	https://www.inap.es/es/conocimiento
-inap	índice	Biblioteca	https://www.inap.es/es/conocimiento/biblioteca
-inap	índice	Publicaciones	https://www.inap.es/es/conocimiento/publicaciones
-inap	índice	Banco de Recursos en abierto	https://www.inap.es/es/conocimiento/banco-de-recursos-en-abierto
-inap	índice	Laboratorio de Innovación Pública	https://www.inap.es/es/conocimiento/laboratorio-de-innovacion-publica
-inap	índice	Líneas Prioritarias de Investigación	https://www.inap.es/es/conocimiento/lineas-prioritarias-de-investigacion
-inap	índice	Área Internacional	https://www.inap.es/es/area-internacional
-inap	índice	Aprendizaje para extranjeros	https://www.inap.es/es/area-internacional/aprendizaje-para-extranjeros
-inap	índice	Cooperación	https://www.inap.es/es/area-internacional/cooperacion
-inap	índice	Federación de antiguos alumnos	https://www.inap.es/es/area-internacional/federacion-de-antiguos-alumnos
-inap	índice	Visitas de Estudio y Actos Institucionales	https://www.inap.es/es/area-internacional/visitas-de-estudio-y-actos-institucionales
-inap	índice	Premios y licitaciones internacionales	https://www.inap.es/es/area-internacional/premios-y-licitaciones-internacionales
-inap	índice	Ofertas de empleo en Organismos Internacionales	https://www.inap.es/es/area-internacional/ofertas-de-empleo-en-organismos-internacionales
-inap	índice		https://twitter.com/INAP_ES
-inap	índice		https://www.facebook.com/inap.es
-inap	índice		https://es.linkedin.com/company/instituto-nacional-administracion-publica
-inap	índice		https://www.youtube.com/channel/UCvjvyMsqqXgVVGH5lf-sfvA
-inap	índice		https://www.inap.es/es/rss-inap.xml
-inap	índice		https://digital.gob.es/funcion-publica/secretaria/captacion-talento
-inap	índice	Contacto	https://www.inap.es/es/contactar
-inap	índice	Aviso Legal	https://www.inap.es/es/aviso-legal
-inap	índice	Política de cookies	https://www.inap.es/es/politica-de-cookies
-inap	índice	Declaración de Accesibilidad	https://www.inap.es/es/declaracion-de-accesibilidad
-inap	índice	Sistema Interno de Información	https://www.inap.es/es/sistema-interno-de-informacion
-inap	índice	Guía de Navegación	https://www.inap.es/es/guia-de-navegacion
-inap	índice	Mapa Web	https://www.inap.es/es/mapa-web
-inap	índice		https://digital.sede.gob.es/
-inap	índice		https://www.inap.es
-inap	índice	Sede Electrónica Instituto Nacional de la Administración Pública	https://sede.inap.gob.es/es
-inap	índice	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
-inap	índice	Perfil del contratante	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
-inap	índice	Trámite "Presentación de quejas, sugerencias y solicitudes en el INAP"	https://sede.inap.gob.es/es/presentacion-de-solicitudes-en-el-inap
-inap	índice	Trámites para aspirantes	https://sede.inap.gob.es/es/tramites-para-opositores
-inap	índice	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
-inap	índice	Acceda a todos los trámites y servicios del INAP	https://sede.inap.gob.es/es/procedimientos-y-servicios
-inap	índice	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
-inap	índice	Trámites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
-inap	índice	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
-inap	índice	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
-inap	índice	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado
-inap	índice	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
-inap	índice	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
-inap	índice	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
-inap	índice	Acceda a toda la información	https://sede.inap.gob.es/es/informacion-de-la-sede
-inap	índice	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
-inap	índice	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
-inap	índice	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
-inap	índice	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
-inap	índice	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
-inap	índice	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
-inap	índice	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
-inap	índice	Contactar	https://sede.inap.gob.es/es/contactar
-inap	índice	Acceso al Registro Electrónico General	https://reg.redsara.es/
-inap	índice	Acceso a Mis Expedientes	https://sede.inap.gob.es/es/consulta-de-expedientes-en-el-inap
-inap	índice	Acceso a DEHú	https://dehu.redsara.es/
-inap	índice	Acceso a Carpeta Ciudadana	https://carpetaciudadana.gob.es/
-inap	índice	Licitaciones INAP	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
-inap	índice	Plataforma Contratación del Sector Público	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
-inap	índice	Inicio	https://sede.inap.gob.es/
-inap	índice	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
-inap	índice	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
-inap	índice	Procesos selectivos de cuerpos y escalas generales	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales
-inap	índice	Volver a Procesos selectivos de cuerpos y escalas generales	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales
-inap	índice	Escuchar	https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7939&lang=es_es&readid=inap__richText&readclass=node__content&url=https%3A%2F%2Fsede.inap.gob.es%2Fes%2Fprocedimientos-y-servicios%2Fseleccion%2Fprocesos-selectivos-de-cuerpos-y-escalas-generales%2Fcuerpo-general-administrativo-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025
-inap	índice	Resolución de 18 de diciembre de 2025	https://boe.es/boe/dias/2025/12/22/pdfs/BOE-A-2025-26262.pdf
-inap	índice	Normas específicas	https://sede.inap.gob.es/sites/sede/files/public/2025-12/ADVOLI.pdf
-inap	índice	Inscripción	https://ips.redsara.es/IPSC/secure/buscarConvocatorias?form=L
-inap	índice	Guía para la inscripción	https://sede.inap.gob.es/sites/sede/files/public/2025-12/Gu%C3%ADa%20para%20la%20inscripci%C3%B3n.pdf
-inap	índice	Nota informativa de la Comisión Permanente de Selección:	https://sede.inap.gob.es/sites/sede/files/public/2025-12/Cronograma%20CPS%202025_2025_12_19_1.pdf
-inap	índice	Nota de la Comisión Permanente de Selección	https://sede.inap.gob.es/sites/sede/files/public/2026-07/CronogramaCPS2025_2026_07_27_6BS0SFBILS_154AB89SD658.pdf
-inap	índice	Nota de la Comisión Permanente de Selección:	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Cronograma%20CPS%202025_2026_09_29.pdf
-inap	índice	Resolución de 12 de marzo de 2026 del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/sites/sede/files/public/2026-03/BOE-A-2026-6249.pdf
-inap	índice	Acceso General	https://sede.inap.gob.es/sites/sede/files/public/2026-03/ADVO-L-ADM-PROVIS-SA-ALF_GEN_D1Q5I9IZZH_154AB89SD658.pdf
-inap	índice	Cupo Norma Común 13	https://sede.inap.gob.es/sites/sede/files/public/2026-03/ADVO-L-ADM-PROVIS-SA-ALF_CRD_V2_CF6I3XAX72_154AB89SD658.pdf
-inap	índice	Listado provisional de excluidos	https://sede.inap.gob.es/sites/sede/files/public/2026-03/ADVO-L-EXC-PROVIS-BOE_KWLGD9OSC3_154AB89SD658.pdf
-inap	índice	Causas de exclusión	https://sede.inap.gob.es/sites/sede/files/public/2026-03/ADVO-L-Causasdeexclusin_D1984IZTPN_154AB89SD658.pdf
-inap	índice	Instrucciones generales para la subsanación	https://sede.inap.gob.es/sites/sede/files/public/2026-03/INSTRUCCIONES%20SUBSANACION%20CPS%20OEP%202025.pdf
-inap	índice	Nota informativa sobre adaptación de tiempo y medios	https://sede.inap.gob.es/sites/sede/files/public/2026-03/Nota%20informativa%20sobre%20adaptaci%C3%B3n%20tiempo%20y%20medios_0.pdf
-inap	índice	Nota informativa de la Comisión Permanente de Selección:	https://sede.inap.gob.es/sites/sede/files/public/2026-03/NOTA%20INFORMATIVA%20DE%20LA%20COMISI%C3%93N%20PERMANENTE%20DE%20SELECCI%C3%93N%20RELATIVA%20A%20LA%20PARTICIPACI%C3%93N%20DE%20PERSONAS%20CON%20INCAPACIDAD%20PERMANENTE%20EN%20EL%20TURNO%20DE%20PERSONAS%20CON%20DISCAPACIDAD.pdf
-inap	índice	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/sites/sede/files/public/2026-05/report_RESOLUCION%20DEFINITIVA%20ADMITIDOS%20Y%20EXCLUIDOS%20CPS%20%281%29.pdf
-inap	índice	Acceso General	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_L_GEN_V2.pdf
-inap	índice	Cupo Norma Común 13	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_L_CRD_V2.PDF
-inap	índice	Listado definitivo de excluidos	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_L-EXC.PDF
-inap	índice	Resolución de la Comisión Permanente de Selección	https://sede.inap.gob.es/sites/sede/files/public/2026-05/report_Resoluci%C3%B3n%20CPS%20Instrucciones%20desarrollo%20ejercicio.pdf
-inap	índice	Resolución de la Comisión Permanente de Selección	https://sede.inap.gob.es/sites/sede/files/public/2026-05/report_Resoluci%C3%B3n_adaptaciones_CPS_2025.pdf
-inap	índice	Nota informativa	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Nota%20informativa%20de%20conservaci%C3%B3n%20de%20calificaciones%20y%20exentos%20OEP2025.pdf
-inap	índice	Relación de aspirantes	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO-L%20EXENTOS.pdf
-inap	índice	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/sites/sede/files/public/2026-05/report_CORRECCION%20RESOLUCION%20DEFINITIVA%20CPS%20OEP2025.pdf
-inap	índice	A Coruña	https://sede.inap.gob.es/sites/sede/files/public/2026-05/A%20CORU%C3%91A_ADVO-LI_GEN-CRD.pdf
-inap	índice	Álava/Araba	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ALAVA%20Aulario%20ADVO_L.pdf
-inap	índice	Alicante/Alacant	https://sede.inap.gob.es/sites/sede/files/public/2026-05/C1_ADVO_L_ALICANTE.pdf
-inap	índice	Asturias	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ASTURIAS%2001-ADTVO%20LI.pdf
-inap	índice	Badajoz	https://sede.inap.gob.es/sites/sede/files/public/2026-05/administrativo_libre_Badajoz.pdf
-inap	índice	Barcelona	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO-L_GE_Y_CRD_ALFABETICO_RECTIFICADO.pdf
-inap	índice	Plano acceso Universidad Barcelona	https://sede.inap.gob.es/sites/sede/files/public/2026-05/FACULTAD_DERECHO_UB_EDIFICIOS_SABADO_23-05-2026_INAP.pdf
-inap	índice	Cádiz	https://sede.inap.gob.es/sites/sede/files/public/2026-05/CUERPO%20GENERAL%20ADMINISTRATIVO%20DE%20LA%20ADMINISTRACION%20DEL%20ESTADO%20TURNO%20LIBRE%20GENERAL%20Y%20CRD_1.pdf
-inap	índice	Cantabria	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO%20L%20CANTABRIA.pdf
-inap	índice	Ceuta	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_L_CEUTA.pdf
-inap	índice	Córdoba	https://sede.inap.gob.es/sites/sede/files/public/2026-05/CORDOBA_ADVO-L.pdf
-inap	índice	Granada	https://sede.inap.gob.es/sites/sede/files/public/2026-05/LISTADO%20INAP%20ADVO-L%20GEN%20Y%20CRD%20-%20GRANADA.pdf
-inap	índice	Illes Balears	https://sede.inap.gob.es/sites/sede/files/public/2026-05/BALEARES_ADMVO%20L.pdf
-inap	índice	La Rioja	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_L_LA%20RIOJA.pdf
-inap	índice	Las Palmas GC	https://sede.inap.gob.es/sites/sede/files/public/2026-05/LAS%20PALMAS_ADMINISTRATIVO%20INGRESO%20LIBRE.pdf
-inap	índice	Madrid	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVOLI%20Distribuci%C3%B3n%20aulas%20Madrid.pdf
-inap	índice	Málaga	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Listado%20Advo.%20Libre-%20General%20y%20CRD.pdf
-inap	índice	Plano acceso	https://sede.inap.gob.es/sites/sede/files/public/2026-05/M%C3%81LAGA%20SEDES%20EXAMEN.pdf
-inap	índice	Melilla	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_ACCESO%20LIBRE_MELILLA.pdf
-inap	índice	Acceso general	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_L_GE_MURCIA.pdf
-inap	índice	Norma común 13	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO_L_CRD_MURCIA.pdf
-inap	índice	Navarra	https://sede.inap.gob.es/sites/sede/files/public/2026-05/NAVARRA_ADVO%20LIBRE.pdf
-inap	índice	Pontevedra	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Pontevedra%20AD-L.pdf
-inap	índice	Santa Cruz de Tenerife	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADMO_L_S.C.%20DE%20TENERIFE.pdf
-inap	índice	Sevilla	https://sede.inap.gob.es/sites/sede/files/public/2026-05/SEVILLA_ADVO_L.pdf
-inap	índice	Toledo	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADMINISTRATIVO%20GENERAL%20Y%20CRD.pdf
-inap	índice	Plano acceso IES Universidad Laboral.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/CROQUIS%20ACCESOS%20A%20AULAS%20EXAMEN%20DE%20PABELLONES%201%20-2-%203%20IES%20UNIVERSIDAD%20LABORAL_0.pdf
-inap	índice	Plano acceso IES María Pacheco.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/TOLEDO_IES%20MARIA%20PACHECO_PLANOS%20ACCESOS_0.pdf
-inap	índice	Valencia/València	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Valencia_DISTR_OPO_ADVO-L.pdf
-inap	índice	Valladolid	https://sede.inap.gob.es/sites/sede/files/public/2026-05/UCL2_VALLADOLID_ADMVO-LI-GE-CRD.pdf
-inap	índice	Zaragoza	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Distribucion_ADVO-L_ZARAGOZA.pdf
-inap	índice	Criterios de corrección, valoración y superación.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/ADVO%20LI%202025.pdf
-inap	índice	Nota informativa de acceso a Facultades.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/nota%20informativa%20transporte%202026.pdf
-inap	índice	Cuestionario modelo A.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Cuestionario-ADVO-L-ModeloA.pdf
-inap	índice	Cuestionario modelo B.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Cuestionario-ADVO-L-ModeloB.pdf
-inap	índice	Plantilla provisional modelo A.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Plantilla%20respuestas%20ADVO-L_MODELO%20A.pdf
-inap	índice	Plantilla provisional modelo B.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/Plantilla%20respuestas%20ADVO-L_MODELO%20B.pdf
-inap	índice	Nota informativa sobre la presentación de alegaciones a las plantillas correctoras provisionales.	https://sede.inap.gob.es/sites/sede/files/public/2026-05/2026_05_25_Nota%20informativa%20alegaciones_0.pdf
-inap	índice	Nota informativa sobre la ampliación del plazo de presentación de alegaciones a las plantillas correctoras provisionales	https://sede.inap.gob.es/sites/sede/files/public/2026-05/2026_05_28_Ampliacinplazoalegaciones_AI278HMNLD_154AB89SD658.pdf
-inap	índice	Nota informativa	https://sede.inap.gob.es/sites/sede/files/public/2026-06/2026_05_23_NotainformativaPRESENTADOS_SM6O28WIR9_154AB89SD658.pdf
-inap	índice	Resolución por la que se publica el llamamiento extraordinario	https://sede.inap.gob.es/sites/sede/files/public/2026-07/report_RESOLUCION%20CONJUNTA%20EXTRAORDINARIOS.pdf
-inap	índice	Resolución por la que se corrigen errores detectados en la resolución por la que se publica el llamamiento extraordinario.	https://sede.inap.gob.es/sites/sede/files/public/2026-07/RESOLUCION_EXTRAORDINARIO_correccion_TB9KJELZO1_154AB89SD658.pdf
-inap	índice	Distribución de opositores convocados al llamamiento extraordinario (corrección errores).	https://sede.inap.gob.es/sites/sede/files/public/2026-07/ASIGNACION_AULAS_correccion_MFMGQVRGSE_154AB89SD658.pdf
-inap	índice	Cuestionario: llamamiento extraordinario	https://sede.inap.gob.es/sites/sede/files/public/2026-07/cuestionario_ADVO-L_ext_HXVSEPVBLX_154AB89SD658.pdf
-inap	índice	Plantilla provisional de respuestas: llamamiento extraordinario	https://sede.inap.gob.es/sites/sede/files/public/2026-07/Plantilla_respuestas_prov_ADVO-L_ext_U3KUQTVU52_154AB89SD658.pdf
-inap	índice	Nota informativa	https://sede.inap.gob.es/sites/sede/files/public/2026-07/2026_07_27_Notainformativaalegaciones_AM20WK2QMS_154AB89SD658.pdf
-inap	índice	Resolución por la que se aprueba la relación de opositores que han superado el ejercicio único	https://sede.inap.gob.es/sites/sede/files/public/2026-09/report_Resoluci%C3%B3n%20superan%20ejercicio%20%C3%BAnico%20ADVO-L.pdf
-inap	índice	Acceso General	https://sede.inap.gob.es/sites/sede/files/public/2026-09/1-ADVO-L-DM-SUP_GEN.pdf
-inap	índice	Cupo Norma Común 13	https://sede.inap.gob.es/sites/sede/files/public/2026-09/1-ADVO-L-DM-SUP_CRD.pdf
-inap	índice	Plantilla definitiva modelo A	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Plantilla%20respuestas%20ADVO-L_MODELO%20A.pdf
-inap	índice	Plantilla definitiva modelo B	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Plantilla%20respuestas%20ADVO-L_MODELO%20B.pdf
-inap	índice	Plantilla definitiva llamamiento extraordinario	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Plantilla%20respuestas%20ADVO-L-extraordinario.pdf
-inap	índice	Nota informativa puntuaciones mínimas	https://sede.inap.gob.es/sites/sede/files/public/2026-09/PUNTUACIONES%20MINIMAS%20EJER%20UNICO%20ADVO%20L.pdf
-inap	índice	Nota informativa:	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Nota%20informativa%20F%C3%B3rmula%20Transformada%20%282%29.pdf
-inap	índice		https://sede.inap.gob.es/home
-inap	índice	Inicio	https://sede.inap.gob.es/es
-inap	índice	Portal Web INAP	https://www.inap.es/es/inicio
-inap	índice	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
-inap	índice	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
-inap	índice	Notificaciones electrónicas	https://dehu.redsara.es/
-inap	índice	Registro electrónico	https://reg.redsara.es/
-inap	índice	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
-inap	índice	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
-inap	índice	Tramites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
-inap	índice	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
-inap	índice	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
-inap	índice	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado0
-inap	índice	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
-inap	índice	Información de la sede	https://sede.inap.gob.es/es/informacion-de-la-sede
-inap	índice	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
-inap	índice	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
-inap	índice	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
-inap	índice	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
-inap	índice	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
-inap	índice	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
-inap	índice	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
-inap	índice	Portal de Transparencia	https://transparencia.gob.es/
-inap	índice	BOE	https://www.boe.es/
-inap	índice	La Administración al Día	https://laadministracionaldia.inap.es/
-inap	índice	Ministerio para la Transformación Digital y de la Función Pública	https://digital.gob.es/index.html
-inap	índice	Punto de Acceso General	https://administracion.gob.es/
-inap	índice	Perfil del contratante	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
-inap	índice		https://twitter.com/INAP_ES
-inap	índice		https://www.facebook.com/inap.es
-inap	índice		https://es.linkedin.com/company/instituto-nacional-administracion-publica
-inap	índice		https://www.youtube.com/channel/UCvjvyMsqqXgVVGH5lf-sfvA
-inap	índice	Aviso Legal	https://sede.inap.gob.es/es/aviso-legal
-inap	índice	Política de cookies	https://sede.inap.gob.es/es/politica-de-cookies
-inap	índice	Protección de datos personales	https://sede.inap.gob.es/es/proteccion-de-datos-personales
-inap	índice	Declaración de Accesibilidad	https://sede.inap.gob.es/es/accesibilidad
-inap	índice	Mapa Web	https://sede.inap.gob.es/es/mapa-web
 2025	enlace		https://digital.sede.gob.es/
 2025	enlace		https://www.inap.es
 2025	enlace	Sede Electrónica Instituto Nacional de la Administración Pública	https://sede.inap.gob.es/es
@@ -505,3 +162,486 @@ inap	índice	Mapa Web	https://sede.inap.gob.es/es/mapa-web
 2025	DESCARGADO	Plantilla definitiva modelo A	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Plantilla%20respuestas%20ADVO-L_MODELO%20A.pdf	72538 bytes
 2025	DESCARGADO	Plantilla definitiva modelo B	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Plantilla%20respuestas%20ADVO-L_MODELO%20B.pdf	80600 bytes
 2025	DESCARGADO	Plantilla definitiva llamamiento extraordinario	https://sede.inap.gob.es/sites/sede/files/public/2026-09/Plantilla%20respuestas%20ADVO-L-extraordinario.pdf	74028 bytes
+2024	enlace		https://digital.sede.gob.es/
+2024	enlace		https://www.inap.es
+2024	enlace	Sede Electrónica Instituto Nacional de la Administración Pública	https://sede.inap.gob.es/es
+2024	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2024	enlace	Perfil del contratante	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
+2024	enlace	Trámite "Presentación de quejas, sugerencias y solicitudes en el INAP"	https://sede.inap.gob.es/es/presentacion-de-solicitudes-en-el-inap
+2024	enlace	Trámites para aspirantes	https://sede.inap.gob.es/es/tramites-para-opositores
+2024	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2024	enlace	Acceda a todos los trámites y servicios del INAP	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2024	enlace	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
+2024	enlace	Trámites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
+2024	enlace	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
+2024	enlace	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
+2024	enlace	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado
+2024	enlace	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
+2024	enlace	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
+2024	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2024	enlace	Acceda a toda la información	https://sede.inap.gob.es/es/informacion-de-la-sede
+2024	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2024	enlace	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
+2024	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2024	enlace	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
+2024	enlace	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
+2024	enlace	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
+2024	enlace	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
+2024	enlace	Contactar	https://sede.inap.gob.es/es/contactar
+2024	enlace	Acceso al Registro Electrónico General	https://reg.redsara.es/
+2024	enlace	Acceso a Mis Expedientes	https://sede.inap.gob.es/es/consulta-de-expedientes-en-el-inap
+2024	enlace	Acceso a DEHú	https://dehu.redsara.es/
+2024	enlace	Acceso a Carpeta Ciudadana	https://carpetaciudadana.gob.es/
+2024	enlace	Licitaciones INAP	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
+2024	enlace	Plataforma Contratación del Sector Público	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
+2024	enlace	Inicio	https://sede.inap.gob.es/
+2024	enlace	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2024	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2024	enlace	Procesos selectivos de cuerpos y escalas generales	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales
+2024	enlace	Cuerpo General Administrativo de la Administración del Estado	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado
+2024	enlace	Volver a Cuerpo general administrativo de la administracion del estado	https://sede.inap.gob.es/cuerpo-general-administrativo-de-la-administracion-del-estado
+2024	enlace	Escuchar	https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7939&lang=es_es&readid=inap__richText&readclass=node__content&url=https%3A%2F%2Fsede.inap.gob.es%2Fes%2Fprocedimientos-y-servicios%2Fseleccion%2Fprocesos-selectivos-de-cuerpos-y-escalas-generales%2Fcuerpo-general-administrativo-de-la-administracion-del-estado%2Fcgaade-ingreso-libre-oferta-de-empleo-publico-2023-y-2024
+2024	enlace	Resolución de 09 de julio de 2024	https://sede.inap.gob.es/documents/59312/2364208/BOE-A-2024-14098_ZBX2PGBG1O_154AB89SD658.pdf/971e2fd9-ac6b-4c1c-0b6b-330b9805ec51
+2024	enlace	Bases	https://sede.inap.gob.es/documents/59312/2364148/BASESCOMUNES_49VAIONTIT_154AB89SD658.pdf/17a1ecdb-6c10-d507-9b6c-8f8d83a66441
+2024	enlace	Normas específicas	https://sede.inap.gob.es/documents/59312/2364208/BASESESPECIFICASADVO-LI_CQUXPAYSAH_154AB89SD658.pdf/4a37c24c-765a-52c6-6a1c-4cabfb60dec1
+2024	enlace	Inscripciones	https://ips.redsara.es/IPSC/secure/buscarConvocatorias
+2024	enlace	Resolución de 22 de julio de 2024	https://boe.es/boe/dias/2024/07/27/pdfs/BOE-A-2024-15528.pdf
+2024	enlace	Nota informativa de la Comisión Permanente de Selección:	https://sede.inap.gob.es/documents/10136/1679185/CronogramaCPS2024_T13E4PK5FH_154AB89SD658.pdf/96509c65-e5f8-dca3-5d9c-a6bbadbab12b
+2024	enlace	Nota informativa de la Comisión Permanente de Selección:	https://sede.inap.gob.es/documents/59312/2364268/Cronograma+CPS+2024+MODIFICACION.pdf/67b14925-6548-6ca1-d047-e432cf27b63f
+2024	enlace	Resolución de 15 de octubre de 2024 del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/documents/59312/2364118/BOE-A-2024-21333-CPSprovisional_TR4CLS6R77_154AB89SD658.pdf/2bda9169-2f37-776c-f890-2966e353d59c
+2024	enlace	Acceso General	https://sede.inap.gob.es/documents/59312/2364208/AD-L-ADM-PROVIS-SA-ALF_GE_ILWRB4HTLW_154AB89SD658.pdf/53bfa224-33f5-f070-79d0-626fe5b8a362
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2364208/AD-L-ADM-PROVIS-SA-ALF_CRD_DBQAWHXCIZ_154AB89SD658.pdf/f4906d1e-46fd-7090-5954-2f704c09aa0c
+2024	enlace	Listado provisional de excluidos	https://sede.inap.gob.es/documents/59312/2364208/AD-L-EXC-PROVIS-BOE_WSD4XG0E9B_154AB89SD658.pdf/e609db69-55d6-a3e6-47e8-d17678d1d240
+2024	enlace	Causas de exclusión	https://sede.inap.gob.es/documents/59312/2364208/03-Causas+de+exclusi%C3%B3n+ANEXO+III+ADVO-L.pdf/6f6c2d3e-a05c-8ded-6fbc-9010b5b482d1
+2024	enlace	Instrucciones generales para la subsanación	https://sede.inap.gob.es/documents/59312/2364118/INSTRUCCIONESSUBSANACIONCPSOEP2024_03FXQAN6GZ_154AB89SD658.pdf/c31684c9-43b1-fd5b-a819-48213dca44c4
+2024	enlace	Nota informativa	https://sede.inap.gob.es/documents/59312/2364380/NotainformativaRENTAparasubsanacin_IU47QGGQEA_154AB89SD658.pdf/607f2af0-5ecd-e566-b981-440f74ff4342
+2024	enlace	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/documents/59312/2364380/report_RESOLUCION+DEFINITIVA+ADMITIDOS+Y+EXCLUIDOS+CPS.pdf/f7b0f2e8-edd8-225d-f83d-42f8ac71f120
+2024	enlace	Acceso General	https://sede.inap.gob.es/documents/59312/2364208/AD_L_GE_ZQN17RUXP3_154AB89SD658.pdf/429431de-9819-5d19-244f-3538349494f6
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2364208/AD_L_CRD_OF5H03TOPW_154AB89SD658.pdf/fa7de3b6-e296-cf3d-37ec-74f450c44316
+2024	enlace	Listado definitivo de excluidos	https://sede.inap.gob.es/documents/59312/2364208/AD-L-EXC_EKKO9QJN5V_154AB89SD658.pdf/8c4dd198-4ef4-fa1f-951b-c0ca80db6649
+2024	enlace	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/documents/59312/2364268/CORRECCIONRESOLUCIONDEFINITIVACPS_KGHUILOHV7_154AB89SD658.pdf/2446f7c9-1500-a9ac-3fbe-2a8e51e0d9d5
+2024	enlace	A Coruña	https://sede.inap.gob.es/documents/59312/2414951/A+CORU%C3%91A+-+ADVO-L_JTMKMU9R1E_154AB89SD658.pdf/482fd737-2ebc-aebe-f5bb-c03cf3f9de76
+2024	enlace	General	https://sede.inap.gob.es/documents/59312/2414951/ALICANTE+ADVO-LI-GEN+ADMINISTRATIVOGENERAL_154AB89SD658.pdf/ffedf2fa-5d11-6658-d03a-289dd435c095
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2414951/ALICANTE+ADVO-LI-CRD+PDFADMCRD20G_TJHBRH66LM_154AB89SD658.pdf/60e59ee0-9620-b267-4513-f26fdc3ee919
+2024	enlace	Asturias	https://sede.inap.gob.es/documents/59312/2414951/ASTURIAS+ADML_J2FFEINFMJ_154AB89SD658.pdf/2f730d61-2e22-a5d5-8554-13778ac01915
+2024	enlace	Badajoz	https://sede.inap.gob.es/documents/59312/2414951/ADVO-LBADAJOZ2024_IMOIMW7W4E_154AB89SD658.pdf/bd013411-bd0a-d010-6c2a-14af7d271d54
+2024	enlace	Barcelona	https://sede.inap.gob.es/documents/59312/2414951/BARCELONA_ADVO_L_GE_CRD_3396F73SCN_154AB89SD658.pdf/a254f22e-eabf-3cc5-a275-af5d00067340
+2024	enlace	Plano acceso 1	https://sede.inap.gob.es/documents/59312/2364268/BARCELONA_FACULTADDERECHOUBEDIFICIOSSABADO_AIW4LNPS2C_154AB89SD658.pdf/faa3370f-d44a-c1cc-414b-a521e602d268
+2024	enlace	Plano acceso 2	https://sede.inap.gob.es/documents/59312/2364268/BARCELONA_FACULTADECONOMIAYEMPUBEDIFICIOS690Y696_32QPEIW1ZI_154AB89SD658.pdf/58540f96-3bc5-1562-b315-0c2a80372058
+2024	enlace	Cádiz	https://sede.inap.gob.es/documents/59312/2414951/ADVO-LI+CADIZ_CUERPOGENERALADMINISTRATIVODELAADMINISTRACIONDELESTADOTURNOLIBREGENERALYCRD_8R6BIFJITK_154AB89SD658.pdf/d2688509-0b02-51e1-2cc3-55f1fb8ddc42
+2024	enlace	Córdoba	https://sede.inap.gob.es/documents/59312/2414951/CRDOBAADVO-L_SO4T2IHHAS_154AB89SD658.pdf/0d27ea5f-f9c5-7131-0cb5-24d7c1a7ce6d
+2024	enlace	Granada	https://sede.inap.gob.es/documents/59312/2414951/GRANADA+ADVO-LI+GEyCRD-GRANADA_2E4H16YPP2_154AB89SD658.pdf/5bf58397-1320-d237-2922-5300a8d52036
+2024	enlace	General	https://sede.inap.gob.es/documents/59312/2414951/ADVO-LI-GEN+ILLESBALEARS_OSP5177XFM_154AB89SD658.pdf/0b984d91-2c05-efb7-4538-a9c995541134
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2414951/ADVO-LI-CRD+ILLESBALEARS_T7VO8THDDX_154AB89SD658.pdf/73bd27d1-bb06-ce89-2ef0-a0aa1b272b85
+2024	enlace	General	https://sede.inap.gob.es/documents/59312/2414951/LasPalmas_AD_Libre_General_2628KN2GR5_154AB89SD658.pdf/afd038ae-5d16-8a99-bf82-760d3f1178eb
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2414951/LasPalmasGC_LASPALMASGC_AD_Libre_CRD_IKIL59K1X2_154AB89SD658.pdf/c8aec7ed-6eef-e565-5600-c965e9149d84
+2024	enlace	Madrid	https://sede.inap.gob.es/documents/59312/2414951/MADRID_listado_PUBLICAR_WEB_COMPLETO_1_ADVO-LI_1XMX5UCUTQ_154AB89SD658.pdf/c160b04b-3025-3140-5358-3513b00972f3
+2024	enlace	Málaga	https://sede.inap.gob.es/documents/59312/2414951/MALAGA_advolibrepublicar_8OGS6SLIL9_154AB89SD658.pdf/78a6b682-335e-b803-4244-11a6186ca66a
+2024	enlace	Nota informativa:	https://sede.inap.gob.es/documents/59312/2364268/1.+MALAGA_NOTAINFORMATIVA_NFW33IMNBN_154AB89SD658.pdf/5c96a301-a00f-2353-1a0d-01ecdcca0055
+2024	enlace	Plano acceso Málaga.	https://sede.inap.gob.es/documents/59312/2364268/2.+PLANOSEDES+malaga_JX139FM0N9_154AB89SD658.pdf/3141c5aa-e346-cd03-c6ca-38b5dbb5303d
+2024	enlace	General	https://sede.inap.gob.es/documents/59312/2414951/AD_L_GE_MURCIA_3TM5EADETQ_154AB89SD658.pdf/8b88c26d-a883-86cf-8296-1668a24f2f00
+2024	enlace	Cupo Base Específica 5.	https://sede.inap.gob.es/documents/59312/2414951/AD_L_CRD_MURCIA_F1W46WRUQW_154AB89SD658.pdf/c439bde2-2067-a722-e31f-ca42bf261892
+2024	enlace	Pontevedra	https://sede.inap.gob.es/documents/59312/2414951/PontevedraAD-L_X5HQAWTHZP_154AB89SD658.pdf/aeda1962-387f-30da-de14-21bcd09ac433
+2024	enlace	General	https://sede.inap.gob.es/documents/59312/2414951/11_ADMINISTRATIVO_C1_SEVILLA_LIBRE_GEN_9ADGMSWX8B_154AB89SD658.pdf/35a4507c-c9dc-f16f-a729-8173a728f77b
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2414951/12_ADMINISTRATIVO_C1_SEVILLA_LIBRE_CRD_2PXUQOER18_154AB89SD658.pdf/98a7a60c-ec6e-202d-60cd-583f7bf87da8
+2024	enlace	General	https://sede.inap.gob.es/documents/59312/2364208/AD_L_GE_SCDETENERIFE_N9JWF1NMY3_154AB89SD658.pdf/652a2a90-e934-a5cf-3a26-3269c2d72d11
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2364208/AD_L_CRD_SCDETENERIFE_0TANWYIWSY_154AB89SD658.pdf/0dded294-c539-3d89-279a-e94274b81c6b
+2024	enlace	Nota informativa	https://sede.inap.gob.es/documents/59312/2364208/ADM_LGENCRDSCTENERIFENOTAINFORMATIVA_JO5E5IOF2P_154AB89SD658.pdf/34c9d443-7d06-2da1-7b07-0bcb3e6ecd95
+2024	enlace	General	https://sede.inap.gob.es/documents/59312/2414951/AD_L_GE_LISTADODISTRIBUCINC1toledo_RIKE68Y66S_154AB89SD658.pdf/3ff3c7db-7346-859d-5630-9ace6ce90395
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2414951/AD_L_CRD_TOLEDO_GPC1TZ15P6_154AB89SD658.pdf/ffc7c5d3-0755-4a99-4c29-3204b204acc8
+2024	enlace	Plano acceso IES Universidad Laboral.	https://sede.inap.gob.es/documents/59312/2414951/TOLEDO_IESUNIVERSIDADLABORAL_TYBQHG4CXU_154AB89SD658.pdf/09eaf4db-27c7-ae4f-330a-eda74d340e9f
+2024	enlace	Plano acceso IES María Pacheco.	https://sede.inap.gob.es/documents/59312/2414951/TOLEDO_Plano_IESMARAPACHECO_V244B8MJT0_154AB89SD658.pdf/3f5a3e6d-91fe-e080-e3cc-af2b3cc66571
+2024	enlace	Valencia	https://sede.inap.gob.es/documents/59312/2414951/Valencia_DISTR_OPO_ADVO-L_S8UUNS72PE_154AB89SD658.pdf/b36446e9-8d09-5183-ff05-b60ca43ea436
+2024	enlace	Valladolid	https://sede.inap.gob.es/documents/59312/2414951/VALLADOLID_UCL2_ADMVO-LI-GE-CRD_F80HAE6MMP_154AB89SD658.pdf/49209790-4a51-04df-cae9-233fc28e63dc
+2024	enlace	Vitoria	https://sede.inap.gob.es/documents/59312/2414951/ALAVA_AularioADMINISTRATIVO_L_1AXATIWH2W_154AB89SD658.pdf/219ecfba-35b6-cfb6-124c-525114ee009b
+2024	enlace	Zaragoza	https://sede.inap.gob.es/documents/59312/2414951/Distribucin_ADVO-LI_ZARAGOZAdocx_X2OTQYKPXM_154AB89SD658.pdf/a126d557-83a1-203b-dcac-27b90825c010
+2024	enlace	Criterios de corrección, valoración y superación	https://sede.inap.gob.es/documents/59312/2364208/ADVO+LI+2024.pdf/96aab5f5-fbc4-2316-3e2a-bb2dd2cf0048
+2024	enlace	Nota informativa de acceso a Facultades	https://sede.inap.gob.es/documents/59312/2364268/nota+informativa+transporte+2024.pdf/be8c6b27-6f41-e857-f3b4-81e8a4f174df
+2024	enlace	Nota informativa: direcciones sedes examen.	https://sede.inap.gob.es/documents/59312/2364306/PROCESOSSELECTIVOS003_VZJ12LA6RX_154AB89SD658.pdf/c8c470ae-1101-e731-6221-7910cc1f97bc
+2024	enlace	Cuestionario modelo A.	https://sede.inap.gob.es/documents/59312/2364208/CuestionarioADVO-L_MODELOA_G7O7MWEZHI_154AB89SD658.pdf/5ebc9e09-b6f6-5cef-1cfa-478217f04e86
+2024	enlace	Cuestionario modelo B.	https://sede.inap.gob.es/documents/59312/2364208/CuestionarioADVO-L_MODELOB_LP3KJYO2EH_154AB89SD658.pdf/78c9ae84-d4ae-7854-f107-2c6dab288836
+2024	enlace	Plantilla provisional modelo A.	https://sede.inap.gob.es/documents/59312/2364208/PlantillarespuestasADVO-L-MODELOA_9IYN7Z5KQG_154AB89SD658.pdf/47062897-1ba4-6053-d9ce-e5cf53387f8a
+2024	enlace	Plantilla provisional modelo B.	https://sede.inap.gob.es/documents/59312/2364208/PlantillarespuestasADVO-L-MODELOB_XHIQC7K55C_154AB89SD658.pdf/41fcedee-b61e-7a8d-f698-218926a4cf8a
+2024	enlace	Nota informativa sobre la presentación de alegaciones a las plantillas correctoras provisionales.	https://sede.inap.gob.es/documents/59312/2364152/Notainformativaalegaciones_AOL0DI676V_154AB89SD658.pdf/310bd285-4424-9276-ca2d-9ca31be0a477
+2024	enlace	Datos provisionales de presentados.	https://sede.inap.gob.es/documents/59312/2364268/NOTA+CPS+DICIEMBRE+DATOS+PRESENTADOS.pdf/9f8d788b-11f6-5364-3347-f6ea77427b63
+2024	enlace	Resolución por la que se publica el llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2364148/report_RESOLUCIONCONJUNTAEXTRAORDINARIOS_QWEV61H891_154AB89SD658.pdf/17ac74e2-ffcb-289c-9e6e-07428a5c356a
+2024	enlace	Cuestionario: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/2364208/CuestionarioenteroADVO-Lfinal_LAVJDSERVN_154AB89SD658.pdf/7111911e-8ee4-f31c-69ae-ff789f278fe5
+2024	enlace	Plantilla provisional de respuestas: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/2364208/PlantillarespuestasextraordinarioADVO-L_Z570A1Y4LM_154AB89SD658.pdf/7df9c83c-6b32-c83d-0f7e-9e15cf783480
+2024	enlace	Nota informativa sobre la presentación de alegaciones	https://sede.inap.gob.es/documents/59312/2364208/2025_02_10_Notainformativaalegacionesextraordinario_IY1K5Q19JG_154AB89SD658.pdf/e6eb474d-d38c-3dae-eaac-a07df4b4f7f3
+2024	enlace	Resolución por la que se aprueba la relación de opositores que han superado el ejercicio único	https://sede.inap.gob.es/documents/59312/2364208/report_ResolucinsuperanprimerejercicioADVO-L_N7TAMRSUX3_154AB89SD658.pdf/9a88d8ea-3ab8-f608-c94e-328e571b1caf
+2024	enlace	Acceso General	https://sede.inap.gob.es/documents/59312/2364208/1-ADVO-L-DM-SUP_GEN_TWRCD03M0Y_154AB89SD658.pdf/1a2015b5-805a-fac4-9626-4ebb9dc1e91b
+2024	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2364208/1-ADVO-L-DM-SUP_CRD_K0FG9LTE7D_154AB89SD658.pdf/74acfc23-8ec9-53b6-943f-ffc8c25659fc
+2024	enlace	Plantilla definitiva modelo A	https://sede.inap.gob.es/documents/59312/2364208/Plantilla+definitiva+respuestas+ADVO-L-MODELO+A.pdf/538c02dc-891b-e5b4-07f5-ca94ac4495ff
+2024	enlace	Plantilla definitiva modelo B	https://sede.inap.gob.es/documents/59312/2364208/Plantilla+definitiva+respuestas+ADVO-L-MODELO+B.pdf/d199bcc3-573c-3582-72e5-b04383884c0b
+2024	enlace	Plantilla definitiva llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2364208/Plantilla+DEFINITIVA+extraordinario+ADVO-L.pdf/37ce6548-47dc-fecd-082a-ac4f3edfecb6
+2024	enlace	Nota informativa puntuaciones mínimas	https://sede.inap.gob.es/documents/59312/2364208/PUNTUACIONESMINIMASEJERUNICOADVOLI_I1IGNLSO5O_154AB89SD658.pdf/e256091b-6d78-3018-4a13-cde0c99677dc
+2024	enlace	Nota informativa:	https://sede.inap.gob.es/documents/59312/2364268/Nota+informativa+F%C3%B3rmula+Transformada.pdf/b9f32071-ea95-e408-85cf-7af976608917
+2024	enlace	Resolución de 12 de mayo de 2025, de la Secretaría de Estado de Función Pública,	https://www.boe.es/boe/dias/2025/05/19/pdfs/BOE-A-2025-9840.pdf
+2024	enlace	Resolución de 26 de mayo de 2025, de la Secretaría de Estado de Función Pública	https://www.boe.es/boe/dias/2025/05/30/pdfs/BOE-A-2025-10703.pdf
+2024	enlace	Resolución de 10 de octubre de 2025, de la Secretaría de Estado de Función Pública	https://sede.inap.gob.es/sites/sede/files/public/2025-10/BOE-A-2025-20600_OVCBNS2IHS_154AB89SD658.pdf
+2024	enlace		https://sede.inap.gob.es/home
+2024	enlace	Inicio	https://sede.inap.gob.es/es
+2024	enlace	Portal Web INAP	https://www.inap.es/es/inicio
+2024	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2024	enlace	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
+2024	enlace	Notificaciones electrónicas	https://dehu.redsara.es/
+2024	enlace	Registro electrónico	https://reg.redsara.es/
+2024	enlace	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2024	enlace	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
+2024	enlace	Tramites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
+2024	enlace	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
+2024	enlace	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
+2024	enlace	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado0
+2024	enlace	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
+2024	enlace	Información de la sede	https://sede.inap.gob.es/es/informacion-de-la-sede
+2024	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2024	enlace	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
+2024	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2024	enlace	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
+2024	enlace	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
+2024	enlace	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
+2024	enlace	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
+2024	enlace	Portal de Transparencia	https://transparencia.gob.es/
+2024	enlace	BOE	https://www.boe.es/
+2024	enlace	La Administración al Día	https://laadministracionaldia.inap.es/
+2024	enlace	Ministerio para la Transformación Digital y de la Función Pública	https://digital.gob.es/index.html
+2024	enlace	Punto de Acceso General	https://administracion.gob.es/
+2024	enlace	Perfil del contratante	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
+2024	enlace		https://twitter.com/INAP_ES
+2024	enlace		https://www.facebook.com/inap.es
+2024	enlace		https://es.linkedin.com/company/instituto-nacional-administracion-publica
+2024	enlace		https://www.youtube.com/channel/UCvjvyMsqqXgVVGH5lf-sfvA
+2024	enlace	Aviso Legal	https://sede.inap.gob.es/es/aviso-legal
+2024	enlace	Política de cookies	https://sede.inap.gob.es/es/politica-de-cookies
+2024	enlace	Protección de datos personales	https://sede.inap.gob.es/es/proteccion-de-datos-personales
+2024	enlace	Declaración de Accesibilidad	https://sede.inap.gob.es/es/accesibilidad
+2024	enlace	Mapa Web	https://sede.inap.gob.es/es/mapa-web
+2024	DESCARGADO	Cuestionario modelo A.	https://sede.inap.gob.es/documents/59312/2364208/CuestionarioADVO-L_MODELOA_G7O7MWEZHI_154AB89SD658.pdf/5ebc9e09-b6f6-5cef-1cfa-478217f04e86	324323 bytes
+2024	DESCARGADO	Cuestionario modelo B.	https://sede.inap.gob.es/documents/59312/2364208/CuestionarioADVO-L_MODELOB_LP3KJYO2EH_154AB89SD658.pdf/78c9ae84-d4ae-7854-f107-2c6dab288836	324402 bytes
+2024	DESCARGADO	Plantilla provisional modelo A.	https://sede.inap.gob.es/documents/59312/2364208/PlantillarespuestasADVO-L-MODELOA_9IYN7Z5KQG_154AB89SD658.pdf/47062897-1ba4-6053-d9ce-e5cf53387f8a	131588 bytes
+2024	DESCARGADO	Plantilla provisional modelo B.	https://sede.inap.gob.es/documents/59312/2364208/PlantillarespuestasADVO-L-MODELOB_XHIQC7K55C_154AB89SD658.pdf/41fcedee-b61e-7a8d-f698-218926a4cf8a	127258 bytes
+2024	DESCARGADO	Nota informativa sobre la presentación de alegaciones a las plantillas correctoras provisionales.	https://sede.inap.gob.es/documents/59312/2364152/Notainformativaalegaciones_AOL0DI676V_154AB89SD658.pdf/310bd285-4424-9276-ca2d-9ca31be0a477	132143 bytes
+2024	DESCARGADO	Cuestionario: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/2364208/CuestionarioenteroADVO-Lfinal_LAVJDSERVN_154AB89SD658.pdf/7111911e-8ee4-f31c-69ae-ff789f278fe5	314506 bytes
+2024	DESCARGADO	Plantilla provisional de respuestas: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/2364208/PlantillarespuestasextraordinarioADVO-L_Z570A1Y4LM_154AB89SD658.pdf/7df9c83c-6b32-c83d-0f7e-9e15cf783480	129360 bytes
+2024	DESCARGADO	Plantilla definitiva modelo A	https://sede.inap.gob.es/documents/59312/2364208/Plantilla+definitiva+respuestas+ADVO-L-MODELO+A.pdf/538c02dc-891b-e5b4-07f5-ca94ac4495ff	91054 bytes
+2024	DESCARGADO	Plantilla definitiva modelo B	https://sede.inap.gob.es/documents/59312/2364208/Plantilla+definitiva+respuestas+ADVO-L-MODELO+B.pdf/d199bcc3-573c-3582-72e5-b04383884c0b	88975 bytes
+2024	DESCARGADO	Plantilla definitiva llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2364208/Plantilla+DEFINITIVA+extraordinario+ADVO-L.pdf/37ce6548-47dc-fecd-082a-ac4f3edfecb6	86047 bytes
+2021-2022	enlace		https://digital.sede.gob.es/
+2021-2022	enlace		https://www.inap.es
+2021-2022	enlace	Sede Electrónica Instituto Nacional de la Administración Pública	https://sede.inap.gob.es/es
+2021-2022	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2021-2022	enlace	Perfil del contratante	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
+2021-2022	enlace	Trámite "Presentación de quejas, sugerencias y solicitudes en el INAP"	https://sede.inap.gob.es/es/presentacion-de-solicitudes-en-el-inap
+2021-2022	enlace	Trámites para aspirantes	https://sede.inap.gob.es/es/tramites-para-opositores
+2021-2022	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2021-2022	enlace	Acceda a todos los trámites y servicios del INAP	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2021-2022	enlace	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
+2021-2022	enlace	Trámites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
+2021-2022	enlace	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
+2021-2022	enlace	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
+2021-2022	enlace	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado
+2021-2022	enlace	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
+2021-2022	enlace	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
+2021-2022	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2021-2022	enlace	Acceda a toda la información	https://sede.inap.gob.es/es/informacion-de-la-sede
+2021-2022	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2021-2022	enlace	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
+2021-2022	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2021-2022	enlace	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
+2021-2022	enlace	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
+2021-2022	enlace	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
+2021-2022	enlace	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
+2021-2022	enlace	Contactar	https://sede.inap.gob.es/es/contactar
+2021-2022	enlace	Acceso al Registro Electrónico General	https://reg.redsara.es/
+2021-2022	enlace	Acceso a Mis Expedientes	https://sede.inap.gob.es/es/consulta-de-expedientes-en-el-inap
+2021-2022	enlace	Acceso a DEHú	https://dehu.redsara.es/
+2021-2022	enlace	Acceso a Carpeta Ciudadana	https://carpetaciudadana.gob.es/
+2021-2022	enlace	Licitaciones INAP	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
+2021-2022	enlace	Plataforma Contratación del Sector Público	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
+2021-2022	enlace	Inicio	https://sede.inap.gob.es/
+2021-2022	enlace	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2021-2022	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2021-2022	enlace	Procesos selectivos de cuerpos y escalas generales	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales
+2021-2022	enlace	Cuerpo General Administrativo de la Administración del Estado	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado
+2021-2022	enlace	Volver a Cuerpo general administrativo de la administracion del estado	https://sede.inap.gob.es/cuerpo-general-administrativo-de-la-administracion-del-estado
+2021-2022	enlace	Escuchar	https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7939&lang=es_es&readid=inap__richText&readclass=node__content&url=https%3A%2F%2Fsede.inap.gob.es%2Fes%2Fprocedimientos-y-servicios%2Fseleccion%2Fprocesos-selectivos-de-cuerpos-y-escalas-generales%2Fcuerpo-general-administrativo-de-la-administracion-del-estado%2Fcgaade-ingreso-libre-oferta-de-empleo-publico-2021-y-2022
+2021-2022	enlace	Resolución de 20 de enero de 2023	https://www.boe.es/boe/dias/2023/01/27/pdfs/BOE-A-2023-2175.pdf
+2021-2022	enlace	Bases	https://sede.inap.gob.es/documents/59312/2194819/BasesEspecificas_SV2ISR4BUL_154AB89SD658.pdf/2f273768-bf66-ef24-a58e-b59c3a1b455d
+2021-2022	enlace	Normas específicas	https://sede.inap.gob.es/documents/59312/2194819/04_ANEXO_IV_VF_ADVO_LI_KJ6U3Y611S_154AB89SD658.pdf/f71a54f6-fdde-e99d-6dff-c9ff360a69f5
+2021-2022	enlace	Inscripciones	https://administracion.gob.es/PAG/ips
+2021-2022	enlace	Nota informativa: Ampliación plazo de presentación de solicitudes	https://sede.inap.gob.es/documents/10136/1712229/NOTA+INFORMATIVA+AMPLIACION+PLAZO+INSCRIPCION.pdf/a818d2e2-f73b-af16-146b-857e37ba0f27
+2021-2022	enlace	Resolución de 1 de marzo de 2023	https://www.boe.es/boe/dias/2023/03/03/pdfs/BOE-A-2023-5593.pdf
+2021-2022	enlace	Nota informativa sobre los listados de admitidos y excluidos.	https://sede.inap.gob.es/documents/59312/2194819/Nota+Informativa+Busqueda+Opositores+Listados.pdf/67fb44e4-78f4-9e0f-5a28-61e5012c9273
+2021-2022	enlace	Resolución de 18 de mayo de 2023	https://www.boe.es/boe/dias/2023/05/22/pdfs/BOE-A-2023-11959.pdf
+2021-2022	enlace	Fecha y lugar del ejercicio.	https://sede.inap.gob.es/documents/59312/2194819/FECHAYLUGAR26-ANEXOXIII_HZXO0RXPM6_154AB89SD658.pdf/06623bbc-ccd0-f425-b4a6-c8ca50bc00bd
+2021-2022	enlace	Acceso General	https://sede.inap.gob.es/documents/59312/2194819/AD-L-ADM-PROVIS-SA-ALF_GE_12AJEI9Q7Z_154AB89SD658.pdf/f7626ce6-8570-ae98-7be7-17aee686ec38
+2021-2022	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2194819/AD-L-ADM-PROVIS-SA-ALF_CRD_YO8CEUGSME_154AB89SD658.pdf/34bdcaca-5e5d-01b1-d15e-d4e8ed6f27c1
+2021-2022	enlace	Listado provisional de excluidos	https://sede.inap.gob.es/documents/59312/2194819/AD-L-EXC-PROVIS-BOE_AU593IF9P5_154AB89SD658.pdf/88bf5615-1751-3db6-3c3c-20ddebb5ce2b
+2021-2022	enlace	Causas de exclusión	https://sede.inap.gob.es/documents/59312/2194819/04-CausasdeexclusinANEXOIVADVO-L_CME2T0FXU6_154AB89SD658.pdf/06680cb8-9ec0-ae8f-3d06-0e89c7e4a9cb
+2021-2022	enlace	Instrucciones generales para la subsanación	https://sede.inap.gob.es/documents/59312/2194819/INSTRUCCIONESSUBSANACIONCPSOEP2020-2021-2022_MFNC5YFCGC_154AB89SD658.pdf/0e8cb4b2-3b7e-9788-cf09-6a5027eed83e
+2021-2022	enlace	Resolución del Instituto Nacional de Administración Pública,	https://sede.inap.gob.es/documents/59312/2194819/report_RESOLUCION+DEFINITIVA+ADMITIDOS+Y+EXCLUIDOS.pdf/e0ecbb8a-675c-4ca6-de90-1c5501dcb0b8
+2021-2022	enlace	Acceso General.	https://sede.inap.gob.es/documents/59312/2194819/AD_L_GE_X5200INXLZ_154AB89SD658.pdf/a7514514-3a86-b373-ec6d-fc8ba58ba07a
+2021-2022	enlace	Cupo Base Específica 5.	https://sede.inap.gob.es/documents/59312/2194819/AD_L_CRD_IH4J3W2RZ4_154AB89SD658.pdf/24e6c033-b149-b122-df5d-744bc259c4fd
+2021-2022	enlace	Listado definitivo de excluidos.	https://sede.inap.gob.es/documents/59312/2194819/AD-L-EXC_19QKHFXKXV_154AB89SD658.pdf/3716d7d7-6200-5be5-812c-7d80bfdac2b6
+2021-2022	enlace	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/documents/59312/2194895/report_CorreccinerroresResolucin_7MN8SQDTDE_154AB89SD658.pdf/fbb7ea9e-7379-1117-566e-047b35c381bf
+2021-2022	enlace	A Coruña	https://sede.inap.gob.es/documents/59312/2194819/A+CORU%C3%91A_ADM-L_0X7VLC3I0D_154AB89SD658.pdf/57d3981a-794a-dd01-1a60-f5f234320710
+2021-2022	enlace	Alicante	https://sede.inap.gob.es/documents/59312/2194819/ALICANTEADTVOLIBRELIBREAULARIOI_2023_PB_P1__68F52ZV7JR_154AB89SD658.pdf/dc5014a6-bcc7-0aeb-3acd-316c20424f62
+2021-2022	enlace	Asturias	https://sede.inap.gob.es/documents/59312/2194819/ASTURIAS_04_ADM-L_WRZ8QFLLN5_154AB89SD658.pdf/6ab587e5-4e16-68b5-56ff-cdf387375356
+2021-2022	enlace	Badajoz	https://sede.inap.gob.es/documents/59312/2194819/BADAJOZ_ADVO_LIBRE_629X835FQY_154AB89SD658.pdf/fb66b559-6f90-14ab-bc00-f533129614a2
+2021-2022	enlace	Barcelona	https://sede.inap.gob.es/documents/59312/2194819/ADTVO-L-CRD-GE-17-09-2023DNIANONIMO_DWAY1J3JU5_154AB89SD658.pdf/9111c3a0-18f9-b53b-de3d-ae2d9b6cf229
+2021-2022	enlace	Plano acceso	https://sede.inap.gob.es/documents/59312/2194839/FACULTADECONOMIAYEMPUBEDIFICIOS690Y696DOMINGO17-09-2023ADVO-TAI_KMV2PFPDZI_154AB89SD658.pdf/7f0d1d42-7066-d69c-9643-10ed49a98c41
+2021-2022	enlace	Cádiz	https://sede.inap.gob.es/documents/59312/2194819/CADIZ_ADVO_L_GENERALYCRD_WFPM972E37_154AB89SD658.pdf/e3dda05e-f226-a0e5-6f79-26d2c924bbad
+2021-2022	enlace	Córdoba	https://sede.inap.gob.es/documents/59312/2194819/CORDOBA_ADVO-L_2J702XX27T_154AB89SD658.pdf/d46bc205-fbd7-cdd6-9098-34b96e476c6d
+2021-2022	enlace	Granada	https://sede.inap.gob.es/documents/59312/2194819/GRANADAADTVOLGE_PDAUS0P91C_154AB89SD658.pdf/65caaf9d-bb63-036d-a3d9-de52dbf9586b
+2021-2022	enlace	General	https://sede.inap.gob.es/documents/59312/2194819/AD_L_ILLESBALEARS_6KDWCVSTKX_154AB89SD658.pdf/89a78a20-555d-e289-6895-d148a92bfe66
+2021-2022	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2194819/AD_L_CRD_ILLESBALEARS_RXN9R7EV9E_154AB89SD658.pdf/2b1510c8-7c62-89f2-a7fa-ab5c1e99c613
+2021-2022	enlace	General	https://sede.inap.gob.es/documents/59312/2194819/LASPALMAS_ADMINISTRATIVOTURNOLIBRE_6QIVT4ERIL_154AB89SD658.pdf/ce3eb64e-b081-3565-fcf3-d9e6fabcdb54
+2021-2022	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2194819/LASPALMAS_ADVO_L_CUPO5_KJAI4BWTC4_154AB89SD658.pdf/56cfe669-ad05-ce3a-58eb-02aea02e46ca
+2021-2022	enlace	Nota informativa AULARIO	https://sede.inap.gob.es/documents/59312/2194819/Nota+informativa+sobre+el+aulario.pdf/2823d1d5-1d65-960e-d67c-b6d1039eb18d
+2021-2022	enlace	Madrid	https://sede.inap.gob.es/documents/59312/2194819/MADRID_ADVO_L_GNRCLF91A4_154AB89SD658.pdf/ca41a896-ae5f-d2b0-c450-eb0333503bff
+2021-2022	enlace	Málaga	https://sede.inap.gob.es/documents/59312/2194819/MALAGA_DistribucinporaulasADVO-Lpdf_TO1S3ZRY88_154AB89SD658.pdf/ca98edb2-a7fd-3573-003e-c4e06f7e5089
+2021-2022	enlace	Plano acceso	https://sede.inap.gob.es/documents/59312/2194819/MALAGA_PlanoAmpUMAconUniversidadessealadas2_L31XGDRXA1_154AB89SD658.pdf/8360882f-f733-f9b2-1787-6c0fdb0835f1
+2021-2022	enlace	Murcia	https://sede.inap.gob.es/documents/59312/2194819/AD_L_MURCIA_DIDZMSLN21_154AB89SD658.pdf/dc269f4b-d704-09cc-46e8-0e572a9da7bc
+2021-2022	enlace	Pontevedra	https://sede.inap.gob.es/documents/59312/2194819/PontevedraAD-L_CCFX8CHM35_154AB89SD658.pdf/615cee81-1679-63b9-e387-793405b2b652
+2021-2022	enlace	General	https://sede.inap.gob.es/documents/59312/2194819/SEVILLAADMTVO-LI-GE_14RSP9L3E7_154AB89SD658.pdf/0caf2495-b515-635d-6a06-a951d8995aad
+2021-2022	enlace	Cupo Base Específica 5.	https://sede.inap.gob.es/documents/59312/2194819/SEVILLAADMTVO-LI-CDR_N53EMCJNK6_154AB89SD658.pdf/c092e498-a89b-634d-da9f-5ecd785bb6de
+2021-2022	enlace	Santa Cruz de Tenerife	https://sede.inap.gob.es/documents/59312/2194819/SCTENERIFE_DistribucinopositoresAdtvoFECONOMIAyDERECHO_IYTFCNWOPP_154AB89SD658.pdf/99675413-909c-02c5-e71e-64bcc87af1d0
+2021-2022	enlace	General	https://sede.inap.gob.es/documents/59312/2194819/TOLEDOADMTVOLIBRECUPOGENERALSINDNICOMPLETO_HH2QXJMW9E_154AB89SD658.pdf/d80182af-00f5-d8f5-fb52-727ef15aef05
+2021-2022	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2194819/TOLEDOADMTVOLIBRECUPODISCAPACITADOSSINDNICOMPLETO_HFO85XTCV7_154AB89SD658.pdf/a289b2b5-3475-2074-143e-5837782057d7
+2021-2022	enlace	Plano acceso aulas.	https://sede.inap.gob.es/documents/59312/2194819/IESUNIVERSIDADLABORAL_DOMINGO17SEP_SC7W3P4STT_154AB89SD658.pdf/8e515fd1-f1e9-7d40-b90c-b72795d56790
+2021-2022	enlace	Plano acceso IES Universidad Laboral.	https://sede.inap.gob.es/documents/59312/2194819/CROQUISDEACCESOAPABELLONESPUERTASYAULASDEIESUNIVERSIDADLABORALTOLEDO_JP85J7MQSJ_154AB89SD658.pdf/6192827b-7394-daa9-e3da-16e52a5e1ce1
+2021-2022	enlace	Plano acceso aulas	https://sede.inap.gob.es/documents/59312/2194819/IESELGRECO_DOMINGO17SEP_4M3E50XS6Z_154AB89SD658.pdf/5d4ced0c-556c-b374-c5f6-c4f653a889d1
+2021-2022	enlace	Plano acceso IES El Greco	https://sede.inap.gob.es/documents/59312/2194819/CROQUISIESELGRECOACCESOSAPABELLONES_WP8W4OBALH_154AB89SD658.pdf/464786f4-f6a7-2555-3d95-0b0442831d85
+2021-2022	enlace	Valencia	https://sede.inap.gob.es/documents/59312/2194819/Valencia_DISTR_OPO_ADVO-L_AH6GCKYXVF_154AB89SD658.pdf/fb3b2955-9ccf-7d9c-2151-1dba8efa2c4c
+2021-2022	enlace	Valladolid	https://sede.inap.gob.es/documents/59312/2194819/VALLADOLID_ADVOLI_NXP5ZY38WQ_154AB89SD658.pdf/aaf91a8b-8ada-4670-1cb8-94d8b5dc8752
+2021-2022	enlace	Facultad Educación.	https://sede.inap.gob.es/documents/59312/2194819/VITORIA_ADVO-LEducacion_MHQYCOQ0MJ_154AB89SD658.pdf/3aaae81b-e87a-781d-1dfc-ceb98d5e1d4d
+2021-2022	enlace	Facultad Letras	https://sede.inap.gob.es/documents/59312/2194819/VITORIA_ADVO-Lletras_VOQBLE19YD_154AB89SD658.pdf/c49320ed-97df-efb3-c34a-2a1e79715e89
+2021-2022	enlace	Facultad RR.LL.	https://sede.inap.gob.es/documents/59312/2194819/VITORIA_ADVO-LRRLL_CJS3ERH1SY_154AB89SD658.pdf/f6051370-1458-b050-0a1a-0067223d18c4
+2021-2022	enlace	Zaragoza	https://sede.inap.gob.es/documents/59312/2194819/Distribucin_ADVO-L_ZARAGOZAdocx_2SCU4TNG5W_154AB89SD658.pdf/7e5695b5-e1a8-c400-9e62-9016acdbeca7
+2021-2022	enlace	Nota informativa de la Comisión Permanente de Selección:	https://sede.inap.gob.es/documents/59312/2194819/notainformativatransporte_XH6AH1TFCC_154AB89SD658.pdf/68bbf902-0588-691b-6040-62121aecb7e3
+2021-2022	enlace	Nota informativa de acceso a Facultades (ampliación)	https://sede.inap.gob.es/documents/59312/2194801/Nota+informativa+transporte+2.2.pdf/dfcb8c62-4277-571e-73a3-7f98cb17cdb1
+2021-2022	enlace	Criterios de corrección, valoración y superación	https://sede.inap.gob.es/documents/59312/2194819/ADVO+LI+2023.pdf/20af72ee-f699-82bc-4dfd-019c6b6bd30d
+2021-2022	enlace	Nota informativa: cronograma	https://sede.inap.gob.es/documents/59312/2194819/NOTA+DE+LA+COMISI%C3%93N+PERMANENTE+DE+SELECCI%C3%93N.CRONOGRAMA.pdf/c910efdd-98b2-3101-bbe0-5d2412ac01b3
+2021-2022	enlace	Cuestionario	https://sede.inap.gob.es/documents/59312/2194819/ADVO-LI.pdf/8cc99bfc-217a-fd50-27e5-00e309f6f3e9
+2021-2022	enlace	Plantilla provisional de respuestas	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-Libre.pdf/ae9eab64-ea9d-c26f-01f2-f7abd1bff57f
+2021-2022	enlace	Nota informativa sobre la presentación de alegaciones a las plantillas correctoras provisionales	https://sede.inap.gob.es/documents/59312/2194839/Nota+informativa+alegaciones.pdf/7dc29c55-5ee2-2878-9221-809664b36574
+2021-2022	enlace	Nota informativa sobre la presentación de alegaciones: incidencia	https://sede.inap.gob.es/documents/59312/2194801/Nota+informativa+alegaciones+Errores.pdf/e47df621-b81f-41b4-6492-1212bc3a7b03
+2021-2022	enlace	Nota informativa sobre la presentación de alegaciones:	https://sede.inap.gob.es/documents/59312/2194932/Notainformativaalegacionescorrecionerrores_V46A6AAIW0_154AB89SD658.pdf/d571d446-8f03-02b1-697d-0bf151a7bc04
+2021-2022	enlace	Datos provisionales de presentados a las pruebas selectivas	https://sede.inap.gob.es/documents/59312/2194801/Presentados+totales.pdf/21355738-dc03-e5fb-6b99-5025fe982b89
+2021-2022	enlace	Datos provisionales de presentados:	https://sede.inap.gob.es/documents/59312/2194895/Presentadostotales_XNMRX57Z1Z_154AB89SD658.pdf/f51a2929-38bc-1067-fb1e-23cf1e767752
+2021-2022	enlace	Resolución por la que se publica el llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2194765/RESOLUCIONCONJUNTAEXTRAORDINARIOS_firmada_Y98AS0L1MC_154AB89SD658.pdf/8611844e-9bba-528f-cd2b-9515bccf5af0
+2021-2022	enlace	Cuestionario: llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2194819/Cuestionario+Admtvo+extra+octubre+def.pdf/65dd3027-2575-ff52-4faa-a1e39058c182
+2021-2022	enlace	Plantilla provisional de respuestas: llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-L.pdf/4591874e-3dbe-af9a-43f7-068cad7dc8e1
+2021-2022	enlace	Nota informativa: cronograma	https://sede.inap.gob.es/documents/59312/2194801/NOTA+DE+LA+COMISI%C3%93N+PERMANENTE+DE+SELECCI%C3%93N.CRONOGRAMA.2.1.pdf/601f3510-1781-3782-d1d4-639d858afb0f
+2021-2022	enlace	Datos provisionales de presentados	https://sede.inap.gob.es/documents/59312/2194932/Presentados+totales+v4.pdf/7bcfb0f2-e18b-b7b3-f19c-e124558b6fe5
+2021-2022	enlace	Nota informativa: cronograma	https://sede.inap.gob.es/documents/59312/2194932/NOTA+DE+LA+COMISI%C3%93N+PERMANENTE+DE+SELECCI%C3%93N.CRONOGRAMA.3.pdf/fe4ea3c9-cf89-7660-2bb8-334f9fa8925b
+2021-2022	enlace	Resolución por la que se aprueba la relación de opositores que han superado el ejercicio único	https://sede.inap.gob.es/documents/59312/2194819/Resoluci%C3%B3n+superan+primer+ejercicio+ADVO-L.pdf/37cbbb1d-7578-cb49-89bf-ae45c38daaad
+2021-2022	enlace	Acceso General	https://sede.inap.gob.es/documents/59312/2194819/1-AD-L-DM-SUP_GE_0LFZF2GJ11_154AB89SD658.pdf/77007987-f613-5937-3964-74536c7c1e8b
+2021-2022	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/2194819/1-AD-L-DM-SUP_CRD_P8G3KY8TGN_154AB89SD658.pdf/12bc49b3-c3ee-55da-37df-852c9157dd3a
+2021-2022	enlace	Plantilla definitiva de respuestas	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-L+ORDINARIO.pdf/580d18ea-3ad6-7405-10b2-73d849e585a4
+2021-2022	enlace	Plantilla definitiva de respuestas:	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-L+EXTRAORDINARIO.pdf/98f76780-5717-f621-0928-f2ef1ffad5ca
+2021-2022	enlace	Nota informativa puntuaciones mínimas	https://sede.inap.gob.es/documents/59312/2194819/PUNTUACIONES+MINIMAS+EJERCICIO+UNICO+ADVO+LI.pdf/1c8c1078-0831-052a-2da0-5f3f344c0d06
+2021-2022	enlace	Nota informativa: fórmula de transformación de puntuaciones directas en calificaciones	https://sede.inap.gob.es/documents/59312/2194819/Nota+informativa+F%C3%B3rmula+Transformada.pdf/40e17542-a150-2ee9-0d21-b0ccc09d5b76
+2021-2022	enlace	Resolución de la Secretaría de Estado de Función Pública	https://boe.es/boe/dias/2024/03/19/pdfs/BOE-A-2024-5414.pdf
+2021-2022	enlace	Resolución de 20 de marzo de 2024	https://boe.es/boe/dias/2024/03/22/pdfs/BOE-A-2024-5757.pdf
+2021-2022	enlace	Desglose para aplicación de desempates	https://sede.inap.gob.es/documents/59312/2194819/2-AD-L-DAPS-PT_20240320_WEB_6BMFNKU22D_154AB89SD658.pdf/bd22c6d3-d04c-8369-d8fe-e666e39fc6ee
+2021-2022	enlace	Resolución de 3 de julio de 2024,	https://www.boe.es/boe/dias/2024/07/09/pdfs/BOE-A-2024-14013.pdf
+2021-2022	enlace	Resolución de 1 de octubre de 2024,	https://www.boe.es/boe/dias/2024/10/11/pdfs/BOE-A-2024-20791.pdf
+2021-2022	enlace		https://sede.inap.gob.es/home
+2021-2022	enlace	Inicio	https://sede.inap.gob.es/es
+2021-2022	enlace	Portal Web INAP	https://www.inap.es/es/inicio
+2021-2022	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2021-2022	enlace	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
+2021-2022	enlace	Notificaciones electrónicas	https://dehu.redsara.es/
+2021-2022	enlace	Registro electrónico	https://reg.redsara.es/
+2021-2022	enlace	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2021-2022	enlace	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
+2021-2022	enlace	Tramites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
+2021-2022	enlace	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
+2021-2022	enlace	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
+2021-2022	enlace	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado0
+2021-2022	enlace	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
+2021-2022	enlace	Información de la sede	https://sede.inap.gob.es/es/informacion-de-la-sede
+2021-2022	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2021-2022	enlace	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
+2021-2022	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2021-2022	enlace	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
+2021-2022	enlace	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
+2021-2022	enlace	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
+2021-2022	enlace	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
+2021-2022	enlace	Portal de Transparencia	https://transparencia.gob.es/
+2021-2022	enlace	BOE	https://www.boe.es/
+2021-2022	enlace	La Administración al Día	https://laadministracionaldia.inap.es/
+2021-2022	enlace	Ministerio para la Transformación Digital y de la Función Pública	https://digital.gob.es/index.html
+2021-2022	enlace	Punto de Acceso General	https://administracion.gob.es/
+2021-2022	enlace	Perfil del contratante	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
+2021-2022	enlace		https://twitter.com/INAP_ES
+2021-2022	enlace		https://www.facebook.com/inap.es
+2021-2022	enlace		https://es.linkedin.com/company/instituto-nacional-administracion-publica
+2021-2022	enlace		https://www.youtube.com/channel/UCvjvyMsqqXgVVGH5lf-sfvA
+2021-2022	enlace	Aviso Legal	https://sede.inap.gob.es/es/aviso-legal
+2021-2022	enlace	Política de cookies	https://sede.inap.gob.es/es/politica-de-cookies
+2021-2022	enlace	Protección de datos personales	https://sede.inap.gob.es/es/proteccion-de-datos-personales
+2021-2022	enlace	Declaración de Accesibilidad	https://sede.inap.gob.es/es/accesibilidad
+2021-2022	enlace	Mapa Web	https://sede.inap.gob.es/es/mapa-web
+2021-2022	DESCARGADO	Cuestionario	https://sede.inap.gob.es/documents/59312/2194819/ADVO-LI.pdf/8cc99bfc-217a-fd50-27e5-00e309f6f3e9	327726 bytes
+2021-2022	DESCARGADO	Plantilla provisional de respuestas	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-Libre.pdf/ae9eab64-ea9d-c26f-01f2-f7abd1bff57f	194385 bytes
+2021-2022	DESCARGADO	Nota informativa sobre la presentación de alegaciones a las plantillas correctoras provisionales	https://sede.inap.gob.es/documents/59312/2194839/Nota+informativa+alegaciones.pdf/7dc29c55-5ee2-2878-9221-809664b36574	134615 bytes
+2021-2022	DESCARGADO	Cuestionario: llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2194819/Cuestionario+Admtvo+extra+octubre+def.pdf/65dd3027-2575-ff52-4faa-a1e39058c182	404880 bytes
+2021-2022	DESCARGADO	Plantilla provisional de respuestas: llamamiento extraordinario	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-L.pdf/4591874e-3dbe-af9a-43f7-068cad7dc8e1	97050 bytes
+2021-2022	DESCARGADO	Plantilla definitiva de respuestas	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-L+ORDINARIO.pdf/580d18ea-3ad6-7405-10b2-73d849e585a4	102198 bytes
+2021-2022	DESCARGADO	Plantilla definitiva de respuestas:	https://sede.inap.gob.es/documents/59312/2194819/Plantilla+respuestas+ADVO-L+EXTRAORDINARIO.pdf/98f76780-5717-f621-0928-f2ef1ffad5ca	100082 bytes
+2020	enlace		https://digital.sede.gob.es/
+2020	enlace		https://www.inap.es
+2020	enlace	Sede Electrónica Instituto Nacional de la Administración Pública	https://sede.inap.gob.es/es
+2020	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2020	enlace	Perfil del contratante	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
+2020	enlace	Trámite "Presentación de quejas, sugerencias y solicitudes en el INAP"	https://sede.inap.gob.es/es/presentacion-de-solicitudes-en-el-inap
+2020	enlace	Trámites para aspirantes	https://sede.inap.gob.es/es/tramites-para-opositores
+2020	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2020	enlace	Acceda a todos los trámites y servicios del INAP	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2020	enlace	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
+2020	enlace	Trámites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
+2020	enlace	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
+2020	enlace	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
+2020	enlace	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado
+2020	enlace	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
+2020	enlace	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
+2020	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2020	enlace	Acceda a toda la información	https://sede.inap.gob.es/es/informacion-de-la-sede
+2020	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2020	enlace	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
+2020	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2020	enlace	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
+2020	enlace	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
+2020	enlace	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
+2020	enlace	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
+2020	enlace	Contactar	https://sede.inap.gob.es/es/contactar
+2020	enlace	Acceso al Registro Electrónico General	https://reg.redsara.es/
+2020	enlace	Acceso a Mis Expedientes	https://sede.inap.gob.es/es/consulta-de-expedientes-en-el-inap
+2020	enlace	Acceso a DEHú	https://dehu.redsara.es/
+2020	enlace	Acceso a Carpeta Ciudadana	https://carpetaciudadana.gob.es/
+2020	enlace	Licitaciones INAP	https://sede.inap.gob.es/es/informacion-sobre-licitaciones
+2020	enlace	Plataforma Contratación del Sector Público	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
+2020	enlace	Inicio	https://sede.inap.gob.es/
+2020	enlace	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2020	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2020	enlace	Procesos selectivos de cuerpos y escalas generales	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales
+2020	enlace	Cuerpo General Administrativo de la Administración del Estado	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado
+2020	enlace	Volver a Cuerpo general administrativo de la administracion del estado	https://sede.inap.gob.es/cuerpo-general-administrativo-de-la-administracion-del-estado
+2020	enlace	Escuchar	https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7939&lang=es_es&readid=inap__richText&readclass=node__content&url=https%3A%2F%2Fsede.inap.gob.es%2Fes%2Fprocedimientos-y-servicios%2Fseleccion%2Fprocesos-selectivos-de-cuerpos-y-escalas-generales%2Fcuerpo-general-administrativo-de-la-administracion-del-estado%2Fcgaade-ingreso-libre-oferta-de-empleo-publico-2020
+2020	enlace	Resolución de 26 de mayo de 2021	https://boe.es/boe/dias/2021/05/28/pdfs/BOE-A-2021-8892.pdf
+2020	enlace	Bases	https://sede.inap.gob.es/documents/59312/1925394/BasesEspecificas.pdf/0b0c2388-b53c-4751-6e23-381179cbcd07
+2020	enlace	Normas específicas	https://sede.inap.gob.es/documents/59312/1925394/AnexoADVO-L.pdf/79de93c4-7093-7386-9052-06d9311f591d
+2020	enlace	Inscripciones	https://ips.redsara.es/IPSC/secure/buscarConvocatorias
+2020	enlace	Resolución de 24 de septiembre de 2021	https://www.boe.es/boe/dias/2021/10/01/pdfs/BOE-A-2021-15960.pdf
+2020	enlace	Lugar celebración del ejercicio.	https://sede.inap.gob.es/documents/59312/1925394/ANEXO+VI+LUGAR+CELEBRACION+PRIMER+EJERCICIO+OEP+2019.pdf/e1b63020-0f05-198c-ff77-f868a8ffd347
+2020	enlace	Acceso General.	https://sede.inap.gob.es/documents/59312/1925394/AD-L-ADM-PROVIS-SA-ALF_GE_154AB89SD658.PDF/03c61d7a-cfa2-25a8-c6a8-5e57706107a5
+2020	enlace	Cupo Base Específica 5.	https://sede.inap.gob.es/documents/59312/1925394/AD-L-ADM-PROVIS-SA-ALF_CRD_154AB89SD658.PDF/964a8b87-1acf-675f-f3ab-32a5b1430a71
+2020	enlace	Listados provisionales excluidos.	https://sede.inap.gob.es/documents/59312/1925394/AD-L-EXC-PROVIS-BOE_154AB89SD658.PDF/f1144b94-d250-894d-464c-514818bdaf10
+2020	enlace	Causas de exclusión.	https://sede.inap.gob.es/documents/59312/1925394/Causas+de+exclusi%C3%B3n+ANEXO+IV+ADVO-L.pdf/1e15439e-7288-b43c-4ed0-04ec9e36f65b
+2020	enlace	Instrucciones generales para la subsanación.	https://sede.inap.gob.es/documents/59312/1925394/INSTRUCCIONES+SUBSANACION+CPS+OEP+2019-20.2.pdf/771c0820-61d3-8790-97eb-8ff9b66ced89
+2020	enlace	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/documents/59312/1925394/RESOLUCION+DEFINITIVA+ADMITIDOS+Y+EXCLUIDOS.pdf/34bd86d8-0851-4d98-01da-2b2c052bdf4f
+2020	enlace	Acceso general	https://sede.inap.gob.es/documents/59312/1925394/AD_L_GE_154AB89SD658.pdf/99fad023-849c-2eb9-66c6-1ad1d6b10334
+2020	enlace	Cupo Base Específica 5	https://sede.inap.gob.es/documents/59312/1925394/AD_L_CRD_154AB89SD658.pdf/f2b2b758-97a9-a3d5-3ccb-cbfd8bb1b0fa
+2020	enlace	Listado definitivo de excluidos	https://sede.inap.gob.es/documents/59312/1925394/AD-L-EXC_154AB89SD658.pdf/253529ec-b1e6-e2ad-0ef8-8a9a00b635d9
+2020	enlace	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/documents/59312/1925394/RESOLUCION+modificaci%C3%B3n+DEFINITIVA+ADMITIDOS+12+febrero_154AB89SD658.pdf/d619a216-46f2-cc2a-970b-6eec11dd05c7
+2020	enlace	Resolución del Instituto Nacional de Administración Pública	https://sede.inap.gob.es/documents/59312/1925394/RESOLUCIONmodificacin2DEFINITIVAADMITIDOS12febrero_101ES7JTNZ_154AB89SD658.pdf/c665fa15-a567-cc0d-1f37-42f3399752c8
+2020	enlace	NOTA INFORMATIVA ejercicios 12 febrero 2022.	https://sede.inap.gob.es/documents/59312/1925463/NOTA_INFORMATIVA_12FEB_P640HWBJB8_154AB89SD658.pdf/04403091-c4cd-1296-a352-3f556dd189e7
+2020	enlace	Declaración responsable COVID.	https://sede.inap.gob.es/documents/59312/1925694/DeclaracinresponsableCOVID_QVJ4BINPO8_154AB89SD658.pdf/30509a35-5612-d789-e5ef-b4d7a6f50d4c
+2020	enlace	A Coruña	https://sede.inap.gob.es/documents/59312/1925394/ACORUAADV-LDISTRIBUCIONPORFACULTADAULAYPLANTA_CHODK30NUG_154AB89SD658.pdf/a53f6c32-3dc2-8cbc-4d34-c64f41b1a97a
+2020	enlace	Álava	https://sede.inap.gob.es/documents/59312/1925394/ALAVA_ADVOL_AGHTI1JT5A_154AB89SD658.pdf/aaddba47-35c8-227e-767c-0ede627bda8e
+2020	enlace	Alicante	https://sede.inap.gob.es/documents/59312/1925394/ALICANTE_ADMINISTRATIVOS_LIBRE_ALICANTE_5M9K1MVK9B_154AB89SD658.pdf/2fb8cb73-f07b-da54-2480-eb7f87acfb2f
+2020	enlace	Asturias	https://sede.inap.gob.es/documents/59312/1925394/ASTURIAS_ADMINISTRATIVO_LI_F5GO5HS244_154AB89SD658.pdf/18baff15-19d3-590a-6d71-b9791b8a72ae
+2020	enlace	Badajoz	https://sede.inap.gob.es/documents/59312/1925394/BADAJOZ_ADMINISTRATIVOSINGRESOLIBRESSEDEBADAJOZ_87D0M5RHQ1_154AB89SD658.pdf/534e76a2-8d31-0d49-0e91-8e55d3199938
+2020	enlace	Barcelona	https://sede.inap.gob.es/documents/59312/1925394/BARCELONA_AD_L_GEyCRDBARCELONALISTADOSINAP-UCL_HSZBD8J087_154AB89SD658.pdf/cd859fd8-7996-49f0-bd1c-c56711e6158d
+2020	enlace	Plano acceso.	https://sede.inap.gob.es/documents/59312/1925394/FACECON-EMPUBPLANOEDIFICIOS690y696_IBKXBCF3FA_154AB89SD658.pdf/d5c1d6a7-dd0f-3780-4dbc-693dacaebb01
+2020	enlace	Cádiz	https://sede.inap.gob.es/documents/59312/1925394/CADIZ_CGADVOLIBREGENERALYCDR_6N5HIXWZPE_154AB89SD658.pdf/2344d65f-38ec-9753-f072-541a254cfcc5
+2020	enlace	Córdoba	https://sede.inap.gob.es/documents/59312/1925394/CRDOBAADVO-L-_9ON6VIRT9H_154AB89SD658.pdf/317375c1-0192-1613-f857-c2bd74204f7f
+2020	enlace	Plano acceso.	https://sede.inap.gob.es/documents/59312/1925463/Plano_Rabanales_LTTVZ19WG5_154AB89SD658.pdf/74c04176-1828-eee7-980e-a4f2ea325411
+2020	enlace	Medios de transporte.	https://sede.inap.gob.es/documents/59312/1925500/CRDOBAtrenesespecialesdeida12defebrero_LZV0CTW809_154AB89SD658.pdf/40002767-2753-97ac-42e1-9536e152ca26
+2020	enlace	Granada	https://sede.inap.gob.es/documents/59312/1925394/GRANADA_plantilladistribucionAdministrativolibre_4YSQSK3GNB_154AB89SD658.pdf/e50b2cfd-9190-0cf1-e7c4-c0b717c94426
+2020	enlace	General	https://sede.inap.gob.es/documents/59312/1925394/BALEARES_Advo_L_distribucionaulas_HYPTAFA4ZA_154AB89SD658.pdf/d7cb16c7-30aa-5d95-98ef-f6be7a7a9e9c
+2020	enlace	Cupo base específica 5.	https://sede.inap.gob.es/documents/59312/1925394/BALEARESCRD_Advo_CRD_distribucionaulas_3SIQ9ZJEN8_154AB89SD658.pdf/02faf764-f249-680f-de61-365e7d31b31f
+2020	enlace	General	https://sede.inap.gob.es/documents/59312/1925394/LASPALMNASMODIFICADOLISTADOOPOSITORESCUERPOGENERALADMINISTRATIVOLIBRE_K04DM80IF8_154AB89SD658.pdf/d71277f4-1856-f336-501a-99b984890c2a
+2020	enlace	Cupo base específica 5.	https://sede.inap.gob.es/documents/59312/1925394/LASPALMAS_CBE5_ADMINISTRATIVOBASE5_QKGRC45HKM_154AB89SD658.pdf/65c9f4e2-68c6-86d4-b8da-d85beb2f3ce1
+2020	enlace	Plano acceso.	https://sede.inap.gob.es/documents/59312/1925394/LASPALMAS_CAMPUSTAFIRAYPROCESOSSELECTIVOS_XNB468KFDV_154AB89SD658.pdf/77faa32d-0161-304c-9427-98c9da845885
+2020	enlace	Madrid	https://sede.inap.gob.es/documents/59312/1925394/MADRID_ADVO-L_QZA1CH6NY8_154AB89SD658.pdf/56cd1b41-a4ad-0dc1-a6d8-888b95190559
+2020	enlace	Nota informativa acceso a IFEMA	https://sede.inap.gob.es/documents/59312/1925394/nota_informativa_acceso_IFEMA.pdf/e7b393ae-7fd8-e8aa-9328-ca5ffd5a5420
+2020	enlace	Málaga	https://sede.inap.gob.es/documents/59312/1925394/MALAGA_CUERPOGERNERALADMINISTRATIVODELAADMINISTRACINDELESTADO-LIBRE-ADVO-L_6QLOXYI742_154AB89SD658.pdf/7be672d8-3b5a-7b43-e70d-a5b44178d60d
+2020	enlace	Murcia	https://sede.inap.gob.es/documents/59312/1925394/MURCIA_ADVO-L_OJJWXTK8NZ_154AB89SD658.pdf/2e74ca23-b83d-2740-86ce-63edd15cd330
+2020	enlace	Pontevedra	https://sede.inap.gob.es/documents/59312/1925394/PONTEVEDRA_4PRUEBASSELECTIVASPONTEVEDRAADM-L_G9ZTU2JPO6_154AB89SD658.pdf/3fa7027c-8e1d-62cb-020b-2ee0e8e4f9ac
+2020	enlace	Sevilla	https://sede.inap.gob.es/documents/59312/1925394/SEVILLAADVO-LI_COMPLETO_9QTMRD007O_154AB89SD658.pdf/918135e6-7f27-3ce2-49f6-27d5cf4f363d
+2020	enlace	Facultad Derecho.	https://sede.inap.gob.es/documents/59312/1925394/tenerife_advoliDistribucinopositoresAdtvoFDERECHOparaWeb_YZFGBPSYHE_154AB89SD658.pdf/14a590f4-da3f-9445-dc2b-204f244dc9f4
+2020	enlace	Facultad de Economía, empresa y turismo.	https://sede.inap.gob.es/documents/59312/1925394/tenerifeadvoli2--DistribucinopositoresAdtvoFECONOMIAparaWeb_3S78056HAP_154AB89SD658.pdf/b7613aad-c0dd-0c8d-364f-a19cd4791a1c
+2020	enlace	General	https://sede.inap.gob.es/documents/59312/1925394/TOLEDO_GRAL_ADMINISTRATIVOSLIBRESACCESOGENERAL_VHBYPHPODT_154AB89SD658.pdf/14d3d6fb-f1ea-5984-c2b2-4bf67ef76315
+2020	enlace	Cupo base específica 5.	https://sede.inap.gob.es/documents/59312/1925394/TOLEDO_ADMINISTRATIVOSLIBRES_crd_7900281347_154AB89SD658.pdf/b9697f94-2dde-1291-95cb-0b7f4d5909cc
+2020	enlace	Plano acceso.	https://sede.inap.gob.es/documents/59312/1925394/CROQUISDEACCESOAAULASDEIESELGRECOTOLEDO_VRU7FWILIJ_154AB89SD658.pdf/4891700b-1cc9-fb01-9a45-a90f94ef93f4
+2020	enlace	Plano aulas	https://sede.inap.gob.es/documents/59312/1925394/CROQUISDISTRIBUCIONAULASELGRECODEFINITIVO_Y0I1KYP092_154AB89SD658.pdf/a11a7e87-5953-10a6-78d0-ede493f1a105
+2020	enlace	Valencia	https://sede.inap.gob.es/documents/59312/1925394/Valencia_DISTR_OPO_ADVO-L_O3S848Z7EU_154AB89SD658.pdf/fa95b50d-d002-7fb3-0f6b-645295486a70
+2020	enlace	Valladolid	https://sede.inap.gob.es/documents/59312/1925394/VALLADOLID_Cuerpo_ADVO_LI_GEN_CRD_TKA0D97ADN_154AB89SD658.pdf/8792327e-adf9-707b-3842-0b829f0ce7f8
+2020	enlace	Zaragoza	https://sede.inap.gob.es/documents/59312/1925394/ZARAGOZA_DistribucinADVO_L_ZARAGOZA_L6L690QUVU_154AB89SD658.pdf/b894b714-cf47-4b24-3f46-eb245486deea
+2020	enlace	Criterios de corrección, valoración y superación.	https://sede.inap.gob.es/documents/59312/1925394/13OEP2019ADVO-LI_VKW6LLHX4M_154AB89SD658.pdf/b218b8c2-d496-6338-f2b2-e3fb465f8763
+2020	enlace	Nota informativa	https://sede.inap.gob.es/documents/59312/1925394/Notaplantillasprovisionales12fEB22_BPXXTS0W6Q_154AB89SD658.pdf/2126010e-d204-4238-1702-80483b0eed2e
+2020	enlace	Cuestionario	https://sede.inap.gob.es/documents/59312/1925394/EjercicionicoADVO-L2019conportada_PWI0331PNK_154AB89SD658.pdf/debc8d55-addf-5935-1262-b83fa0783117
+2020	enlace	Plantilla provisional de respuestas	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_provisionalADVO-LEjercicionico2019_1OOJ9XN0G8_154AB89SD658.pdf/afff5703-5251-08e1-51f0-5462164ea715
+2020	enlace	Nota informativa	https://sede.inap.gob.es/documents/59312/1925394/Nota_CPS_opositores_febrero_datos_ZISDWQVS6Q_154AB89SD658.pdf/80f06377-459e-393c-2efa-69ede4b72c77
+2020	enlace	Nota informativa	https://sede.inap.gob.es/documents/59312/1925500/NOTA_INFORMATIVA_ampliacin_plazo_alegaciones_SOOCGP50VN_154AB89SD658.pdf/bd1fc7b6-5eb4-5c4c-a6c6-9a5df649b785
+2020	enlace	Resolución de la Comisión Permanente de Selección,	https://sede.inap.gob.es/documents/59312/1925394/04RESOLUCIONEXTRAORDINARIOCONJUNTADEFEBERO_THU06MH7DU_154AB89SD658.pdf/4096dd37-7461-c225-2c61-0efaa973da22
+2020	enlace	Anexo IV:	https://sede.inap.gob.es/documents/59312/1925394/044ANEXOIV_UFWD9A330Y_154AB89SD658.pdf/07769a04-d861-446b-1eba-0f950638c3e4
+2020	enlace	Distribución de opositores por aulas:	https://sede.inap.gob.es/documents/59312/1925394/ADVLDISTRIBUCIONOPOSITORES_YNM48CTCDZ_154AB89SD658.pdf/0b41e769-1609-04f7-ef4a-ec8700fcd270
+2020	enlace	Cuestionario ejercicio único: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/1925394/ExamenADVO-LExtraordinario2019_YXLP29PVHH_154AB89SD658.pdf/82ce6659-a143-a02a-513e-d6b05f07d497
+2020	enlace	Plantilla provisional de respuestas: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_provisionalADVO-LExtraordinario2019_WTKM9LIWO2_154AB89SD658.pdf/e50399da-4338-72a1-25a9-30361bf519fc
+2020	enlace	Nota informativa	https://sede.inap.gob.es/documents/59312/1925394/Nota_plantillas_provisionales_25_mar_2022_S9Z64LXJP9_154AB89SD658.pdf/5a20ee7a-1690-633d-d30a-0a64055fed13
+2020	enlace	Resolución	https://documents/59312/1925394/ResolucinsuperanejercicionicoADVOL_firmado_AY11ZH8S7Z_154AB89SD658.pdf/844201ca-ca55-ae8a-fed8-7658494cd47b
+2020	enlace	Acceso General.	https://sede.inap.gob.es/documents/59312/1925394/1-AD-L-DM-SUP_GE_KPT6RO3AYG_154AB89SD658.pdf/877860fd-1a38-a5d2-4725-ba61ab74ab09
+2020	enlace	Cupo Base Específica 5.	https://sede.inap.gob.es/documents/59312/1925394/1-AD-L-DM-SUP_CRD_D1WJ0B4CCK_154AB89SD658.pdf/16a49181-23d2-4338-9238-91951391d341
+2020	enlace	Plantilla definitiva de respuestas.	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_definitivaADVO-LEjercicionico2019_X8217RXH5E_154AB89SD658.pdf/c8acb5b9-4288-b2b3-b73b-dc88fbc116d7
+2020	enlace	Plantilla definitiva de respuestas: ejercicio extraordinario.	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_definitivaADVO-LExtraordinario2019_EJ99PW7GA5_154AB89SD658.pdf/108e97e8-c568-b465-4a89-a39846f2e8c0
+2020	enlace	Nota informativa puntuaciones mínimas.	https://sede.inap.gob.es/documents/59312/1925394/Puntuacionesminimasejercicionico2019ADVOL_D98Y52DWFY_154AB89SD658.pdf/513f6ca0-97ec-bf6f-0db7-ba93deb8cc5f
+2020	enlace	Nota informativa:	https://sede.inap.gob.es/documents/59312/1925500/NotainformativaFrmulaTransformada_Z5B9BYZCI7_154AB89SD658.pdf/427fe54d-7c07-2456-fadf-d9f4d6c92a65
+2020	enlace	Resolución de la Secretaría de Estado de Función Pública	https://www.boe.es/boe/dias/2022/06/17/pdfs/BOE-A-2022-10061.pdf
+2020	enlace	Resolución de la Secretaría de Estado de Función Pública	https://www.boe.es/boe/dias/2022/09/19/pdfs/BOE-A-2022-15207.pdf
+2020	enlace		https://sede.inap.gob.es/home
+2020	enlace	Inicio	https://sede.inap.gob.es/es
+2020	enlace	Portal Web INAP	https://www.inap.es/es/inicio
+2020	enlace	Selección	https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion
+2020	enlace	Becas, ayudas, subvenciones y premios	https://sede.inap.gob.es/es/procedimientos-y-servicios/becas-y-ayudas
+2020	enlace	Notificaciones electrónicas	https://dehu.redsara.es/
+2020	enlace	Registro electrónico	https://reg.redsara.es/
+2020	enlace	Trámites y servicios	https://sede.inap.gob.es/es/procedimientos-y-servicios
+2020	enlace	Trámites para opositores	https://sede.inap.gob.es/es/tramites-para-opositores
+2020	enlace	Tramites para la ciudadanía	https://sede.inap.gob.es/es/tramites-para-la-ciudadania
+2020	enlace	Trámites para promotores de formación	https://sede.inap.gob.es/es/tramites-para-promotores-de-formacion
+2020	enlace	Trámites para personal empleado público	https://sede.inap.gob.es/es/tramites-para-personal-empleado-publico
+2020	enlace	Trámites para el alumnado	https://sede.inap.gob.es/es/tramites-para-el-alumnado0
+2020	enlace	Trámites para personal colaborador y docente	https://sede.inap.gob.es/es/tramites-para-personal-colaborador-y-docente
+2020	enlace	Información de la sede	https://sede.inap.gob.es/es/informacion-de-la-sede
+2020	enlace	Normativa	https://sede.inap.gob.es/es/informacion-de-la-sede/normativa
+2020	enlace	Identificación y titularidad	https://sede.inap.gob.es/es/informacion-de-la-sede/identificacion-y-titularidad
+2020	enlace	Fecha y hora oficial	https://sede.inap.gob.es/es/informacion-de-la-sede/fecha-y-hora-oficial
+2020	enlace	Canales de acceso	https://sede.inap.gob.es/es/canales-de-acceso
+2020	enlace	Sistemas de Identificación y Firma	https://sede.inap.gob.es/es/sistemas-de-identificacion-firma-y-verificacion
+2020	enlace	Carta de servicios	https://sede.inap.gob.es/es/carta-de-servicios
+2020	enlace	Calendario de días inhábiles	https://sede.inap.gob.es/es/calendario-de-dias-inhabiles
+2020	enlace	Portal de Transparencia	https://transparencia.gob.es/
+2020	enlace	BOE	https://www.boe.es/
+2020	enlace	La Administración al Día	https://laadministracionaldia.inap.es/
+2020	enlace	Ministerio para la Transformación Digital y de la Función Pública	https://digital.gob.es/index.html
+2020	enlace	Punto de Acceso General	https://administracion.gob.es/
+2020	enlace	Perfil del contratante	https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CPT_ZLc3KpMTFyTswO9jUJc0yLcK7UdbW31C3JzHQEJFiE3/
+2020	enlace		https://twitter.com/INAP_ES
+2020	enlace		https://www.facebook.com/inap.es
+2020	enlace		https://es.linkedin.com/company/instituto-nacional-administracion-publica
+2020	enlace		https://www.youtube.com/channel/UCvjvyMsqqXgVVGH5lf-sfvA
+2020	enlace	Aviso Legal	https://sede.inap.gob.es/es/aviso-legal
+2020	enlace	Política de cookies	https://sede.inap.gob.es/es/politica-de-cookies
+2020	enlace	Protección de datos personales	https://sede.inap.gob.es/es/proteccion-de-datos-personales
+2020	enlace	Declaración de Accesibilidad	https://sede.inap.gob.es/es/accesibilidad
+2020	enlace	Mapa Web	https://sede.inap.gob.es/es/mapa-web
+2020	DESCARGADO	Cuestionario	https://sede.inap.gob.es/documents/59312/1925394/EjercicionicoADVO-L2019conportada_PWI0331PNK_154AB89SD658.pdf/debc8d55-addf-5935-1262-b83fa0783117	320623 bytes
+2020	DESCARGADO	Plantilla provisional de respuestas	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_provisionalADVO-LEjercicionico2019_1OOJ9XN0G8_154AB89SD658.pdf/afff5703-5251-08e1-51f0-5462164ea715	133559 bytes
+2020	DESCARGADO	Cuestionario ejercicio único: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/1925394/ExamenADVO-LExtraordinario2019_YXLP29PVHH_154AB89SD658.pdf/82ce6659-a143-a02a-513e-d6b05f07d497	346955 bytes
+2020	DESCARGADO	Plantilla provisional de respuestas: llamamiento extraordinario.	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_provisionalADVO-LExtraordinario2019_WTKM9LIWO2_154AB89SD658.pdf/e50399da-4338-72a1-25a9-30361bf519fc	135552 bytes
+2020	DESCARGADO	Plantilla definitiva de respuestas.	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_definitivaADVO-LEjercicionico2019_X8217RXH5E_154AB89SD658.pdf/c8acb5b9-4288-b2b3-b73b-dc88fbc116d7	152417 bytes
+2020	DESCARGADO	Plantilla definitiva de respuestas: ejercicio extraordinario.	https://sede.inap.gob.es/documents/59312/1925394/Plantilla_definitivaADVO-LExtraordinario2019_EJ99PW7GA5_154AB89SD658.pdf/108e97e8-c568-b465-4a89-a39846f2e8c0	151760 bytes
