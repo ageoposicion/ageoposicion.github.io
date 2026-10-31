@@ -1,0 +1,130 @@
+[
+ {
+  "n": 38001,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "Según el artículo 135 de la Constitución, todas las Administraciones Públicas adecuarán sus actuaciones al principio de:",
+  "opciones": [
+   "Anualidad presupuestaria",
+   "Universalidad presupuestaria",
+   "Especialidad cualitativa",
+   "Estabilidad presupuestaria"
+  ],
+  "correcta": 3,
+  "cita": "Todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria."
+ },
+ {
+  "n": 38002,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "El Estado y las Comunidades Autónomas no podrán incurrir en un déficit estructural que supere los márgenes establecidos, en su caso, por:",
+  "opciones": [
+   "El Consejo de Política Fiscal y Financiera",
+   "El Fondo Monetario Internacional",
+   "La Unión Europea para sus Estados Miembros",
+   "El Banco de España"
+  ],
+  "correcta": 2,
+  "cita": "El Estado y las Comunidades Autónomas no podrán incurrir en un déficit estructural que supere los márgenes establecidos, en su caso, por la Unión Europea para sus Estados Miembros."
+ },
+ {
+  "n": 38003,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "El déficit estructural máximo permitido al Estado y a las Comunidades Autónomas lo fijará:",
+  "opciones": [
+   "Una ley orgánica",
+   "Un real decreto del Consejo de Ministros",
+   "La Ley de Presupuestos Generales del Estado de cada año",
+   "Una orden del Ministerio de Hacienda"
+  ],
+  "correcta": 0,
+  "cita": "Una ley orgánica fijará el déficit estructural máximo permitido al Estado y a las Comunidades Autónomas, en relación con su producto interior bruto."
+ },
+ {
+  "n": 38004,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "Según el artículo 135 de la Constitución, las Entidades Locales deberán presentar:",
+  "opciones": [
+   "Un déficit estructural máximo del 3 %",
+   "Superávit en todo caso",
+   "Equilibrio presupuestario",
+   "Un déficit autorizado por el Pleno"
+  ],
+  "correcta": 2,
+  "cita": "Las Entidades Locales deberán presentar equilibrio presupuestario."
+ },
+ {
+  "n": 38005,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "Para emitir deuda pública o contraer crédito, el Estado y las Comunidades Autónomas:",
+  "opciones": [
+   "Necesitan autorización del Banco Central Europeo",
+   "Necesitan autorización del Tribunal de Cuentas",
+   "Habrán de estar autorizados por ley",
+   "Basta un acuerdo del Consejo de Ministros o del Consejo de Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "El Estado y las Comunidades Autónomas habrán de estar autorizados por ley para emitir deuda pública o contraer crédito."
+ },
+ {
+  "n": 38006,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "El pago de los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones:",
+  "opciones": [
+   "Gozará de prioridad absoluta",
+   "Requiere autorización anual de las Cortes",
+   "Se pospone a los gastos de personal",
+   "Se realiza solo si hay superávit"
+  ],
+  "correcta": 0,
+  "cita": "Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán siempre incluidos en el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta."
+ },
+ {
+  "n": 38007,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "El volumen de deuda pública del conjunto de las Administraciones en relación con el PIB no podrá superar el valor de referencia establecido en:",
+  "opciones": [
+   "La Ley de Presupuestos Generales del Estado",
+   "El Estatuto del Banco de España",
+   "La Ley General Presupuestaria",
+   "El Tratado de Funcionamiento de la Unión Europea"
+  ],
+  "correcta": 3,
+  "cita": "El volumen de deuda pública del conjunto de las Administraciones Públicas en relación con el producto interior bruto del Estado no podrá superar el valor de referencia establecido en el Tratado de Funcionamiento de la Unión Europea."
+ },
+ {
+  "n": 38008,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a135",
+  "pregunta": "Los límites de déficit estructural y de volumen de deuda pública solo podrán superarse en caso de catástrofes naturales, recesión económica o emergencia extraordinaria, apreciadas por:",
+  "opciones": [
+   "Las tres quintas partes de ambas Cámaras",
+   "La mayoría simple del Senado",
+   "El Consejo de Ministros",
+   "La mayoría absoluta de los miembros del Congreso de los Diputados"
+  ],
+  "correcta": 3,
+  "cita": "considerablemente la situación financiera o la sostenibilidad económica o social del Estado, apreciadas por la mayoría absoluta de los miembros del Congreso de los Diputados."
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "n": 37001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acuaobis",
+  "pregunta": "Según la Ley Orgánica del Poder Judicial, los Jueces y Tribunales aplicarán el Derecho de la Unión Europea de conformidad con:",
+  "opciones": [
+   "Los dictámenes de la Comisión Europea",
+   "La jurisprudencia del Tribunal de Justicia de la Unión Europea",
+   "Las instrucciones del Consejo General del Poder Judicial",
+   "La jurisprudencia del Tribunal Europeo de Derechos Humanos"
+  ],
+  "correcta": 1,
+  "cita": "Los Jueces y Tribunales aplicarán el Derecho de la Unión Europea de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea."
+ },
+ {
+  "n": 37002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "LOPJ",
+  "articulo": "acuaobis",
+  "pregunta": "Cuando un tribunal español decide plantear una cuestión prejudicial europea, lo hará en todo caso:",
+  "opciones": [
+   "Mediante diligencia de ordenación del letrado de la Administración de Justicia",
+   "Mediante auto, previa audiencia de las partes",
+   "Mediante sentencia, sin audiencia de las partes",
+   "Mediante providencia, a instancia del Ministerio Fiscal"
+  ],
+  "correcta": 1,
+  "cita": "Cuando los Tribunales decidan plantear una cuestión prejudicial europea lo harán de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea y, en todo caso, mediante auto, previa audiencia de las partes."
+ }
+]
