@@ -1,9 +1,10 @@
 {
   "nota": "Páginas oficiales del INAP de cada convocatoria del Cuerpo General Administrativo (C1), ingreso libre. La convocatoria N se examina en el año N+1. «indices» son páginas generales del cuerpo: se recorren hasta dos niveles buscando las convocatorias de ingreso libre anteriores.",
   "paginas": {
-    "2025": "https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025"
+    "2025": "https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025",
+    "2024": "https://sede.inap.gob.es/es/advol-2024",
+    "2021-2022": "https://sede.inap.gob.es/advol-oep-2021-2022",
+    "2020": "https://sede.inap.gob.es/advo-2020-ingreso-libre"
   },
-  "indices": {
-    "inap": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-general-administrativo-de-la-administracion-del-estado"
-  }
+  "indices": {}
 }
