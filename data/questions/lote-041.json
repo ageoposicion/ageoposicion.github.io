@@ -1,0 +1,354 @@
+[
+ {
+  "n": 41001,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a8",
+  "pregunta": "Según el RD 1708/2011, los archivos del Sistema de Archivos de la Administración General del Estado se clasifican atendiendo a:",
+  "opciones": [
+   "El rango del órgano productor",
+   "La antigüedad del edificio",
+   "El soporte de los documentos",
+   "El ciclo vital de los documentos"
+  ],
+  "correcta": 3,
+  "cita": "Los Archivos del Sistema de Archivos de la Administración General del Estado, atendiendo al ciclo vital de los documentos, se clasifican en: a) Archivos de oficina o de gestión."
+ },
+ {
+  "n": 41002,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a8",
+  "pregunta": "¿Cuál de las siguientes NO es una clase de archivo del Sistema de Archivos de la AGE según el artículo 8 del RD 1708/2011?",
+  "opciones": [
+   "Archivo de oficina o de gestión",
+   "Archivo provisional",
+   "Archivo histórico",
+   "Archivo intermedio"
+  ],
+  "correcta": 1,
+  "cita": "Los Archivos del Sistema de Archivos de la Administración General del Estado, atendiendo al ciclo vital de los documentos, se clasifican en: a) Archivos de oficina o de gestión. b) Archivos generales o centrales de los Ministerios y de los organismos públicos dependientes de los mismos."
+ },
+ {
+  "n": 41003,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a9",
+  "pregunta": "Los archivos existentes en todos los órganos y unidades administrativas para custodiar los documentos en fase de tramitación o de continua consulta son los archivos:",
+  "opciones": [
+   "Centrales",
+   "De oficina o de gestión",
+   "Intermedios",
+   "Históricos"
+  ],
+  "correcta": 1,
+  "cita": "Son aquellos archivos existentes en todos los órganos y unidades administrativas para la custodia de los documentos en fase de tramitación o sometidos a continua utilización y consulta administrativa."
+ },
+ {
+  "n": 41004,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a9",
+  "pregunta": "Una vez concluida su tramitación, los documentos de los archivos de oficina o de gestión se transfieren:",
+  "opciones": [
+   "Al registro electrónico general",
+   "Al archivo central del Departamento respectivo",
+   "Directamente al Archivo Histórico Nacional",
+   "Al Archivo General de la Administración"
+  ],
+  "correcta": 1,
+  "cita": "Estos documentos, una vez concluida su tramitación o su etapa de utilización y consulta, serán objeto de transferencia al archivo central del Departamento respectivo, de acuerdo con los plazos establecidos durante el proceso de valoración."
+ },
+ {
+  "n": 41005,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a9",
+  "pregunta": "Según el RD 1708/2011, antes de la transferencia al Archivo central, los archivos de oficina o de gestión deben:",
+  "opciones": [
+   "Destruir todos los borradores firmados",
+   "Eliminar los documentos de apoyo informativo",
+   "Remitir copia a la Comisión Calificadora",
+   "Digitalizar todos los expedientes y destruir los originales"
+  ],
+  "correcta": 1,
+  "cita": "5.º Eliminar los documentos de apoyo informativo antes de la transferencia al Archivo central."
+ },
+ {
+  "n": 41006,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a11",
+  "pregunta": "Según el RD 1708/2011, el archivo intermedio de la Administración General del Estado es:",
+  "opciones": [
+   "El Archivo Central de cada ministerio",
+   "El Archivo General de la Administración",
+   "El Archivo de la Corona de Aragón",
+   "El Archivo Histórico Nacional"
+  ],
+  "correcta": 1,
+  "cita": "El Archivo General de la Administración, es el archivo intermedio de la Administración General del Estado, según la normativa vigente."
+ },
+ {
+  "n": 41007,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a12",
+  "pregunta": "El Archivo Histórico Nacional ejerce las funciones de:",
+  "opciones": [
+   "Archivo histórico de la Administración General del Estado",
+   "Registro Electrónico General",
+   "Archivo intermedio de la Administración General del Estado",
+   "Archivo central del Ministerio de Hacienda"
+  ],
+  "correcta": 0,
+  "cita": "El Archivo Histórico Nacional ejerce las funciones de archivo histórico de la Administración General del Estado."
+ },
+ {
+  "n": 41008,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a12",
+  "pregunta": "El Archivo Histórico Nacional conserva los documentos con valor histórico que le son transferidos desde:",
+  "opciones": [
+   "Los archivos de las Comunidades Autónomas",
+   "Directamente desde los archivos de oficina",
+   "El Archivo General de la Administración",
+   "Los registros electrónicos"
+  ],
+  "correcta": 2,
+  "cita": "Las funciones del Archivo Histórico Nacional, como archivo histórico de la Administración General del Estado y dependiente del Ministerio de Cultura, son: a) Conservar los documentos con valor histórico que le son transferidos desde el Archivo General de la Administración."
+ },
+ {
+  "n": 41009,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a15",
+  "pregunta": "Las propuestas de eliminación o de conservación permanente de documentos requieren dictamen preceptivo de:",
+  "opciones": [
+   "La Agencia Española de Protección de Datos",
+   "La Comisión Superior Calificadora de Documentos Administrativos",
+   "El Consejo de Estado",
+   "El Tribunal de Cuentas"
+  ],
+  "correcta": 1,
+  "cita": "Los grupos de trabajo de coordinación archivística de cada Departamento ministerial presentarán sus propuestas de eliminación o en su caso, de conservación permanente para el dictamen preceptivo por la Comisión Superior Calificadora de Documentos Administrativos."
+ },
+ {
+  "n": 41010,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a15",
+  "pregunta": "Según el RD 1708/2011, ¿pueden transferirse al Archivo Intermedio agrupaciones documentales cuya eliminación ya ha dictaminado la Comisión Superior Calificadora?",
+  "opciones": [
+   "Sí, siempre",
+   "Solo las de más de diez años",
+   "En ningún caso",
+   "Sí, si lo autoriza el Subsecretario"
+  ],
+  "correcta": 2,
+  "cita": "En ningún caso se transferirán al Archivo Intermedio agrupaciones documentales cuando previamente la Comisión Superior Calificadora de Documentos Administrativos haya dictaminado su eliminación."
+ },
+ {
+  "n": 41011,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a23",
+  "pregunta": "Según el RD 1708/2011, el derecho de acceso a los documentos conservados en los archivos de su ámbito corresponde a:",
+  "opciones": [
+   "Solo los interesados en el procedimiento",
+   "Toda persona, sin perjuicio de las exclusiones y limitaciones previstas en la Constitución y en las leyes",
+   "Solo los investigadores acreditados",
+   "Solo los ciudadanos españoles mayores de edad"
+  ],
+  "correcta": 1,
+  "cita": "Toda persona tiene derecho a acceder a los documentos conservados en los archivos incluidos en el ámbito de aplicación de esta norma, en los términos establecidos en el presente capítulo sin perjuicio de las exclusiones y limitaciones previstas en la Constitución y en las leyes."
+ },
+ {
+  "n": 41012,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a24",
+  "pregunta": "Según el RD 1708/2011, la solicitud de acceso a documentos de archivo:",
+  "opciones": [
+   "Debe acompañarse de informe de un abogado",
+   "Solo se admite si se acredita interés legítimo",
+   "No es necesario motivarla, aunque el solicitante puede exponer sus motivos",
+   "Debe motivarse siempre"
+  ],
+  "correcta": 2,
+  "cita": "No será necesario motivar la solicitud de acceso a documentos."
+ },
+ {
+  "n": 41013,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a25",
+  "pregunta": "Cuando en el archivo existan reproducciones de los documentos solicitados, como norma general:",
+  "opciones": [
+   "Se exigirá autorización del Ministro",
+   "Se dará acceso a las reproducciones",
+   "Se denegará el acceso",
+   "Se dará acceso siempre a los originales"
+  ],
+  "correcta": 1,
+  "cita": "Cuando en el archivo existan reproducciones de los documentos solicitados, se dará acceso a éstas como norma general; en estos casos, sólo cuando la materia o circunstancias de la investigación lo justifiquen y el"
+ },
+ {
+  "n": 41014,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a26",
+  "pregunta": "Según el RD 1708/2011, los documentos conservados en los archivos de su ámbito serán, con carácter general:",
+  "opciones": [
+   "De libre acceso, salvo que les afecte alguna limitación prevista en la Constitución y en las Leyes",
+   "Accesibles solo tras cincuenta años",
+   "Accesibles solo para el personal de la Administración",
+   "De acceso restringido salvo autorización"
+  ],
+  "correcta": 0,
+  "cita": "Los documentos conservados en los archivos incluidos en el ámbito de aplicación de esta norma serán de libre acceso, salvo cuando les afecte alguna de las limitaciones previstas en la Constitución y en las Leyes."
+ },
+ {
+  "n": 41015,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a27",
+  "pregunta": "Los documentos clasificados conforme a la normativa sobre secretos oficiales:",
+  "opciones": [
+   "Son de libre acceso a los veinticinco años",
+   "Están excluidos de la consulta pública mientras no recaiga una decisión de desclasificación",
+   "Son accesibles con autorización del responsable del archivo",
+   "Son accesibles para cualquier investigador acreditado"
+  ],
+  "correcta": 1,
+  "cita": "Los documentos clasificados de conformidad con lo previsto en la normativa sobre secretos oficiales del Estado estarán excluidos de la consulta pública, sin que pueda concederse autorización para el acceso en tanto no recaiga una decisión de desclasificación por el órgano competente para realizarla."
+ },
+ {
+  "n": 41016,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "RDARCH",
+  "articulo": "a28",
+  "pregunta": "Tiempo desde el fallecimiento de los afectados tras el cual son accesibles los documentos con datos personales que puedan afectar a su seguridad o intimidad",
+  "opciones": [
+   "30 años",
+   "50 años",
+   "25 años",
+   "10 años"
+  ],
+  "correcta": 2,
+  "cita": "No obstante, serán accesibles los documentos con datos personales que puedan afectar a la seguridad o intimidad de las personas cuando hayan transcurrido veinticinco años desde el fallecimiento de los afectados."
+ },
+ {
+  "n": 41017,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "RDARCH",
+  "articulo": "a28",
+  "pregunta": "Antigüedad que deben superar los documentos con datos personales cuando no puede conocerse la fecha o el hecho del fallecimiento, para que pueda concederse el acceso si se excluye razonablemente la lesión de la intimidad",
+  "opciones": [
+   "50 años",
+   "30 años",
+   "100 años",
+   "25 años"
+  ],
+  "correcta": 0,
+  "cita": "posible conocer la fecha o el hecho del fallecimiento y el documento o documentos solicitados posean una antigüedad superior a cincuenta años, el acceso se concederá si, atendidas las circunstancias del caso, se entiende razonablemente"
+ },
+ {
+  "n": 41018,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a29",
+  "pregunta": "Según el RD 1708/2011, se tramitarán con carácter preferente las solicitudes de acceso a documentos:",
+  "opciones": [
+   "Necesarios para el ejercicio de derechos",
+   "De más de cincuenta años de antigüedad",
+   "Presentadas por investigadores",
+   "Presentadas en papel"
+  ],
+  "correcta": 0,
+  "cita": "Se tramitarán con carácter preferente las solicitudes que tengan por objeto el acceso a documentos necesarios para el ejercicio de derechos."
+ },
+ {
+  "n": 41019,
+  "bloque": "II",
+  "tipo": "plazo",
+  "norma": "RDARCH",
+  "articulo": "a30",
+  "pregunta": "Plazo máximo para resolver y notificar la solicitud de acceso o de consulta de documentos de archivo, desde su recepción por el órgano competente",
+  "opciones": [
+   "1 mes",
+   "3 meses",
+   "2 meses",
+   "15 días"
+  ],
+  "correcta": 0,
+  "cita": "La resolución de la solicitud de acceso o de consulta deberá adoptarse y notificarse lo antes posible y, en todo caso, en el plazo máximo de un mes desde la recepción por el órgano competente para tramitarla."
+ },
+ {
+  "n": 41020,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a30",
+  "pregunta": "En el acceso a documentos de archivo, cuando el volumen de lo solicitado, su emplazamiento o las dificultades de reproducción lo justifiquen, el plazo para resolver:",
+  "opciones": [
+   "Se suspende indefinidamente",
+   "Podrá ampliarse por seis meses",
+   "Podrá ampliarse por otro mes, informando al solicitante",
+   "No puede ampliarse en ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "En el caso de solicitud de acceso a documentos, cuando el volumen de lo solicitado, su emplazamiento o las dificultades para su reproducción así lo justifiquen, el plazo para resolver podrá ampliarse por otro mes, informando de esta circunstancia al solicitante."
+ },
+ {
+  "n": 41021,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a30",
+  "pregunta": "Según el RD 1708/2011, transcurrido el plazo máximo para resolver una solicitud de acceso sin notificarse resolución expresa, la solicitud:",
+  "opciones": [
+   "Se entenderá estimada",
+   "Caducará",
+   "Se entenderá desestimada",
+   "Se archivará sin más trámite"
+  ],
+  "correcta": 0,
+  "cita": "Transcurrido el plazo máximo para resolver sin haberse notificado resolución expresa, la solicitud de acceso se entenderá estimada."
+ },
+ {
+  "n": 41022,
+  "bloque": "II",
+  "tipo": "test",
+  "norma": "RDARCH",
+  "articulo": "a31",
+  "pregunta": "La estimación de la solicitud de acceso conlleva el derecho a obtener copia de los documentos, salvo cuando:",
+  "opciones": [
+   "El solicitante sea extranjero",
+   "Los documentos tengan más de diez años",
+   "La solicitud se haya presentado por medios electrónicos",
+   "La reproducción suponga vulneración de los derechos de propiedad intelectual"
+  ],
+  "correcta": 3,
+  "cita": "c) Cuando la reproducción suponga vulneración de los derechos de propiedad intelectual."
+ }
+]

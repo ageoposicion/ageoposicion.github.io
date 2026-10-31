@@ -1,0 +1,354 @@
+[
+ {
+  "n": 40001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a2",
+  "pregunta": "Según el RD 371/2026, el Foro de Gobierno Abierto es:",
+  "opciones": [
+   "Una entidad pública empresarial",
+   "Un órgano colegiado para la participación, con carácter paritario, de la sociedad civil en materia de gobierno abierto",
+   "Una fundación del sector público",
+   "Un organismo autónomo con personalidad jurídica propia"
+  ],
+  "correcta": 1,
+  "cita": "Se crea el Foro de Gobierno Abierto (en adelante, el Foro) como órgano colegiado de los previstos en el artículo 22.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, para la participación, con carácter"
+ },
+ {
+  "n": 40002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a2",
+  "pregunta": "El Foro de Gobierno Abierto está adscrito a:",
+  "opciones": [
+   "La Presidencia del Gobierno",
+   "La Secretaría de Estado de Hacienda",
+   "El Consejo de Transparencia y Buen Gobierno",
+   "La Secretaría de Estado de Función Pública"
+  ],
+  "correcta": 3,
+  "cita": "El Foro está adscrito a la Secretaría de Estado de Función Pública."
+ },
+ {
+  "n": 40003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a3",
+  "pregunta": "Según el RD 371/2026, entre las funciones del Foro de Gobierno Abierto está:",
+  "opciones": [
+   "Examinar los borradores de los Planes de Acción de Gobierno Abierto y formular propuestas de mejora",
+   "Aprobar los Presupuestos Generales del Estado",
+   "Imponer sanciones por incumplimientos de transparencia",
+   "Resolver las reclamaciones en materia de acceso a la información pública"
+  ],
+  "correcta": 0,
+  "cita": "b) Examinar los borradores de los Planes de Acción de Gobierno Abierto y formular propuestas de mejora dirigidas a reforzar la participación ciudadana, la transparencia y la rendición de cuentas."
+ },
+ {
+  "n": 40004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a4",
+  "pregunta": "Según el RD 371/2026, para el cumplimiento de sus fines el Foro de Gobierno Abierto funcionará en:",
+  "opciones": [
+   "Asamblea General y Consejo de Administración",
+   "Pleno y Junta de Gobierno",
+   "Pleno, Comisión Permanente y grupos de trabajo",
+   "Consejo Rector y Comisión Ejecutiva"
+  ],
+  "correcta": 2,
+  "cita": "Para el cumplimiento de sus fines, el Foro funcionará en Pleno, en Comisión Permanente y grupos de trabajo."
+ },
+ {
+  "n": 40005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a5",
+  "pregunta": "La Presidencia del Foro de Gobierno Abierto corresponde a la persona titular de:",
+  "opciones": [
+   "El Ministerio de Hacienda",
+   "La Presidencia del Consejo de Transparencia y Buen Gobierno",
+   "La Secretaría de Estado de Función Pública",
+   "La Dirección General de Gobernanza Pública"
+  ],
+  "correcta": 2,
+  "cita": "Corresponde la Presidencia del Foro a la persona titular de la Secretaría de Estado de Función Pública, quien ostentará su representación y ejercerá las funciones establecidas en el artículo 19.2 de la Ley 40/2015, de 1 de octubre."
+ },
+ {
+  "n": 40006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a5",
+  "pregunta": "La Vicepresidencia Primera del Foro de Gobierno Abierto corresponde a la persona titular de:",
+  "opciones": [
+   "El Defensor del Pueblo",
+   "La Secretaría de Estado de Función Pública",
+   "La Dirección General de Gobernanza Pública",
+   "La Subsecretaría de Hacienda"
+  ],
+  "correcta": 2,
+  "cita": "Ostentará la Vicepresidencia Primera del Foro la persona titular de la Dirección General de Gobernanza Pública, en tanto que vocal permanente del Foro."
+ },
+ {
+  "n": 40007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a5",
+  "pregunta": "La Vicepresidencia Segunda del Foro de Gobierno Abierto corresponde a:",
+  "opciones": [
+   "El vocal de mayor edad de la Administración General del Estado",
+   "Una de las vocalías electas en representación de la sociedad civil, con carácter rotativo anual",
+   "Un representante de la FEMP con carácter permanente",
+   "La persona titular de la Subdirección General de Gobierno Abierto"
+  ],
+  "correcta": 1,
+  "cita": "Corresponderá la Vicepresidencia Segunda del Foro a una de las vocalías electas en representación de la sociedad civil, previo acuerdo del Pleno, y que se ejercerá con carácter rotativo de manera anual."
+ },
+ {
+  "n": 40008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a6",
+  "pregunta": "¿Cuántos vocales integran el Pleno del Foro de Gobierno Abierto según el RD 371/2026?",
+  "opciones": [
+   "Cuarenta: veinte de cada parte",
+   "Sesenta y cuatro: treinta y dos de las administraciones públicas y treinta y dos de la sociedad civil",
+   "Treinta y dos: dieciséis de cada parte",
+   "Sesenta y cuatro, todos de las administraciones públicas"
+  ],
+  "correcta": 1,
+  "cita": "El Pleno del Foro estará integrado por la persona que ostente la Presidencia, la Secretaría y sesenta y cuatro vocales, treinta y dos en representación de las administraciones públicas y treinta y dos en representación de la sociedad civil, conforme a los principios de pluralidad, participación y eficacia."
+ },
+ {
+  "n": 40009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a6",
+  "pregunta": "¿Cuántas vocalías tiene la Federación Española de Municipios y Provincias (FEMP) en el Pleno del Foro de Gobierno Abierto?",
+  "opciones": [
+   "Ocho",
+   "Dos",
+   "Seis",
+   "Cuatro"
+  ],
+  "correcta": 3,
+  "cita": "4.º Cuatro vocalías para la Federación Española de Municipios y Provincias (FEMP) en representación de las administraciones locales."
+ },
+ {
+  "n": 40010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a6",
+  "pregunta": "¿Cuántas vocalías designadas representan a la Administración General del Estado en el Pleno del Foro de Gobierno Abierto?",
+  "opciones": [
+   "Treinta y dos",
+   "Dieciséis",
+   "Ocho",
+   "Cuatro"
+  ],
+  "correcta": 2,
+  "cita": "b) Vocalías designadas: ocho vocalías en representación de la Administración General del Estado."
+ },
+ {
+  "n": 40011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a8",
+  "pregunta": "La designación como vocal del Foro de Gobierno Abierto se realiza mediante resolución de la persona titular de la Secretaría de Estado de Función Pública, que se publica en:",
+  "opciones": [
+   "El tablón de edictos del ministerio",
+   "El Boletín Oficial del Estado exclusivamente",
+   "El Portal de la Transparencia",
+   "La sede judicial electrónica"
+  ],
+  "correcta": 2,
+  "cita": "La designación como vocal del Foro se realizará mediante resolución de la persona titular de la Secretaría de Estado de Función Pública, que será publicada en el Portal de la Transparencia."
+ },
+ {
+  "n": 40012,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "RDFGA",
+  "articulo": "a8",
+  "pregunta": "Plazo máximo en que debe concluir el procedimiento de designación y elección de las vocalías del Foro de Gobierno Abierto, desde su inicio",
+  "opciones": [
+   "6 meses",
+   "2 meses",
+   "3 meses",
+   "4 meses"
+  ],
+  "correcta": 3,
+  "cita": "En ambos casos, deberá concluir en un plazo máximo de cuatro meses desde la fecha de inicio."
+ },
+ {
+  "n": 40013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-4",
+  "pregunta": "El Pleno del Foro de Gobierno Abierto se reunirá con carácter ordinario:",
+  "opciones": [
+   "Solo cuando lo pida la sociedad civil",
+   "Al menos una vez al mes",
+   "Al menos dos veces al año",
+   "Una vez cada dos años"
+  ],
+  "correcta": 2,
+  "cita": "El Pleno del Foro se reunirá, con carácter ordinario, al menos dos veces al año, y con carácter extraordinario cuando así lo convoque su Presidencia, por iniciativa propia, o a solicitud de, al menos, un tercio de sus miembros."
+ },
+ {
+  "n": 40014,
+  "bloque": "I",
+  "tipo": "plazo",
+  "norma": "RDFGA",
+  "articulo": "a1-4",
+  "pregunta": "Antelación mínima de las convocatorias del Foro de Gobierno Abierto, salvo urgencia debidamente justificada",
+  "opciones": [
+   "10 días hábiles",
+   "5 días hábiles",
+   "48 horas",
+   "15 días naturales"
+  ],
+  "correcta": 0,
+  "cita": "Las convocatorias se realizarán con una antelación mínima de diez días hábiles, salvo en casos de urgencia debidamente justificados, y deberán incluir el orden del día propuesto."
+ },
+ {
+  "n": 40015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-4",
+  "pregunta": "Las decisiones del Foro de Gobierno Abierto se adoptarán:",
+  "opciones": [
+   "Siempre por unanimidad",
+   "Por mayoría absoluta de los miembros de derecho",
+   "Por decisión de la Presidencia",
+   "Preferentemente por consenso; si no se alcanza, por mayoría simple de los miembros asistentes con derecho a voto"
+  ],
+  "correcta": 3,
+  "cita": "Las decisiones del Foro se adoptarán preferentemente por consenso."
+ },
+ {
+  "n": 40016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-5",
+  "pregunta": "La Secretaría del Foro de Gobierno Abierto la desempeña la persona titular de la Subdirección General de Gobierno Abierto, que actuará:",
+  "opciones": [
+   "Sin voz ni voto",
+   "Con voz y sin voto",
+   "Con voto de calidad",
+   "Con voz y voto"
+  ],
+  "correcta": 1,
+  "cita": "La Secretaría del Foro será desempeñada por la persona titular de la Subdirección General de Gobierno Abierto, que actuará con voz y sin voto y ejercerá las funciones previstas en los artículos 16.2 y 19.4 de la Ley 40/2015, de 1 de octubre."
+ },
+ {
+  "n": 40017,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-6",
+  "pregunta": "Según el RD 371/2026, la Comisión Permanente del Foro de Gobierno Abierto:",
+  "opciones": [
+   "No tendrá funciones decisorias",
+   "Resuelve los recursos contra las decisiones del Pleno",
+   "Aprueba los Planes de Acción de Gobierno Abierto",
+   "Sustituye al Pleno en todas sus funciones"
+  ],
+  "correcta": 0,
+  "cita": "La Comisión Permanente no tendrá funciones decisorias y se reunirá cuando lo convoque su Presidencia o a solicitud de un tercio de sus miembros."
+ },
+ {
+  "n": 40018,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-9",
+  "pregunta": "El Grupo Interministerial de Gobierno Abierto está conformado por los responsables de:",
+  "opciones": [
+   "Las Delegaciones del Gobierno",
+   "Las Unidades de Información de Transparencia de todos los ministerios",
+   "Las Intervenciones Delegadas",
+   "Las Subsecretarías de todos los ministerios"
+  ],
+  "correcta": 1,
+  "cita": "El Grupo Interministerial de Gobierno Abierto está conformado por los responsables de las Unidades de Información de Transparencia de todos los ministerios, correspondiendo su coordinación a la Dirección General de Gobernanza Pública."
+ },
+ {
+  "n": 40019,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-10",
+  "pregunta": "Según el RD 371/2026, ¿qué es HazLab?",
+  "opciones": [
+   "El Laboratorio de Innovación para la Participación, dependiente de la Secretaría de Estado de Función Pública",
+   "El portal de datos abiertos del Gobierno",
+   "El registro de grupos de interés",
+   "La plataforma de contratación del sector público"
+  ],
+  "correcta": 0,
+  "cita": "Los grupos de trabajo constituidos en el seno del Foro podrán desarrollar sus actividades en el Laboratorio de Innovación para la Participación, HazLab, dependiente de la Secretaría de Estado de Función Pública, que se reconoce como espacio técnico de referencia para la colaboración, el diseño participativo"
+ },
+ {
+  "n": 40020,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-11",
+  "pregunta": "El Observatorio de Gobierno Abierto contará con un entorno propio dentro de:",
+  "opciones": [
+   "La Plataforma de Contratación del Sector Público",
+   "El Punto de Acceso General",
+   "La sede electrónica del Congreso",
+   "El Portal de la Transparencia"
+  ],
+  "correcta": 3,
+  "cita": "El Observatorio contará con un entorno propio dentro del Portal de la Transparencia, accesible, intuitivo y visualmente adaptado para facilitar la consulta, búsqueda y difusión de las buenas prácticas incorporadas."
+ },
+ {
+  "n": 40021,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "a1-11",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los pilares del Gobierno Abierto que enumera el RD 371/2026 al regular el Observatorio?",
+  "opciones": [
+   "Estabilidad presupuestaria",
+   "Participación ciudadana",
+   "Transparencia",
+   "Rendición de cuentas"
+  ],
+  "correcta": 0,
+  "cita": "en torno a experiencias exitosas en los distintos pilares del Gobierno Abierto, entre otros: a) Transparencia. b) Participación ciudadana. c) Rendición de cuentas. d) Integridad pública. e) Colaboración y cocreación."
+ },
+ {
+  "n": 40022,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "RDFGA",
+  "articulo": "da",
+  "pregunta": "La participación en el Foro de Gobierno Abierto:",
+  "opciones": [
+   "Da derecho a una indemnización fija mensual",
+   "Es retribuida con cargo a los Presupuestos Generales del Estado",
+   "No exigirá dedicación exclusiva ni dará derecho a remuneración",
+   "Exige dedicación exclusiva"
+  ],
+  "correcta": 2,
+  "cita": "La participación en el Foro de Gobierno Abierto no exigirá dedicación exclusiva ni dará derecho a remuneración."
+ }
+]
