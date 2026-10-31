@@ -110,5 +110,13 @@
   "RDINF": {
     "id": "BOE-A-1996-4997",
     "nombre": "RD 208/1996 (información administrativa y atención al ciudadano)"
+  },
+  "RDARCH": {
+    "id": "BOE-A-2011-18541",
+    "nombre": "RD 1708/2011 (Sistema Español de Archivos)"
+  },
+  "RDFGA": {
+    "id": "BOE-A-2026-9880",
+    "nombre": "RD 371/2026 (Foro de Gobierno Abierto)"
   }
 }
