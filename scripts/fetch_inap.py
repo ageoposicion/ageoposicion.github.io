@@ -22,9 +22,13 @@ def enlaces(base, data):
     for m in re.finditer(r'<a\b[^>]*href="([^"#]+)"[^>]*>(.*?)</a>', s, re.S | re.I):
         txt = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', m.group(2)))).strip()
         yield urllib.parse.urljoin(base, html.unescape(m.group(1))), txt
+def slug(t): return re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-')
 def nombre(txt, url):
-    n = re.sub(r'[^a-z0-9]+', '-', (txt or os.path.basename(urllib.parse.urlparse(url).path)).lower()).strip('-')
-    return (n or 'documento')[:80]
+    # el texto del enlace y el nombre del archivo en el INAP: dos enlaces con el mismo texto no se pisan
+    base = os.path.splitext(urllib.parse.unquote(os.path.basename(urllib.parse.urlparse(url).path.rstrip('/'))))[0]
+    if re.fullmatch(r'[0-9a-f-]{30,}', base):   # enlaces /documents/…/<archivo>.pdf/<uuid>
+        base = os.path.splitext(urllib.parse.unquote(urllib.parse.urlparse(url).path.rstrip('/').split('/')[-2]))[0]
+    return ((slug(txt)[:60] or 'documento') + '__' + slug(base)[:50]).strip('-')
 def main():
     F = json.load(open(os.path.join(OUT, 'fuentes.json'), encoding='utf-8'))
     log, bad = [], 0
