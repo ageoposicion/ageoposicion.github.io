@@ -1,0 +1,354 @@
+[
+ {
+  "n": 35001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-96",
+  "pregunta": "Según la Ley 9/2017, la Administración podrá gestionar indirectamente, mediante contrato de concesión de servicios, los servicios de su titularidad o competencia siempre que:",
+  "opciones": [
+   "Sean susceptibles de explotación económica por particulares",
+   "Impliquen ejercicio de autoridad",
+   "Lo autorice previamente el Consejo de Estado",
+   "Su valor estimado no supere el umbral comunitario"
+  ],
+  "correcta": 0,
+  "cita": "La Administración podrá gestionar indirectamente, mediante contrato de concesión de servicios, los servicios de su titularidad o competencia siempre que sean susceptibles de explotación económica por particulares."
+ },
+ {
+  "n": 35002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-96",
+  "pregunta": "¿Qué servicios NO podrán prestarse en ningún caso mediante concesión de servicios?",
+  "opciones": [
+   "Los de recogida de residuos",
+   "Los que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+   "Los de transporte público de viajeros",
+   "Los de abastecimiento de agua"
+  ],
+  "correcta": 1,
+  "cita": "En ningún caso podrán prestarse mediante concesión de servicios los que impliquen ejercicio de la autoridad inherente a los poderes públicos."
+ },
+ {
+  "n": 35003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-96",
+  "pregunta": "Antes de contratar la concesión de un servicio público, deberá haberse establecido su régimen jurídico, que declare expresamente:",
+  "opciones": [
+   "Que el servicio será gratuito para los usuarios",
+   "Que la actividad queda asumida por la Administración respectiva como propia de la misma",
+   "Que el concesionario será una empresa pública",
+   "Que la actividad se liberaliza"
+  ],
+  "correcta": 1,
+  "cita": "los casos en que se trate de servicios públicos, deberá haberse establecido su régimen jurídico, que declare expresamente que la actividad de que se trata queda asumida por la Administración respectiva como propia de la misma, determine el alcance de las prestaciones en favor de los administrados, y regule los"
+ },
+ {
+  "n": 35004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-96",
+  "pregunta": "El contrato de concesión de servicios expresará con claridad, en todo caso, el ámbito de la concesión:",
+  "opciones": [
+   "Solo en el orden económico",
+   "Solo en el orden temporal",
+   "Solo en el orden territorial",
+   "Tanto en el orden funcional como en el territorial"
+  ],
+  "correcta": 3,
+  "cita": "El contrato expresará con claridad, en todo caso, el ámbito de la concesión, tanto en el orden funcional, como en el territorial."
+ },
+ {
+  "n": 35005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-97",
+  "pregunta": "En la concesión de servicios, según los pliegos, el riesgo operacional corresponderá en todo caso:",
+  "opciones": [
+   "Al contratista",
+   "A la Administración",
+   "A partes iguales entre Administración y contratista",
+   "A los usuarios del servicio"
+  ],
+  "correcta": 0,
+  "cita": "c) Regularán también la distribución de riesgos entre la Administración y el concesionario en función de las características particulares del servicio, si bien en todo caso el riesgo operacional le corresponderá al contratista."
+ },
+ {
+  "n": 35006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-99",
+  "pregunta": "Cuando la concesión recaiga sobre un servicio público, la Administración conservará:",
+  "opciones": [
+   "La propiedad de las acciones del concesionario",
+   "La facultad de cobrar personalmente las tarifas",
+   "La gestión directa de todas las prestaciones",
+   "Los poderes de policía necesarios para asegurar la buena marcha de los servicios"
+  ],
+  "correcta": 3,
+  "cita": "En el caso de que la concesión recaiga sobre un servicio público, la Administración conservará los poderes de policía necesarios para asegurar la buena marcha de los servicios de que se trate."
+ },
+ {
+  "n": 35007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-99",
+  "pregunta": "Las concesiones de servicios únicamente podrán ser objeto de hipoteca:",
+  "opciones": [
+   "Solo con autorización de las Cortes Generales",
+   "En ningún caso",
+   "Cuando conlleven obras o instalaciones fijas necesarias para el servicio, y solo en garantía de deudas relacionadas con la concesión",
+   "Siempre, en garantía de cualquier deuda del concesionario"
+  ],
+  "correcta": 2,
+  "cita": "Las concesiones de servicios únicamente podrán ser objeto de hipoteca en los casos en que conlleven la realización de obras o instalaciones fijas necesarias para la prestación del servicio, y exclusivamente en garantía de deudas que guarden relación con la concesión."
+ },
+ {
+  "n": 35008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-100",
+  "pregunta": "Si el contrato de concesión de servicios se extingue por cumplimiento, el contratista deberá:",
+  "opciones": [
+   "Seguir prestando el servicio hasta que se formalice el nuevo contrato",
+   "Prestar el servicio un máximo de un mes más",
+   "Entregar el servicio a los usuarios",
+   "Cesar en el servicio el mismo día del vencimiento"
+  ],
+  "correcta": 0,
+  "cita": "En caso de extinción del contrato por cumplimiento del mismo, el contratista deberá seguir prestando el servicio hasta que se formalice el nuevo contrato."
+ },
+ {
+  "n": 35009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-100",
+  "pregunta": "El concesionario debe indemnizar los daños causados a terceros como consecuencia de las operaciones que requiera el servicio, excepto cuando:",
+  "opciones": [
+   "El tercero sea usuario del servicio",
+   "El daño se produzca en día inhábil",
+   "El daño sea producido por causas imputables a la Administración",
+   "El daño sea inferior a 3.000 euros"
+  ],
+  "correcta": 2,
+  "cita": "c) Indemnizar los daños que se causen a terceros como consecuencia de las operaciones que requiera el desarrollo del servicio, excepto cuando el daño sea producido por causas imputables a la Administración."
+ },
+ {
+  "n": 35010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-101",
+  "pregunta": "Las contraprestaciones económicas pactadas en la concesión de servicios se denominan:",
+  "opciones": [
+   "Tasas",
+   "Precios públicos",
+   "Tarifas",
+   "Subvenciones"
+  ],
+  "correcta": 2,
+  "cita": "Las contraprestaciones económicas pactadas, que se denominarán tarifas y tendrán la naturaleza de prestación patrimonial de carácter público no tributario, serán revisadas, en su caso, en la forma establecida en el"
+ },
+ {
+  "n": 35011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-101",
+  "pregunta": "Las tarifas de la concesión de servicios tienen la naturaleza de:",
+  "opciones": [
+   "Prestación patrimonial de carácter público no tributario",
+   "Impuesto",
+   "Tasa",
+   "Contribución especial"
+  ],
+  "correcta": 0,
+  "cita": "Las contraprestaciones económicas pactadas, que se denominarán tarifas y tendrán la naturaleza de prestación patrimonial de carácter público no tributario, serán revisadas, en su caso, en la forma establecida en el contrato, que se ajustará, en todo"
+ },
+ {
+  "n": 35012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-101",
+  "pregunta": "Si así lo establece el pliego, el concesionario abonará a la Administración concedente:",
+  "opciones": [
+   "Un impuesto especial",
+   "Una fianza del 50 % del valor del contrato",
+   "El total de las tarifas cobradas",
+   "Un canon o participación"
+  ],
+  "correcta": 3,
+  "cita": "Si así lo hubiera establecido el pliego de cláusulas administrativas particulares, el concesionario abonará a la Administración concedente un canon o participación, que se determinará y abonará en la forma y condiciones previstas en el citado pliego y en la restante documentación contractual."
+ },
+ {
+  "n": 35013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-102",
+  "pregunta": "La Administración podrá modificar las características del servicio contratado y las tarifas:",
+  "opciones": [
+   "Nunca, una vez adjudicado el contrato",
+   "Únicamente por razones de interés público y si concurren las circunstancias legalmente previstas",
+   "Solo a petición del concesionario",
+   "Libremente y en cualquier momento"
+  ],
+  "correcta": 1,
+  "cita": "características del servicio contratado y las tarifas que han de ser abonadas por los usuarios, únicamente por razones de interés público y si concurren las circunstancias previstas en la Subsección 4.ª de la Sección 3.ª del Capítulo I"
+ },
+ {
+  "n": 35014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-102",
+  "pregunta": "Si los acuerdos de la Administración sobre el desarrollo del servicio carecen de trascendencia económica, el concesionario:",
+  "opciones": [
+   "Podrá suspender el servicio",
+   "No tendrá derecho a indemnización",
+   "Podrá resolver el contrato",
+   "Tendrá derecho a indemnización en todo caso"
+  ],
+  "correcta": 1,
+  "cita": "En el caso de que los acuerdos que dicte la Administración respecto al desarrollo del servicio carezcan de trascendencia económica, el concesionario no tendrá derecho a indemnización por razón de los mismos."
+ },
+ {
+  "n": 35015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-103",
+  "pregunta": "Finalizado el plazo de la concesión, el servicio:",
+  "opciones": [
+   "Pasará a ser propiedad del concesionario",
+   "Se extinguirá definitivamente",
+   "Revertirá a la Administración",
+   "Se adjudicará automáticamente al mismo concesionario"
+  ],
+  "correcta": 2,
+  "cita": "Finalizado el plazo de la concesión, el servicio revertirá a la Administración, debiendo el contratista entregar las obras e instalaciones a que esté obligado con arreglo al contrato y en el estado de conservación y funcionamiento adecuados."
+ },
+ {
+  "n": 35016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-103",
+  "pregunta": "Los bienes afectos a la concesión que vayan a revertir a la Administración:",
+  "opciones": [
+   "Solo pueden embargarse por deudas tributarias",
+   "No podrán ser objeto de embargo",
+   "Pueden embargarse libremente",
+   "Deben venderse antes de la reversión"
+  ],
+  "correcta": 1,
+  "cita": "Los bienes afectos a la concesión que vayan a revertir a la Administración en virtud de lo establecido en el presente artículo, no podrán ser objeto de embargo."
+ },
+ {
+  "n": 35017,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-105",
+  "pregunta": "Si en un servicio público se produce una perturbación grave y no reparable por otros medios, la Administración podrá acordar:",
+  "opciones": [
+   "La expropiación de las acciones del concesionario",
+   "La suspensión indefinida del servicio",
+   "El secuestro o intervención del servicio",
+   "La privatización del servicio"
+  ],
+  "correcta": 2,
+  "cita": "por parte de este se derivase perturbación grave y no reparable por otros medios en el servicio, la Administración podrá acordar el secuestro o intervención del mismo en los términos establecidos en el artículo 263."
+ },
+ {
+  "n": 35018,
+  "bloque": "III",
+  "tipo": "plazo",
+  "norma": "LCSP",
+  "articulo": "a2-106",
+  "pregunta": "Demora de la Administración en entregar al concesionario la contraprestación o los medios auxiliares que es causa de resolución del contrato de concesión de servicios",
+  "opciones": [
+   "Más de 6 meses",
+   "Más de 1 año",
+   "Más de 3 meses",
+   "Más de 4 meses"
+  ],
+  "correcta": 0,
+  "cita": "b) La demora superior a seis meses por parte de la Administración en la entrega al concesionario de la contraprestación o de los medios auxiliares a que se obligó según el contrato."
+ },
+ {
+  "n": 35019,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-106",
+  "pregunta": "El rescate del servicio por la Administración para su gestión directa, como causa de resolución de la concesión, requiere:",
+  "opciones": [
+   "El consentimiento del concesionario",
+   "Una ley de las Cortes Generales",
+   "Solo la voluntad del órgano de contratación",
+   "Razones de interés público y acreditar que la gestión directa es más eficaz y eficiente que la concesional"
+  ],
+  "correcta": 3,
+  "cita": "El rescate de la concesión requerirá además la acreditación de que dicha gestión directa es más eficaz y eficiente que la concesional."
+ },
+ {
+  "n": 35020,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a2-106",
+  "pregunta": "¿Cuál de las siguientes es una causa específica de resolución del contrato de concesión de servicios?",
+  "opciones": [
+   "El aumento del número de usuarios",
+   "La revisión anual de tarifas",
+   "La supresión del servicio por razones de interés público",
+   "El cambio de domicilio social del concesionario"
+  ],
+  "correcta": 2,
+  "cita": "d) La supresión del servicio por razones de interés público."
+ },
+ {
+  "n": 35021,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-24",
+  "pregunta": "Antes de contratar un servicio que conlleve prestaciones directas a favor de la ciudadanía, deberá haberse establecido:",
+  "opciones": [
+   "Una tasa por su utilización",
+   "Un convenio con la Comunidad Autónoma",
+   "La conformidad de los usuarios",
+   "Su régimen jurídico, que declare la actividad asumida por la Administración como propia"
+  ],
+  "correcta": 3,
+  "cita": "prestaciones directas a favor de la ciudadanía se deberán cumplir las siguientes prescripciones: a) Antes de proceder a la contratación de un servicio de esta naturaleza deberá haberse establecido su régimen jurídico, que declare expresamente que la actividad de que se trata queda asumida por la Administración"
+ },
+ {
+  "n": 35022,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LCSP",
+  "articulo": "a3-24",
+  "pregunta": "Los bienes afectos a los servicios que conlleven prestaciones directas a favor de la ciudadanía:",
+  "opciones": [
+   "Deben estar asegurados por la Administración",
+   "Pueden ser embargados por cualquier acreedor",
+   "No podrán ser objeto de embargo",
+   "Pasan a ser propiedad del contratista"
+  ],
+  "correcta": 2,
+  "cita": "c) Los bienes afectos a los servicios regulados en el presente artículo no podrán ser objeto de embargo."
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "n": 36001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85",
+  "pregunta": "Según la Ley 7/1985, son servicios públicos locales:",
+  "opciones": [
+   "Los que se financian con tasas",
+   "Solo los que se prestan mediante concesión",
+   "Los que prestan las entidades locales en el ámbito de sus competencias",
+   "Los que el Estado delega en los municipios"
+  ],
+  "correcta": 2,
+  "cita": "Son servicios públicos locales los que prestan las entidades locales en el ámbito de sus competencias."
+ },
+ {
+  "n": 36002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85",
+  "pregunta": "Los servicios públicos de competencia local habrán de gestionarse de la forma:",
+  "opciones": [
+   "Más barata para los usuarios",
+   "Que determine la Comunidad Autónoma",
+   "Que elija libremente el alcalde",
+   "Más sostenible y eficiente de entre las enumeradas en la ley"
+  ],
+  "correcta": 3,
+  "cita": "Los servicios públicos de competencia local habrán de gestionarse de la forma más sostenible y eficiente de entre las enumeradas a continuación: A) Gestión directa: a) Gestión por la propia Entidad Local."
+ },
+ {
+  "n": 36003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85",
+  "pregunta": "¿Cuál de las siguientes NO es una forma de gestión directa de los servicios públicos locales según el artículo 85 de la Ley 7/1985?",
+  "opciones": [
+   "El organismo autónomo local",
+   "La entidad pública empresarial local",
+   "La concesión de servicios",
+   "La sociedad mercantil local cuyo capital social sea de titularidad pública"
+  ],
+  "correcta": 2,
+  "cita": "b) Organismo autónomo local."
+ },
+ {
+  "n": 36004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85",
+  "pregunta": "Para gestionar un servicio público local mediante entidad pública empresarial local o sociedad mercantil local debe acreditarse, mediante memoria justificativa, que:",
+  "opciones": [
+   "El servicio es deficitario",
+   "Lo solicitan los vecinos",
+   "Lo ha autorizado el Ministerio de Hacienda",
+   "Resultan más sostenibles y eficientes que la gestión por la propia entidad local o por organismo autónomo local"
+  ],
+  "correcta": 3,
+  "cita": "las letras c) y d) cuando quede acreditado mediante memoria justificativa elaborada al efecto que resultan más sostenibles y eficientes que las formas dispuestas en las letras a) y b), para lo que se deberán tener en cuenta los criterios de rentabilidad económica y recuperación de"
+ },
+ {
+  "n": 36005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85",
+  "pregunta": "En la elección de la forma de gestión de un servicio público local, ¿quién valorará la sostenibilidad financiera de las propuestas?",
+  "opciones": [
+   "El tesorero municipal",
+   "El secretario del Pleno",
+   "El Tribunal de Cuentas",
+   "El interventor local"
+  ],
+  "correcta": 3,
+  "cita": "A estos efectos, se recabará informe del interventor local quien valorará la sostenibilidad financiera de las propuestas planteadas, de conformidad con lo previsto en el artículo 4 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera."
+ },
+ {
+  "n": 36006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85bis.",
+  "pregunta": "La creación, modificación, refundición y supresión de los organismos autónomos locales y entidades públicas empresariales locales corresponde:",
+  "opciones": [
+   "Al Pleno de la entidad local, que aprobará sus estatutos",
+   "Al Consejo de Gobierno de la Comunidad Autónoma",
+   "Al alcalde",
+   "A la Junta de Gobierno Local"
+  ],
+  "correcta": 0,
+  "cita": "General del Estado, en cuanto les resultase de aplicación, con las siguientes especialidades: a) Su creación, modificación, refundición y supresión corresponderá al Pleno de la entidad local, quien aprobará sus estatutos."
+ },
+ {
+  "n": 36007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85bis.",
+  "pregunta": "En los organismos autónomos locales deberá existir:",
+  "opciones": [
+   "Un consejo de administración",
+   "Un consejo rector",
+   "Un patronato",
+   "Una junta general de accionistas"
+  ],
+  "correcta": 1,
+  "cita": "c) En los organismos autónomos locales deberá existir un consejo rector, cuya composición se determinará en sus estatutos."
+ },
+ {
+  "n": 36008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85bis.",
+  "pregunta": "En las entidades públicas empresariales locales deberá existir:",
+  "opciones": [
+   "Una junta general de accionistas",
+   "Un consejo rector",
+   "Un consejo de administración",
+   "Un consejo de patronos"
+  ],
+  "correcta": 2,
+  "cita": "d) En las entidades públicas empresariales locales deberá existir un consejo de administración, cuya composición se determinará en sus Estatutos."
+ },
+ {
+  "n": 36009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85bis.",
+  "pregunta": "Si el titular del máximo órgano de dirección de un organismo autónomo local es un profesional del sector privado, debe ser titulado superior y tener:",
+  "opciones": [
+   "Más de diez años de ejercicio profesional",
+   "La condición de concejal",
+   "Más de dos años de ejercicio profesional",
+   "Más de cinco años de ejercicio profesional"
+  ],
+  "correcta": 3,
+  "cita": "b) El titular del máximo órgano de dirección de los mismos deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos, y con más de cinco años de ejercicio profesional en el segundo."
+ },
+ {
+  "n": 36010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a85ter.",
+  "pregunta": "Las sociedades mercantiles locales se rigen, con carácter general:",
+  "opciones": [
+   "Íntegramente por el ordenamiento jurídico privado, salvo en materia presupuestaria, contable, de control financiero, de eficacia y de contratación",
+   "Íntegramente por el Derecho administrativo",
+   "Por el Estatuto Básico del Empleado Público",
+   "Por la Ley General Presupuestaria en todo caso"
+  ],
+  "correcta": 0,
+  "cita": "Las sociedades mercantiles locales se regirán íntegramente, cualquiera que sea su forma jurídica, por el ordenamiento jurídico privado, salvo las materias en que les sea de aplicación la normativa presupuestaria, contable, de control"
+ },
+ {
+  "n": 36011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a86",
+  "pregunta": "La aprobación del expediente para que una entidad local ejerza la iniciativa pública en actividades económicas corresponde:",
+  "opciones": [
+   "Al alcalde",
+   "A la Junta de Gobierno Local",
+   "Al Pleno de la respectiva Corporación local",
+   "Al Delegado del Gobierno"
+  ],
+  "correcta": 2,
+  "cita": "Corresponde al pleno de la respectiva Corporación local la aprobación del expediente, que determinará la forma concreta de gestión del servicio."
+ },
+ {
+  "n": 36012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a86",
+  "pregunta": "¿Cuál de las siguientes actividades está reservada a favor de las Entidades Locales por el artículo 86 de la Ley 7/1985?",
+  "opciones": [
+   "La telefonía",
+   "El transporte público de viajeros",
+   "El suministro de electricidad",
+   "La enseñanza universitaria"
+  ],
+  "correcta": 1,
+  "cita": "Se declara la reserva en favor de las Entidades Locales de las siguientes actividades o servicios esenciales: abastecimiento domiciliario y depuración de aguas; recogida, tratamiento y aprovechamiento de residuos, y transporte público de viajeros, de conformidad con lo previsto en la legislación sectorial aplicable."
+ },
+ {
+  "n": 36013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a86",
+  "pregunta": "La ejecución efectiva en régimen de monopolio de las actividades reservadas a las Entidades Locales requiere, además del acuerdo del pleno:",
+  "opciones": [
+   "Un referéndum local",
+   "El informe favorable del Consejo de Estado",
+   "La aprobación por el órgano competente de la Comunidad Autónoma",
+   "La aprobación del Consejo de Ministros"
+  ],
+  "correcta": 2,
+  "cita": "La efectiva ejecución de estas actividades en régimen de monopolio requiere, además del acuerdo de aprobación del pleno de la correspondiente Corporación local, la aprobación por el órgano competente de la Comunidad Autónoma."
+ },
+ {
+  "n": 36014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "LBRL",
+  "articulo": "a86",
+  "pregunta": "El Estado y las Comunidades Autónomas pueden establecer reservas a favor de las Entidades Locales para otras actividades y servicios:",
+  "opciones": [
+   "Mediante orden ministerial",
+   "Mediante Ley",
+   "Mediante acuerdo del Pleno municipal",
+   "Mediante convenio con la entidad local"
+  ],
+  "correcta": 1,
+  "cita": "El Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, podrán establecer, mediante Ley, idéntica reserva para otras actividades y servicios."
+ }
+]
