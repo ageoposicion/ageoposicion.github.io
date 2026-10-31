@@ -114,6 +114,23 @@ completa A) a)-d) y así justifique la respuesta. Se evita el art. 85.2.B LBRL, 
 refundido de contratos de 2011, ya derogado, y el párrafo tercero del art. 129.4 de la Ley 39/2015
 (incisos anulados por la STC 55/2018).
 
+## Revisión 11 · preguntas oficiales del INAP (31-10-2026)
+
+Fuente: cuestionarios y plantillas DEFINITIVAS publicados por el INAP (sede.inap.gob.es), descargados por la tarea
+`inap.yml` en `data/inap/`. Convocatorias 2025 (examen 2026), 2024 y 2021-2022, ordinario y llamamiento extraordinario
+(el modelo B repite las preguntas del A). `scripts/oficiales.py` comprueba que cada enunciado y cada opción están
+literalmente en el cuestionario, que la plantilla es la del mismo examen (por su título) y que la definitiva coincide
+con la provisional salvo unas pocas correcciones. Incidencia detectada y corregida: en 2021-2022 las dos plantillas
+definitivas tenían el mismo título y una pisaba a la otra; ahora cada archivo tiene nombre único.
+
+750 preguntas: 178 de informática (bloque VI, apartadas hasta que la usuaria lo pida), 22 anuladas, 1 repetida y
+6 excluidas por haber cambiado la norma (ver `data/oficiales/decisiones.json`): número de reformas de la Constitución,
+plan de Gobierno Abierto «vigente», umbrales de contratación de 2022-2025 y una del RDLeg 1/2013 reformado.
+Quedan 543 (`data/oficiales.json`): 119 con la respuesta literal en el BOE vigente, 97 cuyo artículo citado no ha
+cambiado desde el examen y 327 revisadas por categorías de riesgo (umbrales, permisos, plazos, nombres de órganos,
+reformas de 2023-2026). Muestra manual de 40 de estas últimas (semilla 2026): todas correctas. Las que citan
+ministerios con su nombre de entonces llevan una nota.
+
 ## Correcciones de la usuaria (desde 8-10-2026)
 
 La app tiene un botón «✏️ Editar» en cada pregunta. Las correcciones se guardan en

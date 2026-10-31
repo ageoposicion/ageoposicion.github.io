@@ -1,0 +1,2002 @@
+[
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 1,
+  "q": "Según el artículo 2 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, ¿qué Comisión se designará en las Cortes Generales para relacionarse con el Defensor del Pueblo e informar a los respectivos Plenos en cuantas ocasiones sea necesario?",
+  "o": [
+   "Una Comisión Mixta Congreso-Senado.",
+   "Una Comisión Mixta de Control Parlamentario.",
+   "Una Comisión Permanente Congreso-Senado.",
+   "Una Comisión de Investigación."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 2,
+  "q": "¿En cuántos títulos se encuentra estructurada la Constitución Española de 1978?",
+  "o": [
+   "Un título preliminar y 10 títulos.",
+   "Cinco títulos divididos en 10 subtítulos.",
+   "No se estructura en títulos, sino en apartados.",
+   "Dos títulos divididos en 10 artículos."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 3,
+  "q": "De acuerdo con el artículo 63 de la Constitución Española de 1978, ¿a quién corresponde declarar la guerra y hacer la paz?",
+  "o": [
+   "Al Gobierno, previa autorización del Rey.",
+   "Al Congreso de los Diputados, previa autorización del Rey.",
+   "Al Rey, previa autorización de las Cortes Generales.",
+   "Al Rey, previa autorización del Congreso de los Diputados."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 4,
+  "q": "De acuerdo con el artículo 71 de la Constitución Española de 1978, ¿quién será competente en las causas contra Diputados y Senadores?",
+  "o": [
+   "El Tribunal Constitucional.",
+   "La Sala de lo Penal de la Audiencia Nacional.",
+   "La Sala de lo Penal del Tribunal Supremo.",
+   "La Sala de lo Contencioso-Administrativo del Tribunal Supremo."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 5,
+  "q": "De acuerdo con el artículo 8 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿podrá la Comisión General de Secretarios de Estado y Subsecretarios adoptar decisiones o acuerdos por delegación del Gobierno?",
+  "o": [
+   "Sí, por Acuerdo del Consejo de Ministros, a propuesta del Presidente del Gobierno.",
+   "Sí, por delegación expresa de los Ministros.",
+   "Sí, en los casos tasados en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.",
+   "No, en ningún caso."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 6,
+  "q": "Según el artículo 124 de la Constitución Española de 1978, ¿quién nombra al Fiscal General del Estado?",
+  "o": [
+   "El Fiscal General del Estado será nombrado por Presidente del Tribunal Constitucional, entre los miembros del Consejo General del Poder Judicial.",
+   "El Fiscal General del Estado será nombrado por el Gobierno, a propuesta del Consejo General del Poder Judicial.",
+   "El Fiscal General del Estado será nombrado por el Consejo General del Poder Judicial, a propuesta del Gobierno.",
+   "El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 7,
+  "q": "Según el artículo 5.3 de la Ley 50/1997, de 27 de noviembre, del Gobierno, las deliberaciones del Consejo de Ministros serán:",
+  "o": [
+   "Secretas.",
+   "Públicas.",
+   "Motivadas.",
+   "Sancionadas por el Rey."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 8,
+  "q": "¿En cuántos ejes se articula el IV Plan de Gobierno Abierto en España?",
+  "o": [
+   "Cinco ejes.",
+   "Veinte ejes.",
+   "Cien ejes.",
+   "Cincuenta y tres ejes."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 9,
+  "q": "Según la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado:",
+  "o": [
+   "Las Representaciones Permanentes representan con este carácter a España ante la Unión Europea o una Organización Internacional.",
+   "La creación y supresión de las Misiones Diplomáticas Permanentes y Representaciones Permanentes se realizará mediante orden ministerial del Ministro de Asuntos Exteriores, Unión Europea y Cooperación.",
+   "Las Representaciones Permanentes representan con este carácter a España ante la Unión Europea o una Organización Nacional.",
+   "La creación y supresión de las Misiones Diplomáticas Permanentes y Representaciones Permanentes se realizará mediante orden ministerial del Ministro de la Presidencia."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 10,
+  "q": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa. Al respecto de lo anterior, indique la respuesta correcta:",
+  "o": [
+   "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo. El plazo máximo para resolver y notificar la resolución será de dos meses, transcurrido el cual, la reclamación se entenderá desestimada.",
+   "La reclamación se interpondrá en el plazo de tres meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo. El plazo máximo para resolver y notificar la resolución será de dos meses, transcurrido el cual, la reclamación se entenderá desestimada.",
+   "La reclamación se interpondrá en el plazo de tres meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo. El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá desestimada.",
+   "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo. El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá desestimada."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 11,
+  "q": "Según la Constitución Española de 1978, ¿cuál de las siguientes opciones es correcta respecto a los Estatutos de Autonomía?",
+  "o": [
+   "Son la norma institucional superior de cada comunidad autónoma y del Estado.",
+   "El Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico.",
+   "El procedimiento de reforma requerirá, en todo caso, la celebración de un referéndum y la aprobación por las Cortes Generales, mediante ley orgánica.",
+   "Se aprueban por ley ordinaria."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 12,
+  "q": "De acuerdo con la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, ¿cuál de los siguientes órganos ha de existir en todos los ayuntamientos?",
+  "o": [
+   "Tenientes de alcalde.",
+   "Comisión de Tributos.",
+   "Comisión de Sugerencias y Reclamaciones.",
+   "Junta de Gobierno Local."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 13,
+  "q": "El artículo 2 del Tratado de la Unión Europea establece que la Unión Europea se fundamenta en los valores de respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los derechos de las personas pertenecientes a minorías. ¿Qué institución de la Unión Europea está facultada para constatar la existencia de una violación grave y persistente de un Estado miembro de los valores contemplados en dicho artículo?",
+  "o": [
+   "El Consejo Europeo.",
+   "La Comisión Europea.",
+   "El Parlamento Europeo.",
+   "El Tribunal de Justicia de la Unión Europea."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 14,
+  "q": "De conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la presidencia de la Agencia Española de Protección de Datos será nombrada por:",
+  "o": [
+   "El Congreso de los Diputados, a propuesta del Presidente del Gobierno.",
+   "El Gobierno, a propuesta del Congreso de los Diputados.",
+   "El Congreso de los Diputados, por mayoría de 3/5.",
+   "El Gobierno, a propuesta del Ministerio de Justicia."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 15,
+  "q": "Según el Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano, ¿quién ostentará la jefatura de la unidad departamental de información administrativa en cada Ministerio?",
+  "o": [
+   "El titular de la Subdirección General que tenga encomendada la competencia sobre la información administrativa.",
+   "El titular del Departamento.",
+   "La Comisión Interministerial de Información Administrativa.",
+   "El Subsecretario, en todo caso."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 16,
+  "q": "Según el Real Decreto 1708/2011, de 18 de noviembre, por el que se establece el Sistema Español de Archivos y se regula el Sistema de Archivos de la Administración General del Estado y de sus Organismos Públicos y su régimen de acceso, los archivos de oficina o de gestión cumplirán las funciones de:",
+  "o": [
+   "Impulsar programas de difusión y gestión cultural del patrimonio documental custodiado.",
+   "Organizar los documentos producidos por sus respectivas unidades.",
+   "Conservar los documentos que son transferidos desde los Archivos Centrales de los Ministerios.",
+   "Conservar los documentos con valor histórico que le son transferidos desde el Archivo General de la Administración."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 17,
+  "q": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos de pleno derecho:",
+  "o": [
+   "Las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras favorables.",
+   "Los actos dictados por órgano manifiestamente competente por razón de la materia o del territorio.",
+   "Los actos que tengan un contenido imposible.",
+   "Las disposiciones administrativas que vulneren otras disposiciones administrativas de rango inferior."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 18,
+  "q": "Según lo dispuesto en los artículos 90 y 91 de la Constitución Española de 1978, aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste. Indique la respuesta correcta:",
+  "o": [
+   "El Senado en el plazo de tres meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo.",
+   "El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, una vez transcurrido el plazo previsto en el artículo 91 de la Constitución Española de 1978 desde la interposición del mismo.",
+   "El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.",
+   "El Rey sancionará en el plazo de veinte días naturales las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 19,
+  "q": "Con arreglo a lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que reste menos para su tramitación ordinaria, ¿en qué tiempo deberán ser resueltos los procedimientos administrativos tramitados de manera simplificada?",
+  "o": [
+   "Diez días, a contar desde la notificación al interesado del acuerdo de tramitación simplificada del procedimiento.",
+   "Treinta días, a contar desde la notificación al interesado del acuerdo de tramitación simplificada del procedimiento.",
+   "Diez días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+   "Treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 20,
+  "q": "Conforme a lo señalado en el artículo 74 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las cuestiones incidentales que se susciten en un procedimiento:",
+  "o": [
+   "Suspenderán la tramitación del procedimiento, salvo la recusación, que no lo suspenderá.",
+   "Suspenderán la tramitación del procedimiento.",
+   "No suspenderán la tramitación del procedimiento en ningún caso.",
+   "No suspenderán la tramitación del procedimiento, salvo la recusación."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 21,
+  "q": "El artículo 16 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece que son contratos de suministro:",
+  "o": [
+   "Aquellos por el que uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia.",
+   "Los que tienen por objeto la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto.",
+   "Aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra.",
+   "Los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 22,
+  "q": "El artículo 145 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público establece sobre la adjudicación de los contratos que:",
+  "o": [
+   "Se realizará atendiendo a la oferta económica más ventajosa, sin necesidad de justificarlo en el expediente.",
+   "Se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.",
+   "Se realizará atendiendo exclusivamente a criterios cualitativos.",
+   "Se realizará atendiendo exclusivamente a criterios cuantitativos."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 23,
+  "q": "Son materias objeto de arbitraje conforme al artículo 2 de la Ley 60/2003, de 23 de diciembre, de Arbitraje:",
+  "o": [
+   "Las controversias sobre materias de libre disposición conforme a derecho.",
+   "Las cuestiones en que, con arreglo a las Leyes, deba intervenir el Ministerio Fiscal en representación y defensa de quienes, por carecer de capacidad de obrar o de representación legal, no pueden actuar por sí mismos.",
+   "Las cuestiones sobre las que haya recaído resolución judicial firme y definitiva, salvo los aspectos derivados de su ejecución.",
+   "Los despidos, convenios colectivos y conflictos laborales."
+  ],
+  "r": "ANULADA",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 24,
+  "q": "Conforme al artículo 29 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la graduación de la sanción administrativa considerará especialmente los siguientes criterios:",
+  "o": [
+   "La inexistencia de intencionalidad y no reincidencia en la comisión de infracciones administrativas.",
+   "La no reincidencia en la comisión de infracciones administrativas.",
+   "El grado de culpabilidad o la inexistencia de intencionalidad.",
+   "El grado de culpabilidad o la existencia de intencionalidad."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 25,
+  "q": "¿Qué norma regula el procedimiento y requisitos para la rectificación registral relativa al sexo y, en su caso, nombre de las personas, así como sus efectos, y prevé medidas específicas derivadas de dicha rectificación en los ámbitos público y privado?",
+  "o": [
+   "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.",
+   "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.",
+   "Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.",
+   "Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 26,
+  "q": "Según el Real Decreto 1405/1986, de 6 de junio, por el que se aprueban el Reglamento del Registro Central de Personal y las normas de coordinación con los de las restantes Administraciones Públicas, ¿qué es preceptivo de anotación en el Registro Central de Personal?:",
+  "o": [
+   "Los reingresos.",
+   "Las vacaciones.",
+   "Los días de asuntos particulares.",
+   "Los cambios de domicilio."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 27,
+  "q": "Según el artículo 10 del texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿en qué circunstancia se puede nombrar a un funcionario interino?",
+  "o": [
+   "Cuando existan plazas vacantes, y no sea posible su cobertura por funcionarios de carrera, por un máximo de dos años.",
+   "Por el exceso o acumulación de tareas por plazo máximo de tres meses, dentro de un periodo de doce meses.",
+   "Para la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+   "Para la ejecución de programas de carácter estructural."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 28,
+  "q": "Según el artículo 62 del texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de los siguientes requisitos es necesario cumplir para adquirir la condición de funcionario de carrera?",
+  "o": [
+   "Toma de posesión dentro de los tres días posteriores al nombramiento.",
+   "Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico.",
+   "Superación del proceso selectivo, aunque en ese momento no se reúna la titulación requerida en la convocatoria.",
+   "Toma de posesión al día siguiente de haber sido nombrado."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 29,
+  "q": "El artículo 61 del texto refundido de la Ley del Estatuto Básico del Empleado Público, establece que los sistemas selectivos de personal laboral fijo serán:",
+  "o": [
+   "Los de concurso oposición o entrevista.",
+   "Los de concurso oposición o concurso de valoración de méritos con entrevista.",
+   "Los de oposición o concurso oposición con entrevista.",
+   "Los de oposición, concurso oposición o concurso de valoración de méritos."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 30,
+  "q": "De acuerdo con el artículo 53 del texto refundido de la Ley del Estatuto Básico del Empleado Público, dentro del Código de conducta de los empleados públicos, es un principio ético:",
+  "o": [
+   "Desempeñar las tareas correspondientes a su puesto de trabajo de forma diligente y cumpliendo la jornada y el horario establecidos.",
+   "No aceptar ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas.",
+   "Administrar los recursos y bienes públicos con austeridad, y no utilizar los mismos en provecho propio o de personas allegadas. Tendrán, asimismo, el deber de velar por su conservación.",
+   "Garantizar la atención al ciudadano en la lengua que lo solicite."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 31,
+  "q": "Según el artículo 98.3 del texto refundido de la Ley del Estatuto Básico del Empleado Público:",
+  "o": [
+   "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 6 meses, salvo en caso de paralización del procedimiento imputable al interesado.",
+   "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 3 meses, salvo en caso de paralización del procedimiento imputable al interesado.",
+   "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 12 meses, salvo en caso de paralización del procedimiento imputable al interesado.",
+   "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 18 meses, salvo en caso de paralización del procedimiento imputable al interesado."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 32,
+  "q": "Según el artículo 3.1 del texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado ¿cuál de estos colectivos estaría obligatoriamente incluido de su ámbito de aplicación?",
+  "o": [
+   "Los funcionarios de la Administración Local.",
+   "Los funcionarios de la Administración de la Seguridad Social.",
+   "Los funcionarios de carrera de la Administración Civil del Estado transferidos a las Comunidades Autónomas, que hayan ingresado o ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma de destino, cualquiera que sea el sistema de acceso.",
+   "Los funcionarios en prácticas que aspiren a incorporarse a Cuerpos de la Administración Civil del Estado, en la forma que reglamentariamente se determine."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 33,
+  "q": "De conformidad con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, la modificación de la clasificación profesional de determinados colectivos de personal, sólo podrá ser aprobada:",
+  "o": [
+   "Por la Subcomisión Paritaria a la que pertenezca.",
+   "Por la Comisión Negociadora del Convenio.",
+   "Por la Comisión Paritaria.",
+   "Por mayoría del colectivo afectado."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 34,
+  "q": "Según el artículo 44.1 del texto refundido de la Ley General de la Seguridad Social, las prestaciones de la Seguridad Social, así como los beneficios de sus servicios sociales y de la asistencia social, no podrán ser objeto de retención, cesión total o parcial, compensación o descuento, salvo en alguno de estos casos:",
+  "o": [
+   "En orden al cumplimiento de las obligaciones alimenticias a favor del cónyuge e hijos.",
+   "Por deudas privadas.",
+   "Por incumplimiento de contratos públicos.",
+   "Por fraude en el percibo de subvenciones públicas."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 35,
+  "q": "El artículo 134 de la Constitución Española de 1978 establece, literalmente, que el Gobierno deberá presentar los Presupuestos Generales del Estado:",
+  "o": [
+   "Ante las Cortes Generales al menos tres meses antes de la expiración de los del año anterior.",
+   "Ante el Congreso de los Diputados antes de que finalice el ejercicio presupuestario.",
+   "Ante los Presidentes de ambas Cámaras Legislativas antes de la expiración de los del año anterior.",
+   "Ante el Congreso de los Diputados al menos tres meses antes de la expiración de los del año anterior."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 36,
+  "q": "Conforme a la clasificación económica del gasto en los Presupuestos Generales del Estado, los gastos destinados a atender las indemnizaciones por razón del servicio se imputarán al:",
+  "o": [
+   "Capítulo 1.",
+   "Capítulo 2.",
+   "Capítulo 3.",
+   "Capítulo 4."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 37,
+  "q": "Con carácter general y de acuerdo con el artículo 198 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Administración tiene la obligación de abonar el precio de las prestaciones convenidas dentro de:",
+  "o": [
+   "Los treinta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato.",
+   "Los sesenta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato.",
+   "Los noventa días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato.",
+   "Los veinte días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 38,
+  "q": "De conformidad con el artículo 75 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿a quién le competen las funciones de Ordenador General de pagos del Estado?",
+  "o": [
+   "Al Ministro de Economía.",
+   "Al Director General del Tesoro y Política Financiera.",
+   "Al Secretario General del Tesoro y Financiación Internacional.",
+   "Al Ministro de Hacienda."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 39,
+  "q": "De acuerdo con la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública, señale la respuesta correcta respecto al complemento específico:",
+  "o": [
+   "Se percibe en 12 pagas.",
+   "Es el correspondiente al nivel del puesto que se desempeñe.",
+   "Es una retribución básica, que se devenga con carácter fijo y periodicidad mensual.",
+   "En ningún caso podrá asignarse más de un complemento específico a cada puesto de trabajo."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 40,
+  "q": "Indique la respuesta correcta entre las siguientes opciones relativas a lo dispuesto en el artículo 10 del Real Decreto 640/1987, de 8 de mayo, sobre pagos librados «a justificar»:",
+  "o": [
+   "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro del mes siguiente a la inversión de las mismas y en todo caso en el plazo de seis meses desde la percepción de los correspondientes fondos.",
+   "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro de los dos meses siguientes a la inversión de las mismas y en todo caso en el plazo de tres meses desde la percepción de los correspondientes fondos.",
+   "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro de los dos meses siguientes a la inversión de las mismas y en todo caso en el plazo de seis meses desde la percepción de los correspondientes fondos.",
+   "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro del mes siguiente a la inversión de las mismas y en todo caso en el plazo de tres meses desde la percepción de los correspondientes fondos."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 41,
+  "q": "¿Cuál de las siguientes afirmaciones es verdadera?",
+  "o": [
+   "El escáner es un periférico de entrada del ordenador.",
+   "Los ordenadores con sistema operativo Linux no admiten impresoras.",
+   "La impresora es un periférico de entrada del ordenador.",
+   "La función principal de una tarjeta de red es la impresión."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 42,
+  "q": "¿Cuál de las siguientes opciones corresponde a un sistema operativo?",
+  "o": [
+   "AMD.",
+   "PostgreSQL.",
+   "Mac OS.",
+   "RJ45."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 43,
+  "q": "¿Cuál de los siguientes programas de software corresponde a una aplicación ofimática?",
+  "o": [
+   "Windows.",
+   "Excel.",
+   "MySQL.",
+   "Chrome."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 44,
+  "q": "¿Cuál es un documento digital que contiene sus datos identificativos de su suscriptor y que vincula a su suscriptor con unos datos de verificación de firma y confirma su identidad?",
+  "o": [
+   "Certificado electrónico FNMT de Ciudadano.",
+   "Certificación HACCP.",
+   "ISO 9001.",
+   "Número de serie CMD."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 45,
+  "q": "Queremos hacer un tutorial de Windows 10, y para ello necesitamos grabar vídeos con ejemplos de su utilización. ¿Cuál de las siguientes herramientas de Windows 10 será la más adecuada para realizar estas tareas?",
+  "o": [
+   "Escritorio remoto.",
+   "Herramienta Recortes.",
+   "Paint.",
+   "Grabación de acciones de usuario."
+  ],
+  "r": "ANULADA",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 46,
+  "q": "¿Cuál de las siguientes es una herramienta de accesibilidad de Windows 10?",
+  "o": [
+   "Cámara.",
+   "Visor XPS.",
+   "Narrador.",
+   "Sway."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 47,
+  "q": "En Windows 10 en español utilizamos el método abreviado: logotipo de Windows + tecla E. ¿Cuál de las siguientes será la acción que producimos al hacerlo?",
+  "o": [
+   "Abrir el Explorador de archivos.",
+   "Minimiza las ventanas abiertas en Windows.",
+   "Cambiar entre aplicaciones abiertas.",
+   "Maximiza la ventana abierta."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 48,
+  "q": "WordPad es un editor de texto disponible en los accesorios de Windows 10. ¿Cuál de las siguientes afirmaciones es correcta con respecto a este accesorio?",
+  "o": [
+   "Utiliza un formato de archivo propio, no compatible con Word.",
+   "Permite guardar documentos en varios formatos, como .docx, .txt, o .rtf.",
+   "Solo puede guardar un archivo como documento de texto sin formato .txt.",
+   "Solo permite guardar los archivos en los formatos de imagen .png o .jpeg."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 49,
+  "q": "Queremos ver los procesos que se están ejecutando, así como el consumo de CPU y de memoria de un dispositivo con Windows 10. ¿Cuál de las siguientes herramientas es la adecuada?",
+  "o": [
+   "Propiedades del disco local (C:).",
+   "Visor de eventos.",
+   "Administrador de tareas.",
+   "Explorador de Windows."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 50,
+  "q": "Estamos trabajando en Windows 10 con dos pantallas y queremos que cada pantalla pueda mostrar ventanas diferentes. ¿Cuál de las siguientes opciones tendremos que seleccionar en la configuración de pantallas?",
+  "o": [
+   "Duplicar estas pantallas.",
+   "Mostrar únicamente en 1.",
+   "Extender estas pantallas.",
+   "Mostrar únicamente en 2."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 51,
+  "q": "¿Cuál es la utilidad de indexar archivos en la Búsqueda en Windows?",
+  "o": [
+   "Realizar copias de seguridad de los archivos, mensajes de correo electrónico u otro contenido local, como precaución de borrado en la búsqueda.",
+   "Copiar los archivos, mensajes de correo electrónico u otro contenido local en OneDrive y sincronizarlos con la copia local.",
+   "Seleccionar los archivos, mensajes de correo electrónico u otro contenido local para marcarlo y que no se utilice en las búsquedas.",
+   "Obtener resultado más rápidamente al buscar archivos, mensajes de correo electrónico u otro contenido local."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 52,
+  "q": "En Word 365 algunas informaciones sobre el documento con el que se está trabajando, como el número de página o el idioma del texto, se muestran de forma predeterminada. ¿En cuál de las siguientes opciones se visualiza esa información?",
+  "o": [
+   "Panel de navegación.",
+   "Barra de estado.",
+   "Cinta de opciones.",
+   "Barra de herramientas de acceso rápido."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 53,
+  "q": "En Word 365, ¿cuál es la función principal de la Barra de herramientas de acceso rápido?",
+  "o": [
+   "Agrupar y organizar todas las funciones y herramientas disponibles en Word.",
+   "Visualizar información relevante sobre el documento que se está visualizando o editando.",
+   "Tener acceso rápido a algunos comandos que utilizamos con frecuencia.",
+   "Acceder a las opciones de configuración."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 54,
+  "q": "En Word 365 si quieres aplicar formatos preestablecidos a algunos textos y que esta acción te sirva también para después crear una tabla de contenido. ¿Qué tipo de función debes aplicar?",
+  "o": [
+   "Tamaño de letra.",
+   "Espaciado.",
+   "Tipo de fuente.",
+   "Estilos."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 55,
+  "q": "¿Cuál de las características de Word 365 será la adecuada para mostrar palabras clave que se tratan en un documento, así como las páginas en las que aparecen?",
+  "o": [
+   "Insertar índice.",
+   "Insertar nota al final.",
+   "Referencia indexada.",
+   "Elementos rápidos."
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 56,
+  "q": "En Access 365, ¿cuál de los siguientes tipos de datos podemos ingresar en un campo de tipo Moneda?",
+  "o": [
+   "Números hasta 8 bytes con 4 decimales de precisión.",
+   "Datos alfanuméricos hasta 1 gigabyte.",
+   "Números hasta 16 bytes.",
+   "Datos alfanuméricos hasta 255 caracteres."
+  ],
+  "r": "ANULADA",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 57,
+  "q": "Vamos a crear un informe en una base de datos de Access 365. ¿Cuál de las siguientes opciones indica de forma correcta el tipo de objetos sobre los que podemos crear el informe?",
+  "o": [
+   "Solo Consultas.",
+   "Consultas y Formularios.",
+   "Solo Formularios.",
+   "Tablas y Consultas."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 58,
+  "q": "¿Cuál es la utilidad de la función de segmentación de datos en Excel 365?",
+  "o": [
+   "Es una función que permite realizar operaciones de cálculo sobre una columna numérica.",
+   "Permite dividir una tabla de origen en varias tablas de destino separadas, según un criterio de segmentación.",
+   "Permite realizar cálculos financieros utilizando varias columnas de una tabla.",
+   "Es una función que permite filtrar datos de manera interactiva en tablas o tablas dinámicas."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 59,
+  "q": "En un libro de Excel 365 tenemos varias hojas y en la hoja activa varias tablas de las cuales hemos seleccionado una. ¿Cuál de las siguientes opciones debemos elegir para imprimir solo esta tabla?",
+  "o": [
+   "Imprimir todo el libro.",
+   "Imprimir hojas activas.",
+   "Imprimir selección.",
+   "Imprimir todas las hojas."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 60,
+  "q": "En una hoja de Excel 365 en idioma español, en una celda a la cual no se le ha aplicado ningún tipo de formato, escribimos el siguiente valor: 20-2 ¿Cuál de las siguientes opciones es la que mostrará tras pulsar la tecla Enter?",
+  "o": [
+   "20-feb",
+   "18",
+   "20-2",
+   "45342,00"
+  ],
+  "r": "a",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 61,
+  "q": "Tenemos dos cuentas de usuario agregadas a Outlook 365. ¿Cuál de las siguientes opciones es correcta si realizamos una búsqueda sobre el Buzón actual?",
+  "o": [
+   "La búsqueda se realiza sobre todas las carpetas de todos los buzones, de las dos cuentas de usuario agregadas a Outlook.",
+   "La búsqueda se realiza sobre la carpeta en la que nos encontramos dentro del buzón y en ambas cuentas de usuario agregadas a Outlook.",
+   "La búsqueda se realiza sobre todas las carpetas del buzón de la cuenta de usuario en el que nos encontramos.",
+   "La búsqueda se realiza sobre todos los elementos de Outlook de la cuenta de usuario en el que nos encontramos, incluidas citas o tareas."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 62,
+  "q": "Queremos configurar Outlook 365 para que cuando recibamos un mensaje que incluya el texto “Aviso” en el asunto se modifique la importancia a “alta”. ¿Cuál de las siguientes capacidades de Outlook emplearemos?",
+  "o": [
+   "Alerta.",
+   "Regla.",
+   "Seguimiento.",
+   "Tarea."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 63,
+  "q": "No vamos a poder atender al correo electrónico durante un tiempo y queremos que otra persona pueda enviar elementos en nuestro nombre, así como crear y responder a convocatorias de reuniones. ¿Cuál de las siguientes funciones de Outlook 365 nos permite cumplir estos requisitos?",
+  "o": [
+   "Cambiar permisos en la carpeta de entrada.",
+   "Delegar acceso.",
+   "Aplicar directivas de retención.",
+   "Crear regla."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 64,
+  "q": "¿Cuál de los siguientes elementos permite administrar el tamaño del buzón de correo en Outlook 365?",
+  "o": [
+   "Preferencias de descarga.",
+   "Pasos rápidos.",
+   "Limpieza de buzón.",
+   "Crear grupo."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 65,
+  "q": "¿Cuál de los siguientes es un sistema de chat basado en la Inteligencia Artificial?",
+  "o": [
+   "Drive.",
+   "ChatGPT.",
+   "Kindle.",
+   "OneDrive."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 66,
+  "q": "Estamos trabajando con dos pantallas en Windows 10. ¿Cuál de las siguientes opciones es verdadera en cuanto a la configuración de las pantallas?",
+  "o": [
+   "Podemos configurar la escala (tamaño de texto, aplicaciones, etc.), la resolución y la orientación, pero ha de ser la misma para las dos pantallas.",
+   "La escala (tamaño de texto, aplicaciones, etc.), la resolución y la orientación de las pantallas son configurables de forma independiente para cada pantalla.",
+   "Las dos pantallas han de tener la misma escala (tamaño de texto, aplicaciones, etc.) y orientación, pero pueden tener diferente resolución.",
+   "La escala y resolución de las pantallas son configurables, pero la orientación no lo es."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 67,
+  "q": "En una tabla de Excel 365 queremos convertir algunas columnas en filas de una tabla dinámica. ¿Cuál de las siguientes funciones de Power Query nos servirá para hacerlo?",
+  "o": [
+   "Duplicar columnas.",
+   "Agrupar por.",
+   "Anulación de dinamización de columnas.",
+   "Invertir filas."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 68,
+  "q": "En Outlook 365 vamos a asignar categorías de color a un grupo de elementos seleccionados. ¿Cuál de las siguientes opciones indica de forma correcta las acciones disponibles para ello?",
+  "o": [
+   "Es necesario crear primero las categorías, ya que no partimos de categorías habilitadas por defecto. Es posible modificar o eliminar categorías así como asignar teclas de métodos abreviados a cada categoría.",
+   "Contamos con varias categorías habilitadas por defecto que podemos modificar o eliminar. También es posible crear nuevas categorías y asignar teclas de métodos abreviados a cada categoría.",
+   "Es necesario crear primero las categorías, ya que no partimos de categorías habilitadas por defecto. Es posible modificar o eliminar categorías, pero no asignar teclas de métodos abreviados a cada categoría.",
+   "Contamos con varias categorías habilitadas por defecto que podemos modificar o eliminar. También es posible crear nuevas categorías, pero no asignar teclas de métodos abreviados a cada categoría."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 69,
+  "q": "¿Cuál de los siguientes lenguajes puede ser ejecutado de forma directa por un navegador web?",
+  "o": [
+   "Fortran.",
+   "JavaScript.",
+   "SQL.",
+   "Pascal."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera",
+  "n": 70,
+  "q": "¿Qué organización tiene encomendada la autoridad de registro de los nombres de dominio de Internet para España (.es)?",
+  "o": [
+   "Fabrica Nacional de Moneda y Timbre.",
+   "SEPE.",
+   "Red.es.",
+   "Ministerio para la Transformación Digital y de la Función Pública."
+  ],
+  "r": "ANULADA",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera-reserva",
+  "n": 1,
+  "q": "De acuerdo con lo dispuesto en el título III de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, relativo al Consejo de Transparencia y Buen Gobierno, señale la respuesta correcta:",
+  "o": [
+   "El Consejo de Transparencia y Buen Gobierno estará compuesto por la Junta de Transparencia y Buen Gobierno y por el Presidente del Consejo de Transparencia y Buen Gobierno.",
+   "El Presidente del Consejo de Transparencia y Buen Gobierno será nombrado por un período no renovable de cuatro años mediante Real Decreto.",
+   "El Presidente del Consejo de Transparencia y Buen Gobierno cesará en su cargo por la expiración de su mandato, a petición propia o por separación acordada por el Ministro de Hacienda.",
+   "El Consejo de Ministros aprobará mediante Real Decreto el Estatuto del Consejo de Transparencia y Buen Gobierno."
+  ],
+  "r": "d",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera-reserva",
+  "n": 2,
+  "q": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas establece que las notificaciones:",
+  "o": [
+   "Se practicarán, en todo caso, por medios electrónicos.",
+   "Se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+   "Se podrán practicar por medios electrónicos las que contengan medios de pago a favor de los obligados, tales como cheques.",
+   "Cuando la notificación por medios electrónicos sea de carácter obligatorio, se entenderá rechazada cuando hayan transcurrido tres días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera-reserva",
+  "n": 3,
+  "q": "De acuerdo con la definición contenida en el artículo 38 de la Ley 40/2015, 1 de octubre, de Régimen Jurídico del Sector Público, aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a uno o varios organismos públicos o entidades de derecho público en ejercicio de sus competencias es:",
+  "o": [
+   "Un portal de internet.",
+   "Una carpeta ciudadana.",
+   "Una sede electrónica.",
+   "Un código seguro de verificación."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera-reserva",
+  "n": 4,
+  "q": "¿Qué actos administrativos, resoluciones y datos de las personas inscritas serán objeto de anotación en el Registro Central de Personal?:",
+  "o": [
+   "Domicilio particular.",
+   "Estado civil.",
+   "Autorizaciones o reconocimientos de compatibilidad.",
+   "Prolongaciones de jornada."
+  ],
+  "r": "c",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "primera-reserva",
+  "n": 5,
+  "q": "En función de lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que lo dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias siguientes:",
+  "o": [
+   "Que al dictarlo se hubiera incurrido en error de hecho o de derecho, que resulte de los propios documentos incorporados al expediente únicamente con posterioridad a la incoación del expediente.",
+   "Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida.",
+   "Que en la resolución hayan influido parcialmente documentos o testimonios declarados falsos por auto judicial, anterior a aquella resolución.",
+   "Que la resolución administrativa haya sido emitida con omisión del procedimiento legalmente establecido."
+  ],
+  "r": "b",
+  "ctx": null,
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 1,
+  "q": "En el informe a elaborar sobre el recurso de alzada, ¿cuál de los siguientes enunciados sería el correcto?:",
+  "o": [
+   "Si el recurso se ha interpuesto ante el órgano que dictó el acto impugnado, este debe resolverlo.",
+   "Si el acto impugnado ha sido expreso, el plazo para la interposición del recurso es de tres meses.",
+   "El plazo máximo para dictar y notificar la resolución del recurso será de un mes.",
+   "Contra la resolución del recurso de alzada no cabrá ningún otro recurso administrativo, salvo, en su caso, el extraordinario de revisión."
+  ],
+  "r": "d",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 2,
+  "q": "Dña. Estela, al analizar la documentación de la que dispone en relación al recurso de alzada interpuesto, aprecia que habrían de tenerse en cuenta nuevos hechos no recogidos en el expediente originario, por lo que decide incluir en su informe una propuesta para que esos hechos se pongan de manifiesto a los interesados para que estos puedan formular las alegaciones que estimen procedentes en un plazo:",
+  "o": [
+   "No inferior a diez días ni superior a quince.",
+   "No inferior a diez días ni superior a un mes.",
+   "De un mes desde la fecha del trámite de audiencia de los interesados.",
+   "De tres meses a contar desde el conocimiento de los hechos."
+  ],
+  "r": "a",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 3,
+  "q": "Pero Dña. Estela, antes de terminar su informe, se da cuenta de que a ella se le ha solicitado informe sobre un recurso de alzada, pero el recurrente lo ha calificado como recurso de reposición, calificación que ella considera claramente como errónea, por lo que sería correcta la siguiente actuación:",
+  "o": [
+   "Propone suspender la tramitación del recurso por calificación errónea por parte del recurrente.",
+   "Propone continuar con la tramitación del recurso, dado que del recurso presentado se deduce su verdadero carácter de recurso de alzada.",
+   "Propone la inadmisión del recurso por carecer manifiestamente de fundamento.",
+   "Propone la suspensión de su eficacia y su publicación en el Boletín Oficial del Estado."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 4,
+  "q": "Ante las dudas sobre la protección de datos, Dña. Estela, sabiendo que existe un delegado de protección de datos en el Ministerio de Agricultura, Pesca y Alimentación, piensa que sería una buena idea plantear una consulta para determinar si los procesos de tratamiento de datos son correctos. ¿Podría el delegado de protección de datos tener acceso a esos datos personales?",
+  "o": [
+   "Sí.",
+   "No.",
+   "Sí, salvo que se oponga a dicho acceso el responsable o el encargado del tratamiento de datos.",
+   "No, dado que este acceso solo le es permitido a la Agencia Española de Protección de Datos."
+  ],
+  "r": "a",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 5,
+  "q": "En el caso de que la persona que ha interpuesto el recurso de alzada presente una reclamación ante la Agencia Española de Protección de Datos por entender vulnerada la protección de sus datos, dicha Agencia podrá remitir esa reclamación al delegado de protección de datos del Ministerio de Agricultura, Pesca y Alimentación a fin de que este responda en el plazo de:",
+  "o": [
+   "Un mes.",
+   "Dos meses.",
+   "Quince días.",
+   "Tres meses."
+  ],
+  "r": "a",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 6,
+  "q": "Si como consecuencia de la actuación indicada en la anterior pregunta, el Ministerio de Agricultura, Pesca y Alimentación demuestra haber adoptado medidas para el cumplimiento de la normativa aplicable, la Agencia Española de Protección de Datos:",
+  "o": [
+   "Declarará caducado el procedimiento.",
+   "Efectuará un requerimiento al delegado de protección de datos del Ministerio de Agricultura, Pesca y Alimentación.",
+   "Efectuará una advertencia al responsable del tratamiento de datos del Ministerio de Agricultura, Pesca y Alimentación.",
+   "Podrá inadmitir a trámite la reclamación."
+  ],
+  "r": "d",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 7,
+  "q": "Fruto del estrés que sufre Dña. Estela, esta acaba discutiendo con la persona titular de la Subdirección General a la que está adscrita. En el marco de esa discusión, Dña. Estela llega a amenazar con dar publicidad en las redes sociales y medios de comunicación a toda la documentación a la que tiene acceso por razón de su cargo de Jefa de Servicio. Ante esta amenaza, su superior jerárquico le informa de que dicha conducta podría ser constitutiva de:",
+  "o": [
+   "Falta leve.",
+   "Falta grave.",
+   "Falta muy grave.",
+   "Despido disciplinario."
+  ],
+  "r": "c",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 8,
+  "q": "A la vista de lo que le puede suponer a Dña. Estela el hecho de llevar a cabo su amenaza, esta estudia la normativa aplicable y constata que su actuación podría llevar aparejada una sanción:",
+  "o": [
+   "De separación del servicio.",
+   "De despido disciplinario.",
+   "De suspensión de funciones por dos años.",
+   "De traslado con cambio de residencia por un año."
+  ],
+  "r": "a",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 9,
+  "q": "A la luz de la normativa aplicable en materia de régimen disciplinario, Dña. Estela sabe que en el caso de que se iniciara un procedimiento disciplinario contra ella, el Subsecretario del Ministerio de Agricultura, Pesca y Alimentación podría o debería nombrar un instructor o instructora del mismo, y que debería ser, en dicho caso, una persona funcionaria perteneciente a un cuerpo o escala del subgrupo:",
+  "o": [
+   "C1.",
+   "A2 en todo caso.",
+   "A1 o A2.",
+   "Solo se exige que sea funcionario público."
+  ],
+  "r": "c",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 10,
+  "q": "Dña. Estela comienza a barajar posibilidades respecto a su futuro profesional y piensa en solicitar una excedencia voluntaria por interés particular, sabiendo que si se le comienza a instruir un expediente disciplinario:",
+  "o": [
+   "Deberá acreditar un período mínimo de servicios de tres años.",
+   "No se le podrá conceder la excedencia voluntaria mientras dure la instrucción del procedimiento disciplinario.",
+   "La concesión de excedencia voluntaria por interés particular quedará subordinada a las necesidades del servicio debidamente motivadas.",
+   "No se le podrá conceder por un período superior a tres años."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 11,
+  "q": "Entre una de las posibilidades sobre las que piensa Dña. Estela, se encuentra la de ampliar sus retribuciones e ir labrándose un futuro en el sector privado trabajando como jefa de los servicios administrativos de una sociedad limitada perteneciente a un tío abuelo suyo que se dedica a la contratación de obras con el sector público. ¿Podría ser compatible esta actividad privada con su condición de funcionaria del Estado?",
+  "o": [
+   "No, conforme a la Ley de Incompatibilidades del personal al servicio de las Administraciones Públicas.",
+   "Sí, siempre que informe favorablemente la personal titular de la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación.",
+   "Podría ser compatible si la actividad privada no modificara la jornada y horario de trabajo de Dña. Estela.",
+   "Hay que atender al grado de parentesco del propietario de la empresa con Dña. Estela para dilucidar esta cuestión, así como la configuración jurídica de la empresa."
+  ],
+  "r": "a",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 12,
+  "q": "No obstante las posibilidades que se está planteando Dña. Estela, también podría promocionar a otro cuerpo o escala de un subgrupo superior, como, por ejemplo, el Cuerpo Superior de Administradores Civiles del Estado. ¿Sería posible en el caso de esta funcionaria?",
+  "o": [
+   "No, porque está desempeñando un puesto en comisión de servicios desde hace un año.",
+   "Sería posible si dicha funcionaria tiene una antigüedad de, al menos, dos años en el Cuerpo de Gestión de la Administración Civil del Estado y posee la titulación y el resto de los requisitos establecidos con carácter general para el acceso al Cuerpo Superior de Administradores Civiles del Estado.",
+   "Sería posible siempre que se haga a través de los procedimientos previstos en el Estatuto de los Trabajadores o en el convenio colectivo correspondiente.",
+   "Sería posible siempre y cuando concurra a los sistemas de evaluación que la Administración General del Estado determine, dándose audiencia a la interesada, y por la correspondiente resolución motivada."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 13,
+  "q": "También cabría la posibilidad de que Dña. Estela participase en un procedimiento de provisión de puestos de trabajo por el sistema de libre designación en el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, para la cual se requeriría antes de su nombramiento:",
+  "o": [
+   "Informe favorable de la Secretaría de Estado de Función Pública.",
+   "Ser funcionaria del subgrupo A1.",
+   "Informe favorable del Ministerio de Agricultura, Pesca y Alimentación.",
+   "Informe favorable de la Secretaría de Estado de Administración Pública."
+  ],
+  "r": "c",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 14,
+  "q": "Ya que Dña. Estela considera que en su Unidad hay una gran carga de trabajo que no puede ser adecuadamente asumida, decide proponerle a su Subdirectora General que gestione la posibilidad del nombramiento de funcionarios interinos por exceso o acumulación de tareas conforme al texto refundido de la Ley del Estatuto Básico del Empleado Público, sabiendo que pueden ser nombrados:",
+  "o": [
+   "Por un período máximo de tres años.",
+   "Por plazo máximo de nueve meses, dentro de un período de dieciocho meses.",
+   "Con una duración máxima de tres años, ampliables hasta doce meses más.",
+   "Por el tiempo que dure la cobertura de los puestos conforme a la correspondiente Oferta de Empleo Público."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 15,
+  "q": "Dña. Estela tiene cierto temor por las consecuencias del estrés que sufre, y conoce el caso de un compañero suyo, personal laboral fijo, al que el Instituto Nacional de la Seguridad Social declaró en situación de incapacidad permanente, pero no recuerda en qué grado, aunque sí sabe que la Ley General de la Seguridad Social indica cuatro grados posibles y que son:",
+  "o": [
+   "Parcial, total, transitoria y gran invalidez.",
+   "Total, absoluta, reglamentaria y gran invalidez.",
+   "Parcial, revisable, total y gran invalidez.",
+   "Parcial, total, absoluta y gran invalidez."
+  ],
+  "r": "d",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 16,
+  "q": "De todas formas, Dña. Estela sabe que se le ha asignado una tarea importante en materia de subvenciones que por sus deberes como funcionaria debe atender, por lo que comienza a analizar la Ley General de Subvenciones, y viendo que las subvenciones no van a ser financiadas con cargo a fondos de la Unión Europea, concluye que el régimen jurídico aplicable a las mismas es:",
+  "o": [
+   "Las normas de derecho privado en todo caso.",
+   "El derecho comunitario, dado que las subvenciones van dirigidas a varias Comunidades Autónomas.",
+   "El derecho privado y las restantes normas de desarrollo y, en su defecto, el derecho administrativo.",
+   "La Ley General de Subvenciones y sus disposiciones de desarrollo, las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado."
+  ],
+  "r": "d",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 17,
+  "q": "Antes de comenzar a preparar el borrador de la convocatoria de subvenciones, Dña. Estela comprueba si el Ministerio de Agricultura, Pesca y Alimentación dispone del plan en el que se concreten los objetivos y efectos que se pretenden con las subvenciones a otorgar por el Departamento, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación, es decir, si el Ministerio dispone del:",
+  "o": [
+   "Plan anual de subvenciones.",
+   "Plan estratégico de subvenciones.",
+   "Plan trienal de subvenciones.",
+   "Plan plurianual de subvenciones."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 18,
+  "q": "Con carácter previo a la convocatoria de subvenciones, Dña. Estela sabe que debe efectuar:",
+  "o": [
+   "El compromiso del gasto.",
+   "La aprobación del gasto.",
+   "El reconocimiento de la obligación.",
+   "El reconocimiento de la obligación y la propuesta de gasto."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 19,
+  "q": "¿Qué documento contable reflejaría la fase del gasto contemplada en la anterior pregunta?",
+  "o": [
+   "OK",
+   "D",
+   "A",
+   "RC"
+  ],
+  "r": "c",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I",
+  "n": 20,
+  "q": "Dña. Estela, en el transcurso de la gestión económica de la convocatoria de subvenciones, aprecia que el crédito en el capítulo 4 del presupuesto de gastos del Ministerio de Agricultura, Pesca y Alimentación es insuficiente para atender la nueva convocatoria, estimando que se necesitan 10 millones más de euros sobre un total de 100 millones que aparecen en dicho capítulo. Ante esto, propone que se tramite un crédito extraordinario o un suplemento de crédito que debería financiarse:",
+  "o": [
+   "Mediante baja en los créditos del Fondo de Contingencia o en otros no financieros que se consideren adecuados.",
+   "Con deuda pública o con baja en otros créditos de la misma naturaleza financiera.",
+   "Con cargo a la parte del remanente de tesorería al fin del ejercicio anterior que no hayan sido aplicados en el presupuestos del Ministerio, o con mayores ingresos sobre los previstos inicialmente.",
+   "Mediante la transferencia de créditos destinados a subvenciones nominativas."
+  ],
+  "r": "a",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I-reserva",
+  "n": 1,
+  "q": "¿En qué plazo podrá Dña. Estela presentar su solicitud de participación en la libre designación del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación?",
+  "o": [
+   "10 días hábiles siguientes al de la publicación de la convocatoria.",
+   "15 días hábiles siguientes al de la publicación de la convocatoria.",
+   "20 días hábiles siguientes al de la publicación de la convocatoria.",
+   "Un mes a partir de la publicación de la convocatoria."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I-reserva",
+  "n": 2,
+  "q": "Dña. Estela, que reside en Madrid, tiene que acudir a un curso como formadora durante tres días en Valladolid. El día de regreso la comisión de servicio concluye a las 21 horas. ¿Qué gastos se le abonarán a la funcionaria respecto de ese último día?",
+  "o": [
+   "50 por 100 de los gastos de manutención.",
+   "100 por 100 de los gastos de manutención.",
+   "50 por 100 de los gastos de manutención, abonándose adicionalmente el otro 50 por 100 cuando la cena se realice fuera de la residencia habitual, previa justificación con factura o recibo del correspondiente establecimiento.",
+   "Gastos de alojamiento."
+  ],
+  "r": "a",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I-reserva",
+  "n": 3,
+  "q": "Dña. Estela tiene un compañero personal laboral fijo, grupo profesional E1. ¿Qué titulación mínima posee?",
+  "o": [
+   "Sin titulación prevista en el sistema educativo.",
+   "Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes.",
+   "Título de Bachiller o Técnico o equivalentes.",
+   "Título clasificado en el Nivel 1 del Marco Español de Cualificaciones para la Educación Superior o equivalentes."
+  ],
+  "r": "b",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I-reserva",
+  "n": 4,
+  "q": "Transcurrido el plazo máximo para resolver el recurso de alzada sin que hubiese recaído resolución, el recurrente podría entender que:",
+  "o": [
+   "Habría caducado el procedimiento de recurso.",
+   "Habría prescrito el procedimiento de recurso.",
+   "Se habría desestimado el recurso interpuesto.",
+   "Se habría estimado el recurso interpuesto."
+  ],
+  "r": "c",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto I-reserva",
+  "n": 5,
+  "q": "Como consecuencia de la pérdida de efectivos producida por un elevado número de jubilaciones en el último año, el Ministerio de Agricultura, Pesca y Alimentación se plantea fusionar la Subdirección General en la que presta servicio Dña. Estela y otra Subdirección General de la misma Dirección General. ¿A través de qué instrumento jurídico se podrá articular esta reorganización ministerial?",
+  "o": [
+   "Por Orden del Ministro de Agricultura, Pesca y Alimentación, a propuesta del Ministerio para la Transformación Digital y de la Función Pública.",
+   "Por Orden del Ministro de Agricultura, Pesca y Alimentación, previa autorización del Ministro para la Transformación Digital y de la Función Pública.",
+   "Por Real Decreto del Consejo de Ministros, a propuesta del Ministro de Agricultura, Pesca y Alimentación.",
+   "Por Real Decreto del Consejo de Ministros, a iniciativa del Ministro de Agricultura, Pesca y Alimentación y a propuesta del Ministro para la Transformación Digital y de la Función Pública."
+  ],
+  "r": "d",
+  "ctx": "Dña. Estela Sánchez Ruiz, funcionaria del Cuerpo de Gestión de la Administración Civil del Estado, viene ocupando un puesto en comisión de servicios desde hace un año, denominado Jefe/Jefa de Servicio de Procedimientos Administrativos, de nivel de complemento de destino 26, adscrito a la Subsecretaría del Ministerio de Agricultura, Pesca y Alimentación. La persona titular de la Subdirección General a la que está adscrita dicha funcionaria le encarga que prepare el borrador de una convocatoria de subvenciones para agricultores afectados por la sequía en las comunidades autónomas de Madrid, Castilla-La Mancha y Extremadura. Además, a Dña. Estela también se le encarga que informe sobre un recurso de alzada que se ha recibido en la Subdirección General. La mencionada funcionaria considera que cada vez recibe más encargos y está pensando seriamente cambiar de puesto de trabajo o promocionar a otro Cuerpo, al considerarse mal retribuida. Incluso ha llegado a plantear en alguna ocasión a sus superiores jerárquicos la posibilidad de que se contrate a alguien para que le ayude en sus tareas. Y es que la situación le está creando cierto estrés y duda incluso de que esté gestionando adecuadamente toda la información que maneja, con posibles errores en lo referente a la protección de datos, lo cual le produce el temor de poder ser sancionada o, incluso, perder su empleo. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 1,
+  "q": "¿Tiene D. Juan Rodríguez derecho a algún permiso como resultado del accidente de su pareja de hecho?",
+  "o": [
+   "No tiene permiso.",
+   "1 día hábil.",
+   "3 días hábiles.",
+   "5 días hábiles."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 2,
+  "q": "¿Aumentarán los días de permiso por asuntos particulares a los que tiene derecho D. Juan Rodríguez conforme acumule antigüedad en la Administración?",
+  "o": [
+   "Sí, las Administraciones Públicas podrán establecer hasta dos días adicionales de permiso por asuntos particulares al cumplir el quinto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo.",
+   "Sí, las Administraciones Públicas podrán establecer hasta dos días adicionales de permiso por asuntos particulares al cumplir el sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo.",
+   "Sí, las Administraciones Públicas podrán establecer hasta tres días adicionales de permiso por asuntos particulares al cumplir el sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo.",
+   "Sí, las Administraciones Públicas podrán establecer hasta tres días adicionales de permiso por asuntos particulares al cumplir el quinto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo."
+  ],
+  "r": "b",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 3,
+  "q": "Según se comenta en el enunciado, el compañero de D. Juan Rodríguez se incorporó a la administración con un nivel 14 y en un año pasó a ocupar un nivel 17, ¿cuánto tiempo tardó desde su toma de posesión en consolidar el nivel 17?",
+  "o": [
+   "5 años, siempre que haya obtenido la plaza de nivel 17 con carácter definitivo por alguno de los sistemas de provisión de puestos de trabajo.",
+   "5 años, no siendo necesario haber obtenido la plaza de nivel 17 con carácter definitivo por alguno de los sistemas de provisión de puestos de trabajo.",
+   "6 años, siempre que haya obtenido la plaza de nivel 17 con carácter definitivo por alguno de los sistemas de provisión de puestos de trabajo.",
+   "6 años, no siendo necesario haber obtenido la plaza de nivel 17 con carácter definitivo por alguno de los sistemas de provisión de puestos de trabajo."
+  ],
+  "r": "ANULADA",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 4,
+  "q": "Con respecto al tiempo que se puede diferir el cese cuando se está tramitando la libre designación a otra comunidad autónoma, indique la respuesta correcta:",
+  "o": [
+   "El Subsecretario del Departamento donde preste servicios el funcionario podrá diferir el cese por necesidades del servicio hasta veinte días hábiles, comunicándose a la unidad a que haya sido destinado el funcionario.",
+   "Excepcionalmente, a propuesta del Departamento, por exigencias del normal funcionamiento de los servicios, la Subsecretaría del Departamento donde preste servicios el funcionario podrá aplazar la fecha de cese hasta un máximo de tres meses.",
+   "El Subsecretario del Departamento donde preste servicios el funcionario podrá diferir el cese por necesidades del servicio hasta quince días hábiles, comunicándose a la unidad a que haya sido destinado el funcionario.",
+   "Excepcionalmente, a propuesta del Departamento, por exigencias del normal funcionamiento de los servicios, la Secretaría de Estado para la Administración Pública podrá aplazar la fecha de cese hasta un máximo de seis meses."
+  ],
+  "r": "a",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 5,
+  "q": "A la hora de tramitar la comisión de servicio para la compañera de D. Juan Rodríguez, señale a qué grupo a efectos de indemnización por razón del servicio pertenece atendiendo al IV Convenio colectivo único para el personal laboral de la Administración General del Estado:",
+  "o": [
+   "1.",
+   "2.",
+   "3.",
+   "4."
+  ],
+  "r": "b",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 6,
+  "q": "Si la orden de comisión de servicio es firmada de manera errónea por un órgano que no es competente por razón de jerarquía, marque al respecto la afirmación correcta:",
+  "o": [
+   "La Administración podrá convalidar los actos nulos, subsanando los vicios de que adolezcan.",
+   "El acto de convalidación producirá efecto desde el día siguiente a su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos.",
+   "Dada la consideración de error material o, de hecho, es preceptivo retrotraer las actuaciones realizadas e incoar nuevamente el procedimiento administrativo.",
+   "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 7,
+  "q": "Con respecto al acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible, ¿qué figura jurídica sería necesario emplear?",
+  "o": [
+   "Protocolo General de Actuación.",
+   "Consorcio.",
+   "Pacto bilateral.",
+   "Convenio."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 8,
+  "q": "Siguiendo con el acuerdo con efectos jurídicos al que hace referencia la pregunta anterior, indique la respuesta correcta relativa al plazo de vigencia:",
+  "o": [
+   "Deberá tener una duración determinada, que no podrá ser superior a tres años.",
+   "En cualquier momento antes de la finalización, los firmantes del convenio podrán acordar unánimemente su prórroga por un periodo de hasta dos años adicionales o su extinción.",
+   "No cabe la posibilidad de prorrogar un acuerdo con implicaciones económicas prestablecidas.",
+   "Deberá tener una duración determinada, que no podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 9,
+  "q": "En relación con el licitador que no está conforme con los pliegos de la licitación del contrato de obras y tiene voluntad de interponer un recurso especial en materia de contratación, señale la respuesta correcta:",
+  "o": [
+   "Son susceptibles de recurso especial en materia de contratación los contratos de obras cuyo valor estimado sea superior a tres millones de euros. No procederá la interposición de recursos administrativos ordinarios.",
+   "Son susceptibles de recurso especial en materia de contratación los contratos de obras cuyo valor estimado sea superior a dos millones de euros. Alternativamente procede la interposición de recursos administrativos ordinarios.",
+   "Son susceptibles de recurso especial en materia de contratación los contratos de obras cuyo valor estimado sea superior a tres millones de euros. Alternativamente procede la interposición de recursos administrativos ordinarios.",
+   "Son susceptibles de recurso especial en materia de contratación los contratos de obras cuyo valor estimado sea superior a dos millones de euros. No procederá la interposición de recursos administrativos ordinarios."
+  ],
+  "r": "a",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 10,
+  "q": "¿Cuál es el órgano competente para resolver el recurso especial en materia de contratación?",
+  "o": [
+   "Tribunal Administrativo Central de Recursos Contractuales.",
+   "Junta Administrativa de Recursos Contractuales.",
+   "Autoridad Central de Recursos Contractuales.",
+   "Oficina Independiente de Regulación y Supervisión en la Contratación."
+  ],
+  "r": "a",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 11,
+  "q": "En caso de que el contrato sea susceptible de recurso especial en materia de contratación ¿cuántos días hay que esperar para la formalización del contrato desde que se remita la notificación de la adjudicación a los licitadores y candidatos?",
+  "o": [
+   "5 días naturales.",
+   "10 días hábiles.",
+   "15 días hábiles.",
+   "15 días naturales."
+  ],
+  "r": "c",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 12,
+  "q": "Marque qué tipo de documento contable habrá que realizar cuando se haya formalizado el contrato de obras y, por tanto, se haya comprometido el gasto:",
+  "o": [
+   "OK",
+   "D",
+   "A",
+   "RC"
+  ],
+  "r": "b",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 13,
+  "q": "Durante la ejecución del contrato de obras surge la necesidad de utilizar un exceso de mediciones sobre las unidades de obra previstas, que supone un incremento del gasto del 8 por ciento del precio del contrato inicial. Señale cómo proceder en estos casos:",
+  "o": [
+   "Los excesos de mediciones no tienen consideración de modificación contractual si el incremento del gasto es inferior al 10 por ciento del precio del contrato.",
+   "Cabe adjudicar estas unidades a un nuevo contratista en caso de que no se haya contemplado como modificación prevista dentro del pliego de cláusulas administrativas particulares.",
+   "Se deberá tramitar una modificación no prevista de las recogidas en el artículo 205 de la Ley de Contratos del Sector Público que podrá alcanzar hasta un 50% del precio inicial del contrato.",
+   "Las modificaciones previstas en los pliegos no deben superar el 15 por ciento que indica el artículo 204 de la Ley de Contratos del Sector Público."
+  ],
+  "r": "a",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 14,
+  "q": "Para licitar el contrato de servicios de asistencia técnica a la obra, ¿puede emplearse el procedimiento simplificado previsto en el artículo 159 de la Ley de Contratos del Sector Público, sabiendo que el valor estimado del contrato es de 70.000 euros?",
+  "o": [
+   "Sí, el límite de valor estimado que no se puede superar para tramitar un contrato de servicios por procedimiento abierto simplificado es de 83.000 euros.",
+   "Sí, el límite de valor estimado que no se puede superar para tramitar un contrato de servicios por procedimiento abierto simplificado es de 113.000 euros.",
+   "Sí, el límite de valor estimado que no se puede superar para tramitar un contrato de servicios por procedimiento abierto simplificado es de 123.000 euros.",
+   "Sí, el límite de valor estimado que no se puede superar para tramitar un contrato de servicios por procedimiento abierto simplificado es de 143.000 euros."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 15,
+  "q": "En caso de tramitarse un procedimiento abierto simplificado para el contrato de servicio de asistencia técnica a la obra, indique cuál sería el plazo mínimo para presentación de proposiciones a contar desde el siguiente a la publicación en el perfil de contratante del anuncio de licitación:",
+  "o": [
+   "No podrá ser inferior a quince días.",
+   "No podrá ser inferior a veinte días.",
+   "No podrá ser inferior a veintiséis días.",
+   "No podrá ser inferior a treinta días."
+  ],
+  "r": "a",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 16,
+  "q": "En el caso de que el contratista al que se le adjudique el contrato de obra para rehabilitar las dependencias del Ministerio de Industria y Turismo incurra en demora respecto al cumplimiento del plazo total, la Administración podrá optar por la resolución del contrato o por:",
+  "o": [
+   "La imposición de penalidades diarias en la proporción de 0,40 euros por cada mil euros del presupuesto máximo del contrato.",
+   "La imposición de penalidades diarias en la proporción de 0,50 euros por cada mil euros del precio del contrato, IVA excluido",
+   "La imposición de penalidades diarias en la proporción de 0,60 euros por cada mil euros del precio del contrato, IVA excluido.",
+   "La imposición de penalidades no superiores al 10 por ciento del precio del contrato, IVA excluido, y el total de las mismas no podrá superar el 50 por cien del precio del contrato."
+  ],
+  "r": "c",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 17,
+  "q": "Con respecto al acuerdo marco 21/2023 vigente para el suministro de combustibles en estaciones de servicio. Señale cuál es la respuesta correcta sobre la duración máxima de un acuerdo marco:",
+  "o": [
+   "La duración de un acuerdo marco no podrá exceder de tres años, salvo en casos excepcionales, debidamente justificados. La duración de los contratos basados en un acuerdo marco estará vinculada a la duración del acuerdo marco.",
+   "La duración de un acuerdo marco no podrá exceder de cuatro años, salvo en casos excepcionales, debidamente justificados. La duración de los contratos basados en un acuerdo marco será independiente de la duración del acuerdo marco.",
+   "La duración de un acuerdo marco no podrá exceder de tres años, salvo en casos excepcionales, debidamente justificados. La duración de los contratos basados en un acuerdo marco será independiente de la duración del acuerdo marco.",
+   "La duración de un acuerdo marco no podrá exceder de cuatro años, salvo en casos excepcionales, debidamente justificados. La duración de los contratos basados en un acuerdo marco estará vinculada a la duración del acuerdo marco."
+  ],
+  "r": "b",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 18,
+  "q": "Atendiendo a la Resolución de 20 de enero de 2014, de la Dirección General de Presupuestos, por la que se establecen los códigos que definen la clasificación económica, indique el capítulo, artículo, concepto y subconcepto que corresponde a la compra de combustible:",
+  "o": [
+   "132.01",
+   "221.03",
+   "332.01",
+   "642.03"
+  ],
+  "r": "b",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 19,
+  "q": "Suponiendo que se quieran adquirir a través del acuerdo marco 21/2023 tarjetas de combustible por un total de base imponible de 10.000 euros con una duración de 24 meses sin posibilidad de prórroga, y sabiendo que la modificación prevista en el pliego es del 20%, calcule el valor estimado del contrato.",
+  "o": [
+   "10.000 euros.",
+   "12.000 euros.",
+   "12.100 euros.",
+   "14.520 euros."
+  ],
+  "r": "b",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II",
+  "n": 20,
+  "q": "Fuera del acuerdo marco, en caso de que se decidiera pagar a un proveedor la adquisición de combustible por el sistema de anticipos de caja fija, ¿cuál sería el importe máximo a pagar por este sistema?",
+  "o": [
+   "5.000 euros incluyendo el IVA.",
+   "5.000 euros sin incluir el IVA.",
+   "5.000 euros incluyendo la correspondiente prorrata del IVA.",
+   "Podrán ser superiores a los 5.000 euros por razón del servicio."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II-reserva",
+  "n": 1,
+  "q": "En relación a la libre designación solicitada por el compañero de D. Juan Rodríguez, ¿cuál es el plazo del que dispone el Ministerio de Turismo y Comercio para emitir informe al respecto?",
+  "o": [
+   "10 días naturales.",
+   "10 días hábiles.",
+   "15 días hábiles.",
+   "15 días naturales."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II-reserva",
+  "n": 2,
+  "q": "El Subdirector General de Recursos Humanos dicta un acto por el que se le niega la concesión de una licencia por estudios a Juan Rodríguez por delegación de su superior jerárquica, la Directora General. ¿Que recurso podría interponer D. Juan Rodríguez y en qué plazo?",
+  "o": [
+   "Un recurso de alzada en un plazo de un mes.",
+   "Un recurso potestativo de reposición en el plazo de dos meses o directamente un recurso ante la Jurisdicción Contencioso- administrativa en un plazo de un mes.",
+   "Un recurso potestativo de reposición en el plazo de un mes o directamente un recurso ante la Jurisdicción Contencioso- administrativa en un plazo de dos meses.",
+   "Un recurso de alzada en un plazo de dos meses."
+  ],
+  "r": "c",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II-reserva",
+  "n": 3,
+  "q": "Transcurrido el plazo máximo para resolver el recurso administrativo sin que hubiese recaído resolución, D. Juan Rodríguez podría entender que:",
+  "o": [
+   "Habría caducado el procedimiento de recurso.",
+   "Habría prescrito el procedimiento de recurso.",
+   "Se habría desestimado el recurso interpuesto.",
+   "Se habría estimado el recurso interpuesto."
+  ],
+  "r": "c",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II-reserva",
+  "n": 4,
+  "q": "El compañero de D. Juan Rodríguez que promocionó del Subgrupo C2 al Subgrupo C1 después de 10 años de servicio, ¿qué cuantía cobrará en trienios cuando cumpla el cuarto trienio?",
+  "o": [
+   "Tres trienios en el subgrupo C2 y un trienio en el subgrupo C1.",
+   "Los cuatro trienios en el subgrupo C1.",
+   "Los cuatro trienios en el subgrupo C2.",
+   "Tres trienios en el subgrupo C2 y el cuarto trienio cobrará según la parte proporcional que haya pasado en cada subgrupo."
+  ],
+  "r": "a",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ },
+ {
+  "examen": "2024",
+  "modelo": "modelo-a",
+  "parte": "supuesto II-reserva",
+  "n": 5,
+  "q": "¿Qué titulación mínima posee la compañera de D. Juan Rodríguez del grupo profesional M3?",
+  "o": [
+   "Sin titulación prevista en el sistema educativo.",
+   "Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes.",
+   "Título de Bachiller o Técnico o equivalentes.",
+   "Título clasificado en el Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes."
+  ],
+  "r": "d",
+  "ctx": "D. Juan Rodríguez, perteneciente al Cuerpo de Gestión de la Administración Civil del Estado, presta sus servicios en el área de contratación administrativa de la Subdirección General de Administración Financiera, dentro del Ministerio de Industria y Turismo. Un día, mientras caminaba hacia su trabajo, recibió la noticia de que su pareja de hecho había sufrido un accidente grave que requería una intervención quirúrgica sin hospitalización y necesitaría reposo domiciliario. D. Juan Rodríguez sueña con hacer un viaje largo por el mundo con ella, pero para lograrlo necesita ahorrar y disponer de más días de asuntos particulares. Por otro lado, uno de sus compañeros busca un destino en la administración de su comunidad autónoma de nacimiento a través de convocatorias de libre designación que se publican periódicamente. Este compañero tiene una amplia trayectoria dentro de la administración, habiendo promocionado desde el subgrupo C2 al C1 después de diez años de servicio. Comenzó con un nivel 14 y en un año pasó a ocupar un nivel 17. Finalmente, su compañero logra garantizar su movilidad a otra comunidad autónoma; sin embargo, por razones del servicio, en su unidad de origen necesitan retenerlo para cumplir con los objetivos de ejecución presupuestaria para el ejercicio corriente. En su unidad, D. Juan Rodríguez Hernández debe tramitar una indemnización por comisión de servicio según el Real Decreto 462/2002 para una compañera, personal laboral temporal del grupo profesional M3. En materia de industria, su Ministerio requiere un acuerdo con efectos jurídicos con el Ministerio de Transportes y Movilidad Sostenible para la cofinanciación de un proyecto de desarrollo del vehículo eléctrico. Dentro de la Subdirección General de Administración Financiera dada su necesidad, se ha puesto en marcha la tramitación de un contrato de obras por procedimiento abierto para rehabilitar una de sus dependencias en Madrid, que se encuentra obsoleta. Sin embargo, uno de los licitadores no está conforme con los pliegos de la licitación y tiene la voluntad de interponer un recurso especial en materia de contratación. A este contrato de obras se le suma la necesidad de licitar un contrato de servicios para asistencia técnica y dirección de obra. Además, a D. Juan Rodríguez le han asignado la tramitación de un contrato para la adquisición de tarjetas de combustible para el repostaje en estaciones de servicio de los vehículos oficiales del Ministerio, que se tramitará a través del vigente Acuerdo Marco 21/2023. Hasta la tramitación de este contrato, el Ministerio no tiene ninguno en vigor y un vehículo necesita repostar, por lo que proponen cubrir el gasto mediante el sistema de anticipos de caja fija. Se plantean las siguientes cuestiones:",
+  "provisional": false
+ }
+]
