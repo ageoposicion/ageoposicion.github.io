@@ -1,0 +1,22 @@
+name: Descargar exámenes oficiales del INAP
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/fetch_inap.py'
+      - 'data/inap/fuentes.json'
+permissions:
+  contents: write
+jobs:
+  inap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y -qq poppler-utils
+      - run: python3 scripts/fetch_inap.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "inap-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/inap
+          if ! git diff --cached --quiet; then git commit -m "Exámenes oficiales del INAP"; git pull --rebase -q || true; git push; fi
