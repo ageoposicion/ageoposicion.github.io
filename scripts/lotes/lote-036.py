@@ -11,7 +11,7 @@ PREGUNTAS = [
  'habrán de gestionarse de la forma más sostenible y eficiente'),
 ('III', T, 'a85', '¿Cuál de las siguientes NO es una forma de gestión directa de los servicios públicos locales según el artículo 85 de la Ley 7/1985?', 'La concesión de servicios',
  ['El organismo autónomo local', 'La entidad pública empresarial local', 'La sociedad mercantil local cuyo capital social sea de titularidad pública'],
- 'b) Organismo autónomo local'),
+ 'A) Gestión directa: a) Gestión por la propia Entidad Local. b) Organismo autónomo local. c) Entidad pública empresarial local. d) Sociedad mercantil local, cuyo capital social sea de titularidad pública'),
 ('III', T, 'a85', 'Para gestionar un servicio público local mediante entidad pública empresarial local o sociedad mercantil local debe acreditarse, mediante memoria justificativa, que:', 'Resultan más sostenibles y eficientes que la gestión por la propia entidad local o por organismo autónomo local',
  ['Lo solicitan los vecinos', 'El servicio es deficitario', 'Lo ha autorizado el Ministerio de Hacienda'],
  'resultan más sostenibles y eficientes que las formas dispuestas en las letras a) y b)'),

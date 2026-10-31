@@ -105,6 +105,15 @@ Resultado: 30 respuestas correctas y únicas, 0 fallos. Ninguna corrección nece
 MUFACE, Clases Pasivas y el RD 208/1996 se descargaron del BOE el 8-10-2026 (identificadores
 BOE-A-2000-12140, BOE-A-1987-12636 y BOE-A-1996-4997; títulos comprobados).
 
+## Revisión 10 (tras los lotes 34 a 39) · 31-10-2026
+
+30 preguntas al azar (semilla 1031) de los lotes 34-39. Todas correctas y con distractores
+inequívocamente falsos. Un ajuste: la 36003 (formas de gestión directa, art. 85 LBRL) tenía una cita
+que solo mostraba «b) Organismo autónomo local»; se amplía el ancla para que la cita recoja la lista
+completa A) a)-d) y así justifique la respuesta. Se evita el art. 85.2.B LBRL, que remite al texto
+refundido de contratos de 2011, ya derogado, y el párrafo tercero del art. 129.4 de la Ley 39/2015
+(incisos anulados por la STC 55/2018).
+
 ## Correcciones de la usuaria (desde 8-10-2026)
 
 La app tiene un botón «✏️ Editar» en cada pregunta. Las correcciones se guardan en
