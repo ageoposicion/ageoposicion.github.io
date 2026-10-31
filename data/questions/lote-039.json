@@ -1,0 +1,290 @@
+[
+ {
+  "n": 39001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a127",
+  "pregunta": "Según la Ley 39/2015, el Gobierno de la Nación ejerce la iniciativa legislativa mediante:",
+  "opciones": [
+   "La aprobación de reglamentos ejecutivos",
+   "La presentación de proposiciones de ley en el Senado",
+   "La elaboración y aprobación de los anteproyectos de ley y la ulterior remisión de los proyectos de ley a las Cortes Generales",
+   "La aprobación directa de leyes ordinarias"
+  ],
+  "correcta": 2,
+  "cita": "El Gobierno de la Nación ejercerá la iniciativa legislativa prevista en la Constitución mediante la elaboración y aprobación de los anteproyectos de Ley y la ulterior remisión de los proyectos de ley a las Cortes Generales."
+ },
+ {
+  "n": 39002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a128",
+  "pregunta": "Según el artículo 128 de la Ley 39/2015, el ejercicio de la potestad reglamentaria corresponde:",
+  "opciones": [
+   "Solo al Gobierno de la Nación",
+   "Al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas y a los órganos de gobierno locales",
+   "A cualquier órgano administrativo",
+   "Solo a las Cortes Generales"
+  ],
+  "correcta": 1,
+  "cita": "El ejercicio de la potestad reglamentaria corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas, de conformidad con lo establecido en sus"
+ },
+ {
+  "n": 39003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a128",
+  "pregunta": "Según la Ley 39/2015, los reglamentos y disposiciones administrativas NO podrán:",
+  "opciones": [
+   "Tipificar delitos, faltas o infracciones administrativas, ni establecer penas o sanciones",
+   "Organizar los servicios administrativos",
+   "Colaborar con la ley en su aplicación",
+   "Desarrollar una ley"
+  ],
+  "correcta": 0,
+  "cita": "Sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público."
+ },
+ {
+  "n": 39004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a128",
+  "pregunta": "Según la Ley 39/2015, ninguna disposición administrativa podrá vulnerar:",
+  "opciones": [
+   "Las circulares internas",
+   "Los preceptos de otra de rango superior",
+   "Los acuerdos de los órganos colegiados",
+   "Los preceptos de otra de rango inferior"
+  ],
+  "correcta": 1,
+  "cita": "Ninguna disposición administrativa podrá vulnerar los preceptos de otra de rango superior."
+ },
+ {
+  "n": 39005,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a129",
+  "pregunta": "¿Cuál de los siguientes NO es un principio de buena regulación del artículo 129 de la Ley 39/2015?",
+  "opciones": [
+   "Proporcionalidad",
+   "Oportunidad política",
+   "Eficiencia",
+   "Necesidad"
+  ],
+  "correcta": 1,
+  "cita": "En el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las Administraciones Públicas actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia."
+ },
+ {
+  "n": 39006,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a129",
+  "pregunta": "En virtud del principio de proporcionalidad, la iniciativa normativa deberá contener:",
+  "opciones": [
+   "La regulación imprescindible para atender la necesidad a cubrir con la norma",
+   "La regulación más completa posible de la materia",
+   "Una memoria económica de todos los sectores afectados",
+   "Siempre un régimen sancionador"
+  ],
+  "correcta": 0,
+  "cita": "En virtud del principio de proporcionalidad, la iniciativa que se proponga deberá contener la regulación imprescindible para atender la necesidad a cubrir con la norma, tras constatar que no existen otras medidas menos restrictivas de derechos, o que impongan menos obligaciones a los destinatarios."
+ },
+ {
+  "n": 39007,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a129",
+  "pregunta": "En virtud de los principios de necesidad y eficacia, la iniciativa normativa debe estar justificada por:",
+  "opciones": [
+   "El acuerdo de las organizaciones sindicales",
+   "La petición de un grupo parlamentario",
+   "Una razón de interés general",
+   "Una sentencia judicial previa"
+  ],
+  "correcta": 2,
+  "cita": "En virtud de los principios de necesidad y eficacia, la iniciativa normativa debe estar justificada por una razón de interés general, basarse en una identificación clara de los fines perseguidos y ser el instrumento más adecuado para garantizar su consecución."
+ },
+ {
+  "n": 39008,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a129",
+  "pregunta": "En aplicación del principio de eficiencia, la iniciativa normativa debe:",
+  "opciones": [
+   "Evitar cargas administrativas innecesarias o accesorias y racionalizar la gestión de los recursos públicos",
+   "Reducir el número de funcionarios",
+   "Prever siempre un periodo de prueba",
+   "Aumentar los trámites para mayor control"
+  ],
+  "correcta": 0,
+  "cita": "En aplicación del principio de eficiencia, la iniciativa normativa debe evitar cargas administrativas innecesarias o accesorias y racionalizar, en su aplicación, la gestión de los recursos públicos."
+ },
+ {
+  "n": 39009,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a129",
+  "pregunta": "En aplicación del principio de transparencia, las Administraciones posibilitarán que los potenciales destinatarios de las normas:",
+  "opciones": [
+   "Firmen su exposición de motivos",
+   "Voten su entrada en vigor",
+   "Tengan una participación activa en su elaboración",
+   "Puedan vetar su aprobación"
+  ],
+  "correcta": 2,
+  "cita": "de las iniciativas normativas y su justificación en el preámbulo o exposición de motivos; y posibilitarán que los potenciales destinatarios tengan una participación activa en la elaboración de las normas."
+ },
+ {
+  "n": 39010,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a130",
+  "pregunta": "El resultado de la evaluación periódica de la normativa vigente a que se refiere el artículo 130 de la Ley 39/2015:",
+  "opciones": [
+   "Es reservado",
+   "Se plasmará en un informe que se hará público",
+   "Se incorpora a la ley de presupuestos",
+   "Se remite solo al Tribunal Constitucional"
+  ],
+  "correcta": 1,
+  "cita": "El resultado de la evaluación se plasmará en un informe que se hará público, con el detalle, periodicidad y por el órgano que determine la normativa reguladora de la Administración correspondiente."
+ },
+ {
+  "n": 39011,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a131",
+  "pregunta": "Para que entren en vigor y produzcan efectos jurídicos, las normas con rango de ley, los reglamentos y disposiciones administrativas habrán de:",
+  "opciones": [
+   "Publicarse solo en la sede electrónica del ministerio",
+   "Publicarse en el diario oficial correspondiente",
+   "Ser ratificadas por el Consejo de Estado",
+   "Notificarse personalmente a cada ciudadano"
+  ],
+  "correcta": 1,
+  "cita": "Las normas con rango de ley, los reglamentos y disposiciones administrativas habrán de publicarse en el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos."
+ },
+ {
+  "n": 39012,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a131",
+  "pregunta": "La publicación del «Boletín Oficial del Estado» en la sede electrónica del Organismo competente:",
+  "opciones": [
+   "Solo es válida si coincide con la edición impresa",
+   "Tiene valor meramente informativo",
+   "Tendrá carácter oficial y auténtico en las condiciones que se determinen reglamentariamente",
+   "Carece de efectos jurídicos"
+  ],
+  "correcta": 2,
+  "cita": "La publicación del «Boletín Oficial del Estado» en la sede electrónica del Organismo competente tendrá carácter oficial y auténtico en las condiciones y con las garantías que se determinen reglamentariamente, derivándose de dicha"
+ },
+ {
+  "n": 39013,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a132",
+  "pregunta": "Según la Ley 39/2015, anualmente se hará público un Plan Normativo que contendrá:",
+  "opciones": [
+   "Las normas aprobadas en el año anterior",
+   "Las normas derogadas en los últimos cinco años",
+   "Las iniciativas legales o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente",
+   "Las sentencias que anularon reglamentos"
+  ],
+  "correcta": 2,
+  "cita": "Anualmente, las Administraciones Públicas harán público un Plan Normativo que contendrá las iniciativas legales o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente."
+ },
+ {
+  "n": 39014,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a132",
+  "pregunta": "Una vez aprobado, el Plan Anual Normativo se publicará en:",
+  "opciones": [
+   "El Diario de Sesiones del Congreso",
+   "El tablón de edictos del ministerio",
+   "El Portal de la Transparencia de la Administración Pública correspondiente",
+   "El Registro Electrónico General"
+  ],
+  "correcta": 2,
+  "cita": "Una vez aprobado, el Plan Anual Normativo se publicará en el Portal de la Transparencia de la Administración Pública correspondiente."
+ },
+ {
+  "n": 39015,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a133",
+  "pregunta": "Según el artículo 133 de la Ley 39/2015, con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento, se sustanciará:",
+  "opciones": [
+   "Una audiencia ante el Consejo de Estado",
+   "Un referéndum consultivo",
+   "Una votación en el Consejo de Ministros",
+   "Una consulta pública, a través del portal web de la Administración competente"
+  ],
+  "correcta": 3,
+  "cita": "Con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento, se sustanciará una consulta pública, a través del portal web de la Administración competente en la que se recabará la opinión de los sujetos y de las organizaciones más representativas"
+ },
+ {
+  "n": 39016,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a133",
+  "pregunta": "¿Sobre cuál de los siguientes aspectos NO se recaba opinión en la consulta pública previa del artículo 133 de la Ley 39/2015?",
+  "opciones": [
+   "La necesidad y oportunidad de su aprobación",
+   "Las posibles soluciones alternativas regulatorias y no regulatorias",
+   "Los problemas que se pretenden solucionar con la iniciativa",
+   "El nombre del ministro que firmará la norma"
+  ],
+  "correcta": 3,
+  "cita": "de las organizaciones más representativas potencialmente afectados por la futura norma acerca de: a) Los problemas que se pretenden solucionar con la iniciativa."
+ },
+ {
+  "n": 39017,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a133",
+  "pregunta": "Cuando la norma afecte a los derechos e intereses legítimos de las personas, el centro directivo competente publicará el texto en el portal web con el objeto de:",
+  "opciones": [
+   "Notificarlo a cada interesado",
+   "Abrir un plazo de recurso",
+   "Someterlo a votación popular",
+   "Dar audiencia a los ciudadanos afectados y recabar aportaciones adicionales"
+  ],
+  "correcta": 3,
+  "cita": "las personas, el centro directivo competente publicará el texto en el portal web correspondiente, con el objeto de dar audiencia a los ciudadanos afectados y recabar cuantas aportaciones adicionales puedan hacerse por otras personas o entidades."
+ },
+ {
+  "n": 39018,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a133",
+  "pregunta": "Según el artículo 133 de la Ley 39/2015, podrá prescindirse de los trámites de consulta, audiencia e información públicas en el caso de:",
+  "opciones": [
+   "Normas presupuestarias u organizativas, o cuando concurran razones graves de interés público",
+   "Normas que afecten a derechos de los ciudadanos",
+   "Normas que impongan obligaciones relevantes",
+   "Cualquier reglamento ejecutivo"
+  ],
+  "correcta": 0,
+  "cita": "Podrá prescindirse de los trámites de consulta, audiencia e información públicas previstos en este artículo en el caso de normas presupuestarias u organizativas de la Administración General del Estado, la Administración autonómica, la Administración local o"
+ }
+]
