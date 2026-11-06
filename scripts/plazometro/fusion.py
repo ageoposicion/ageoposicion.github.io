@@ -49,6 +49,8 @@ def tema(ley, art, defecto):
     if ley == 'L40': return 'III.6' if 32 <= n <= 37 else 'II.3' if 38 <= n <= 46 else 'I.8' if 54 <= n <= 80 else 'III.3'
     if ley == 'LCSP' and (284 <= n <= 297 or n == 312): return 'III.5'
     return defecto
+# repetidas revisadas a mano (la comparación automática no las ve: cifras en letra frente a número, etc.)
+YA_ESTAN = {'AGE-43001': 'AGE-10028', 'AGE-50024': 'CONV-005'}
 NUEVAS = {  # normas que Plazómetro aún no tiene: código, nombre corto, bloque, tema, orden
     'BOE-A-2019-7414': ('CONV', 'IV Convenio único (personal laboral AGE)', 'IV', 'IV.8', 8)}
 def main(src, dst, desde):
@@ -80,8 +82,13 @@ def main(src, dst, desde):
         if not code: raise SystemExit('falta un alias para %s en el bloque %s' % (base, q['b']))
         art = artnum(q['a']); r = q['o'][q['c']]
         tq = toks(q['q'])
-        rep = next((y for y in porley.get(base, []) + porley.get(code, []) if
-                    len(tq & toks(y['q'])) / max(1, len(tq | toks(y['q']))) > 0.6), None)
+        tr = toks(r)
+        def igual(y):   # mismo enunciado (casi) y misma respuesta (casi): ya la tiene
+            ya = toks(str(y.get('t') or y.get('v') or ''))
+            jq = len(tq & toks(y['q'])) / max(1, len(tq | toks(y['q'])))
+            ja = len(tr & ya) / max(1, len(tr | ya)) if ya and tr else (1 if str(y.get('v')) in r else 0)
+            return jq > 0.6 and ja >= 0.5
+        rep = next((y for y in porley.get(base, []) + porley.get(code, []) if igual(y)), None) or ({'id': YA_ESTAN[iid]} if iid in YA_ESTAN else None)
         if rep: dup.append((iid, rep['id'])); continue
         hl = ANC.get(q['n'], '')
         if hl.startswith('re:') or hl not in q['cita']: hl = q['cita'][:120]
