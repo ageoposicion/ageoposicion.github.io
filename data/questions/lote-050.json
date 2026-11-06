@@ -1,0 +1,530 @@
+[
+ {
+  "n": 50001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1",
+  "pregunta": "El IV Convenio único es de aplicación al personal laboral de:",
+  "opciones": [
+   "Las entidades locales",
+   "La Administración General del Estado y sus organismos autónomos",
+   "Todas las Administraciones Públicas",
+   "Las Comunidades Autónomas"
+  ],
+  "correcta": 1,
+  "cita": "El presente Convenio colectivo será de aplicación al personal laboral de la Administración General del Estado y sus organismos autónomos."
+ },
+ {
+  "n": 50002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1",
+  "pregunta": "¿Cuál de los siguientes organismos figura expresamente incluido en el ámbito del IV Convenio único?",
+  "opciones": [
+   "La Comisión Nacional del Mercado de Valores",
+   "Las universidades públicas",
+   "La Agencia Española de Protección de Datos",
+   "El Banco de España"
+  ],
+  "correcta": 2,
+  "cita": "d) La Agencia Española de Protección de Datos."
+ },
+ {
+  "n": 50003,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a2",
+  "pregunta": "¿Cuál de los siguientes colectivos queda excluido del ámbito del IV Convenio único?",
+  "opciones": [
+   "El personal laboral que presta servicios en el exterior",
+   "El personal laboral de los organismos autónomos",
+   "El personal laboral de la Administración de Justicia no transferida",
+   "El personal laboral del Consejo de Seguridad Nuclear"
+  ],
+  "correcta": 0,
+  "cita": "Quedan excluidos del ámbito de aplicación del presente Convenio: a) El personal laboral que presta servicios en el exterior."
+ },
+ {
+  "n": 50004,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a8",
+  "pregunta": "Según el IV Convenio único, para el grupo profesional E2 se exige:",
+  "opciones": [
+   "Título de Bachiller o Técnico o equivalentes",
+   "Título de nivel 1 del Marco Español de Cualificaciones para la Educación Superior",
+   "Ninguna titulación",
+   "Título de Graduado en Educación Secundaria Obligatoria"
+  ],
+  "correcta": 0,
+  "cita": "d) Grupo profesional E2: Título de Bachiller o Técnico o equivalentes."
+ },
+ {
+  "n": 50005,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a8",
+  "pregunta": "En el IV Convenio único, el grupo profesional E0 corresponde a:",
+  "opciones": [
+   "Título de Bachiller",
+   "Puestos sin titulación prevista en el sistema educativo",
+   "Título de Técnico Superior",
+   "Título de Doctor"
+  ],
+  "correcta": 1,
+  "cita": "f) Grupo profesional E0: Sin titulación prevista en el sistema educativo."
+ },
+ {
+  "n": 50006,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a8",
+  "pregunta": "En el IV Convenio único, el grupo profesional M3 exige un título clasificado en:",
+  "opciones": [
+   "El nivel 3 del Marco Español de Cualificaciones para la Educación Superior",
+   "El nivel 1 del Marco Español de Cualificaciones para la Educación Superior",
+   "El título de Bachiller",
+   "El título de Graduado en ESO"
+  ],
+  "correcta": 0,
+  "cita": "Se establecen los siguientes grupos profesionales de acuerdo con la titulación exigida para el ingreso en los mismos: a) Grupo profesional M3: Título clasificado en el Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes."
+ },
+ {
+  "n": 50007,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1-5",
+  "pregunta": "La Comisión Negociadora del IV Convenio único está compuesta por:",
+  "opciones": [
+   "Treinta miembros con voz y voto: quince de la Administración y quince del personal laboral",
+   "Quince miembros de la Administración y cinco sindicales",
+   "Veinte miembros: diez de cada parte",
+   "Treinta miembros: veinte de la Administración y diez del personal laboral"
+  ],
+  "correcta": 0,
+  "cita": "La Comisión Negociadora estará compuesta por treinta miembros con voz y voto, que ostentarán la condición de personal al servicio de las Administraciones Públicas."
+ },
+ {
+  "n": 50008,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1-6",
+  "pregunta": "La Comisión Paritaria del IV Convenio único se constituye:",
+  "opciones": [
+   "Dentro del mes siguiente a la publicación del Convenio",
+   "Dentro de los quince días siguientes a la publicación del Convenio",
+   "Dentro de los tres meses siguientes a la firma",
+   "Cuando lo acuerde el Consejo de Ministros"
+  ],
+  "correcta": 1,
+  "cita": "Dentro de los quince días siguientes a la fecha de la publicación de este Convenio se constituirá la Comisión Paritaria."
+ },
+ {
+  "n": 50009,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a2-11",
+  "pregunta": "Según el IV Convenio único, ¿cuáles son los sistemas selectivos del personal laboral?",
+  "opciones": [
+   "El sorteo y la entrevista",
+   "La oposición, el concurso y el concurso-oposición",
+   "Solo la oposición",
+   "La libre designación y el concurso"
+  ],
+  "correcta": 1,
+  "cita": "Los sistemas selectivos serán la oposición, el concurso y el concurso-oposición y se regirán por los principios de igualdad, mérito, capacidad y publicidad de acuerdo con la legislación vigente."
+ },
+ {
+  "n": 50010,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a2-11",
+  "pregunta": "Según el IV Convenio único, la oposición incorporará en todo caso:",
+  "opciones": [
+   "Una prueba física",
+   "Un examen de idiomas",
+   "Una prueba práctica, escrita o de cualquier otro tipo",
+   "Una entrevista personal"
+  ],
+  "correcta": 2,
+  "cita": "b) La oposición incorporará en todo caso una prueba práctica, sea escrita o de cualquier otro tipo, que permita valorar las capacidades de quienes concurran para desempeñar las funciones del puesto objeto de provisión."
+ },
+ {
+  "n": 50011,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a2-11",
+  "pregunta": "En el concurso-oposición del IV Convenio único, para acceder a la fase de concurso:",
+  "opciones": [
+   "Basta con presentar los méritos",
+   "Hay que superar la oposición",
+   "Hay que tener más de cinco años de antigüedad",
+   "Hay que superar un periodo de prueba previo"
+  ],
+  "correcta": 1,
+  "cita": "En caso de utilizarse el concurso-oposición habrá que superar la oposición para acceder a la fase de concurso."
+ },
+ {
+  "n": 50012,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a3-3",
+  "pregunta": "Según el IV Convenio único, cada órgano de selección estará compuesto, como mínimo, por:",
+  "opciones": [
+   "Cuatro representantes de la Administración y tres de los trabajadores y trabajadoras",
+   "Tres representantes de la Administración y tres de los trabajadores",
+   "Cinco representantes de la Administración",
+   "Dos representantes de cada parte"
+  ],
+  "correcta": 0,
+  "cita": "Cada órgano de selección estará compuesto, como mínimo, por cuatro representantes de la Administración, uno de los cuales ostentará la presidencia y otro la secretaría y por tres de los trabajadores y"
+ },
+ {
+  "n": 50013,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "CONV",
+  "articulo": "a3-4",
+  "pregunta": "Duración del período de prueba del personal de nuevo ingreso por turno libre de los grupos profesionales M3 y M2 (IV Convenio único)",
+  "opciones": [
+   "3 meses",
+   "1 mes",
+   "15 días laborables",
+   "6 meses"
+  ],
+  "correcta": 0,
+  "cita": "estará sometido a un período de prueba, que se pactará por escrito en el contrato de trabajo, cuya duración será de tres meses para los grupos profesionales M3 y M2 y de un mes para los demás trabajadores o trabajadoras, excepto para el personal sin titulación,"
+ },
+ {
+  "n": 50014,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "CONV",
+  "articulo": "a3-4",
+  "pregunta": "Duración del período de prueba del personal sin titulación de nuevo ingreso por turno libre (IV Convenio único)",
+  "opciones": [
+   "3 meses",
+   "15 días laborables",
+   "1 mes",
+   "7 días naturales"
+  ],
+  "correcta": 1,
+  "cita": "para los grupos profesionales M3 y M2 y de un mes para los demás trabajadores o trabajadoras, excepto para el personal sin titulación, para el que será de quince días laborables."
+ },
+ {
+  "n": 50015,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a3-4",
+  "pregunta": "Durante el período de prueba del IV Convenio único, la Administración o el trabajador pueden poner fin a la relación laboral:",
+  "opciones": [
+   "Sin que ninguna de las partes tenga por ello derecho a indemnización",
+   "Solo el trabajador, sin preaviso",
+   "Solo la Administración, con preaviso de un mes",
+   "Con una indemnización de veinte días por año"
+  ],
+  "correcta": 0,
+  "cita": "Durante este período, tanto la Administración como el trabajador o trabajadora podrán poner fin a la relación laboral, sin que ninguna de las partes tenga por ello derecho a indemnización alguna."
+ },
+ {
+  "n": 50016,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a3-7",
+  "pregunta": "Según el IV Convenio único, el procedimiento ordinario de provisión de puestos mediante movilidad del personal laboral fijo es:",
+  "opciones": [
+   "La permuta",
+   "El concurso abierto y permanente de carácter interdepartamental",
+   "El concurso extraordinario",
+   "La libre designación"
+  ],
+  "correcta": 1,
+  "cita": "El concurso abierto y permanente de carácter interdepartamental es el procedimiento ordinario de provisión de puestos de trabajo mediante movilidad del personal laboral fijo, que consiste en su adjudicación previa valoración de los méritos de las personas participantes."
+ },
+ {
+  "n": 50017,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a5-10",
+  "pregunta": "Las pagas extraordinarias del personal laboral del IV Convenio único se devengan:",
+  "opciones": [
+   "El primer día hábil de los meses de junio y diciembre",
+   "El último día de los meses de junio y diciembre",
+   "En marzo y septiembre",
+   "El 1 de julio y el 1 de enero"
+  ],
+  "correcta": 0,
+  "cita": "Las pagas extraordinarias del personal laboral acogido a este Convenio se devengarán el primer día hábil de los meses de junio y diciembre en la cuantía de una mensualidad de salario base, antigüedad y, en su caso, complemento personal"
+ },
+ {
+  "n": 50018,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a6-6",
+  "pregunta": "La jornada general de trabajo máxima del IV Convenio único es de:",
+  "opciones": [
+   "Treinta y seis horas semanales",
+   "Treinta y cinco horas semanales",
+   "Cuarenta horas semanales",
+   "Treinta y siete horas y media semanales de promedio en cómputo anual"
+  ],
+  "correcta": 3,
+  "cita": "La duración máxima de la jornada general de trabajo será de treinta y siete horas y media semanales de trabajo efectivo de promedio en cómputo anual, equivalente a mil seiscientas cuarenta y dos horas anuales."
+ },
+ {
+  "n": 50019,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a6-9",
+  "pregunta": "Con una jornada diaria continuada de al menos cinco horas y media, el personal laboral tiene derecho a una pausa de:",
+  "opciones": [
+   "Una hora, no computable",
+   "Veinte minutos, computable",
+   "Quince minutos, no computable",
+   "Treinta minutos, computable como trabajo efectivo"
+  ],
+  "correcta": 3,
+  "cita": "El personal laboral incluido dentro del ámbito subjetivo de este Convenio, siempre que la duración de la jornada diaria continuada sea de, al menos, cinco horas y media, tendrá derecho a una pausa de treinta minutos durante la jornada de trabajo computable como de trabajo efectivo."
+ },
+ {
+  "n": 50020,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a6-10",
+  "pregunta": "Según el IV Convenio único, la jornada intensiva de verano puede establecerse en el periodo comprendido entre:",
+  "opciones": [
+   "El 1 de junio y el 30 de septiembre",
+   "El 16 de junio y el 15 de septiembre",
+   "El 15 de junio y el 15 de septiembre",
+   "El 1 de julio y el 31 de agosto"
+  ],
+  "correcta": 1,
+  "cita": "Durante el período comprendido entre el 16 de junio y el 15 de septiembre, en aquellos centros en que las circunstancias y organización del trabajo así lo permitan, se"
+ },
+ {
+  "n": 50021,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a7-5",
+  "pregunta": "Según el IV Convenio único, las vacaciones anuales retribuidas son de:",
+  "opciones": [
+   "Veinticinco días hábiles",
+   "Treinta días naturales",
+   "Veintidós días hábiles por año completo de servicios",
+   "Veinte días hábiles"
+  ],
+  "correcta": 2,
+  "cita": "Las vacaciones anuales retribuidas serán de veintidós días hábiles por año completo de servicios, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue"
+ },
+ {
+  "n": 50022,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a7-5",
+  "pregunta": "Según el IV Convenio único, con treinta o más años de servicios se tiene derecho a:",
+  "opciones": [
+   "Veintiséis días hábiles de vacaciones",
+   "Veinticinco días hábiles de vacaciones",
+   "Treinta días naturales de vacaciones",
+   "Veintiocho días hábiles de vacaciones"
+  ],
+  "correcta": 0,
+  "cita": "Treinta o más años de servicios: Veintiséis días hábiles."
+ },
+ {
+  "n": 50023,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a7-5",
+  "pregunta": "Las vacaciones del personal laboral se disfrutarán dentro del año natural y, como máximo, hasta:",
+  "opciones": [
+   "El 31 de marzo del año siguiente",
+   "El 15 de enero del año siguiente",
+   "El 31 de enero del año siguiente",
+   "El 31 de diciembre del mismo año sin excepción"
+  ],
+  "correcta": 2,
+  "cita": "de servicio durante el año fue menor y se disfrutarán por el personal laboral de forma obligatoria dentro del año natural y hasta el 31 de enero del año siguiente, con arreglo a la planificación que se efectúe por parte de la Dirección de cada departamento u"
+ },
+ {
+  "n": 50024,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a7-6",
+  "pregunta": "La licencia sin sueldo por asuntos propios del IV Convenio único no puede exceder, en duración acumulada, de:",
+  "opciones": [
+   "Un año cada cinco años",
+   "Tres meses cada dos años",
+   "Un mes cada año",
+   "Seis meses cada año"
+  ],
+  "correcta": 1,
+  "cita": "La concesión de dicha licencia estará supeditada a las necesidades del servicio, y su duración acumulada no podrá exceder de tres meses cada dos años."
+ },
+ {
+  "n": 50025,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a7-7",
+  "pregunta": "Según el IV Convenio único, en caso de matrimonio el personal laboral tiene un permiso retribuido de:",
+  "opciones": [
+   "Quince días hábiles",
+   "Diez días hábiles",
+   "Quince días naturales",
+   "Veinte días naturales"
+  ],
+  "correcta": 2,
+  "cita": "El personal laboral, previo aviso y justificación adecuada, tendrá derecho a disfrutar de permisos retribuidos por los tiempos y causas siguientes: a) Quince días naturales en caso de matrimonio."
+ },
+ {
+  "n": 50026,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a9-7",
+  "pregunta": "La excedencia voluntaria por interés particular del IV Convenio único requiere al menos:",
+  "opciones": [
+   "Cinco años de servicios efectivos",
+   "Seis meses de antigüedad",
+   "Un año de antigüedad continuada e inmediatamente anterior a la solicitud",
+   "Tres años de antigüedad"
+  ],
+  "correcta": 2,
+  "cita": "Podrá solicitarse por el personal laboral fijo la excedencia voluntaria por interés particular con, al menos, un año de antigüedad continuada e inmediatamente anterior a la fecha de la solicitud, siempre que sea en la Administración General del Estado en el ámbito del presente Convenio."
+ },
+ {
+  "n": 50027,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a9-7",
+  "pregunta": "Una vez concedida la excedencia voluntaria por interés particular del IV Convenio único, la permanencia mínima en ella es de:",
+  "opciones": [
+   "Dos años",
+   "Seis meses",
+   "Un año",
+   "Cuatro meses"
+  ],
+  "correcta": 3,
+  "cita": "Una vez concedida, la duración mínima de permanencia en la misma es de cuatro meses y su duración máxima será indefinida."
+ },
+ {
+  "n": 50028,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1-17",
+  "pregunta": "¿Cuál de las siguientes NO es una sanción prevista en el artículo 105 del IV Convenio único?",
+  "opciones": [
+   "El despido disciplinario",
+   "El demérito",
+   "La pérdida de un grado personal",
+   "El traslado forzoso"
+  ],
+  "correcta": 2,
+  "cita": "Por la comisión de faltas disciplinarias se pueden imponer las siguientes sanciones: a) Despido disciplinario. b) Suspensión de empleo y sueldo. c) Traslado forzoso, con o sin cambio de localidad de residencia del trabajador o trabajadora, y sin derecho a indemnización."
+ },
+ {
+  "n": 50029,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1-19",
+  "pregunta": "Según el IV Convenio único, por faltas graves puede imponerse suspensión de empleo y sueldo de:",
+  "opciones": [
+   "Tres meses y un día a dos años",
+   "Tres días a tres meses",
+   "Hasta dos días",
+   "Un día a un mes"
+  ],
+  "correcta": 1,
+  "cita": "Las sanciones que podrán imponerse por la comisión de faltas graves son las siguientes: a) Suspensión de empleo y sueldo por un período de tres días a tres meses."
+ },
+ {
+  "n": 50030,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1-20",
+  "pregunta": "Según el IV Convenio único, por faltas leves pueden imponerse:",
+  "opciones": [
+   "Suspensión de empleo y sueldo de hasta dos días o apercibimiento escrito",
+   "Despido disciplinario",
+   "Demérito de un año",
+   "Traslado forzoso"
+  ],
+  "correcta": 0,
+  "cita": "Las sanciones que podrán imponerse por la comisión de faltas leves son las siguientes: a) Suspensión de empleo y sueldo de hasta dos días."
+ },
+ {
+  "n": 50031,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1-24",
+  "pregunta": "Según el IV Convenio único, las infracciones graves prescriben a:",
+  "opciones": [
+   "Los dos años",
+   "Los seis meses",
+   "El año",
+   "Los tres años"
+  ],
+  "correcta": 0,
+  "cita": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses."
+ },
+ {
+  "n": 50032,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "CONV",
+  "articulo": "a1-24",
+  "pregunta": "Según el IV Convenio único, las sanciones impuestas por faltas leves prescriben:",
+  "opciones": [
+   "A los seis meses",
+   "A los tres meses",
+   "A los dos años",
+   "Al año"
+  ],
+  "correcta": 3,
+  "cita": "Las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año."
+ },
+ {
+  "n": 50033,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "CONV",
+  "articulo": "a1-29",
+  "pregunta": "Duración máxima del procedimiento disciplinario del IV Convenio único desde su incoación, antes de producirse la caducidad",
+  "opciones": [
+   "3 meses",
+   "2 meses",
+   "6 meses",
+   "1 año"
+  ],
+  "correcta": 2,
+  "cita": "La duración del procedimiento disciplinario no excederá de seis meses, a contar desde su incoación."
+ }
+]

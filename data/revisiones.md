@@ -139,6 +139,12 @@ entran todas las del examen de 2026 y, de 2021-2022 y 2024, las de Microsoft 365
 53 de exámenes anteriores. Al hacerlo se detectó que 7 preguntas de Derecho se habían tomado por informática (el «365»
 del RD 365/1995, la «sede electrónica»…): vuelven a su tema. Total oficiales: 660 (110 de informática).
 
+## Revisión 13 (tras los lotes 42 a 50) · 6-11-2026
+
+30 preguntas al azar (semilla 1106) de los lotes 42-49: todas correctas. Lote 50 (IV Convenio único, texto consolidado
+del BOE): se evitan los permisos del art. 75 que hoy regulan el TREBEP o el Estatuto de los Trabajadores y las cuantías
+que se actualizan cada año. Dos preguntas del lote 43 se retiraron por repetir otras del lote 10.
+
 ## Correcciones de la usuaria (desde 8-10-2026)
 
 La app tiene un botón «✏️ Editar» en cada pregunta. Las correcciones se guardan en

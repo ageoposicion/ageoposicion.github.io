@@ -48,7 +48,7 @@ Cada error descuenta 1/3.
 5. Provisión de puestos; deberes y derechos; carrera; promoción interna. → **TREBEP**
 6. Incompatibilidades; régimen disciplinario. → **TREBEP**; **LINC** (Ley 53/1984)
 7. Seguridad Social de los funcionarios; MUFACE; clases pasivas. → **MUFACE** (RDLeg 4/2000) y **LCLP** (RDLeg 670/1987)
-8. Personal laboral; IV Convenio único de la AGE.
+8. Personal laboral; IV Convenio único de la AGE. → **CONV** (BOE-A-2019-7414, texto consolidado)
 9. Seguridad Social del personal laboral; acción protectora. → **LGSS** (RDLeg 8/2015)
 
 ## V. Gestión financiera
