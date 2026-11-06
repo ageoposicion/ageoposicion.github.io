@@ -118,5 +118,9 @@
   "RDFGA": {
     "id": "BOE-A-2026-9880",
     "nombre": "RD 371/2026 (Foro de Gobierno Abierto)"
+  },
+  "CONV": {
+    "id": "BOE-A-2019-7414",
+    "nombre": "IV Convenio colectivo único para el personal laboral de la AGE"
   }
 }
