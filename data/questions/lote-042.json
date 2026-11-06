@@ -1,0 +1,194 @@
+[
+ {
+  "n": 42001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a8",
+  "pregunta": "Según el artículo 8 del TREBEP, son empleados públicos:",
+  "opciones": [
+   "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+   "Quienes prestan servicios en cualquier empresa privada concesionaria",
+   "Solo los funcionarios de carrera",
+   "Solo quienes han superado un proceso selectivo"
+  ],
+  "correcta": 0,
+  "cita": "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales."
+ },
+ {
+  "n": 42002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a8",
+  "pregunta": "Según el TREBEP, el personal laboral puede ser:",
+  "opciones": [
+   "Fijo o eventual",
+   "Fijo, por tiempo indefinido o temporal",
+   "Solo fijo",
+   "Interino o de carrera"
+  ],
+  "correcta": 1,
+  "cita": "c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal."
+ },
+ {
+  "n": 42003,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a9",
+  "pregunta": "Los funcionarios de carrera desempeñan servicios profesionales retribuidos de carácter:",
+  "opciones": [
+   "Eventual",
+   "Permanente",
+   "Temporal",
+   "De confianza"
+  ],
+  "correcta": 1,
+  "cita": "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente."
+ },
+ {
+  "n": 42004,
+  "bloque": "IV",
+  "tipo": "plazo",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Duración máxima del nombramiento de un funcionario interino en plaza vacante, cuando no sea posible su cobertura por funcionarios de carrera",
+  "opciones": [
+   "5 años",
+   "1 año",
+   "2 años",
+   "3 años"
+  ],
+  "correcta": 3,
+  "cita": "La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años, en los términos previstos en el apartado 4."
+ },
+ {
+  "n": 42005,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Según el artículo 10 del TREBEP, el nombramiento de un funcionario interino para la sustitución transitoria de los titulares durará:",
+  "opciones": [
+   "Hasta la siguiente oferta de empleo público",
+   "Un máximo de seis meses",
+   "Un máximo de un año",
+   "El tiempo estrictamente necesario"
+  ],
+  "correcta": 3,
+  "cita": "b) La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario."
+ },
+ {
+  "n": 42006,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Los programas de carácter temporal que justifican el nombramiento de interinos pueden ampliarse, además de su duración máxima, hasta:",
+  "opciones": [
+   "Dos años más, por acuerdo del Consejo de Ministros",
+   "Doce meses más, por las leyes de Función Pública que desarrollen el Estatuto",
+   "Ningún tiempo adicional",
+   "Seis meses más, por resolución del órgano convocante"
+  ],
+  "correcta": 1,
+  "cita": "c) La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto."
+ },
+ {
+  "n": 42007,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "El nombramiento derivado de los procedimientos de selección de personal funcionario interino:",
+  "opciones": [
+   "Da derecho preferente a la siguiente plaza vacante",
+   "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera",
+   "Da lugar a la condición de funcionario de carrera a los tres años",
+   "Equivale a la superación de la fase de oposición"
+  ],
+  "correcta": 1,
+  "cita": "El nombramiento derivado de estos procedimientos de selección en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera."
+ },
+ {
+  "n": 42008,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "¿Cuál de las siguientes es una causa de finalización de la relación de interinidad prevista en el artículo 10.3 del TREBEP?",
+  "opciones": [
+   "El cambio de titular del departamento ministerial",
+   "Las razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados",
+   "La falta de evaluación del desempeño",
+   "La solicitud de otro interino con más antigüedad"
+  ],
+  "correcta": 1,
+  "cita": "b) Por razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados."
+ },
+ {
+  "n": 42009,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Transcurridos tres años desde el nombramiento de un interino en plaza vacante, el interino podrá permanecer excepcionalmente en la plaza si:",
+  "opciones": [
+   "Así lo acuerda la Junta de Personal",
+   "Se ha publicado la convocatoria dentro de esos tres años, hasta la resolución de la convocatoria",
+   "Lo solicita el propio interino",
+   "Ha obtenido una evaluación del desempeño favorable"
+  ],
+  "correcta": 1,
+  "cita": "el personal funcionario interino podrá permanecer en la plaza que ocupe temporalmente, siempre que se haya publicado la correspondiente convocatoria dentro del plazo de los tres años, a contar desde la fecha del nombramiento del funcionario interino y sea resuelta conforme a los"
+ },
+ {
+  "n": 42010,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Si el proceso selectivo para cubrir la vacante ocupada por un interino durante tres años queda desierto:",
+  "opciones": [
+   "La plaza se amortiza automáticamente",
+   "La plaza pasa a ser de personal laboral",
+   "El interino adquiere la condición de funcionario de carrera",
+   "Se podrá efectuar otro nombramiento de personal funcionario interino"
+  ],
+  "correcta": 3,
+  "cita": "relación de interinidad, y la vacante solo podrá ser ocupada por personal funcionario de carrera, salvo que el correspondiente proceso selectivo quede desierto, en cuyo caso se podrá efectuar otro nombramiento de personal funcionario interino."
+ },
+ {
+  "n": 42011,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a10",
+  "pregunta": "Al personal funcionario interino le será aplicable:",
+  "opciones": [
+   "Íntegramente el régimen de los funcionarios de carrera sin excepción",
+   "El régimen del personal eventual",
+   "Exclusivamente la legislación laboral",
+   "El régimen general del personal funcionario de carrera en cuanto sea adecuado a la naturaleza de su condición temporal, salvo los derechos inherentes a la condición de funcionario de carrera"
+  ],
+  "correcta": 3,
+  "cita": "Al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera en cuanto sea adecuado a la naturaleza de su condición temporal y al carácter extraordinario y urgente de su nombramiento, salvo aquellos derechos inherentes a la condición de funcionario de carrera."
+ },
+ {
+  "n": 42012,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a11",
+  "pregunta": "Según el artículo 11 del TREBEP, los procedimientos de selección del personal laboral temporal se rigen también por el principio de:",
+  "opciones": [
+   "Celeridad",
+   "Libre designación",
+   "Antigüedad",
+   "Discrecionalidad"
+  ],
+  "correcta": 0,
+  "cita": "En el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia."
+ }
+]

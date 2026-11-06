@@ -1,0 +1,210 @@
+[
+ {
+  "n": 43001,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a26",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios de la programación presupuestaria del artículo 26 de la Ley 47/2003?",
+  "opciones": [
+   "Plurianualidad",
+   "Anualidad",
+   "Estabilidad presupuestaria",
+   "Lealtad institucional"
+  ],
+  "correcta": 1,
+  "cita": "La programación presupuestaria se regirá por los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de los recursos públicos,"
+ },
+ {
+  "n": 43002,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a26",
+  "pregunta": "Según la Ley 47/2003, cualquier actuación del sector público estatal que afecte a los gastos públicos debe:",
+  "opciones": [
+   "Financiarse siempre con deuda pública",
+   "Valorar sus repercusiones y efectos y supeditarse de forma estricta a las disponibilidades presupuestarias y a los límites de los escenarios plurianuales",
+   "Ser autorizada previamente por el Tribunal de Cuentas",
+   "Aprobarse por ley orgánica"
+  ],
+  "correcta": 1,
+  "cita": "actuación de los sujetos que componen el sector público estatal que afecte a los gastos públicos, deben valorar sus repercusiones y efectos, y supeditarse de forma estricta a las disponibilidades presupuestarias y a los límites de los escenarios presupuestarios plurianuales."
+ },
+ {
+  "n": 43004,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a27",
+  "pregunta": "Los créditos presupuestarios de la Administración General del Estado se destinarán:",
+  "opciones": [
+   "Preferentemente al pago de la deuda pública",
+   "A cualquier gasto corriente del ejercicio",
+   "A la finalidad que decida cada centro gestor",
+   "Exclusivamente a la finalidad específica para la que hayan sido autorizados"
+  ],
+  "correcta": 3,
+  "cita": "autónomos y de las entidades integrantes del sector público estatal con presupuesto limitativo se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos Generales del Estado o por las modificaciones realizadas conforme a"
+ },
+ {
+  "n": 43005,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a27",
+  "pregunta": "El carácter limitativo y vinculante de los créditos presupuestarios será el correspondiente:",
+  "opciones": [
+   "Siempre al nivel de concepto",
+   "Al nivel de especificación con que aparezcan en la Ley de Presupuestos",
+   "Al que fije cada ministerio",
+   "Siempre al nivel de capítulo"
+  ],
+  "correcta": 1,
+  "cita": "El carácter limitativo y vinculante de dichos créditos será el correspondiente al nivel de especificación con que aparezcan en aquéllos."
+ },
+ {
+  "n": 43006,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a27",
+  "pregunta": "Según la Ley 47/2003, los recursos del Estado se destinarán:",
+  "opciones": [
+   "Exclusivamente a gastos de personal",
+   "A satisfacer el conjunto de sus obligaciones, salvo que por ley se establezca su afectación a fines determinados",
+   "Cada uno a un gasto concreto determinado por el Ministro de Hacienda",
+   "Primero a inversiones y después a gastos corrientes"
+  ],
+  "correcta": 1,
+  "cita": "Los recursos del Estado, los de cada uno de sus organismos autónomos y los de las entidades integrantes del sector público estatal con presupuesto limitativo se destinarán a satisfacer el conjunto de sus respectivas obligaciones, salvo que por ley se establezca su afectación a fines determinados."
+ },
+ {
+  "n": 43007,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a27",
+  "pregunta": "Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos:",
+  "opciones": [
+   "Por su importe íntegro",
+   "Solo cuando se hayan cobrado o pagado",
+   "Por el 50 % de su importe",
+   "Por su importe neto, compensando unos con otros"
+  ],
+  "correcta": 0,
+  "cita": "Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, sin que puedan atenderse obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que la ley lo autorice de modo expreso."
+ },
+ {
+  "n": 43008,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a28",
+  "pregunta": "Los escenarios presupuestarios plurianuales determinarán los límites referidos a:",
+  "opciones": [
+   "Los cinco ejercicios siguientes",
+   "Los dos ejercicios siguientes",
+   "La legislatura en curso",
+   "Los tres ejercicios siguientes"
+  ],
+  "correcta": 3,
+  "cita": "Los escenarios presupuestarios plurianuales determinarán los límites, referidos a los tres ejercicios siguientes, que la acción de gobierno debe respetar en los casos en que sus decisiones tengan incidencia presupuestaria."
+ },
+ {
+  "n": 43009,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a28",
+  "pregunta": "¿Quién confecciona los escenarios presupuestarios plurianuales?",
+  "opciones": [
+   "El Consejo de Ministros",
+   "Cada ministerio por separado",
+   "Las Cortes Generales",
+   "El Ministerio de Hacienda, que da cuenta de ellos al Consejo de Ministros"
+  ],
+  "correcta": 3,
+  "cita": "Los escenarios presupuestarios plurianuales serán confeccionados por el Ministerio de Hacienda, que dará cuenta de los mismos al Consejo de Ministros con anterioridad a la aprobación del"
+ },
+ {
+  "n": 43011,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a29",
+  "pregunta": "Los programas plurianuales ministeriales se refieren a:",
+  "opciones": [
+   "Los diez ejercicios siguientes",
+   "Los tres ejercicios siguientes",
+   "El ejercicio siguiente",
+   "Los cuatro ejercicios siguientes"
+  ],
+  "correcta": 1,
+  "cita": "presupuestarios plurianuales contendrán la distribución orgánica de los recursos disponibles y se desarrollarán en programas plurianuales, referidos a los tres ejercicios siguientes, y ajustados a sus previsiones y límites, en los que por centros gestores se establecerán los"
+ },
+ {
+  "n": 43012,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a29",
+  "pregunta": "El programa plurianual de cada ministerio se aprobará por:",
+  "opciones": [
+   "El Consejo de Ministros",
+   "El Ministro",
+   "El Subsecretario",
+   "La Intervención General de la Administración del Estado"
+  ],
+  "correcta": 1,
+  "cita": "El programa plurianual de cada ministerio contendrá los programas de todos los centros gestores que de él dependan y se aprobará por el Ministro."
+ },
+ {
+  "n": 43013,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a29",
+  "pregunta": "El procedimiento de elaboración y la estructura de los programas plurianuales se establecerá por:",
+  "opciones": [
+   "Ley de Presupuestos Generales del Estado",
+   "Real Decreto del Consejo de Ministros",
+   "Orden del Ministro de Hacienda",
+   "Resolución del Tribunal de Cuentas"
+  ],
+  "correcta": 2,
+  "cita": "El procedimiento de elaboración y la estructura de los programas plurianuales y de actuación plurianual se establecerá por orden del Ministro de Hacienda, en la que se determinará el plazo y la forma de remisión al Ministerio de Hacienda."
+ },
+ {
+  "n": 43014,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a29",
+  "pregunta": "Los indicadores de ejecución de los programas plurianuales deben permitir medir el resultado en términos de:",
+  "opciones": [
+   "Antigüedad y jerarquía",
+   "Eficacia, eficiencia, economía y calidad",
+   "Rentabilidad y beneficio",
+   "Popularidad y repercusión mediática"
+  ],
+  "correcta": 1,
+  "cita": "e) Los indicadores de ejecución asociados a cada uno de los objetivos que permitan la medición, seguimiento y evaluación del resultado en términos de eficacia, eficiencia, economía y calidad."
+ },
+ {
+  "n": 43015,
+  "bloque": "V",
+  "tipo": "test",
+  "norma": "LGP",
+  "articulo": "a31",
+  "pregunta": "Las asignaciones presupuestarias a los centros gestores de gasto se efectuarán teniendo en cuenta, entre otras circunstancias:",
+  "opciones": [
+   "El número de funcionarios de cada centro",
+   "El gasto del ejercicio anterior incrementado en el IPC",
+   "Las peticiones de los ciudadanos",
+   "El nivel de cumplimiento de los objetivos en ejercicios anteriores"
+  ],
+  "correcta": 3,
+  "cita": "Las asignaciones presupuestarias a los centros gestores de gasto se efectuarán tomando en cuenta, entre otras circunstancias, el nivel de cumplimiento de los objetivos en ejercicios anteriores."
+ }
+]

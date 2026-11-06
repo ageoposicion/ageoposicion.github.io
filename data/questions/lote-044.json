@@ -1,0 +1,258 @@
+[
+ {
+  "n": 44001,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a56",
+  "pregunta": "Según el artículo 56 de la Constitución, el Rey es símbolo de:",
+  "opciones": [
+   "La independencia judicial",
+   "La soberanía nacional",
+   "La unidad y permanencia del Estado",
+   "El poder ejecutivo"
+  ],
+  "correcta": 2,
+  "cita": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación"
+ },
+ {
+  "n": 44002,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a56",
+  "pregunta": "Según el artículo 56 de la Constitución, el Rey asume la más alta representación del Estado en las relaciones internacionales, especialmente con:",
+  "opciones": [
+   "Los Estados miembros de la Unión Europea",
+   "Los países de la OTAN",
+   "Los Estados fronterizos",
+   "Las naciones de su comunidad histórica"
+  ],
+  "correcta": 3,
+  "cita": "asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes."
+ },
+ {
+  "n": 44003,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a56",
+  "pregunta": "El título del Rey, según la Constitución, es:",
+  "opciones": [
+   "Jefe del Estado español",
+   "Rey de España, y podrá utilizar los demás que correspondan a la Corona",
+   "Rey de España exclusivamente, sin otros títulos",
+   "Rey de los españoles"
+  ],
+  "correcta": 1,
+  "cita": "Su título es el de Rey de España y podrá utilizar los demás que correspondan a la Corona."
+ },
+ {
+  "n": 44004,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a57",
+  "pregunta": "La Corona de España es hereditaria en los sucesores de:",
+  "opciones": [
+   "S. M. Don Juan Carlos I de Borbón",
+   "S. M. Don Alfonso XIII",
+   "La dinastía de los Austrias",
+   "S. M. Don Felipe VI de Borbón"
+  ],
+  "correcta": 0,
+  "cita": "La Corona de España es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica."
+ },
+ {
+  "n": 44005,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a57",
+  "pregunta": "En la sucesión en el trono, dentro de la misma línea se prefiere:",
+  "opciones": [
+   "La persona de menos edad",
+   "El grado más remoto al más próximo",
+   "El grado más próximo al más remoto",
+   "La mujer al varón"
+  ],
+  "correcta": 2,
+  "cita": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos."
+ },
+ {
+  "n": 44006,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a57",
+  "pregunta": "El Príncipe heredero tiene la dignidad de Príncipe de Asturias:",
+  "opciones": [
+   "Desde que lo nombra el Rey por real decreto",
+   "Desde su nacimiento o desde que se produzca el hecho que origine el llamamiento",
+   "Desde que cumple dieciocho años",
+   "Desde que presta juramento ante las Cortes Generales"
+  ],
+  "correcta": 1,
+  "cita": "El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España."
+ },
+ {
+  "n": 44007,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a59",
+  "pregunta": "Cuando el Rey fuere menor de edad, ejerce la Regencia en primer lugar:",
+  "opciones": [
+   "El Presidente del Gobierno",
+   "El Presidente del Congreso",
+   "Una Regencia de tres personas nombrada por las Cortes",
+   "El padre o la madre del Rey"
+  ],
+  "correcta": 3,
+  "cita": "Cuando el Rey fuere menor de edad, el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, según el orden establecido en la Constitución, entrará a ejercer inmediatamente la Regencia y la ejercerá durante el tiempo de la minoría de edad del Rey."
+ },
+ {
+  "n": 44008,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a59",
+  "pregunta": "Si el Rey se inhabilitare para el ejercicio de su autoridad, la imposibilidad debe ser reconocida por:",
+  "opciones": [
+   "El Gobierno",
+   "El Tribunal Constitucional",
+   "Las Cortes Generales",
+   "El Consejo de Estado"
+  ],
+  "correcta": 2,
+  "cita": "Si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia el Príncipe heredero de la Corona, si fuere mayor de edad."
+ },
+ {
+  "n": 44009,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a59",
+  "pregunta": "La Regencia se ejercerá:",
+  "opciones": [
+   "En nombre de las Cortes Generales",
+   "Por delegación del Gobierno",
+   "Por mandato constitucional y siempre en nombre del Rey",
+   "En nombre propio del Regente"
+  ],
+  "correcta": 2,
+  "cita": "La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey."
+ },
+ {
+  "n": 44010,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a60",
+  "pregunta": "El ejercicio de la tutela del Rey menor es incompatible con:",
+  "opciones": [
+   "La condición de familiar del Rey",
+   "El ejercicio de la Regencia en todo caso",
+   "Todo cargo o representación política",
+   "La condición de militar"
+  ],
+  "correcta": 2,
+  "cita": "El ejercicio de la tutela es también incompatible con el de todo cargo o representación política."
+ },
+ {
+  "n": 44011,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a61",
+  "pregunta": "El Príncipe heredero presta juramento de desempeñar fielmente sus funciones y de fidelidad al Rey:",
+  "opciones": [
+   "Al ser nombrado Regente",
+   "Al contraer matrimonio",
+   "Al alcanzar la mayoría de edad",
+   "Al nacer"
+  ],
+  "correcta": 2,
+  "cita": "El Príncipe heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones, prestarán el mismo juramento, así como el de fidelidad al Rey."
+ },
+ {
+  "n": 44012,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a62",
+  "pregunta": "¿Cuál de las siguientes funciones corresponde al Rey según el artículo 62 de la Constitución?",
+  "opciones": [
+   "Nombrar a los magistrados del Tribunal Supremo sin propuesta",
+   "Dirigir la política interior y exterior",
+   "El Alto Patronazgo de las Reales Academias",
+   "Aprobar los Presupuestos Generales del Estado"
+  ],
+  "correcta": 2,
+  "cita": "j) El Alto Patronazgo de las Reales Academias."
+ },
+ {
+  "n": 44013,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a63",
+  "pregunta": "Según el artículo 63 de la Constitución, manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados corresponde:",
+  "opciones": [
+   "Al Presidente del Gobierno",
+   "Al Rey",
+   "Al Ministro de Asuntos Exteriores",
+   "A las Cortes Generales"
+  ],
+  "correcta": 1,
+  "cita": "Al Rey corresponde manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados, de conformidad con la Constitución y las leyes."
+ },
+ {
+  "n": 44014,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a63",
+  "pregunta": "Los representantes diplomáticos extranjeros en España están acreditados ante:",
+  "opciones": [
+   "El Presidente del Gobierno",
+   "El Rey",
+   "Las Cortes Generales",
+   "El Ministro de Asuntos Exteriores"
+  ],
+  "correcta": 1,
+  "cita": "Los representantes extranjeros en España están acreditados ante él."
+ },
+ {
+  "n": 44015,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a64",
+  "pregunta": "La disolución de las Cortes prevista en el artículo 99 de la Constitución será refrendada por:",
+  "opciones": [
+   "El Presidente del Gobierno",
+   "El Presidente del Senado",
+   "El Presidente del Congreso",
+   "El Ministro de Justicia"
+  ],
+  "correcta": 2,
+  "cita": "La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso."
+ },
+ {
+  "n": 44016,
+  "bloque": "I",
+  "tipo": "test",
+  "norma": "CE",
+  "articulo": "a65",
+  "pregunta": "El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, que:",
+  "opciones": [
+   "Distribuye el Gobierno",
+   "Distribuye libremente",
+   "Fiscaliza previamente el Ministerio de Hacienda",
+   "Se reparte por partes iguales entre los miembros de la Familia Real"
+  ],
+  "correcta": 1,
+  "cita": "El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y distribuye libremente la misma."
+ }
+]
