@@ -1,0 +1,34 @@
+[
+ {
+  "n": 47001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a35",
+  "pregunta": "Cuando las Administraciones Públicas actúen en relaciones de Derecho privado, su responsabilidad se exigirá:",
+  "opciones": [
+   "Ante la jurisdicción civil conforme al Código Civil",
+   "Ante el Tribunal de Cuentas",
+   "Solo si hay culpa grave del funcionario",
+   "Conforme a lo previsto en los artículos 32 y siguientes de la Ley 40/2015"
+  ],
+  "correcta": 3,
+  "cita": "directamente o a través de una entidad de derecho privado, en relaciones de esta naturaleza, su responsabilidad se exigirá de conformidad con lo previsto en los artículos 32 y siguientes, incluso cuando concurra con sujetos de derecho privado o la responsabilidad se exija directamente"
+ },
+ {
+  "n": 47002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L40",
+  "articulo": "a35",
+  "pregunta": "El régimen de responsabilidad de los artículos 32 y siguientes de la Ley 40/2015 se aplica cuando la Administración actúa en relaciones de Derecho privado:",
+  "opciones": [
+   "Incluso cuando concurra con sujetos de derecho privado o la responsabilidad se exija directamente a la entidad de derecho privado a través de la cual actúe",
+   "Solo si no concurren sujetos privados",
+   "Nunca: se aplica el Derecho privado",
+   "Solo si actúa directamente, nunca a través de entidades de derecho privado"
+  ],
+  "correcta": 0,
+  "cita": "su responsabilidad se exigirá de conformidad con lo previsto en los artículos 32 y siguientes, incluso cuando concurra con sujetos de derecho privado o la responsabilidad se exija directamente a la entidad de derecho privado a través de la cual"
+ }
+]

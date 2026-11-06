@@ -1,0 +1,66 @@
+[
+ {
+  "n": 46001,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a34",
+  "pregunta": "Según el artículo 34 de la Ley 39/2015, los actos administrativos se producirán:",
+  "opciones": [
+   "Solo a instancia del interesado",
+   "Por el órgano superior jerárquico en todo caso",
+   "Por cualquier órgano de la misma Administración",
+   "Por el órgano competente ajustándose a los requisitos y al procedimiento establecido"
+  ],
+  "correcta": 3,
+  "cita": "Los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido."
+ },
+ {
+  "n": 46002,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a34",
+  "pregunta": "Según la Ley 39/2015, el contenido de los actos administrativos será:",
+  "opciones": [
+   "Libre, a criterio del órgano",
+   "Determinado y adecuado a los fines de aquellos",
+   "Idéntico al de la solicitud",
+   "Siempre favorable al interesado"
+  ],
+  "correcta": 1,
+  "cita": "El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos."
+ },
+ {
+  "n": 46003,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a46",
+  "pregunta": "Si la notificación por anuncios o la publicación de un acto lesiona derechos o intereses legítimos, el órgano competente:",
+  "opciones": [
+   "Publicará el acto íntegro con los datos anonimizados",
+   "Notificará el acto solo por teléfono",
+   "Publicará en el Diario oficial una somera indicación del contenido del acto y del lugar donde los interesados pueden comparecer",
+   "No publicará el acto en ningún caso"
+  ],
+  "correcta": 2,
+  "cita": "por medio de anuncios o la publicación de un acto lesiona derechos o intereses legítimos, se limitará a publicar en el Diario oficial que corresponda una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer, en el plazo que se establezca, para"
+ },
+ {
+  "n": 46004,
+  "bloque": "III",
+  "tipo": "test",
+  "norma": "L39",
+  "articulo": "a46",
+  "pregunta": "Las formas de notificación complementarias que las Administraciones establezcan de manera facultativa:",
+  "opciones": [
+   "Sustituyen a la publicación en el Diario oficial",
+   "No excluyen la obligación de publicar en el correspondiente Diario oficial",
+   "Solo son válidas si las acepta el interesado",
+   "Están prohibidas por la Ley 39/2015"
+  ],
+  "correcta": 1,
+  "cita": "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial."
+ }
+]

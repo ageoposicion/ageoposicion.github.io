@@ -1,0 +1,34 @@
+[
+ {
+  "n": 48001,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a58",
+  "pregunta": "Según el artículo 58 del TREBEP, los funcionarios de nacionalidad española de Organismos Internacionales pueden acceder a las Administraciones Públicas:",
+  "opciones": [
+   "Solo mediante concurso de méritos sin titulación",
+   "Siempre que posean la titulación requerida y superen los correspondientes procesos selectivos",
+   "Directamente, sin proceso selectivo",
+   "Solo como personal eventual"
+  ],
+  "correcta": 1,
+  "cita": "Las Administraciones Públicas establecerán los requisitos y condiciones para el acceso a las mismas de funcionarios de nacionalidad española de Organismos Internacionales, siempre que posean la titulación requerida y superen los correspondientes procesos selectivos."
+ },
+ {
+  "n": 48002,
+  "bloque": "IV",
+  "tipo": "test",
+  "norma": "TREBEP",
+  "articulo": "a58",
+  "pregunta": "Los funcionarios españoles de Organismos Internacionales que accedan a las Administraciones Públicas podrán quedar exentos de:",
+  "opciones": [
+   "Las pruebas que acrediten conocimientos ya exigidos para su puesto en el organismo internacional",
+   "El requisito de titulación",
+   "El periodo de prácticas en todo caso",
+   "Todo el proceso selectivo"
+  ],
+  "correcta": 0,
+  "cita": "Podrán quedar exentos de la realización de aquellas pruebas que tengan por objeto acreditar conocimientos ya exigidos para el desempeño de su puesto en el organismo internacional correspondiente."
+ }
+]
