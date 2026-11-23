@@ -1,3 +1,5 @@
-Preguntas verificadas: 2298
-Por bloque: {'III': 909, 'I': 676, 'V': 204, 'IV': 308, 'II': 201}
-Rechazadas: 0
+Preguntas verificadas: 2296
+Por bloque: {'III': 909, 'I': 676, 'V': 204, 'IV': 306, 'II': 201}
+Rechazadas: 2
+  lote-023.json #23010: la cita NO aparece literalmente en el artículo vigente
+  lote-031.json #31007: la cita NO aparece literalmente en el artículo vigente
